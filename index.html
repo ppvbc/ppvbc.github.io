@@ -14,7 +14,7 @@
     </style>
     <script>
 const map = new OpenLayers.Map("mapdiv")
-map.addLayer(new OpenLayers.Layer.OSM())
+map.addLayer(new OpenLayers.Layer.OSM('ppvbc', null, { tileOptions: { crossOriginKeyword: null } }))
 var zoom=14
 var markers = new OpenLayers.Layer.Markers( "Markers" )
 map.addLayer(markers);
@@ -41,7 +41,7 @@ $.getJSON('data.json', (places) => {
         );
         const marker = new OpenLayers.Marker(lonLat);
         markers.addMarker(marker)
-        const name = (place.name || e.tags && e.tags.name) 
+        const name = (place.name || e.tags && e.tags.name)
         marker.events.register("click", marker, function() {
           const popup = new OpenLayers.Popup.FramedCloud(name,
                                                          lonLat,
