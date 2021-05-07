@@ -1,5 +1,8 @@
 <html>
   <body>
+    <div id="title">
+      <h1>Places visited by cases in the community</h1>
+    </div>
     <div id="mapdiv"></div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://openlayers.org/api/OpenLayers.js"></script>
@@ -7,6 +10,12 @@
 body {
   font-family: monospace !important;
   margin: 0
+}
+#title {
+  text-align: center;
+  position: absolute;
+  z-index: 1000;
+  width: 100%;
 }
 .olFramedCloudPopupContent {
   font-size: 32px
