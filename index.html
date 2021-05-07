@@ -52,7 +52,10 @@ $.getJSON('data.json', (places) => {
             new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
             map.getProjectionObject() // to Spherical Mercator Projection
           )
-        const marker = new OpenLayers.Marker(lonLat);
+        const size = new OpenLayers.Size(50, 50)
+        const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
+        const icon = new OpenLayers.Icon('img/icon.png', size, offset)
+        const marker = new OpenLayers.Marker(lonLat, icon);
         markers.addMarker(marker)
         const name = (place.name || e.tags && e.tags.name)
         const showPopup = () => {
@@ -62,7 +65,7 @@ $.getJSON('data.json', (places) => {
                                                          name.replace(/\)/, '<br/>').replace(/\(/, '<br/>').replace(/•/g, '<br/>•') + '<br/>' + place.date + '<br/>' + place.duration,
                                                          null,
                                                          false)
-          $(popup.groupDiv).click(() => popup.destroy())
+          $(popup.contentDiv).click(() => popup.destroy())
           map.addPopup(popup)
         }
         marker.events.register('click', marker, showPopup)
