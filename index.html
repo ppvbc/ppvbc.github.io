@@ -4,18 +4,22 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://openlayers.org/api/OpenLayers.js"></script>
     <style>
-      body {
-        font-family: Arial !important;
-        margin: 0
-      }
+body {
+  font-family: Arial !important;
+  margin: 0;
+}
       .olFramedCloudPopupContent {
-        font-size: 32px
+        font-size: 32px;
+      }
+      .olPopupCloseBox {
+        width: 20px;
+        height: 20px;
       }
     </style>
     <script>
 const map = new OpenLayers.Map("mapdiv")
 map.addLayer(new OpenLayers.Layer.OSM('ppvbc', null, { tileOptions: { crossOriginKeyword: null } }))
-var zoom=14
+var zoom = 12
 var markers = new OpenLayers.Layer.Markers( "Markers" )
 map.addLayer(markers);
 map.zoomToExtent()
@@ -35,10 +39,10 @@ $.getJSON('data.json', (places) => {
         ? data.elements[data.elements.length - 1]
         : data.elements[0]
         const lonLat = new OpenLayers.LonLat(node.lon, node.lat)
-        .transform(
-          new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
-          map.getProjectionObject() // to Spherical Mercator Projection
-        );
+          .transform(
+            new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            map.getProjectionObject() // to Spherical Mercator Projection
+          )
         const marker = new OpenLayers.Marker(lonLat);
         markers.addMarker(marker)
         const name = (place.name || e.tags && e.tags.name)
@@ -53,11 +57,15 @@ $.getJSON('data.json', (places) => {
         }
         marker.events.register('click', marker, showPopup)
         marker.events.register('touchstart', marker, showPopup)
-        map.setCenter (lonLat, zoom);
-
     })
   })
 })
+const centerLonLat = new OpenLayers.LonLat(103.8198, 1.3521)
+  .transform(
+    new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+    map.getProjectionObject() // to Spherical Mercator Projection
+  )
+map.setCenter(centerLonLat, zoom)
 
     </script>
   </body>
