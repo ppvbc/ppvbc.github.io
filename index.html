@@ -5,16 +5,12 @@
     <script src="https://openlayers.org/api/OpenLayers.js"></script>
     <style>
 body {
-  font-family: Arial !important;
-  margin: 0;
+  font-family: monospace !important;
+  margin: 0
 }
-      .olFramedCloudPopupContent {
-        font-size: 32px;
-      }
-      .olPopupCloseBox {
-        width: 20px;
-        height: 20px;
-      }
+.olFramedCloudPopupContent {
+  font-size: 32px
+}
     </style>
     <script>
 const map = new OpenLayers.Map("mapdiv")
@@ -47,12 +43,13 @@ $.getJSON('data.json', (places) => {
         markers.addMarker(marker)
         const name = (place.name || e.tags && e.tags.name)
         const showPopup = () => {
-          const popup = new OpenLayers.Popup.FramedCloud(name,
+          const popup = new OpenLayers.Popup.FramedCloud('place_' + idx,
                                                          lonLat,
                                                          new OpenLayers.Size(600, 600),
                                                          name.replace(/\)/, '<br/>').replace(/\(/, '<br/>').replace(/•/g, '<br/>•') + '<br/>' + place.date + '<br/>' + place.duration,
                                                          null,
-                                                         true)
+                                                         false)
+          $(popup.groupDiv).click(() => popup.destroy())
           map.addPopup(popup)
         }
         marker.events.register('click', marker, showPopup)
