@@ -1,0 +1,62 @@
+<html><body>
+  <div id="mapdiv"></div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E=" crossorigin="anonymous"></script>
+  <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+  <style>
+	body {
+	   font-family: Arial !important;
+           margin: 0
+	}	
+	.olFramedCloudPopupContent {
+ 		font-size: 10px
+	}
+  </style>
+  <script>
+    const map = new OpenLayers.Map("mapdiv")
+    map.addLayer(new OpenLayers.Layer.OSM())
+    var zoom=14
+    var markers = new OpenLayers.Layer.Markers( "Markers" )
+    map.addLayer(markers);
+    map.zoomToExtent()
+    $.getJSON('data.json', (places) => {
+	    $(places).each((idx, place) => {
+		var url
+		if (place.wayId) {
+		  url = 'https://api.openstreetmap.org/api/0.6/way/' + place.wayId + '/full.json'
+		} else if (place.relationId) {
+		  url = 'https://api.openstreetmap.org/api/0.6/relation/' + place.relationId + '/full.json'
+		} else if (place.nodeId) {
+	          url = 'https://api.openstreetmap.org/api/0.6/node/' + place.nodeId + '.json'
+		}
+	 	if (!url) return 
+		$.get(url, (data) => {
+			const node = data.elements[0]
+			const e = place.wayId || place.relationId
+				? data.elements[data.elements.length - 1]
+				: data.elements[0]
+			const lonLat = new OpenLayers.LonLat(node.lon, node.lat)
+				  .transform(
+				    new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+				    map.getProjectionObject() // to Spherical Mercator Projection
+				  );
+			const marker = new OpenLayers.Marker(lonLat);
+			markers.addMarker(marker)
+			const name = (place.name || e.tags && e.tags.name) 
+			marker.events.register("click", marker, function() {
+				const popup = new OpenLayers.Popup.FramedCloud(name,
+				   lonLat,
+				   new OpenLayers.Size(10,10),
+				   name.replace(/\)/, '<br/>').replace(/\(/, '<br/>').replace(/•/g, '<br/>•') + '<br/>' + place.date + '<br/>' + place.duration,
+				   null,
+				   true)
+				map.addPopup(popup)
+			})
+			map.setCenter (lonLat, zoom);
+
+		})
+	    })
+    })
+
+  </script>
+</body></html>
