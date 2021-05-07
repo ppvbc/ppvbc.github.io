@@ -9,7 +9,7 @@
         margin: 0
       }
       .olFramedCloudPopupContent {
-        font-size: 12px
+        font-size: 32px
       }
     </style>
     <script>
@@ -45,7 +45,7 @@ $.getJSON('data.json', (places) => {
         const showPopup = () => {
           const popup = new OpenLayers.Popup.FramedCloud(name,
                                                          lonLat,
-                                                         new OpenLayers.Size(10,10),
+                                                         new OpenLayers.Size(600, 600),
                                                          name.replace(/\)/, '<br/>').replace(/\(/, '<br/>').replace(/•/g, '<br/>•') + '<br/>' + place.date + '<br/>' + place.duration,
                                                          null,
                                                          true)
