@@ -9,7 +9,7 @@
         margin: 0
       }
       .olFramedCloudPopupContent {
-        font-size: 10px
+        font-size: 12px
       }
     </style>
     <script>
@@ -42,7 +42,7 @@ $.getJSON('data.json', (places) => {
         const marker = new OpenLayers.Marker(lonLat);
         markers.addMarker(marker)
         const name = (place.name || e.tags && e.tags.name)
-        marker.events.register("click", marker, function() {
+        const showPopup = () => {
           const popup = new OpenLayers.Popup.FramedCloud(name,
                                                          lonLat,
                                                          new OpenLayers.Size(10,10),
@@ -50,7 +50,9 @@ $.getJSON('data.json', (places) => {
                                                          null,
                                                          true)
           map.addPopup(popup)
-        })
+        }
+        marker.events.register('click', marker, showPopup)
+        marker.events.register('touchstart', marker, showPopup)
         map.setCenter (lonLat, zoom);
 
     })
