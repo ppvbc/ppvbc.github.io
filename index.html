@@ -8,6 +8,7 @@
       <h2>Public places visited by cases in the community</h2>
     </div>
     <div id="mapdiv"></div>
+    <a id="share" href="https://api.whatsapp.com/send?text=https://ppvbc.github.io" target="_blank"><img id="whatsapp" src="img/whatsapp-button.png"/></a>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://openlayers.org/api/OpenLayers.js"></script>
     <style>
@@ -23,6 +24,13 @@ body {
 }
 .olFramedCloudPopupContent {
   font-size: 32px
+}
+#share {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  z-index: 1000;
+  padding: 20px;
 }
     </style>
     <script>
