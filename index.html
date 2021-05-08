@@ -13,6 +13,7 @@
       <a href="https://t.me/share/url?url=https://ppvbc.github.io&text=COVID-19: Public places visited by cases in the community" target="_blank"><img id="whatsapp" src="img/telegram-button.png"/></a>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/ramda@0.25.0/dist/ramda.min.js"></script>
     <script src="https://openlayers.org/api/OpenLayers.js"></script>
     <style>
 body {
@@ -43,8 +44,49 @@ var zoom = 12
 var markers = new OpenLayers.Layer.Markers( "Markers" )
 map.addLayer(markers);
 map.zoomToExtent()
+const formatVenues = R.compose(
+  R.map(R.compose(
+    R.join('&nbsp;'),
+    R.values,
+    R.pick(['date', 'duration', 'venues'])
+  )),
+  R.prop('places')
+)
+const formatPlace = R.converge(
+  R.concat,
+  [ R.compose(R.values, R.pick(['name', 'address'])), formatVenues ]
+)
+
 $.getJSON('data.json', (places) => {
-  $(places).each((idx, place) => {
+
+  const combinePlaces = R.compose(
+    R.values,
+    R.map((data) => {
+      return {
+        nodeId: data[0].nodeId,
+        relationId: data[0].relationId,
+        wayId: data[0].wayId,
+        places: data,
+        name: data[0].name,
+        address: data[0].address
+      }
+    }),
+    R.groupBy((place) => {
+      if (place.wayId) return "way" + place.wayId
+      if (place.relationId) return "relation" + place.relationId
+      if (place.nodeId) return "node" + place.nodeId
+    }),
+    R.map((data) => {
+      const regex = /^(.*?) \((.*?)\)(.*)/
+      const match = regex.exec(data.name)
+      data.name = match[1]
+      data.address = match[2]
+      data.venues = match[3]
+      return data
+    })
+  )
+  const combinedPlaces = combinePlaces(places)
+  $(combinedPlaces).each((idx, place) => {
     var url
     if (place.wayId) {
       url = 'https://api.openstreetmap.org/api/0.6/way/' + place.wayId + '/full.json'
@@ -68,12 +110,11 @@ $.getJSON('data.json', (places) => {
         const icon = new OpenLayers.Icon('img/icon.png', size, offset)
         const marker = new OpenLayers.Marker(lonLat, icon);
         markers.addMarker(marker)
-        const name = (place.name || e.tags && e.tags.name)
         const showPopup = () => {
           const popup = new OpenLayers.Popup.FramedCloud('place_' + idx,
                                                          lonLat,
                                                          new OpenLayers.Size(600, 600),
-                                                         name.replace(/\)/, '<br/>').replace(/\(/, '<br/>').replace(/•/g, '<br/>•') + '<br/>' + place.date + '<br/>' + place.duration,
+                                                         formatPlace(place).join('<br/>'),
                                                          null,
                                                          false)
           $(popup.contentDiv).click(() => popup.destroy())
