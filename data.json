@@ -1,8 +1,6 @@
 [
-{ "nodeId": "5744038799", "date": "22 Apr", "duration": "0730h to 1540h", "name": "National University of Singapore Bukit Timah Campus (469 Bukit Timah Road) • The Summit "},
-{ "relationId": "2303411", "date": "22 Apr", "duration": "1800h to 1845h", "name": "Tan Tock Seng Hospital (11 Jalan Tan Tock Seng) • umisushi* "},
-{ "wayId": "194260727", "date": "22 Apr", "duration": "1900h to 1930h", "name": "Yummy Food Link (111 Woodlands Street 13)"},
 { "wayId": "301736937", "date": "23 Apr", "duration": "1030h to 2030h", "name": "Waterway Point (83 Punggol Central) • innisfree* "},
+{ "wayId": "46529046", "date": "23 Apr", "duration": "1135h to 1205h", "name": "Fortune Centre (190 Middle Road) • Bodhi Deli "},
 { "wayId": "233521920", "date": "23 Apr", "duration": "1355h to 1425h", "name": "Petempatan Melayu Sembawang (27B Jalan Mempurong) "},
 { "wayId": "46919229", "date": "23 Apr", "duration": "1600h to 1735h", "name": "Tanjong Katong Complex (845 Geylang Road) • The Istana Ballroom "},
 { "wayId": "427563005", "date": "23 Apr", "duration": "1630h to 1730h", "name": "Wisma Geylang Serai (1 Engku Aman Turn) "},
@@ -18,6 +16,7 @@
 { "wayId": "48031573", "date": "24 Apr", "duration": "1450h to 1600h", "name": "Bugis+ (201 Victoria Street) • Paco FunWorld* "},
 { "wayId": "43755568", "date": "24 Apr", "duration": "1835h to 2000h", "name": "100 AM (100 Tras Street) • YAYOI* "},
 { "relationId": "9382787", "date": "24 Apr", "duration": "1835h to 2030h", "name": "Bedok Mall (311 New Upper Changi Road) • Seoul Garden "},
+{ "relationId": "6730885", "date": "24 Apr", "duration": "1845h to 1930h", "name": "Zi Zai Vegetarian (150 Bishan Street 11) "},
 { "wayId": "194260727", "date": "24 Apr", "duration": "1900h to 1930h", "name": "Yummy Food Link (111 Woodlands Street 13)" },
 { "nodeId": "6239976385", "date": "24 Apr", "duration": "2000h to 2040h", "name": "100 AM (100 Tras Street) • DON DON DONKI*  "},
 { "nodeId": "6817855770", "date": "25 Apr", "duration": "0910h to 0940h", "name": "Sheng Siong Supermarket (233 Ang Mo Kio Avenue 3)* "},
@@ -40,6 +39,7 @@
 { "nodeId": "2421003726", "date": "26 Apr", "duration": "1130h to 1200h", "name": "Prime Supermarket (768 Woodlands Avenue 6) "},
 { "wayId": "43755568", "date": "26 Apr", "duration": "1215h to 1310h", "name": "100 AM (100 Tras Street) • Friends Bak Kut Teh "},
 { "relationId": "2303411", "date": "26 Apr", "duration": "1230h to 1300h", "name": "Tan Tock Seng Hospital (11 Jalan Tan Tock Seng) • Healthy Kopitiam* "},
+{ "wayId": "153136696", "date": "26 Apr", "duration": "1235h to 1305h", "name": "AMK Hub (53 Ang Mo Kio Avenue 3) • FairPrice Xtra"},
 { "relationId": "2353588", "date": "26 Apr", "duration": "1700h to 2145h", "name": "VivoCity (1 HarbourFront Walk) • Toys“R”Us • Kopitiam • NTUC FairPrice Xtra "},
 { "nodeId": "2421003726", "date": "26 Apr", "duration": "1725h to 1800h", "name": "Prime Supermarket (768 Woodlands Avenue 6) "},
 { "wayId": "71074841", "date": "26 Apr", "duration": "1735h to 2000h", "name": "Causeway Point (1 Woodlands Square) "},
@@ -59,6 +59,7 @@
 { "wayId": "153136696", "date": "27 Apr", "duration": "1730h to 1830h", "name": "AMK Hub (53 Ang Mo Kio Avenue 3) • Malaysia Boleh!* "},
 { "wayId": "46529040", "date": "27 Apr", "duration": "1930h to 2030h", "name": "Sunshine Plaza (91 Bencoolen Street) • The Big Cheese "},
 { "wayId": "93861052", "date": "27 Apr", "duration": "1940h to 2215h", "name": "City Harvest Church (1 Jurong West Street 91)* "},
+{ "nodeId": "4418432011", "date": "28 Apr", "duration": "1020h to 1050h", "name": "Al-Bismi Restaurant (41 Dickson Road)"},
 { "nodeId": "4484650794", "date": "28 Apr", "duration": "1125h to 1200h", "name": "Sheng Siong Supermarket (301 Geylang Road)* "},
 { "wayId": "878815622", "date": "28 Apr", "duration": "1815h to 2015h", "name": "DLLM Lok Lok (171 MacPherson Road)* "},
 { "nodeId": "6757903401", "date": "28 Apr", "duration": "1845h to 1915h", "name": "Newton Food Centre (500 Clemenceau Avenue North)* "},
@@ -68,6 +69,7 @@
 { "wayId": "32774374", "date": "29 Apr", "duration": "1145h to 1340h", "name": "Rivervale Mall (11 Rivervale Crescent) • NTUC FairPrice "},
 { "nodeId": "4419690490", "date": "29 Apr", "duration": "1335h to 1500h", "name": "Mustafa Centre (145 Syed Alwi Road) "},
 { "wayId": "37357018", "date": "29 Apr", "duration": "1925h to 2015h", "name": "Jubilee Square (61 Ang Mo Kio Avenue 8) • COLLIN’S* "},
+{ "wayId": "153136696", "date": "30 Apr", "duration": "1100h to 1130h", "name": "AMK Hub (53 Ang Mo Kio Avenue 3) • FairPrice Xtra"},
 { "wayId": "176326729", "date": "30 Apr", "duration": "1720h to 1815h", "name": "Haniffa Pte Ltd (118 Dunlop Street) "},
 { "wayId": "194260727", "date": "30 Apr", "duration": "1900h to 1930h", "name": "Yummy Food Link (111 Woodlands Street 13)"},
 { "wayId": "47298646", "date": "30 Apr", "duration": "2000h to 2045h", "name": "Chinatown Complex Food Centre (335 Smith Street) "},
@@ -78,7 +80,7 @@
 { "wayId": "213638918", "date": "2 May", "duration": "1020h to 1105h", "name": "Pasir Ris Market Produce Shop (441 Pasir Ris Drive 6)"},
 { "nodeId": "1932291025", "date": "2 May", "duration": "1605h to 1645h", "name": "White Sands (1 Pasir Ris Central Street 3) • NTUC FairPrice"},
 { "wayId": "194260727", "date": "2 May", "duration": "1900h to 1930h", "name": "Yummy Food Link (111 Woodlands Street 13)"},
+{ "wayId": "194260727", "date": "3 May", "duration": "0900h to 0930h", "name": "Yummy Food Link (111 Woodlands Street 13)"},
 { "wayId": "502013652", "date": "3 May", "duration": "1410h to 1450h", "name": "Marsiling Mall (4 Woodlands Street 12) • kcuts"},
 { "wayId": "194260727", "date": "3 May", "duration": "1900h to 1930h", "name": "Yummy Food Link (111 Woodlands Street 13)"},
-{ "wayId": "173010413", "date": "4 May", "duration": "1520h to 1620h", "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam"}
-]
+{ "wayId": "173010413", "date": "4 May", "duration": "1520h to 1620h", "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam"} ]

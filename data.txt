@@ -1,7 +1,5 @@
-22 Apr 0730h to 1540h National University of Singapore Bukit Timah Campus (469 Bukit Timah Road) • The Summit
-22 Apr 1800h to 1845h Tan Tock Seng Hospital (11 Jalan Tan Tock Seng) • umisushi*
-22 Apr 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
 23 Apr 1030h to 2030h Waterway Point (83 Punggol Central) • innisfree*
+23 Apr 1135h to 1205h Fortune Centre (190 Middle Road) • Bodhi Deli
 23 Apr 1355h to 1425h Petempatan Melayu Sembawang (27B Jalan Mempurong)
 23 Apr 1600h to 1735h Tanjong Katong Complex (845 Geylang Road) • The Istana Ballroom
 23 Apr 1630h to 1730h Wisma Geylang Serai (1 Engku Aman Turn)
@@ -17,6 +15,7 @@
 24 Apr 1450h to 1600h Bugis+ (201 Victoria Street) • Paco FunWorld*
 24 Apr 1835h to 2000h 100 AM (100 Tras Street) • YAYOI*
 24 Apr 1835h to 2030h Bedok Mall (311 New Upper Changi Road) • Seoul Garden
+24 Apr 1845h to 1930h Zi Zai Vegetarian (150 Bishan Street 11)
 24 Apr 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
 24 Apr 2000h to 2040h 100 AM (100 Tras Street) • DON DON DONKI*
 25 Apr 0910h to 0940h Sheng Siong Supermarket (233 Ang Mo Kio Avenue 3)*
@@ -39,6 +38,7 @@
 26 Apr 1130h to 1200h Prime Supermarket (768 Woodlands Avenue 6)
 26 Apr 1215h to 1310h 100 AM (100 Tras Street) • Friends Bak Kut Teh
 26 Apr 1230h to 1300h Tan Tock Seng Hospital (11 Jalan Tan Tock Seng) • Healthy Kopitiam*
+26 Apr 1235h to 1305h AMK Hub (53 Ang Mo Kio Avenue 3) • FairPrice Xtra
 26 Apr 1700h to 2145h VivoCity (1 HarbourFront Walk) • Toys“R”Us • Kopitiam • NTUC FairPrice Xtra
 26 Apr 1725h to 1800h Prime Supermarket (768 Woodlands Avenue 6)
 26 Apr 1735h to 2000h Causeway Point (1 Woodlands Square)
@@ -58,6 +58,7 @@
 27 Apr 1730h to 1830h AMK Hub (53 Ang Mo Kio Avenue 3) • Malaysia Boleh!*
 27 Apr 1930h to 2030h Sunshine Plaza (91 Bencoolen Street) • The Big Cheese
 27 Apr 1940h to 2215h City Harvest Church (1 Jurong West Street 91)*
+28 Apr 1020h to 1050h Al-Bismi Restaurant (41 Dickson Road)
 28 Apr 1125h to 1200h Sheng Siong Supermarket (301 Geylang Road)*
 28 Apr 1815h to 2015h DLLM Lok Lok (171 MacPherson Road)*
 28 Apr 1845h to 1915h Newton Food Centre (500 Clemenceau Avenue North)*
@@ -67,6 +68,7 @@
 29 Apr 1145h to 1340h Rivervale Mall (11 Rivervale Crescent) • NTUC FairPrice
 29 Apr 1335h to 1500h Mustafa Centre (145 Syed Alwi Road)
 29 Apr 1925h to 2015h Jubilee Square (61 Ang Mo Kio Avenue 8) • COLLIN’S*
+30 Apr 1100h to 1130h AMK Hub (53 Ang Mo Kio Avenue 3) • FairPrice Xtra
 30 Apr 1720h to 1815h Haniffa Pte Ltd (118 Dunlop Street)
 30 Apr 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
 30 Apr 2000h to 2045h Chinatown Complex Food Centre (335 Smith Street)
@@ -77,6 +79,7 @@
 2 May 1020h to 1105h Pasir Ris Market Produce Shop (441 Pasir Ris Drive 6)
 2 May 1605h to 1645h White Sands (1 Pasir Ris Central Street 3) • NTUC FairPrice
 2 May 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
+3 May 0900h to 0930h Yummy Food Link (111 Woodlands Street 13)
 3 May 1410h to 1450h Marsiling Mall (4 Woodlands Street 12) • kcuts
 3 May 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
 4 May 1520h to 1620h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
