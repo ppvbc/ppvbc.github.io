@@ -111,6 +111,7 @@ $.getJSON('data.json', (places) => {
         const marker = new OpenLayers.Marker(lonLat, icon);
         markers.addMarker(marker)
         const showPopup = () => {
+          $(map.popups).each((idx, popup) => popup.destroy())
           const popup = new OpenLayers.Popup.FramedCloud('place_' + idx,
                                                          lonLat,
                                                          new OpenLayers.Size(600, 600),
