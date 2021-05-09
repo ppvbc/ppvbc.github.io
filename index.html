@@ -112,6 +112,7 @@ $.getJSON('data.json', (places) => {
         const size = new OpenLayers.Size(25, 25)
         const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
         const icon = new OpenLayers.Icon('img/icon.png', size, offset)
+        icon.imageDiv.style.opacity = .2 + (idx / combinedPlaces.length) * .8
         const marker = new OpenLayers.Marker(lonLat, icon);
         markers.addMarker(marker)
         const showPopup = () => {
