@@ -1,16 +1,17 @@
 <html>
   <head>
     <title>COVID-19: Public places visited by cases in the community</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
   </head>
   <body>
     <div id="title">
-      <h1>COVID-19</h1>
-      <h2>Public places visited by cases in the community</h2>
+      <h2>COVID-19</h2>
+      <h3>Public places visited by cases in the community</h3>
     </div>
     <div id="mapdiv"></div>
     <div id="share">
-      <a href="https://api.whatsapp.com/send?text=https://ppvbc.github.io" target="_blank"><img id="whatsapp" src="img/whatsapp-button.png"/></a>
-      <a href="https://t.me/share/url?url=https://ppvbc.github.io&text=COVID-19: Public places visited by cases in the community" target="_blank"><img id="whatsapp" src="img/telegram-button.png"/></a>
+      <a href="https://api.whatsapp.com/send?text=https://ppvbc.github.io" target="_blank"><img id="whatsapp" class="share-button" src="img/whatsapp-button.png"/></a>
+      <a href="https://t.me/share/url?url=https://ppvbc.github.io&text=COVID-19: Public places visited by cases in the community" target="_blank"><img id="telegram" class="share-button" src="img/telegram-button.png"/></a>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/ramda@0.25.0/dist/ramda.min.js"></script>
@@ -27,7 +28,7 @@ body {
   width: 100%;
 }
 .olFramedCloudPopupContent {
-  font-size: 24px
+  font-size: 14px
 }
 #share {
   position: absolute;
@@ -35,6 +36,9 @@ body {
   bottom: 0;
   z-index: 1000;
   padding: 20px;
+}
+.share-button {
+  width: 50px;
 }
     </style>
     <script>
@@ -105,7 +109,7 @@ $.getJSON('data.json', (places) => {
             new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
             map.getProjectionObject() // to Spherical Mercator Projection
           )
-        const size = new OpenLayers.Size(50, 50)
+        const size = new OpenLayers.Size(25, 25)
         const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
         const icon = new OpenLayers.Icon('img/icon.png', size, offset)
         const marker = new OpenLayers.Marker(lonLat, icon);
