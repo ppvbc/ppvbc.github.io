@@ -27,7 +27,7 @@ body {
   width: 100%;
 }
 .olFramedCloudPopupContent {
-  font-size: 12px
+  font-size: 24px
 }
 #share {
   position: absolute;
@@ -105,7 +105,7 @@ $.getJSON('data.json', (places) => {
             new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
             map.getProjectionObject() // to Spherical Mercator Projection
           )
-        const size = new OpenLayers.Size(25, 25)
+        const size = new OpenLayers.Size(50, 50)
         const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
         const icon = new OpenLayers.Icon('img/icon.png', size, offset)
         const marker = new OpenLayers.Marker(lonLat, icon);
