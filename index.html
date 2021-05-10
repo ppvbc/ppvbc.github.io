@@ -62,7 +62,6 @@ const formatPlace = R.converge(
 )
 
 $.getJSON('data.json', (places) => {
-
   const combinePlaces = R.compose(
     R.reverse,
     R.values,
