@@ -1,15 +1,3 @@
-24 Apr 0645h to 0715h Marsiling Market (20 Marsiling Lane)
-24 Apr 1030h to 2120h Waterway Point (83 Punggol Central) • innisfree*
-24 Apr 1125h to 1400h Royal Plaza on Scotts (25 Scotts Road) • Carousel
-24 Apr 1305h to 1455h Bugis Junction (200 Victoria Street) • Tuk Tuk Cha*
-24 Apr 1400h to 1530h Shaw House (350 Orchard Road) • Café de Muse
-24 Apr 1450h to 1600h Bugis+ (201 Victoria Street) • Paco FunWorld*
-24 Apr 1830h to 1930h Newton Food Centre (500 Clemenceau Avenue North)
-24 Apr 1835h to 2000h 100 AM (100 Tras Street) • YAYOI*
-24 Apr 1835h to 2030h Bedok Mall (311 New Upper Changi Road) • Seoul Garden
-24 Apr 1845h to 1930h Zi Zai Vegetarian (150 Bishan Street 11)
-24 Apr 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
-24 Apr 2000h to 2040h 100 AM (100 Tras Street) • DON DON DONKI*
 25 Apr 0910h to 0940h Sheng Siong Supermarket (233 Ang Mo Kio Avenue 3)*
 25 Apr 0945h to 1015h Marsiling Market (20 Marsiling Lane)
 25 Apr 1200h to 1230h Tan Tock Seng Hospital (11 Jalan Tan Tock Seng) • Healthy Kopitiam*
@@ -111,8 +99,18 @@
 4 May 1615h to 1710h Changi Airport Terminal 1 (80 Airport Boulevard) • Orchis Food Court
 4 May 1930h to 2000h Yummy Food Link (111 Woodlands Street 13)
 5 May 1415h to 1440h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
+5 May 1515h to 1610h Junction 9 (18 Yishun Avenue 9) • Sheng Siong Supermarket
+5 May 1605h to 1645h Tampines Mall (4 Tampines Central 5) • UNIQLO
+5 May 1750h to 1820h Sheng Siong Supermarket (506 Tampines Central 1)
+5 May 1820h to 1850h Snip Avenue (419 Tampines Street 41)
 5 May 1830h to 1935h Parkway Parade (80 Marine Parade) • Ramen Dining Keisuke Tokyo
 5 May 2035h to 2110h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 6 May 1200h to 1300h Singapore Post (1 Pasir Ris Central Street 3)
 6 May 1340h to 1405h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
+6 May 1415h to 1510h Plaza Singapura (68 Orchard Road) • Co Chung
+6 May 1510h to 1610h Plaza Singapura (68 Orchard Road) • UNIQLO
+6 May 1645h to 1745h Changi Airport Terminal 3 (65 Airport Boulevard) • Heavenly Wang
+6 May 1710h to 1810h JEM (50 Jurong Gateway Road) • DON DON DONKI
+6 May 1930h to 2000h Changi Airport Terminal 3 (65 Airport Boulevard) • Encik Tan
 6 May 2120h to 2155h Changi Airport Terminal 1 (80 Airport Boulevard) • Food Gallery
+7 May 1730h to 1830h Changi Airport Terminal 3 (65 Airport Boulevard) • Heavenly Wang
