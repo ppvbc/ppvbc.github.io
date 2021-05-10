@@ -64,6 +64,7 @@ const formatPlace = R.converge(
 $.getJSON('data.json', (places) => {
 
   const combinePlaces = R.compose(
+    R.reverse,
     R.values,
     R.map((data) => {
       return {
@@ -80,6 +81,7 @@ $.getJSON('data.json', (places) => {
       if (place.relationId) return "relation" + place.relationId
       if (place.nodeId) return "node" + place.nodeId
     }),
+    R.reverse,
     R.map((data) => {
       const regex = /^(.*?) \((.*?)\)(.*)/
       const match = regex.exec(data.name)
