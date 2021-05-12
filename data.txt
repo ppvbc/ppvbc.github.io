@@ -1,21 +1,3 @@
-26 Apr 0640h to 0710h Marsiling Mall Hawker Centre (4 Woodlands Street 12)
-26 Apr 0855h to 0945h Yew Tee Point (21 Choa Chu Kang North 6)
-26 Apr 1030h to 1430h Spa 9 (41 Holland Drive)
-26 Apr 1030h to 2015h Waterway Point (83 Punggol Central) • innisfree*
-26 Apr 1130h to 1200h Prime Supermarket (768 Woodlands Avenue 6)
-26 Apr 1215h to 1310h 100 AM (100 Tras Street) • Friends Bak Kut Teh
-26 Apr 1230h to 1300h Tan Tock Seng Hospital (11 Jalan Tan Tock Seng) • Healthy Kopitiam*
-26 Apr 1235h to 1305h AMK Hub (53 Ang Mo Kio Avenue 3) • NTUC FairPrice Xtra
-26 Apr 1700h to 2145h VivoCity (1 HarbourFront Walk) • Toys“R”Us • Kopitiam • NTUC FairPrice Xtra
-26 Apr 1725h to 1800h Prime Supermarket (768 Woodlands Avenue 6)
-26 Apr 1735h to 2000h Causeway Point (1 Woodlands Square)
-26 Apr 1810h to 1940h Velocity@Novena Square (238 Thomson Road) • Huluruk Myeon House*
-26 Apr 1825h to 1905h 111 Somerset (111 Somerset Road) • Poke Theory*
-26 Apr 1915h to 2000h Causeway Point (1 Woodlands Square) • Teppan-Yaki
-26 Apr 1920h to 2030h 313 Somerset (313 Orchard Road)
-26 Apr 1930h to 2000h Yummy Food Link (111 Woodlands Street 13)
-26 Apr 1955h to 2050h Soi Thai Kitchen (502 Jurong West Avenue 1)
-26 Apr 2130h to 2230h Rasa Istimewa Waterfront Restaurant (6A Admiralty Road West)
 27 Apr 0640h to 0710h Marsiling Mall Hawker Centre (4 Woodlands Street 12)
 27 Apr 0720h to 0940h National University of Singapore Bukit Timah Campus (469 Bukit Timah Road) • The Summit
 27 Apr 0859h to 0929h NTUC FairPrice (500 Lorong 6 Toa Payoh)*
@@ -68,36 +50,58 @@
 2 May 1605h to 1645h White Sands (1 Pasir Ris Central Street 3) • NTUC FairPrice
 2 May 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
 3 May 0630h to 0700h Food Inn Eating House (2 Clementi Loop)
+3 May 0700h to 1500h M171 Gourmet Street Coffeeshop (171 MacPherson Road)
 3 May 0900h to 0930h Yummy Food Link (111 Woodlands Street 13)
 3 May 1115h to 1200h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 3 May 1200h to 1230h Food Inn Eating House (2 Clementi Loop)
 3 May 1200h to 1305h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 3 May 1315h to 1350h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 3 May 1410h to 1450h Marsiling Mall (4 Woodlands Street 12) • kcuts
+3 May 1600h to 1645h Junction 8 (9 Bishan Place) • KFC
+3 May 1700h to 2200h Junction 8 (9 Bishan Place) • Food Junction
 3 May 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
 4 May 0630h to 0700h Food Inn Eating House (2 Clementi Loop)
+4 May 0700h to 1500h M171 Gourmet Street Coffeeshop (171 MacPherson Road)
+4 May 1110h to 1155h F M FOOD MASTER (19 Serangoon North Avenue 5)
 4 May 1200h to 1230h Food Inn Eating House (2 Clementi Loop)
 4 May 1235h to 1305h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 4 May 1520h to 1620h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 4 May 1525h to 1625h Tampines Mall (4 Tampines Central 5) • Genki Sushi
+4 May 1600h to 1700h Eunos Food Station (2A Eunos Crescent)
 4 May 1615h to 1710h Changi Airport Terminal 1 (80 Airport Boulevard) • Orchis Food Court
 4 May 1845h to 1945h Geylang Serai Malay Market and Food Centre (1 Geylang Serai)
 4 May 1930h to 2000h Yummy Food Link (111 Woodlands Street 13)
 4 May 1955h to 2030h Joo Chiat Complex (1 Joo Chiat Road)
 4 May 2040h to 2140h Tanjong Katong Complex (845 Geylang Road)
+5 May 0700h to 1500h M171 Gourmet Street Coffeeshop (171 MacPherson Road)
 5 May 1415h to 1440h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 5 May 1515h to 1610h Junction 9 (18 Yishun Avenue 9) • Sheng Siong Supermarket
 5 May 1605h to 1645h Tampines Mall (4 Tampines Central 5) • UNIQLO
+5 May 1610h to 2045h Thye Hwa Heng Canteen (29 Eunos Avenue 6)
 5 May 1750h to 1820h Sheng Siong Supermarket (506 Tampines Central 1)
 5 May 1820h to 1850h Snip Avenue (419 Tampines Street 41)
 5 May 1830h to 1935h Parkway Parade (80 Marine Parade) • Ramen Dining Keisuke Tokyo
+5 May 1830h to 2330h Plaza Singapura (68 Orchard Road) • Starbucks
 5 May 2035h to 2110h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
+6 May 0700h to 1500h M171 Gourmet Street Coffeeshop (171 MacPherson Road)
 6 May 1200h to 1300h Singapore Post (1 Pasir Ris Central Street 3)
 6 May 1340h to 1405h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 6 May 1415h to 1510h Plaza Singapura (68 Orchard Road) • Co Chung
 6 May 1510h to 1610h Plaza Singapura (68 Orchard Road) • UNIQLO
 6 May 1645h to 1745h Changi Airport Terminal 3 (65 Airport Boulevard) • Heavenly Wang
 6 May 1710h to 1810h JEM (50 Jurong Gateway Road) • DON DON DONKI
+6 May 1830h to 2330h Plaza Singapura (68 Orchard Road) • Starbucks
 6 May 1930h to 2000h Changi Airport Terminal 3 (65 Airport Boulevard) • Encik Tan
 6 May 2120h to 2155h Changi Airport Terminal 1 (80 Airport Boulevard) • Food Gallery
+7 May 0700h to 1500h M171 Gourmet Street Coffeeshop (171 MacPherson Road)
+7 May 0900h to 1100h Happy Hawkers (267 Compassvale Link)
+7 May 1055h to 1140h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
+7 May 1115h to 1200h F M FOOD MASTER (19 Serangoon North Avenue 5)
 7 May 1730h to 1830h Changi Airport Terminal 3 (65 Airport Boulevard) • Heavenly Wang
+7 May 1955h to 2140h The Restaurant (1010 Dover Road)
+8 May 0900h to 1100h Happy Hawkers (267 Compassvale Link)
+8 May 0940h to 1830h Lucky Plaza (304 Orchard Road) • LBC Express Airfreight (S) Pte Ltd
+8 May 1405h to 1525h Joo Chiat Complex (1 Joo Chiat Road) • Ming Seng Goldsmith
+8 May 1430h to 1515h Balestier Bak Kut Teh (365 & 369 Balestier Road)
+9 May 0900h to 1100h Happy Hawkers (267 Compassvale Link)
+9 May 1400h to 1445h Orchard Central (181 Orchard Road) • Olson Studio
