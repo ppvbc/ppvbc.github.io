@@ -6,19 +6,21 @@
     <meta property="og:description" content="Public Places Visited by Cases in the Community during Infectious Period in Singapore. Excludes residence, workplaces, healthcare facilities and public transport. There is no need to avoid places where confirmed cases of COVID-19 have been. The National Environment Agency will engage the management of affected premises to provide guidance on cleaning and disinfection." />
   </head>
   <body>
+    <div id="fb-root"></div>
     <div id="title">
       <h4>COVID-19</h4>
       <h5>Public places visited by cases in the community</h5>
     </div>
     <div id="mapdiv"></div>
     <div id="share">
-      <h5>Share this</h5>
       <a href="https://api.whatsapp.com/send?text=https://ppvbc.github.io" target="_blank"><img id="whatsapp" class="share-button" src="img/whatsapp-button.png"/></a>
       <a href="https://t.me/share/url?url=https://ppvbc.github.io&text=COVID-19: Public places visited by cases in the community" target="_blank"><img id="telegram" class="share-button" src="img/telegram-button.png"/></a>
+      <div class="fb-like" data-href="https://ppvbc.github.io" data-width="100" data-layout="box_count" data-action="like" data-size="small" data-share="true"></div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/ramda@0.25.0/dist/ramda.min.js"></script>
     <script src="https://openlayers.org/api/OpenLayers.js"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0&appId=340703049394362&autoLogAppEvents=1" nonce="1MOAMjPK"></script>
     <style>
 body {
   font-family: monospace !important;
@@ -35,13 +37,16 @@ body {
 }
 #share {
   position: absolute;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   bottom: 0;
   z-index: 1000;
-  padding: 20px;
+  padding: 10px;
 }
 .share-button {
   width: 50px;
+  margin: 5px;
 }
     </style>
     <script>
