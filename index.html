@@ -11,10 +11,10 @@
       <h5>Public places visited by cases in the community</h5>
     </div>
     <div id="mapdiv"></div>
-    <div id="share">
-      <a href="https://api.whatsapp.com/send?text=https://ppvbc.github.io" target="_blank"><img id="whatsapp" class="share-button" src="img/whatsapp-button.png"/></a>
-      <a href="https://t.me/share/url?url=https://ppvbc.github.io&text=COVID-19: Public places visited by cases in the community" target="_blank"><img id="telegram" class="share-button" src="img/telegram-button.png"/></a>
-      <div class="fb-like" data-href="https://ppvbc.github.io" data-width="100" data-layout="box_count" data-action="like" data-size="small" data-share="true"></div>
+    <div id="footer">
+      <span>Let's TraceTogether.</span>
+      <a id="alink" href="https://www.lazada.sg/catalog/?q=tracetogether+token+case&_keyori=ss&from=input&spm=a2o42.searchlist.search.go.5b153dd0ePhoPa" target="_blank">Get a Token case</a>
+    </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/ramda@0.25.0/dist/ramda.min.js"></script>
@@ -44,14 +44,23 @@ body {
 .olFramedCloudPopupContent {
   font-size: 14px
 }
-#share {
+#alink {
+  padding: 2px 6px;
+  background: #FFA300;
+  border-radius: 3px;
+  text-decoration: none;
+  color: white;
+}
+#footer {
   position: absolute;
-  display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: space-around;
+  display: flex;
+  width: 100%;
   bottom: 0;
   z-index: 1000;
   padding: 10px;
+  background: rgba(0,0,0,.1);
 }
 .share-button {
   width: 50px;
