@@ -6,7 +6,6 @@
     <meta property="og:description" content="Public Places Visited by Cases in the Community during Infectious Period in Singapore. Excludes residence, workplaces, healthcare facilities and public transport. There is no need to avoid places where confirmed cases of COVID-19 have been. The National Environment Agency will engage the management of affected premises to provide guidance on cleaning and disinfection." />
   </head>
   <body>
-    <div id="fb-root"></div>
     <div id="title">
       <h4>COVID-19</h4>
       <h5>Public places visited by cases in the community</h5>
@@ -20,7 +19,16 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/ramda@0.25.0/dist/ramda.min.js"></script>
     <script src="https://openlayers.org/api/OpenLayers.js"></script>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0&appId=340703049394362&autoLogAppEvents=1" nonce="1MOAMjPK"></script>
+    <template id="popup">
+      <div class="place">
+        <div class="content"></div>
+      </div>
+      <div class="share-place-buttons">
+        <i>Tell a friend&nbsp;&nbsp;</i>
+        <a class="whatsapp" href="https://api.whatsapp.com/send?text=https://ppvbc.github.io" target="_blank"><img id="whatsapp" class="share-place-button" src="img/whatsapp-button.png"/></a>
+        <a class="telegram" href="https://t.me/share/url?url=https://ppvbc.github.io&text=" target="_blank"><img id="telegram" class="share-place-button" src="img/telegram-button.png"/></a>
+      </div>
+    </template>
     <style>
 body {
   font-family: monospace !important;
@@ -49,6 +57,16 @@ body {
   width: 50px;
   margin: 5px;
 }
+.share-place-buttons {
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.share-place-button {
+  width: 25px;
+  margin: 4px;
+}
     </style>
     <script>
 const map = new OpenLayers.Map("mapdiv")
@@ -59,7 +77,7 @@ map.addLayer(markers);
 map.zoomToExtent()
 const formatVenues = R.compose(
   R.map(R.compose(
-    R.join('&nbsp;'),
+    R.join(' '),
     R.values,
     R.pick(['date', 'duration', 'venues'])
   )),
@@ -127,10 +145,23 @@ $.getJSON('data.json', (places) => {
         markers.addMarker(marker)
         const showPopup = () => {
           $(map.popups).each((idx, popup) => popup.destroy())
+          const popupContent = $("#popup").clone().prop('content')
+          const contentDiv = $(popupContent).find('div.content')
+          const lines = formatPlace(place)
+          contentDiv.html(lines.join('<br/>'))
+          const whatsappLink = $(popupContent).find('a.whatsapp')
+          const whatsappUrl = whatsappLink.attr('href') + encodeURIComponent('\n\n' + lines.join('\n'))
+          whatsappLink.attr('href', whatsappUrl)
+
+          const telegramLink = $(popupContent).find('a.telegram')
+          const telegramUrl = telegramLink.attr('href') + encodeURIComponent(lines.join('\n'))
+          telegramLink.attr('href', telegramUrl)
+
+          const popupHtml = $('<div>').append(popupContent).html()
           const popup = new OpenLayers.Popup.FramedCloud('place_' + idx,
                                                          lonLat,
                                                          new OpenLayers.Size(600, 600),
-                                                         formatPlace(place).join('<br/>'),
+                                                         popupHtml,
                                                          null,
                                                          false)
           $(popup.contentDiv).click(() => popup.destroy())
