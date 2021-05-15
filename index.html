@@ -90,8 +90,6 @@ const osm = new OpenLayers.Layer.OSM('ppvbc', null, { tileOptions: { crossOrigin
 function closePopups(o,b,c) {
   $(map.popups).each((idx, popup) => popup.destroy())
 }
-osm.events.register('click', map, closePopups)
-osm.events.register('touchstart', map, closePopups)
 map.addLayer(osm)
 var zoom = 12
 var markers = new OpenLayers.Layer.Markers( "Markers" )
