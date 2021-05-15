@@ -14,7 +14,7 @@
     <div id="mapdiv"></div>
     <div id="footer">
       <span>Stay Safe. Work from home.</span>
-      <a id="alink" href="https://c.lazada.sg/t/c.bIBHTu?url=https%3A%2F%2Fwww.lazada.sg%2Fproducts%2Flogitech-h340-usb-headset-i107618077-s110578173.html&" target="_blank">Get a headset.</a>
+      <a id="alink" href="https://c.lazada.sg/t/c.bIBHTu?url=https%3A%2F%2Fwww.lazada.sg%2Fproducts%2Flogitech-h340-usb-headset-i107618077-s110578173.html&" target="_blank">Buy a headset <ion-icon name="headset"></ion-icon></a>
     </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -52,6 +52,9 @@ body {
   text-decoration: none;
   color: white;
   box-shadow: 1px 1px grey;
+}
+#alink ion-icon {
+  font-size: 10px;
 }
 #footer {
   position: absolute;
@@ -187,6 +190,7 @@ const centerLonLat = new OpenLayers.LonLat(103.8198, 1.3521)
 map.setCenter(centerLonLat, zoom)
 
     </script>
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DX3978HE37"></script>
 <script>
