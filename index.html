@@ -87,11 +87,9 @@ html, body {
     <script>
 const map = new OpenLayers.Map("mapdiv")
 const osm = new OpenLayers.Layer.OSM('ppvbc', null, { tileOptions: { crossOriginKeyword: null } })
-function closePopups(o,b,c) {
+function closePopups(e) {
   $(map.popups).each((idx, popup) => popup.destroy())
 }
-osm.events.register('click', map, closePopups)
-osm.events.register('touchend', map, closePopups)
 map.addLayer(osm)
 var zoom = 12
 var markers = new OpenLayers.Layer.Markers( "Markers" )
