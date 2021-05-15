@@ -86,7 +86,13 @@ html, body {
     </style>
     <script>
 const map = new OpenLayers.Map("mapdiv")
-map.addLayer(new OpenLayers.Layer.OSM('ppvbc', null, { tileOptions: { crossOriginKeyword: null } }))
+const osm = new OpenLayers.Layer.OSM('ppvbc', null, { tileOptions: { crossOriginKeyword: null } })
+function closePopups(o,b,c) {
+  $(map.popups).each((idx, popup) => popup.destroy())
+}
+osm.events.register('click', map, closePopups)
+osm.events.register('touchstart', map, closePopups)
+map.addLayer(osm)
 var zoom = 12
 var markers = new OpenLayers.Layer.Markers( "Markers" )
 map.addLayer(markers);
@@ -160,7 +166,7 @@ $.getJSON('data.json', (places) => {
         const marker = new OpenLayers.Marker(lonLat, icon);
         markers.addMarker(marker)
         const showPopup = () => {
-          $(map.popups).each((idx, popup) => popup.destroy())
+          closePopups()
           const popupContent = $("#popup").clone().prop('content')
           const contentDiv = $(popupContent).find('div.content')
           const lines = formatPlace(place)
