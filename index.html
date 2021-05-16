@@ -15,8 +15,14 @@
     </div>
     <div id="mapdiv"></div>
     <div id="footer">
-      <span>Stay Safe. Work from home.</span>
-      <a id="alink" href="https://c.lazada.sg/t/c.bIBHTu?url=https%3A%2F%2Fwww.lazada.sg%2Fproducts%2Flogitech-h340-usb-headset-i107618077-s110578173.html&" target="_blank">Buy a headset <ion-icon name="headset"></ion-icon></a>
+      <div id="ad-0" class="ad">
+        <span>Let's TraceTogether.</span>
+        <a id="alink" href="https://qoo.tn/BLwceX/Q167759988" target="_blank">Buy a Token Cover</a>
+      </div>
+      <div id="ad-1" class="ad">
+        <span>Stay Safe. Work from home.</span>
+        <a id="alink" href="https://c.lazada.sg/t/c.bIBHTu?url=https%3A%2F%2Fwww.lazada.sg%2Fproducts%2Flogitech-h340-usb-headset-i107618077-s110578173.html&" target="_blank">Buy a headset <ion-icon name="headset"></ion-icon></a>
+      </div>
     </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -49,6 +55,9 @@ html, body {
 }
 .olFramedCloudPopupContent {
   font-size: 14px
+}
+.ad {
+  display: none;
 }
 #alink {
   padding: 3px 8px;
@@ -133,6 +142,8 @@ const combinePlaces = R.compose(
   })
 )
 const compareId = (a, b) => getId(a) == getId(b)
+const adId = Math.round(Math.random())
+$('#ad-' + adId).show()
 
 $.getJSON('data-prev-fetched.json', (prevPlaces) => {
   const combinedPrevPlaces = combinePlaces(prevPlaces)
