@@ -1,140 +1,5 @@
 [
   {
-    "wayId": "479125612",
-    "date": "30 Apr",
-    "duration": "0630h to 0700h",
-    "name": "Food Inn Eating House (2 Clementi Loop)",
-    "lon": 103.7631251,
-    "lat": 1.3270615,
-    "id": "way479125612"
-  },
-  {
-    "wayId": "305882751",
-    "date": "30 Apr",
-    "duration": "0800h to 0840h",
-    "name": "Srisun Express (56 Serangoon Garden Way)",
-    "lon": 103.8656131,
-    "lat": 1.3645174,
-    "id": "way305882751"
-  },
-  {
-    "nodeId": "1932291025",
-    "date": "30 Apr",
-    "duration": "0830h to 2220h",
-    "name": "White Sands (1 Pasir Ris Central Street 3) • Unity Pharmacy",
-    "lon": 103.9496345,
-    "lat": 1.3724307,
-    "id": "node1932291025"
-  },
-  {
-    "wayId": "173010413",
-    "date": "30 Apr",
-    "duration": "1055h to 1125h",
-    "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-    "lon": 103.9878664,
-    "lat": 1.3599834,
-    "id": "way173010413"
-  },
-  {
-    "wayId": "153136696",
-    "date": "30 Apr",
-    "duration": "1100h to 1130h",
-    "name": "AMK Hub (53 Ang Mo Kio Avenue 3) • NTUC FairPrice Xtra",
-    "lon": 103.8477572,
-    "lat": 1.3695038,
-    "id": "way153136696"
-  },
-  {
-    "wayId": "479125612",
-    "date": "30 Apr",
-    "duration": "1200h to 1230h",
-    "name": "Food Inn Eating House (2 Clementi Loop)",
-    "lon": 103.7631251,
-    "lat": 1.3270615,
-    "id": "way479125612"
-  },
-  {
-    "wayId": "176326729",
-    "date": "30 Apr",
-    "duration": "1720h to 1815h",
-    "name": "Haniffa Pte Ltd (118 Dunlop Street)",
-    "lon": 103.8524889,
-    "lat": 1.3059462,
-    "id": "way176326729"
-  },
-  {
-    "wayId": "174890684",
-    "date": "30 Apr to 1 May",
-    "duration": "1600h to 0400h",
-    "name": "Kopitiam Square (10 Sengkang Square)",
-    "lon": 103.8937765,
-    "lat": 1.391236,
-    "id": "way174890684"
-  },
-  {
-    "wayId": "162524446",
-    "date": "30 Apr",
-    "duration": "1800h to 1900h",
-    "name": "West Mall (1 Bukit Batok Central Link) • Cold Storage",
-    "lon": 103.7494415,
-    "lat": 1.3495518,
-    "id": "way162524446"
-  },
-  {
-    "wayId": "173010413",
-    "date": "30 Apr",
-    "duration": "1830h to 1930h",
-    "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-    "lon": 103.9878664,
-    "lat": 1.3599834,
-    "id": "way173010413"
-  },
-  {
-    "wayId": "194260727",
-    "date": "30 Apr",
-    "duration": "1900h to 1930h",
-    "name": "Yummy Food Link (111 Woodlands Street 13)",
-    "lon": 103.7819698,
-    "lat": 1.4381695,
-    "id": "way194260727"
-  },
-  {
-    "wayId": "451947286",
-    "date": "30 Apr",
-    "duration": "1900h to 2300h",
-    "name": "Dong Bei Cai Guan (50 Bukit Batok Street 23)",
-    "lon": 103.7572924,
-    "lat": 1.3390036,
-    "id": "way451947286"
-  },
-  {
-    "wayId": "45066510",
-    "date": "30 Apr",
-    "duration": "1930h to 2100h",
-    "name": "Grand Mercure Singapore Roxy (50 East Coast Road) • Jia Wei Chinese Restaurant",
-    "lon": 103.9045628,
-    "lat": 1.3028855,
-    "id": "way45066510"
-  },
-  {
-    "wayId": "47298646",
-    "date": "30 Apr",
-    "duration": "2000h to 2045h",
-    "name": "Chinatown Complex Food Centre (335 Smith Street)",
-    "lon": 103.8429891,
-    "lat": 1.2828842,
-    "id": "way47298646"
-  },
-  {
-    "wayId": "758691180",
-    "date": "30 Apr",
-    "duration": "2045h to 2145h",
-    "name": "Anytime Fitness (190 Choa Chu Kang Avenue 1)",
-    "lon": 103.7451508,
-    "lat": 1.3769077,
-    "id": "way758691180"
-  },
-  {
     "wayId": "388268909",
     "date": "1 May",
     "duration": "1005h to 1035h",
@@ -250,6 +115,15 @@
     "lon": 103.9528535,
     "lat": 1.3424679,
     "id": "node3800199303"
+  },
+  {
+    "wayId": "301736937",
+    "date": "1 May",
+    "duration": "2000h to 2100h",
+    "name": "Waterway Point (83 Punggol Central) • Ichiban Boshi",
+    "lon": 103.9022712,
+    "lat": 1.4055447,
+    "id": "way301736937"
   },
   {
     "nodeId": "3039487435",
@@ -864,6 +738,15 @@
     "id": "node575526181"
   },
   {
+    "nodeId": "3759784408",
+    "date": "5 May",
+    "duration": "1945h to 2045h",
+    "name": "O.Bba Jjajang (77 Tanjong Pagar Road)",
+    "lon": 103.8437817,
+    "lat": 1.2779645,
+    "id": "node3759784408"
+  },
+  {
     "wayId": "173010413",
     "date": "5 May",
     "duration": "2015h to 2105h",
@@ -1073,17 +956,8 @@
   {
     "wayId": "463063312",
     "date": "6 May",
-    "duration": "1930h to 2000h",
-    "name": "PLQ Mall (10 Paya Lebar Road) • Western Mahua",
-    "lon": 103.8926196,
-    "lat": 1.3179032,
-    "id": "way463063312"
-  },
-  {
-    "wayId": "463063312",
-    "date": "6 May",
-    "duration": "2000h to 2100h",
-    "name": "PLQ Mall (10 Paya Lebar Road) • Starbucks",
+    "duration": "1930h to 2100h",
+    "name": "PLQ Mall (10 Paya Lebar Road) • Western Mahua • Starbucks",
     "lon": 103.8926196,
     "lat": 1.3179032,
     "id": "way463063312"
@@ -1294,6 +1168,15 @@
     "lon": 103.9365575,
     "lat": 1.3523627,
     "id": "way175185427"
+  },
+  {
+    "wayId": "32774292",
+    "date": "7 May",
+    "duration": "1915h to 2000h",
+    "name": "Compass One (1 Sengkang Square) • Encik Tan",
+    "lon": 103.8947469,
+    "lat": 1.3924657,
+    "id": "way32774292"
   },
   {
     "nodeId": "3800199303",
@@ -1746,6 +1629,15 @@
     "id": "way380518636"
   },
   {
+    "wayId": "32774374",
+    "date": "9 May",
+    "duration": "1440h to 1510h",
+    "name": "Rivervale Mall (11 Rivervale Crescent) • Live Well Chiropractic",
+    "lon": 103.9042551,
+    "lat": 1.3926496,
+    "id": "way32774374"
+  },
+  {
     "wayId": "174890684",
     "date": "9 to 10 May",
     "duration": "1600h to 0400h",
@@ -1753,6 +1645,24 @@
     "lon": 103.8937765,
     "lat": 1.391236,
     "id": "way174890684"
+  },
+  {
+    "wayId": "260571322",
+    "date": "9 May",
+    "duration": "1650h to 1730h",
+    "name": "Royal Square @ Novena (103 Irrawaddy Road) • Lotus Vegetarian Restaurant",
+    "lon": 103.8431355,
+    "lat": 1.3201255,
+    "id": "way260571322"
+  },
+  {
+    "wayId": "107578653",
+    "date": "9 May",
+    "duration": "1830h to 1900h",
+    "name": "Hougang One (1 Hougang Street 91) • FairPrice Xtra",
+    "lon": 103.8798947,
+    "lat": 1.3758556,
+    "id": "way107578653"
   },
   {
     "wayId": "170098979",
@@ -1953,6 +1863,15 @@
     "id": "node3653443360"
   },
   {
+    "wayId": "302888305",
+    "date": "10 May",
+    "duration": "1930h to 2030h",
+    "name": "Kopitiam City (275D Compassvale Link)",
+    "lon": 103.8938486,
+    "lat": 1.3827903,
+    "id": "way302888305"
+  },
+  {
     "wayId": "213638918",
     "date": "11 May",
     "duration": "0705h to 0745h",
@@ -1989,6 +1908,15 @@
     "id": "way32774317"
   },
   {
+    "wayId": "173144799",
+    "date": "11 May",
+    "duration": "0950h to 1055h",
+    "name": "Bukit Panjang Plaza (1 Jelebu Road) • FairPrice Finest",
+    "lon": 103.7643738,
+    "lat": 1.3792381,
+    "id": "way173144799"
+  },
+  {
     "wayId": "46515799",
     "date": "11 May",
     "duration": "1015h to 1400h",
@@ -2016,6 +1944,15 @@
     "id": "way529931363"
   },
   {
+    "relationId": "11996247",
+    "date": "11 May",
+    "duration": "1300h to 1330h",
+    "name": "Prime Supermarket (823 Tampines Street 81)",
+    "lon": 103.9342173,
+    "lat": 1.348993,
+    "id": "relation11996247"
+  },
+  {
     "wayId": "539767937",
     "date": "11 May",
     "duration": "1345h to 1700h",
@@ -2023,6 +1960,15 @@
     "lon": 103.8451044,
     "lat": 1.3016813,
     "id": "way539767937"
+  },
+  {
+    "wayId": "364073828",
+    "date": "11 May",
+    "duration": "1605h to 1745h",
+    "name": "Hillion Mall (17 Petir Road) • Kopitiam",
+    "lon": 103.7624086,
+    "lat": 1.3787262,
+    "id": "way364073828"
   },
   {
     "wayId": "32774317",
@@ -2043,6 +1989,15 @@
     "id": "way116782187"
   },
   {
+    "wayId": "517722217",
+    "date": "11 May",
+    "duration": "1930h to 2030h",
+    "name": "Food Paradise (279 Sengkang East Avenue)",
+    "lon": 103.8931031,
+    "lat": 1.3863622,
+    "id": "way517722217"
+  },
+  {
     "wayId": "213638918",
     "date": "12 May",
     "duration": "0710h to 0750h",
@@ -2050,5 +2005,32 @@
     "lon": 103.958194,
     "lat": 1.3691407,
     "id": "way213638918"
+  },
+  {
+    "wayId": "41663272",
+    "date": "12 May",
+    "duration": "1310h to 1410h",
+    "name": "KK Women’s and Children’s Hospital (100 Bukit Timah Road) • Healthy Kopitiam",
+    "lon": 103.8468632,
+    "lat": 1.3117749,
+    "id": "way41663272"
+  },
+  {
+    "wayId": "32774292",
+    "date": "12 May",
+    "duration": "2100h to 2145h",
+    "name": "Compass One (1 Sengkang Square) • Pontian Wanton Noodles",
+    "lon": 103.8947469,
+    "lat": 1.3924657,
+    "id": "way32774292"
+  },
+  {
+    "wayId": "203258116",
+    "date": "13 May",
+    "duration": "1230h to 1330h",
+    "name": "Eunos Food Station (2A Eunos Crescent)",
+    "lon": 103.9028619,
+    "lat": 1.3200888,
+    "id": "way203258116"
   }
 ]

@@ -1,140 +1,5 @@
 [
   {
-    "wayId": "388268909",
-    "date": "1 May",
-    "duration": "1005h to 1035h",
-    "name": "Chai Chee United Temple (6 Chai Chee Lane)",
-    "lon": 103.9193382,
-    "lat": 1.3284085,
-    "id": "way388268909"
-  },
-  {
-    "wayId": "71074841",
-    "date": "1 May",
-    "duration": "1120h to 1230h",
-    "name": "Causeway Point (1 Woodlands Square) • Crystal Jade Hong Kong Kitchen",
-    "lon": 103.7853929,
-    "lat": 1.4362717,
-    "id": "way71074841"
-  },
-  {
-    "wayId": "194260727",
-    "date": "1 May",
-    "duration": "1300h to 1330h",
-    "name": "Yummy Food Link (111 Woodlands Street 13)",
-    "lon": 103.7819698,
-    "lat": 1.4381695,
-    "id": "way194260727"
-  },
-  {
-    "wayId": "744520551",
-    "date": "1 May",
-    "duration": "1415h to 1605h",
-    "name": "Jewel Changi Airport (78 Airport Boulevard) • Maison de PB",
-    "lon": 103.9895904,
-    "lat": 1.3609513,
-    "id": "way744520551"
-  },
-  {
-    "wayId": "620519197",
-    "date": "1 May",
-    "duration": "1415h to 1800h",
-    "name": "JEM (50 Jurong Gateway Road)",
-    "lon": 103.7432181,
-    "lat": 1.3323561,
-    "id": "way620519197"
-  },
-  {
-    "nodeId": "1932291025",
-    "date": "1 May",
-    "duration": "1430h to 2220h",
-    "name": "White Sands (1 Pasir Ris Central Street 3) • Unity Pharmacy",
-    "lon": 103.9496345,
-    "lat": 1.3724307,
-    "id": "node1932291025"
-  },
-  {
-    "wayId": "620519197",
-    "date": "1 May",
-    "duration": "1515h to 1730h",
-    "name": "JEM (50 Jurong Gateway Road) • Cathay Cineplex Hall 6",
-    "lon": 103.7432181,
-    "lat": 1.3323561,
-    "id": "way620519197"
-  },
-  {
-    "wayId": "174890684",
-    "date": "1 to 2 May",
-    "duration": "1600h to 0400h",
-    "name": "Kopitiam Square (10 Sengkang Square)",
-    "lon": 103.8937765,
-    "lat": 1.391236,
-    "id": "way174890684"
-  },
-  {
-    "wayId": "32774665",
-    "date": "1 May",
-    "duration": "1635h to 1720h",
-    "name": "Hougang Mall (90 Hougang Avenue 10)*",
-    "lon": 103.8937538,
-    "lat": 1.3721581,
-    "id": "way32774665"
-  },
-  {
-    "nodeId": "1843450675",
-    "date": "1 May",
-    "duration": "1800h to 1900h",
-    "name": "Clementi 448 Market & Food Centre (448 Clementi Avenue 3)",
-    "lon": 103.7645113,
-    "lat": 1.3132952,
-    "id": "node1843450675"
-  },
-  {
-    "wayId": "46671408",
-    "date": "1 May",
-    "duration": "1830h to 2100h",
-    "name": "VivoCity (1 HarbourFront Walk) • TANGS",
-    "lon": 103.8208095,
-    "lat": 1.2635745,
-    "id": "way46671408"
-  },
-  {
-    "wayId": "194260727",
-    "date": "1 May",
-    "duration": "1900h to 1930h",
-    "name": "Yummy Food Link (111 Woodlands Street 13)",
-    "lon": 103.7819698,
-    "lat": 1.4381695,
-    "id": "way194260727"
-  },
-  {
-    "nodeId": "3800199303",
-    "date": "1 May",
-    "duration": "1940h to 2040h",
-    "name": "Eastpoint Mall (3 Simei Street 6) • Sanook Kitchen",
-    "lon": 103.9528535,
-    "lat": 1.3424679,
-    "id": "node3800199303"
-  },
-  {
-    "wayId": "301736937",
-    "date": "1 May",
-    "duration": "2000h to 2100h",
-    "name": "Waterway Point (83 Punggol Central) • Ichiban Boshi",
-    "lon": 103.9022712,
-    "lat": 1.4055447,
-    "id": "way301736937"
-  },
-  {
-    "nodeId": "3039487435",
-    "date": "1 to 2 May",
-    "duration": "2200h to 0010h",
-    "name": "ST 11 Coffee House (167 Woodlands Street 11)",
-    "lon": 103.7758142,
-    "lat": 1.4333153,
-    "id": "node3039487435"
-  },
-  {
     "nodeId": "1932291025",
     "date": "2 May",
     "duration": "0830h to 2220h",
@@ -369,6 +234,15 @@
     "id": "way173010413"
   },
   {
+    "wayId": "166194476",
+    "date": "3 May",
+    "duration": "1835h to 2030h",
+    "name": "Tampines 1 (10 Tampines Central) • A1 Claypot",
+    "lon": 103.9448102,
+    "lat": 1.3541664,
+    "id": "way166194476"
+  },
+  {
     "wayId": "173010413",
     "date": "3 May",
     "duration": "1840h to 2035h",
@@ -601,6 +475,15 @@
     "lon": 103.8859923,
     "lat": 1.3755127,
     "id": "way108229617"
+  },
+  {
+    "wayId": "166194476",
+    "date": "5 May",
+    "duration": "1220h to 1345h",
+    "name": "Tampines 1 (10 Tampines Central) • iSteaks",
+    "lon": 103.9448102,
+    "lat": 1.3541664,
+    "id": "way166194476"
   },
   {
     "wayId": "173010413",
@@ -1107,6 +990,15 @@
     "id": "way42064044"
   },
   {
+    "wayId": "76185180",
+    "date": "7 May",
+    "duration": "1330h to 1430h",
+    "name": "201 Coffee Shop (201 Tampines Street 21)",
+    "lon": 103.9535753,
+    "lat": 1.3530736,
+    "id": "way76185180"
+  },
+  {
     "relationId": "7791675",
     "date": "7 May",
     "duration": "1435h to 1535h",
@@ -1324,7 +1216,7 @@
   },
   {
     "wayId": "446775872",
-    "date": "8 Mat",
+    "date": "8 May",
     "duration": "1235h to 1315h",
     "name": "18 Tai Seng (18 Tai Seng Street) • kcuts",
     "lon": 103.8889223,
@@ -1339,6 +1231,15 @@
     "lon": 103.9779059,
     "lat": 1.389125,
     "id": "node6718652851"
+  },
+  {
+    "wayId": "44121572",
+    "date": "8 May",
+    "duration": "1255h to 1355h",
+    "name": "Parkway Parade (80 Marine Parade Road)",
+    "lon": 103.9051242,
+    "lat": 1.3022839,
+    "id": "way44121572"
   },
   {
     "wayId": "32774292",
@@ -1431,13 +1332,13 @@
     "id": "way174890684"
   },
   {
-    "wayId": "463063312",
+    "wayId": "166194476",
     "date": "8 May",
-    "duration": "1900h to 2000h",
-    "name": "Paya Lebar Quarter Mall (10 Paya Lebar Road) • Ichikokudo Hokkaido Ramen",
-    "lon": 103.8926196,
-    "lat": 1.3179032,
-    "id": "way463063312"
+    "duration": "1625h to 1745h",
+    "name": "Tampines 1 (10 Tampines Central 1) • Oriental Hair Solutions",
+    "lon": 103.9448102,
+    "lat": 1.3541664,
+    "id": "way166194476"
   },
   {
     "wayId": "172120778",
@@ -1467,6 +1368,15 @@
     "id": "way595202369"
   },
   {
+    "wayId": "463063312",
+    "date": "8 May",
+    "duration": "1900h to 2000h",
+    "name": "Paya Lebar Quarter Mall (10 Paya Lebar Road) • Ichikokudo Hokkaido Ramen",
+    "lon": 103.8926196,
+    "lat": 1.3179032,
+    "id": "way463063312"
+  },
+  {
     "wayId": "595202369",
     "date": "8 May",
     "duration": "1900h to 2100h",
@@ -1492,6 +1402,15 @@
     "lon": 103.9240251,
     "lat": 1.3128194,
     "id": "node6259912929"
+  },
+  {
+    "wayId": "213638924",
+    "date": "8 May",
+    "duration": "2030h to 2200h",
+    "name": "Kimly Coffeeshop (444 Pasir Ris Drive 6)",
+    "lon": 103.9574695,
+    "lat": 1.3698902,
+    "id": "way213638924"
   },
   {
     "relationId": "11996259",
@@ -1566,6 +1485,15 @@
     "id": "way125635132"
   },
   {
+    "wayId": "47069573",
+    "date": "9 May",
+    "duration": "1010h to 1115h",
+    "name": "Parkway Centre (08/09 Marine Parade Central) • CMA Mental Arithmetic Centre (Marine Parade) Pte Ltd",
+    "lon": 103.9059423,
+    "lat": 1.3016247,
+    "id": "way47069573"
+  },
+  {
     "wayId": "46515799",
     "date": "9 May",
     "duration": "1010h to 2010h",
@@ -1577,11 +1505,29 @@
   {
     "nodeId": "1932291025",
     "date": "9 May",
+    "duration": "1015h to 1045h",
+    "name": "White Sands (1 Pasir Ris Central Street 3) • Koufu",
+    "lon": 103.9496345,
+    "lat": 1.3724307,
+    "id": "node1932291025"
+  },
+  {
+    "nodeId": "1932291025",
+    "date": "9 May",
     "duration": "1025h to 2230h",
     "name": "White Sands (1 Pasir Ris Central Street 3) • WOK HEY",
     "lon": 103.9496345,
     "lat": 1.3724307,
     "id": "node1932291025"
+  },
+  {
+    "wayId": "124957886",
+    "date": "9 May",
+    "duration": "1145h to 1215h",
+    "name": "Twin Elite Unisex Hairdressing Salon (13 Old Airport Road)",
+    "lon": 103.8833783,
+    "lat": 1.3074526,
+    "id": "way124957886"
   },
   {
     "wayId": "465145060",
@@ -1656,6 +1602,15 @@
     "id": "way260571322"
   },
   {
+    "wayId": "213638918",
+    "date": "9 May",
+    "duration": "1730h to 1830h",
+    "name": "441 Pasir Ris Drive 6 Coffeeshop (441 Pasir Ris Drive 6)",
+    "lon": 103.958194,
+    "lat": 1.3691407,
+    "id": "way213638918"
+  },
+  {
     "wayId": "107578653",
     "date": "9 May",
     "duration": "1830h to 1900h",
@@ -1672,6 +1627,15 @@
     "lon": 103.8103948,
     "lat": 1.3029654,
     "id": "way170098979"
+  },
+  {
+    "wayId": "213638924",
+    "date": "9 May",
+    "duration": "2030h to 2200h",
+    "name": "Kimly Coffeeshop (444 Pasir Ris Drive 6)",
+    "lon": 103.9574695,
+    "lat": 1.3698902,
+    "id": "way213638924"
   },
   {
     "wayId": "106401679",
@@ -1767,7 +1731,7 @@
     "wayId": "312722345",
     "date": "10 May",
     "duration": "1200h to 1230h",
-    "name": "Selegie Soyabean @ Bedok Road (320 Bedok Rd)",
+    "name": "Selegie Soyabean (320 Bedok Road)",
     "lon": 103.9482654,
     "lat": 1.3308226,
     "id": "way312722345"
@@ -1800,6 +1764,15 @@
     "id": "way775316140"
   },
   {
+    "nodeId": "1932291025",
+    "date": "10 May",
+    "duration": "1415h to 1530h",
+    "name": "White Sands (1 Pasir Ris Central Street 3)",
+    "lon": 103.9496345,
+    "lat": 1.3724307,
+    "id": "node1932291025"
+  },
+  {
     "wayId": "169526703",
     "date": "10 May",
     "duration": "1500h to 1530h",
@@ -1821,7 +1794,7 @@
     "wayId": "166194476",
     "date": "10 May",
     "duration": "1600h to 1650h",
-    "name": "Tampines 1 Daiso (10 Tampines Central 1)",
+    "name": "Tampines 1 (10 Tampines Central 1) • DAISO",
     "lon": 103.9448102,
     "lat": 1.3541664,
     "id": "way166194476"
@@ -1834,6 +1807,15 @@
     "lon": 103.8937765,
     "lat": 1.391236,
     "id": "way174890684"
+  },
+  {
+    "wayId": "166194476",
+    "date": "10 May",
+    "duration": "1700h to 1850h",
+    "name": "Tampines 1 (10 Tampines Central 1) • Spacio",
+    "lon": 103.9448102,
+    "lat": 1.3541664,
+    "id": "way166194476"
   },
   {
     "wayId": "172915345",
@@ -1872,6 +1854,15 @@
     "id": "way302888305"
   },
   {
+    "wayId": "213638924",
+    "date": "10 May",
+    "duration": "2030h to 2130h",
+    "name": "Kimly Coffeeshop (444 Pasir Ris Drive 6)",
+    "lon": 103.9574695,
+    "lat": 1.3698902,
+    "id": "way213638924"
+  },
+  {
     "wayId": "213638918",
     "date": "11 May",
     "duration": "0705h to 0745h",
@@ -1897,6 +1888,15 @@
     "lon": 103.8371649,
     "lat": 1.3005635,
     "id": "way52238208"
+  },
+  {
+    "wayId": "158234014",
+    "date": "11 May",
+    "duration": "0930h to 1030h",
+    "name": "West Gate (3 Gateway Drive) • Toast Box",
+    "lon": 103.7424815,
+    "lat": 1.33352,
+    "id": "way158234014"
   },
   {
     "wayId": "32774317",
@@ -1944,6 +1944,15 @@
     "id": "way529931363"
   },
   {
+    "wayId": "830592799",
+    "date": "11 May",
+    "duration": "1240h to 1340h",
+    "name": "Changi City Point (5 Changi Business Park Central 1)",
+    "lon": 103.9634836,
+    "lat": 1.3332823,
+    "id": "way830592799"
+  },
+  {
     "relationId": "11996247",
     "date": "11 May",
     "duration": "1300h to 1330h",
@@ -1951,6 +1960,15 @@
     "lon": 103.9342173,
     "lat": 1.348993,
     "id": "relation11996247"
+  },
+  {
+    "wayId": "830592799",
+    "date": "11 May",
+    "duration": "1300h to 1330h",
+    "name": "Changi City Point (5 Changi Business Park Central 1) • McDonald’s",
+    "lon": 103.9634836,
+    "lat": 1.3332823,
+    "id": "way830592799"
   },
   {
     "wayId": "539767937",
@@ -1962,6 +1980,24 @@
     "id": "way539767937"
   },
   {
+    "nodeId": "1932291025",
+    "date": "11 May",
+    "duration": "1420h to 1500h",
+    "name": "White Sands (1 Pasir Ris Central Street 3) • Ya Kun Family Café",
+    "lon": 103.9496345,
+    "lat": 1.3724307,
+    "id": "node1932291025"
+  },
+  {
+    "wayId": "117325142",
+    "date": "11 May",
+    "duration": "1515h to 1615h",
+    "name": "Sheng Siong Supermarket (19 Serangoon North Avenue 5)",
+    "lon": 103.8722976,
+    "lat": 1.3757701,
+    "id": "way117325142"
+  },
+  {
     "wayId": "364073828",
     "date": "11 May",
     "duration": "1605h to 1745h",
@@ -1969,6 +2005,33 @@
     "lon": 103.7624086,
     "lat": 1.3787262,
     "id": "way364073828"
+  },
+  {
+    "relationId": "6730885",
+    "date": "11 May",
+    "duration": "1730h to 2030h",
+    "name": "Yang Ming & Hoki Coffee Shop (150 Bishan Street 11)",
+    "lon": 103.8550976,
+    "lat": 1.344763,
+    "id": "relation6730885"
+  },
+  {
+    "wayId": "325357374",
+    "date": "11 May",
+    "duration": "1740h to 1810h",
+    "name": "SKP (683 Hougang Avenue 8)",
+    "lon": 103.8860723,
+    "lat": 1.3739955,
+    "id": "way325357374"
+  },
+  {
+    "wayId": "620519197",
+    "date": "11 May",
+    "duration": "1755h to 1850h",
+    "name": "JEM (50 Jurong Gateway Road) • Fairprice Xtra",
+    "lon": 103.7432181,
+    "lat": 1.3323561,
+    "id": "way620519197"
   },
   {
     "wayId": "32774317",
@@ -1989,6 +2052,24 @@
     "id": "way116782187"
   },
   {
+    "wayId": "620519197",
+    "date": "11 May",
+    "duration": "1840h to 1940h",
+    "name": "JEM (50 Jurong Gateway Road) • Tipsy Bunny",
+    "lon": 103.7432181,
+    "lat": 1.3323561,
+    "id": "way620519197"
+  },
+  {
+    "relationId": "2434612",
+    "date": "11 May",
+    "duration": "1900h to 2000h",
+    "name": "Boon Lay Shopping Centre (221 Boon Lay Place)",
+    "lon": 103.7123672,
+    "lat": 1.3464538,
+    "id": "relation2434612"
+  },
+  {
     "wayId": "517722217",
     "date": "11 May",
     "duration": "1930h to 2030h",
@@ -1996,6 +2077,15 @@
     "lon": 103.8931031,
     "lat": 1.3863622,
     "id": "way517722217"
+  },
+  {
+    "wayId": "620515713",
+    "date": "11 May",
+    "duration": "2100h to 2130h",
+    "name": "Junction 8 (9 Bishan Place) • What the Fish",
+    "lon": 103.8486315,
+    "lat": 1.3501251,
+    "id": "way620515713"
   },
   {
     "wayId": "213638918",
@@ -2007,6 +2097,24 @@
     "id": "way213638918"
   },
   {
+    "wayId": "158234014",
+    "date": "12 May",
+    "duration": "1300h to 2000h",
+    "name": "Westgate (3 Gateway Drive) • Star Arts",
+    "lon": 103.7424815,
+    "lat": 1.33352,
+    "id": "way158234014"
+  },
+  {
+    "wayId": "111610945",
+    "date": "12 May",
+    "duration": "1305h to 1405h",
+    "name": "Old Airport Road Food Centre & Shopping Mall (51 Old Airport Road)",
+    "lon": 103.885973,
+    "lat": 1.3081005,
+    "id": "way111610945"
+  },
+  {
     "wayId": "41663272",
     "date": "12 May",
     "duration": "1310h to 1410h",
@@ -2014,6 +2122,60 @@
     "lon": 103.8468632,
     "lat": 1.3117749,
     "id": "way41663272"
+  },
+  {
+    "wayId": "173235507",
+    "date": "12 May",
+    "duration": "1420h to 1515h",
+    "name": "Market Square @ Downtown East (1 Pasir Ris Close) • Mr Chicken Rice",
+    "lon": 103.954061,
+    "lat": 1.3792464,
+    "id": "way173235507"
+  },
+  {
+    "wayId": "173235507",
+    "date": "12 May",
+    "duration": "1515h to 1710h",
+    "name": "Market Square @ Downtown East (1 Pasir Ris Close) • NTUC FairPrice",
+    "lon": 103.954061,
+    "lat": 1.3792464,
+    "id": "way173235507"
+  },
+  {
+    "wayId": "620515713",
+    "date": "12 May",
+    "duration": "1530h to 1720h",
+    "name": "Junction 8 (9 Bishan Place) • Ambush",
+    "lon": 103.8486315,
+    "lat": 1.3501251,
+    "id": "way620515713"
+  },
+  {
+    "relationId": "9382787",
+    "date": "12 May",
+    "duration": "1645h to 1745h",
+    "name": "Bedok Mall (311 New Upper Changi Road) • Singtel Exclusive Retailer",
+    "lon": 103.9285518,
+    "lat": 1.3250643,
+    "id": "relation9382787"
+  },
+  {
+    "wayId": "620515713",
+    "date": "12 May",
+    "duration": "1730h to 2130h",
+    "name": "Junction 8 (9 Bishan Place) • What the Fish",
+    "lon": 103.8486315,
+    "lat": 1.3501251,
+    "id": "way620515713"
+  },
+  {
+    "wayId": "213638924",
+    "date": "12 May",
+    "duration": "2000h to 2200h",
+    "name": "Kimly Coffeeshop (444 Pasir Ris Drive 6)",
+    "lon": 103.9574695,
+    "lat": 1.3698902,
+    "id": "way213638924"
   },
   {
     "wayId": "32774292",
@@ -2025,6 +2187,42 @@
     "id": "way32774292"
   },
   {
+    "wayId": "108390950",
+    "date": "12 May",
+    "duration": "2200h to 2230h",
+    "name": "Yuhua Place (345 Jurong East Street 31) • NTUC FairPrice",
+    "lon": 103.7308297,
+    "lat": 1.3454166,
+    "id": "way108390950"
+  },
+  {
+    "wayId": "620519197",
+    "date": "13 May",
+    "duration": "0820h to 0920h",
+    "name": "JEM (50 Jurong Gateway Road)",
+    "lon": 103.7432181,
+    "lat": 1.3323561,
+    "id": "way620519197"
+  },
+  {
+    "wayId": "620519197",
+    "date": "13 May",
+    "duration": "0830h to 0900h",
+    "name": "JEM (50 Jurong Gateway Road) • Toast Box",
+    "lon": 103.7432181,
+    "lat": 1.3323561,
+    "id": "way620519197"
+  },
+  {
+    "wayId": "108390950",
+    "date": "12 May",
+    "duration": "2200h to 2230h",
+    "name": "Yuhua Place (345 Jurong East Street 31) • NTUC FairPrice",
+    "lon": 103.7308297,
+    "lat": 1.3454166,
+    "id": "way108390950"
+  },
+  {
     "wayId": "203258116",
     "date": "13 May",
     "duration": "1230h to 1330h",
@@ -2032,5 +2230,32 @@
     "lon": 103.9028619,
     "lat": 1.3200888,
     "id": "way203258116"
+  },
+  {
+    "wayId": "213638924",
+    "date": "13 May",
+    "duration": "2030h to 2200h",
+    "name": "Kimly Coffeeshop (444 Pasir Ris Drive 6)",
+    "lon": 103.9574695,
+    "lat": 1.3698902,
+    "id": "way213638924"
+  },
+  {
+    "nodeId": "4302905987",
+    "date": "13 to 14 May",
+    "duration": "2230h to 0730h",
+    "name": "Marina Bay Sands Casino (10 Bayfront Avenue)",
+    "lon": 103.8607226,
+    "lat": 1.2836965,
+    "id": "node4302905987"
+  },
+  {
+    "wayId": "32774317",
+    "date": "15 May",
+    "duration": "0725h to 0755h",
+    "name": "Rivervale Plaza (118 Rivervale Drive) • Koufu",
+    "lon": 103.9011771,
+    "lat": 1.385057,
+    "id": "way32774317"
   }
 ]
