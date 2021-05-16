@@ -142,7 +142,7 @@ const combinePlaces = R.compose(
   })
 )
 const compareId = (a, b) => getId(a) == getId(b)
-const adId = Math.round(Math.random())
+const adId = Math.floor(Math.random() * $('.ad').length)
 $('#ad-' + adId).show()
 
 $.getJSON('data-prev-fetched.json', (prevPlaces) => {
