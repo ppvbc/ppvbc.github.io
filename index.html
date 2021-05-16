@@ -60,6 +60,16 @@ html, body {
 .olFramedCloudPopupContent {
   font-size: 14px
 }
+.olFramedCloudPopupContent .new {
+  font-size: 8px;
+  position: absolute;
+  right: 4px;
+  top: 0px;
+  background: #FFA300;
+  padding: 3px 5px;
+  color: white;
+  border-radius: 2px;
+}
 .ad {
   display: none;
 }
@@ -174,7 +184,7 @@ $.getJSON('data-prev-fetched.json', (prevPlaces) => {
         const popupContent = $("#popup").clone().prop('content')
         const contentDiv = $(popupContent).find('div.content')
         const lines = formatPlace(place)
-        contentDiv.html(lines.join('<br/>'))
+        contentDiv.html((isNew ? '<span class="new">New</span>': '') + lines.join('<br/>'))
         const whatsappLink = $(popupContent).find('a.whatsapp')
         const whatsappUrl = whatsappLink.attr('href') + encodeURIComponent('\n\n' + lines.join('\n'))
         whatsappLink.attr('href', whatsappUrl)
