@@ -107,6 +107,11 @@ const formatPlace = R.converge(
   R.concat,
   [ R.compose(R.values, R.pick(['name', 'address'])), formatVenues ]
 )
+const getId = (place) => {
+  if (place.wayId) return "way" + place.wayId
+  if (place.relationId) return "relation" + place.relationId
+  if (place.nodeId) return "node" + place.nodeId
+}
 const combinePlaces = R.compose(
   R.reverse,
   R.values,
@@ -120,11 +125,7 @@ const combinePlaces = R.compose(
       address: data[0].address
     }
   }),
-  R.groupBy((place) => {
-    if (place.wayId) return "way" + place.wayId
-    if (place.relationId) return "relation" + place.relationId
-    if (place.nodeId) return "node" + place.nodeId
-  }),
+  R.groupBy(getId),
   R.reverse,
   R.map((data) => {
     const regex = /^(.*?) \((.*?)\)(.*)/
@@ -135,60 +136,68 @@ const combinePlaces = R.compose(
     return data
   })
 )
+const compareId = (a, b) => getId(a) == getId(b)
 
-$.getJSON('data.json', (places) => {
-  const combinedPlaces = combinePlaces(places)
-  $(combinedPlaces).each((idx, place) => {
-    var url
-    if (place.wayId) {
-      url = 'https://api.openstreetmap.org/api/0.6/way/' + place.wayId + '/full.json'
-    } else if (place.relationId) {
-      url = 'https://api.openstreetmap.org/api/0.6/relation/' + place.relationId + '/full.json'
-    } else if (place.nodeId) {
-      url = 'https://api.openstreetmap.org/api/0.6/node/' + place.nodeId + '.json'
-    }
-    $.get(url, (data) => {
-      const node = data.elements[0]
-      const e = place.wayId || place.relationId
-        ? data.elements[data.elements.length - 1]
-        : data.elements[0]
-        const lonLat = new OpenLayers.LonLat(node.lon, node.lat)
-          .transform(
-            new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
-            map.getProjectionObject() // to Spherical Mercator Projection
-          )
-        const size = new OpenLayers.Size(25, 25)
-        const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
-        const icon = new OpenLayers.Icon('img/icon.png', size, offset)
-        icon.imageDiv.style.opacity = .5 + (idx / combinedPlaces.length) * .5
-        const marker = new OpenLayers.Marker(lonLat, icon);
-        markers.addMarker(marker)
-        const showPopup = () => {
-          closePopups()
-          const popupContent = $("#popup").clone().prop('content')
-          const contentDiv = $(popupContent).find('div.content')
-          const lines = formatPlace(place)
-          contentDiv.html(lines.join('<br/>'))
-          const whatsappLink = $(popupContent).find('a.whatsapp')
-          const whatsappUrl = whatsappLink.attr('href') + encodeURIComponent('\n\n' + lines.join('\n'))
-          whatsappLink.attr('href', whatsappUrl)
+$.getJSON('data-prev.json', (prevPlaces) => {
+  const combinedPrevPlaces = combinePlaces(prevPlaces)
+  $.getJSON('data.json', (places) => {
+    const combinedPlaces = combinePlaces(places)
+    const newPlaces = R.differenceWith(compareId, combinedPlaces, combinedPrevPlaces)
+    const newPlacesId = R.map(getId, newPlaces)
+    $(combinedPlaces).each((idx, place) => {
+      const placeId = getId(place)
+      var url
+      if (place.wayId) {
+        url = 'https://api.openstreetmap.org/api/0.6/way/' + place.wayId + '/full.json'
+      } else if (place.relationId) {
+        url = 'https://api.openstreetmap.org/api/0.6/relation/' + place.relationId + '/full.json'
+      } else if (place.nodeId) {
+        url = 'https://api.openstreetmap.org/api/0.6/node/' + place.nodeId + '.json'
+      }
+      const isNew = R.contains(placeId, newPlacesId)
+      $.get(url, (data) => {
+        const node = data.elements[0]
+        const e = place.wayId || place.relationId
+          ? data.elements[data.elements.length - 1]
+          : data.elements[0]
+          const lonLat = new OpenLayers.LonLat(node.lon, node.lat)
+            .transform(
+              new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+              map.getProjectionObject() // to Spherical Mercator Projection
+            )
+          const size = new OpenLayers.Size(25, 25)
+          const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
+          const icon = new OpenLayers.Icon((isNew ? 'img/icon-new.png' : 'img/icon.png'), size, offset)
+          icon.imageDiv.style.opacity = .5 + (idx / combinedPlaces.length) * .5
+          const marker = new OpenLayers.Marker(lonLat, icon);
+          markers.addMarker(marker)
+          const showPopup = () => {
+            closePopups()
+            const popupContent = $("#popup").clone().prop('content')
+            const contentDiv = $(popupContent).find('div.content')
+            const lines = formatPlace(place)
+            contentDiv.html(lines.join('<br/>'))
+            const whatsappLink = $(popupContent).find('a.whatsapp')
+            const whatsappUrl = whatsappLink.attr('href') + encodeURIComponent('\n\n' + lines.join('\n'))
+            whatsappLink.attr('href', whatsappUrl)
 
-          const telegramLink = $(popupContent).find('a.telegram')
-          const telegramUrl = telegramLink.attr('href') + encodeURIComponent(lines.join('\n'))
-          telegramLink.attr('href', telegramUrl)
+            const telegramLink = $(popupContent).find('a.telegram')
+            const telegramUrl = telegramLink.attr('href') + encodeURIComponent(lines.join('\n'))
+            telegramLink.attr('href', telegramUrl)
 
-          const popupHtml = $('<div>').append(popupContent).html()
-          const popup = new OpenLayers.Popup.FramedCloud('place_' + idx,
-                                                         lonLat,
-                                                         new OpenLayers.Size(600, 600),
-                                                         popupHtml,
-                                                         null,
-                                                         false)
-          $(popup.contentDiv).click(() => popup.destroy())
-          map.addPopup(popup)
-        }
-        marker.events.register('click', marker, showPopup)
-        marker.events.register('touchstart', marker, showPopup)
+            const popupHtml = $('<div>').append(popupContent).html()
+            const popup = new OpenLayers.Popup.FramedCloud(placeId,
+                                                           lonLat,
+                                                           new OpenLayers.Size(600, 600),
+                                                           popupHtml,
+                                                           null,
+                                                           false)
+            $(popup.contentDiv).click(() => popup.destroy())
+            map.addPopup(popup)
+          }
+          marker.events.register('click', marker, showPopup)
+          marker.events.register('touchstart', marker, showPopup)
+      })
     })
   })
 })
