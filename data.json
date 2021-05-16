@@ -81,7 +81,7 @@
 { "wayId": "44121572", "date": "5 May", "duration": "1830h to 1935h", "name": "Parkway Parade (80 Marine Parade) • Ramen Dining Keisuke Tokyo"},
 { "wayId": "539767937", "date": "5 May", "duration": "1830h to 2330h", "name": "Plaza Singapura (68 Orchard Road) • Starbucks"},
 { "nodeId": "575526181", "date": "5 May", "duration": "1850h to 1915h", "name": "Siglap New Market (934 East Coast Road) • NTUC FairPrice"},
-{ "wayId": "3759784408", "date": "5 May", "duration": "1945h to 2045h", "name": "O.Bba Jjajang (77 Tanjong Pagar Road)"},
+{ "nodeId": "3759784408", "date": "5 May", "duration": "1945h to 2045h", "name": "O.Bba Jjajang (77 Tanjong Pagar Road)"},
 { "wayId": "173010413", "date": "5 May", "duration": "2015h to 2105h", "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam"},
 { "wayId": "173010413", "date": "5 May", "duration": "2035h to 2110h", "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam"},
 { "wayId": "878815622", "date": "6 May", "duration": "0700h to 1500h", "name": "M171 Gourmet Street Coffeeshop (171 MacPherson Road)"},
