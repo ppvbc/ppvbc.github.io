@@ -201,7 +201,7 @@ $.getJSON('data-prev-fetched.json', (prevPlaces) => {
                                                        popupHtml,
                                                        null,
                                                        false)
-        $(popup.contentDiv).click(() => popup.destroy())
+        $(popup.contentDiv).click(closePopups)
         map.addPopup(popup)
       }
       marker.events.register('click', marker, showPopup)
