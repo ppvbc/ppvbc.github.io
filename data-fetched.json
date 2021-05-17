@@ -1,104 +1,5 @@
 [
   {
-    "nodeId": "1932291025",
-    "date": "2 May",
-    "duration": "0830h to 2220h",
-    "name": "White Sands (1 Pasir Ris Central Street 3) • Unity Pharmacy",
-    "lon": 103.9496345,
-    "lat": 1.3724307,
-    "id": "node1932291025"
-  },
-  {
-    "wayId": "154249626",
-    "date": "2 May",
-    "duration": "0945h to 1015h",
-    "name": "Marsiling Market (20 Marsiling Lane)",
-    "lon": 103.7770166,
-    "lat": 1.4436134,
-    "id": "way154249626"
-  },
-  {
-    "wayId": "26561741",
-    "date": "2 May",
-    "duration": "1130h to 1225h",
-    "name": "Changi Airport Terminal 1 (80 Airport Boulevard) • Orchis Food Court",
-    "lon": 103.9897951,
-    "lat": 1.3649374,
-    "id": "way26561741"
-  },
-  {
-    "wayId": "213638918",
-    "date": "2 May",
-    "duration": "1020h to 1105h",
-    "name": "Pasir Ris Market Produce Shop (441 Pasir Ris Drive 6)",
-    "lon": 103.958194,
-    "lat": 1.3691407,
-    "id": "way213638918"
-  },
-  {
-    "wayId": "166194476",
-    "date": "2 May",
-    "duration": "1150h to 1350h",
-    "name": "Tampines 1 (10 Tampines Central 1) • The Sushi Bar",
-    "lon": 103.9448102,
-    "lat": 1.3541664,
-    "id": "way166194476"
-  },
-  {
-    "wayId": "173010413",
-    "date": "2 May",
-    "duration": "1230h to 1300h",
-    "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-    "lon": 103.9878664,
-    "lat": 1.3599834,
-    "id": "way173010413"
-  },
-  {
-    "wayId": "71074841",
-    "date": "2 May",
-    "duration": "1250h to 1355h",
-    "name": "Causeway Point (1 Woodlands Square) • KFC",
-    "lon": 103.7853929,
-    "lat": 1.4362717,
-    "id": "way71074841"
-  },
-  {
-    "wayId": "174890684",
-    "date": "2 to 3 May",
-    "duration": "1600h to 0400h",
-    "name": "Kopitiam Square (10 Sengkang Square)",
-    "lon": 103.8937765,
-    "lat": 1.391236,
-    "id": "way174890684"
-  },
-  {
-    "nodeId": "1932291025",
-    "date": "2 May",
-    "duration": "1605h to 1645h",
-    "name": "White Sands (1 Pasir Ris Central Street 3) • NTUC FairPrice",
-    "lon": 103.9496345,
-    "lat": 1.3724307,
-    "id": "node1932291025"
-  },
-  {
-    "wayId": "173010413",
-    "date": "2 May",
-    "duration": "1745h to 1830h",
-    "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-    "lon": 103.9878664,
-    "lat": 1.3599834,
-    "id": "way173010413"
-  },
-  {
-    "wayId": "194260727",
-    "date": "2 May",
-    "duration": "1900h to 1930h",
-    "name": "Yummy Food Link (111 Woodlands Street 13)",
-    "lon": 103.7819698,
-    "lat": 1.4381695,
-    "id": "way194260727"
-  },
-  {
     "wayId": "479125612",
     "date": "3 May",
     "duration": "0630h to 0700h",
@@ -171,6 +72,15 @@
     "id": "way173010413"
   },
   {
+    "wayId": "118994815",
+    "date": "3 May",
+    "duration": "1255h to 1400h",
+    "name": "The Clementi Mall (3155 Commonwealth Avenue West) • Boleh Boleh!",
+    "lon": 103.7646295,
+    "lat": 1.3156143,
+    "id": "way118994815"
+  },
+  {
     "wayId": "173010413",
     "date": "3 May",
     "duration": "1315h to 1350h",
@@ -192,10 +102,19 @@
     "wayId": "502013652",
     "date": "3 May",
     "duration": "1410h to 1450h",
-    "name": "Marsiling Mall (4 Woodlands Street 12) • kcuts",
+    "name": "Marsiling Mall (4 Woodlands Street 12) • Kcuts",
     "lon": 103.77949,
     "lat": 1.4337394,
     "id": "way502013652"
+  },
+  {
+    "relationId": "3899853",
+    "date": "3 May",
+    "duration": "1505h to 1600h",
+    "name": "Tampines Mart (9 Tampines Street 32) • Giant",
+    "lon": 103.9594805,
+    "lat": 1.3539614,
+    "id": "relation3899853"
   },
   {
     "wayId": "174890684",
@@ -369,6 +288,15 @@
     "id": "way758691180"
   },
   {
+    "nodeId": "598051932",
+    "date": "4 May",
+    "duration": "1755h to 1825h",
+    "name": "Bedok Interchange Hawker Centre (208B New Upper Changi Road)",
+    "lon": 103.9305705,
+    "lat": 1.324614,
+    "id": "node598051932"
+  },
+  {
     "wayId": "201904037",
     "date": "4 May",
     "duration": "1845h to 1945h",
@@ -513,6 +441,24 @@
     "id": "way173010413"
   },
   {
+    "nodeId": "598051932",
+    "date": "5 May",
+    "duration": "1415h to 1450h",
+    "name": "Bedok Interchange Hawker Centre (208B New Upper Changi Road)",
+    "lon": 103.9305705,
+    "lat": 1.324614,
+    "id": "node598051932"
+  },
+  {
+    "wayId": "166194476",
+    "date": "5 May",
+    "duration": "1505h to 1600h",
+    "name": "Eastlink Mall (8 Tampines Central 1) • Koufu",
+    "lon": 103.9448102,
+    "lat": 1.3541664,
+    "id": "way166194476"
+  },
+  {
     "nodeId": "6817722748",
     "date": "5 May",
     "duration": "1515h to 1610h",
@@ -574,6 +520,15 @@
     "lon": 103.9459483,
     "lat": 1.3561466,
     "id": "node6817790059"
+  },
+  {
+    "wayId": "620515713",
+    "date": "5 May",
+    "duration": "1810h to 1845h",
+    "name": "Junction 8 (9 Bishan Place) • McDonald’s",
+    "lon": 103.8486315,
+    "lat": 1.3501251,
+    "id": "way620515713"
   },
   {
     "wayId": "306119940",
@@ -1035,6 +990,15 @@
     "id": "way174890684"
   },
   {
+    "wayId": "170403423",
+    "date": "7 May",
+    "duration": "1700h to 1750h",
+    "name": "Toa Payoh HDB Hub (500 Lorong 6 Toa Payoh) • NTUC FairPrice",
+    "lon": 103.8475646,
+    "lat": 1.3316893,
+    "id": "way170403423"
+  },
+  {
     "wayId": "173010413",
     "date": "7 May",
     "duration": "1730h to 1830h",
@@ -1170,6 +1134,15 @@
     "id": "way172518492"
   },
   {
+    "wayId": "117325088",
+    "date": "8 May",
+    "duration": "1000h to 1100h",
+    "name": "Teck Ghee Market & Food Centre (409 Ang Mo Kio Avenue 10)",
+    "lon": 103.8552938,
+    "lat": 1.3622677,
+    "id": "way117325088"
+  },
+  {
     "wayId": "47069573",
     "date": "8 May",
     "duration": "1015h to 1230h",
@@ -1296,6 +1269,15 @@
     "id": "way47069574"
   },
   {
+    "wayId": "166194030",
+    "date": "8 May",
+    "duration": "1510h to 1630h",
+    "name": "Tampines Mall (4 Tampines Central 5) • Genki Sushi",
+    "lon": 103.944199,
+    "lat": 1.3520486,
+    "id": "way166194030"
+  },
+  {
     "wayId": "44121572",
     "date": "8 May",
     "duration": "1525h to 1750h",
@@ -1350,6 +1332,15 @@
     "id": "way172120778"
   },
   {
+    "wayId": "170098993",
+    "date": "8 May",
+    "duration": "1745h to 1935h",
+    "name": "Ling Ling by The Wine Company (8 Dempsey Road)",
+    "lon": 103.8095872,
+    "lat": 1.3038499,
+    "id": "way170098993"
+  },
+  {
     "nodeId": "6817722748",
     "date": "8 May",
     "duration": "1800h to 1900h",
@@ -1366,6 +1357,15 @@
     "lon": 103.809923,
     "lat": 1.2567309,
     "id": "way595202369"
+  },
+  {
+    "wayId": "364714480",
+    "date": "8 May",
+    "duration": "1900h to 1930h",
+    "name": "Fengshan Market & Food Centre (85 Bedok North Street 4)",
+    "lon": 103.9390942,
+    "lat": 1.3316961,
+    "id": "way364714480"
   },
   {
     "wayId": "463063312",
@@ -1546,6 +1546,15 @@
     "lon": 103.9878664,
     "lat": 1.3599834,
     "id": "way173010413"
+  },
+  {
+    "wayId": "222452372",
+    "date": "9 May",
+    "duration": "1215h to 1300h",
+    "name": "Season Live Seafood (59E Pulau Ubin)",
+    "lon": 103.9697017,
+    "lat": 1.4025517,
+    "id": "way222452372"
   },
   {
     "wayId": "295367648",
@@ -1737,6 +1746,15 @@
     "id": "way312722345"
   },
   {
+    "wayId": "173010413",
+    "date": "10 May",
+    "duration": "1205h to 1245h",
+    "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • McDonald’s",
+    "lon": 103.9878664,
+    "lat": 1.3599834,
+    "id": "way173010413"
+  },
+  {
     "wayId": "744520551",
     "date": "10 May",
     "duration": "1250h to 1325h",
@@ -1755,6 +1773,15 @@
     "id": "way32774292"
   },
   {
+    "wayId": "443690975",
+    "date": "10 May",
+    "duration": "1310h to 1410h",
+    "name": "The Beef Station (2 Tai Thong Crescent)",
+    "lon": 103.8689129,
+    "lat": 1.3292117,
+    "id": "way443690975"
+  },
+  {
     "wayId": "775316140",
     "date": "10 May",
     "duration": "1330h to 1400h",
@@ -1762,6 +1789,15 @@
     "lon": 103.8344609,
     "lat": 1.3594254,
     "id": "way775316140"
+  },
+  {
+    "wayId": "620519197",
+    "date": "10 May",
+    "duration": "1335h to 1410h",
+    "name": "JEM (50 Jurong Gateway Road) • LeNu",
+    "lon": 103.7432181,
+    "lat": 1.3323561,
+    "id": "way620519197"
   },
   {
     "nodeId": "1932291025",
@@ -1773,6 +1809,15 @@
     "id": "node1932291025"
   },
   {
+    "wayId": "158234014",
+    "date": "10 May",
+    "duration": "1425h to 1510h",
+    "name": "Westgate (3 Gateway Drive) • Kiddy Palace",
+    "lon": 103.7424815,
+    "lat": 1.33352,
+    "id": "way158234014"
+  },
+  {
     "wayId": "169526703",
     "date": "10 May",
     "duration": "1500h to 1530h",
@@ -1780,6 +1825,15 @@
     "lon": 103.8551876,
     "lat": 1.3389907,
     "id": "way169526703"
+  },
+  {
+    "wayId": "231917869",
+    "date": "10 May",
+    "duration": "1535h to 1635h",
+    "name": "ION Orchard (2 Orchard Turn) • 4Fingers Crispy Chicken",
+    "lon": 103.8326366,
+    "lat": 1.304072,
+    "id": "way231917869"
   },
   {
     "wayId": "152638460",
@@ -1971,6 +2025,15 @@
     "id": "way830592799"
   },
   {
+    "wayId": "102429452",
+    "date": "11 May",
+    "duration": "1330h to 1635h",
+    "name": "City Square Mall (180 Kitchener Road) • EAT.",
+    "lon": 103.8559421,
+    "lat": 1.311435,
+    "id": "way102429452"
+  },
+  {
     "wayId": "539767937",
     "date": "11 May",
     "duration": "1345h to 1700h",
@@ -2070,6 +2133,15 @@
     "id": "relation2434612"
   },
   {
+    "wayId": "395022655",
+    "date": "11 May",
+    "duration": "1915h to 2000h",
+    "name": "Don Lechón (511 Guillemard Road)",
+    "lon": 103.8912505,
+    "lat": 1.3139747,
+    "id": "way395022655"
+  },
+  {
     "wayId": "517722217",
     "date": "11 May",
     "duration": "1930h to 2030h",
@@ -2095,6 +2167,24 @@
     "lon": 103.958194,
     "lat": 1.3691407,
     "id": "way213638918"
+  },
+  {
+    "relationId": "3899853",
+    "date": "12 May",
+    "duration": "1220h to 1300h",
+    "name": "Tampines Mart (9 Tampines Street 32) • Giant",
+    "lon": 103.9594805,
+    "lat": 1.3539614,
+    "id": "relation3899853"
+  },
+  {
+    "wayId": "620515713",
+    "date": "12 May",
+    "duration": "1245h to 1350h",
+    "name": "Junction 8 (9 Bishan Place) • Food Junction",
+    "lon": 103.8486315,
+    "lat": 1.3501251,
+    "id": "way620515713"
   },
   {
     "wayId": "158234014",
@@ -2124,6 +2214,15 @@
     "id": "way41663272"
   },
   {
+    "wayId": "668443018",
+    "date": "12 May",
+    "duration": "1405h to 1505h",
+    "name": "Wanyoo Cybercafe (Beauty World) (2 Cheong Chin Nam Road)",
+    "lon": 103.7752509,
+    "lat": 1.3422761,
+    "id": "way668443018"
+  },
+  {
     "wayId": "173235507",
     "date": "12 May",
     "duration": "1420h to 1515h",
@@ -2142,6 +2241,15 @@
     "id": "way173235507"
   },
   {
+    "wayId": "115313012",
+    "date": "12 May",
+    "duration": "1520h to 1620h",
+    "name": "Fu Lu Shou Complex (149 Rochor Road)",
+    "lon": 103.8543606,
+    "lat": 1.3020173,
+    "id": "way115313012"
+  },
+  {
     "wayId": "620515713",
     "date": "12 May",
     "duration": "1530h to 1720h",
@@ -2149,6 +2257,15 @@
     "lon": 103.8486315,
     "lat": 1.3501251,
     "id": "way620515713"
+  },
+  {
+    "nodeId": "598051932",
+    "date": "12 May",
+    "duration": "1620h to 1655h",
+    "name": "Bedok Interchange Hawker Centre (208B New Upper Changi Road)",
+    "lon": 103.9305705,
+    "lat": 1.324614,
+    "id": "node598051932"
   },
   {
     "relationId": "9382787",
@@ -2160,6 +2277,33 @@
     "id": "relation9382787"
   },
   {
+    "wayId": "48031573",
+    "date": "12 May",
+    "duration": "1655h to 1810h",
+    "name": "Bugis+ (201 Victoria Street)",
+    "lon": 103.8541784,
+    "lat": 1.3002257,
+    "id": "way48031573"
+  },
+  {
+    "wayId": "33737976",
+    "date": "12 May",
+    "duration": "1700h to 1800h",
+    "name": "Kopitiam (10 Jurong East Street 12)",
+    "lon": 103.7416636,
+    "lat": 1.333909,
+    "id": "way33737976"
+  },
+  {
+    "wayId": "170403423",
+    "date": "12 May",
+    "duration": "1710h to 1740h",
+    "name": "Toa Payoh HDB Hub (500 Lorong 6 Toa Payoh) • McDonald’s",
+    "lon": 103.8475646,
+    "lat": 1.3316893,
+    "id": "way170403423"
+  },
+  {
     "wayId": "620515713",
     "date": "12 May",
     "duration": "1730h to 2130h",
@@ -2167,6 +2311,33 @@
     "lon": 103.8486315,
     "lat": 1.3501251,
     "id": "way620515713"
+  },
+  {
+    "wayId": "426826505",
+    "date": "12 May",
+    "duration": "1745h to 1815h",
+    "name": "Superluck Food Court (440 Bukit Batok West Avenue 8)",
+    "lon": 103.738914,
+    "lat": 1.3554465,
+    "id": "way426826505"
+  },
+  {
+    "wayId": "426826505",
+    "date": "12 to 13 May",
+    "duration": "1815h to 0600h",
+    "name": "Sheng Siong Supermarket (440 Bukit Batok West Avenue 8)",
+    "lon": 103.738914,
+    "lat": 1.3554465,
+    "id": "way426826505"
+  },
+  {
+    "wayId": "390023257",
+    "date": "12 May",
+    "duration": "1820h to 1930h",
+    "name": "Keat Hong Community Club (2 Choa Chu Kang Loop) • SuperBowl Keat Hong",
+    "lon": 103.7452455,
+    "lat": 1.3843375,
+    "id": "way390023257"
   },
   {
     "wayId": "213638924",
@@ -2223,6 +2394,42 @@
     "id": "way108390950"
   },
   {
+    "relationId": "9842838",
+    "date": "13 May",
+    "duration": "0845h to 0915h",
+    "name": "Bukit Batok Blk 371 Coffeeshop (371 Bukit Batok Street 31)",
+    "lon": 103.7506119,
+    "lat": 1.3595552,
+    "id": "relation9842838"
+  },
+  {
+    "wayId": "117035196",
+    "date": "13 May",
+    "duration": "0900h to 0930h",
+    "name": "Thomson Plaza (301 Upper Thomson Road) • Koufu",
+    "lon": 103.8308105,
+    "lat": 1.3550579,
+    "id": "way117035196"
+  },
+  {
+    "wayId": "117035196",
+    "date": "13 May",
+    "duration": "1000h to 1030h",
+    "name": "Thomson Plaza (301 Upper Thomson Road) • FairPrice Finest",
+    "lon": 103.8308105,
+    "lat": 1.3550579,
+    "id": "way117035196"
+  },
+  {
+    "nodeId": "4302905987",
+    "date": "13 May",
+    "duration": "1155h to 1225h",
+    "name": "The Shoppes at Marina Bay Sands (10 Bayfront Avenue) • ZARA",
+    "lon": 103.8607226,
+    "lat": 1.2836965,
+    "id": "node4302905987"
+  },
+  {
     "wayId": "203258116",
     "date": "13 May",
     "duration": "1230h to 1330h",
@@ -2230,6 +2437,60 @@
     "lon": 103.9028619,
     "lat": 1.3200888,
     "id": "way203258116"
+  },
+  {
+    "nodeId": "4302905987",
+    "date": "13 May",
+    "duration": "1230h to 1600h",
+    "name": "Marina Bay Sands (10 Bayfront Avenue) • Lavo Italian Restaurant And Rooftop Bar",
+    "lon": 103.8607226,
+    "lat": 1.2836965,
+    "id": "node4302905987"
+  },
+  {
+    "wayId": "158985362",
+    "date": "13 May",
+    "duration": "1545h to 1845h",
+    "name": "Chong Yee Temple (72 Sengkang West Avenue)",
+    "lon": 103.872227,
+    "lat": 1.3917744,
+    "id": "way158985362"
+  },
+  {
+    "wayId": "747734200",
+    "date": "13 May",
+    "duration": "1700h to 1740h",
+    "name": "Millenia Walk (9 Raffles Boulevard) • Meidi-Ya Supermarket",
+    "lon": 103.8594129,
+    "lat": 1.2920682,
+    "id": "way747734200"
+  },
+  {
+    "wayId": "393090489",
+    "date": "13 May",
+    "duration": "1830h to 1930h",
+    "name": "Suntec City (3 Temasek Boulevard) • Una Una",
+    "lon": 103.8570867,
+    "lat": 1.294371,
+    "id": "way393090489"
+  },
+  {
+    "wayId": "158541462",
+    "date": "13 May",
+    "duration": "1900h to 2000h",
+    "name": "SHU Vegetarian (259 Jalan Kayu)",
+    "lon": 103.8729611,
+    "lat": 1.3968125,
+    "id": "way158541462"
+  },
+  {
+    "wayId": "393090489",
+    "date": "13 May",
+    "duration": "1930h to 2000h",
+    "name": "Suntec City (3 Temasek Boulevard) • Yenly Yours Desserts",
+    "lon": 103.8570867,
+    "lat": 1.294371,
+    "id": "way393090489"
   },
   {
     "wayId": "213638924",
@@ -2241,6 +2502,15 @@
     "id": "way213638924"
   },
   {
+    "wayId": "426826505",
+    "date": "13 to 14 May",
+    "duration": "2030h to 0600h",
+    "name": "Sheng Siong Supermarket (440 Bukit Batok West Avenue 8)",
+    "lon": 103.738914,
+    "lat": 1.3554465,
+    "id": "way426826505"
+  },
+  {
     "nodeId": "4302905987",
     "date": "13 to 14 May",
     "duration": "2230h to 0730h",
@@ -2250,6 +2520,60 @@
     "id": "node4302905987"
   },
   {
+    "wayId": "159171669",
+    "date": "14 May",
+    "duration": "0900h to 1000h",
+    "name": "Shunfu Mart Food Centre (320 Shunfu Road)",
+    "lon": 103.8366041,
+    "lat": 1.352121,
+    "id": "way159171669"
+  },
+  {
+    "wayId": "251607400",
+    "date": "14 May",
+    "duration": "1230h to 1600h",
+    "name": "Jurong Point (1 Jurong West Central 2) • Seoul Garden",
+    "lon": 103.7059254,
+    "lat": 1.3402497,
+    "id": "way251607400"
+  },
+  {
+    "wayId": "668443018",
+    "date": "14 May",
+    "duration": "1250h to 1350h",
+    "name": "Wanyoo Cybercafe (Beauty World) (2 Cheong Chin Nam Road)",
+    "lon": 103.7752509,
+    "lat": 1.3422761,
+    "id": "way668443018"
+  },
+  {
+    "wayId": "426826505",
+    "date": "14 May",
+    "duration": "1830h to 1905h",
+    "name": "Superluck Food Court (440 Bukit Batok West Avenue 8)",
+    "lon": 103.738914,
+    "lat": 1.3554465,
+    "id": "way426826505"
+  },
+  {
+    "wayId": "620519197",
+    "date": "14 May",
+    "duration": "1835h to 2145h",
+    "name": "JEM (50 Jurong Gateway Road) • Ichiban Boshi",
+    "lon": 103.7432181,
+    "lat": 1.3323561,
+    "id": "way620519197"
+  },
+  {
+    "wayId": "426826505",
+    "date": "14 to 15 May",
+    "duration": "1900h to 0600h",
+    "name": "Sheng Siong Supermarket (440 Bukit Batok West Avenue 8)",
+    "lon": 103.738914,
+    "lat": 1.3554465,
+    "id": "way426826505"
+  },
+  {
     "wayId": "32774317",
     "date": "15 May",
     "duration": "0725h to 0755h",
@@ -2257,5 +2581,50 @@
     "lon": 103.9011771,
     "lat": 1.385057,
     "id": "way32774317"
+  },
+  {
+    "wayId": "104000617",
+    "date": "15 May",
+    "duration": "0900h to 0930h",
+    "name": "Jinwei Hai Xian (280 Bishan Street 24)",
+    "lon": 103.8443785,
+    "lat": 1.3574907,
+    "id": "way104000617"
+  },
+  {
+    "wayId": "103974208",
+    "date": "15 May",
+    "duration": "0930h to 1030h",
+    "name": "NTUC FairPrice (279 Bishan Street 24)",
+    "lon": 103.8438391,
+    "lat": 1.3570068,
+    "id": "way103974208"
+  },
+  {
+    "wayId": "52236347",
+    "date": "15 May",
+    "duration": "1320h to 1520h",
+    "name": "313@Somerset (313 Orchard Road) • Josh's Grill",
+    "lon": 103.8388717,
+    "lat": 1.3011138,
+    "id": "way52236347"
+  },
+  {
+    "wayId": "116818121",
+    "date": "15 May",
+    "duration": "1500h to 1530h",
+    "name": "7‑Eleven Waterfront Station (32 Sentosa Gateway)",
+    "lon": 103.8211768,
+    "lat": 1.2557907,
+    "id": "way116818121"
+  },
+  {
+    "wayId": "46522846",
+    "date": "15 May",
+    "duration": "1515h to 1710h",
+    "name": "YWCA Fort Canning (6 Fort Canning Road)",
+    "lon": 103.8447924,
+    "lat": 1.2977599,
+    "id": "way46522846"
   }
 ]

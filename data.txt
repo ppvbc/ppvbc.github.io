@@ -1,14 +1,3 @@
-2 May 0830h to 2220h White Sands (1 Pasir Ris Central Street 3) • Unity Pharmacy
-2 May 0945h to 1015h Marsiling Market (20 Marsiling Lane)
-2 May 1130h to 1225h Changi Airport Terminal 1 (80 Airport Boulevard) • Orchis Food Court
-2 May 1020h to 1105h Pasir Ris Market Produce Shop (441 Pasir Ris Drive 6)
-2 May 1150h to 1350h Tampines 1 (10 Tampines Central 1) • The Sushi Bar
-2 May 1230h to 1300h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
-2 May 1250h to 1355h Causeway Point (1 Woodlands Square) • KFC
-2 to 3 May 1600h to 0400h Kopitiam Square (10 Sengkang Square)
-2 May 1605h to 1645h White Sands (1 Pasir Ris Central Street 3) • NTUC FairPrice
-2 May 1745h to 1830h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
-2 May 1900h to 1930h Yummy Food Link (111 Woodlands Street 13)
 3 May 0630h to 0700h Food Inn Eating House (2 Clementi Loop)
 3 May 0700h to 1500h M171 Gourmet Street Coffeeshop (171 MacPherson Road)
 3 May 0830h to 2220h White Sands (1 Pasir Ris Central Street 3) • Unity Pharmacy
@@ -17,9 +6,11 @@
 3 May 1200h to 1230h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 3 May 1200h to 1230h Food Inn Eating House (2 Clementi Loop)
 3 May 1200h to 1305h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
+3 May 1255h to 1400h The Clementi Mall (3155 Commonwealth Avenue West) • Boleh Boleh!
 3 May 1315h to 1350h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 3 May 1340h to 1420h Changi Airport Terminal 1 (80 Airport Boulevard) • Orchis Food Court
-3 May 1410h to 1450h Marsiling Mall (4 Woodlands Street 12) • kcuts
+3 May 1410h to 1450h Marsiling Mall (4 Woodlands Street 12) • Kcuts
+3 May 1505h to 1600h Tampines Mart (9 Tampines Street 32) • Giant
 3 to 4 May 1600h to 0400h Kopitiam Square (10 Sengkang Square)
 3 May 1600h to 1645h Junction 8 (9 Bishan Place) • KFC
 3 May 1700h to 2200h Junction 8 (9 Bishan Place) • Food Junction
@@ -39,6 +30,7 @@
 4 May 1600h to 1700h Eunos Food Station (2A Eunos Crescent)
 4 May 1615h to 1710h Changi Airport Terminal 1 (80 Airport Boulevard) • Orchis Food Court
 4 May 1750h to 1850h Anytime Fitness (190 Choa Chu Kang Avenue 1)
+4 May 1755h to 1825h Bedok Interchange Hawker Centre (208B New Upper Changi Road)
 4 May 1845h to 1945h Geylang Serai Malay Market and Food Centre (1 Geylang Serai)
 4 May 1930h to 2000h Yummy Food Link (111 Woodlands Street 13)
 4 May 1955h to 2030h Joo Chiat Complex (1 Joo Chiat Road)
@@ -55,6 +47,8 @@
 5 May 1235h to 1305h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
 5 May 1310h to 1405h Giant Hypermarket – Tampines (21 Tampines North Drive 2)
 5 May 1415h to 1440h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
+5 May 1415h to 1450h Bedok Interchange Hawker Centre (208B New Upper Changi Road)
+5 May 1505h to 1600h Eastlink Mall (8 Tampines Central 1) • Koufu
 5 May 1515h to 1610h Junction 9 (18 Yishun Avenue 9) • Sheng Siong Supermarket
 5 May 1600h to 1700h Changi General Hospital (2 Simei Street 3) • Kopitiam
 5 to 6 May 1600h to 0400h Kopitiam Square (10 Sengkang Square)
@@ -62,6 +56,7 @@
 5 May 1610h to 2045h Thye Hwa Heng Canteen (29 Eunos Avenue 6)
 5 May 1735h to 2100h Royal Albatross (8 Sentosa Gateway)
 5 May 1750h to 1820h Sheng Siong Supermarket (506 Tampines Central 1)
+5 May 1810h to 1845h Junction 8 (9 Bishan Place) • McDonald’s
 5 May 1815h to 1850h Killiney Kopitiam (11 Upper East Coast Road)
 5 May 1820h to 1850h Snip Avenue (419 Tampines Street 41)
 5 May 1830h to 1935h Parkway Parade (80 Marine Parade) • Ramen Dining Keisuke Tokyo
@@ -113,6 +108,7 @@
 7 May 1450h to 1600h Hougang Mall (90 Hougang Avenue 10)
 7 May 1600h to 1800h Century Square (2 Tampines Central 5) • Learning Point
 7 to 8 May 1600h to 0400h Kopitiam Square (10 Sengkang Square)
+7 May 1700h to 1750h Toa Payoh HDB Hub (500 Lorong 6 Toa Payoh) • NTUC FairPrice
 7 May 1730h to 1830h Changi Airport Terminal 3 (65 Airport Boulevard) • Heavenly Wang
 7 May 1800h to 1930h 473 Coffee Stop (473 Fernvale Street) • Michin Korean BBQ and Hotpot
 7 May 1900h to 2000h Street 82 Coffee House (844 Tampines Street 82)
@@ -128,6 +124,7 @@
 8 May 0900h to 1100h Happy Hawkers (267 Compassvale Link)
 8 May 0915h to 1715h Parkway Centre (08/09 Marine Parade Central) • Learning Point
 8 May 0940h to 1830h Lucky Plaza (304 Orchard Road) • LBC Express Airfreight (S) Pte Ltd
+8 May 1000h to 1100h Teck Ghee Market & Food Centre (409 Ang Mo Kio Avenue 10)
 8 May 1015h to 1230h Parkway Centre (08/09 Marine Parade Central) • Learning Point
 8 May 1020h to 1100h Pasir Ris Market Produce Shop (441 Pasir Ris Drive 6)
 8 May 1135h to 1235h Eastpoint Mall (3 Simei Street 6) • Ah Khoo Kopi Toast
@@ -142,15 +139,18 @@
 8 May 1405h to 1525h Joo Chiat Complex (1 Joo Chiat Road) • Ming Seng Goldsmith
 8 May 1430h to 1515h Balestier Bak Kut Teh (365 & 369 Balestier Road)
 8 May 1500h to 1600h 84 Marine Parade Central Market and Food Centre (84 Marine Parade Central)
+8 May 1510h to 1630h Tampines Mall (4 Tampines Central 5) • Genki Sushi
 8 May 1525h to 1750h Parkway Parade (80 Marine Parade) • Sushi Express • BEST DENKI
 8 to 9 May 1550h to 0000h Reservoir Village (744 Bedok Reservoir Road) • McDonald’s
 8 May 1600h to 1630h Junction 9 (18 Yishun Avenue 9)
 8 to 9 May 1600h to 0400h Kopitiam Square (10 Sengkang Square)
 8 May 1625h to 1745h Tampines 1 (10 Tampines Central 1) • Oriental Hair Solutions
 8 May 1700h to 1745h Chong Pang City Wet Market & Food Centre (105 Yishun Ring Road)
+8 May 1745h to 1935h Ling Ling by The Wine Company (8 Dempsey Road)
 8 May 1800h to 1900h Junction 9 (18 Yishun Avenue 9) • Wak Min Food And Catering
 8 May 1800h to 1930h Shangri-La Rasa Sentosa, Singapore (101 Siloso Road) • Silver Shell Café
-8 May 1900h to 2000h Paya Lebar Quarter Mall (10 Paya Lebar Road) Ichikokudo Hokkaido Ramen
+8 May 1900h to 1930h Fengshan Market & Food Centre (85 Bedok North Street 4)
+8 May 1900h to 2000h Paya Lebar Quarter Mall (10 Paya Lebar Road) • Ichikokudo Hokkaido Ramen
 8 May 1900h to 2100h Shangri-La Rasa Sentosa, Singapore (101 Siloso Road) • Silver Shell Café
 8 May 1905h to 2040h Sampo Korean BBQ Restaurant (132 Telok Ayer Street)
 8 May 1930h to 2030h Eat First (891 East Coast Road)
@@ -170,6 +170,7 @@
 9 May 1145h to 1215h Twin Elite Unisex Hairdressing Salon (13 Old Airport Road)
 9 May 1200h to 1300h Aperia (12 Kallang Avenue) • kcuts
 9 May 1200h to 2100h Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam
+9 May 1215h to 1300h Season Live Seafood (59E Pulau Ubin)
 9 May 1305h to 1340h Tampines East Community Centre (10 Tampines Street 23)
 9 May 1400h to 1445h Orchard Central (181 Orchard Road) • Olson Studio
 9 May 1415h to 1515h One@KentRidge (1 Lower Kent Ridge Road) • Burger King
@@ -191,11 +192,16 @@
 10 May 1115h to 1800h Marina Bay Sands Casino (10 Bayfront Ave)
 10 May 1150h to 1220h Upper Boon Keng Market and Food Centre (17 Upper Boon Keng Road)
 10 May 1200h to 1230h Selegie Soyabean (320 Bedok Road)
+10 May 1205h to 1245h Changi Airport Terminal 3 (65 Airport Boulevard) • McDonald’s
 10 May 1250h to1325h Jewel Changi Airport (78 Airport Boulevard) • Five Spice
 10 May 1250h to 1330h Compass One (1 Sengkang Square) • Timezone
+10 May 1310h to 1410h The Beef Station (2 Tai Thong Crescent)
 10 May 1330h to 1400h Midview City (26 Sin Ming Lane) • Rong Cheng (Sin Ming Road) Bak Kut Teh
+10 May 1335h to 1410h JEM (50 Jurong Gateway Road) • LeNu
 10 May 1415h to 1530h White Sands (1 Pasir Ris Central Street 3)
+10 May 1425h to 1510h Westgate (3 Gateway Drive) • Kiddy Palace
 10 May 1500h to 1530h Sheng Siong Supermarket (4 Lorong 7 Toa Payoh)
+10 May 1535h to 1635h ION Orchard (2 Orchard Turn) • 4Fingers Crispy Chicken
 10 May 1535h to 1640h Craftsmen Specialty Coffee Holland (275 Holland Avenue)
 10 May 1600h to 1650h Tampines 1 (10 Tampines Central 1) • DAISO
 10 May 1600h to 1930h Kopitiam Square (10 Sengkang Square)
@@ -217,6 +223,7 @@
 11 May 1240h to 1340h Changi City Point (5 Changi Business Park Central 1)
 11 May 1300h to 1330h Prime Supermarket (823 Tampines Street 81)
 11 May 1300h to 1330h Changi City Point (5 Changi Business Park Central 1) • McDonald’s
+11 May 1330h to 1635h City Square Mall (180 Kitchener Road) • EAT.
 11 May 1345h to 1700h Plaza Singapura (68 Orchard Road) • Hot Tomato Bistro • Cold Storage • DAISO
 11 May 1420h to 1500h White Sands (1 Pasir Ris Central Street 3) • Ya Kun Family Café
 11 May 1515h to 1615h Sheng Siong Supermarket (19 Serangoon North Avenue 5)
@@ -228,24 +235,58 @@
 11 May 1830h to 1915h Bedok Point (799 New Upper Changi Road) • Saizeriya
 11 May 1840h to 1940h JEM (50 Jurong Gateway Road) • Tipsy Bunny
 11 May 1900h to 2000h Boon Lay Shopping Centre (221 Boon Lay Place)
+11 May 1915h to 2000h Don Lechón (511 Guillemard Road)
 11 May 1930h to 2030h Food Paradise (279 Sengkang East Avenue)
 11 May 2100h to 2130h Junction 8 (9 Bishan Place) • What the Fish
 12 May 0710h to 0750h Pasir Ris Market Produce Shop (441 Pasir Ris Drive 6)
+12 May 1220h to 1300h Tampines Mart (9 Tampines Street 32) • Giant
+12 May 1245h to 1350h Junction 8 (9 Bishan Place) • Food Junction
 12 May 1300h to 2000h Westgate (3 Gateway Drive) • Star Arts
 12 May 1305h to 1405h Old Airport Road Food Centre & Shopping Mall (51 Old Airport Road)
 12 May 1310h to 1410h KK Women’s and Children’s Hospital (100 Bukit Timah Road) • Healthy Kopitiam
+12 May 1405h to 1505h Wanyoo Cybercafe (Beauty World) (2 Cheong Chin Nam Road)
 12 May 1420h to 1515h Market Square @ Downtown East (1 Pasir Ris Close) • Mr Chicken Rice
 12 May 1515h to 1710h Market Square @ Downtown East • NTUC FairPrice
+12 May 1520h to 1620h Fu Lu Shou Complex (149 Rochor Road)
 12 May 1530h to 1720h Junction 8 (9 Bishan Place) • Ambush
+12 May 1620h to 1655h Bedok Interchange Hawker Centre (208B New Upper Changi Road)
 12 May 1645h to 1745h Bedok Mall (311 New Upper Changi Road) • Singtel Exclusive Retailer
+12 May 1655h to 1810h Bugis+ (201 Victoria Street)
+12 May 1700h to 1800h Kopitiam (10 Jurong East Street 12)
+12 May 1710h to 1740h Toa Payoh HDB Hub (500 Lorong 6 Toa Payoh) • McDonald’s
 12 May 1730h to 2130h Junction 8 (9 Bishan Place) • What the Fish
+12 May 1745h to 1815h Superluck Food Court (440 Bukit Batok West Avenue 8)
+12 to 13 May 1815h to 0600h Sheng Siong Supermarket (440 Bukit Batok West Avenue 8)
+12 May 1820h to 1930h Keat Hong Community Club (2 Choa Chu Kang Loop) • SuperBowl Keat Hong
 12 May 2000h to 2200h Kimly Coffeeshop (444 Pasir Ris Drive 6)
 12 May 2100h to 2145h Compass One (1 Sengkang Square) • Pontian Wanton Noodles
 12 May 2200h to 2230h Yuhua Place(345 Jurong East Street 31) • NTUC FairPrice
 13 May 0820h to 0920h JEM (50 Jurong Gateway Road)
 13 May 0830h to 0900h JEM (50 Jurong Gateway Road) • Toast Box
 12 May 2200h to 2230h Yuhua Place (345 Jurong East Street 31) • NTUC FairPrice
+13 May 0845h to 0915h Bukit Batok Blk 371 Coffeeshop (371 Bukit Batok Street 31)
+13 May 0900h to 0930h Thomson Plaza (301 Upper Thomson Road) • Koufu
+13 May 1000h to 1030h Thomson Plaza (301 Upper Thomson Road) • FairPrice Finest
+13 May 1155h to 1225h The Shoppes at Marina Bay Sands (10 Bayfront Avenue) • ZARA
 13 May 1230h to 1330h Eunos Food Station (2A Eunos Crescent)
+13 May 1230h to 1600h Marina Bay Sands (10 Bayfront Avenue) • Lavo Italian Restaurant And Rooftop Bar
+13 May 1545h to 1845h Chong Yee Temple (72 Sengkang West Avenue)
+13 May 1700h to 1740h Millenia Walk (9 Raffles Boulevard) • Meidi-Ya Supermarket
+13 May 1830h to 1930h Suntec City (3 Temasek Boulevard) • Una Una
+13 May 1900h to 2000h SHU Vegetarian (259 Jalan Kayu)
+13 May 1930h to 2000h Suntec City (3 Temasek Boulevard) • Yenly Yours Desserts
 13 May 2030h to 2200h Kimly Coffeeshop (444 Pasir Ris Drive 6)
+13 to 14 May 2030h to 0600h Sheng Siong Supermarket (440 Bukit Batok West Avenue 8)
 13 to 14 May 2230h to 0730h Marina Bay Sands Casino (10 Bayfront Avenue)
+14 May 0900h to 1000h Shunfu Mart Food Centre (320 Shunfu Road)
+14 May 1230h to 1600h Jurong Point (1 Jurong West Central 2) • Seoul Garden
+14 May 1250h to 1350h Wanyoo Cybercafe (Beauty World) (2 Cheong Chin Nam Road)
+14 May 1830h to 1905h Superluck Food Court (440 Bukit Batok West Avenue 8)
+14 May 1835h to 2145h JEM (50 Jurong Gateway Road) • Ichiban Boshi
+14 to 15 May 1900h to 0600h Sheng Siong Supermarket (440 Bukit Batok West Avenue 8)
 15 May 0725h to 0755h Rivervale Plaza (118 Rivervale Drive) • Koufu
+15 May 0900h to 0930h Jinwei Hai Xian (280 Bishan Street 24)
+15 May 0930h to 1030h NTUC FairPrice (279 Bishan Street 24)
+15 May 1320h to 1520h 313@Somerset (313 Orchard Road) • Josh's Grill
+15 May 1500h to 1530h 7‑Eleven Waterfront Station (32 Sentosa Gateway)
+15 May 1515h to 1710h YWCA Fort Canning (6 Fort Canning Road)
