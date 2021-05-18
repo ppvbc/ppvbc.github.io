@@ -15,10 +15,6 @@
     <div id="footer">
       <div id="lastUpdated"></div>
       <div id="ads">
-        <div id="ad-0" class="ad">
-          <span>Let's TraceTogether.</span>
-          <a id="alink-0" class="alink" href="https://shopee.sg/Trace-Together-Token-Pouch-Cover-Case-Holder-Cartoon-Silicon-Case-D-Perfect-Fitting-Free-Lanyard-Tag.-i.358814719.3678824358?utm_source=14302920000&utm_medium=affiliates&utm_campaign=CHPeck_LogitechC920&utm_content=----&af_siteid=an_14302920000&pid=affiliates&af_click_lookback=7d&af_viewthrough_lookback=1d&is_retargeting=true&af_reengagement_window=7d&af_sub_siteid=----&c=----" target="_blank">Buy a Token Cover</a>
-        </div>
         <div id="ad-1" class="ad">
           <span>Stay Safe. Mask Up.</span>
           <a id="alink-1" class="alink" href="https://shopee.sg/universal-link/-Korea-%F0%9F%87%B0%F0%9F%87%B74ply-3D-Mask%E3%85%A3KF94-Korean-Face-mask-approved-KFDA%E3%85%A3Black-White%E3%85%A3Slim-Large-size-l-Disposable-Antibacterial-Protective-i.350565725.4670845842?utm_source=14302920000&utm_medium=affiliates&utm_campaign=CHPeck_K94Mask&utm_content=----&af_siteid=an_14302920000&pid=affiliates&af_click_lookback=7d&af_viewthrough_lookback=1d&is_retargeting=true&af_reengagement_window=7d&af_sub_siteid=----&c=----" target="_blank">Try KF94 Mask</a>
@@ -30,6 +26,10 @@
         <div id="ad-3" class="ad">
           <span>Work from home.</span>
           <a id="alink-3" class="alink" href="https://shopee.sg/universal-link/collections/764371?utm_source=14302920000&utm_medium=affiliates&utm_campaign=CHPeck_LogitechC920&utm_content=----&af_siteid=an_14302920000&pid=affiliates&af_click_lookback=7d&af_viewthrough_lookback=1d&is_retargeting=true&af_reengagement_window=7d&af_sub_siteid=----&c=----" target="_blank">Upgrade your gear</a>
+        </div>
+        <div id="ad-4" class="ad">
+          <span>Work from home.</span>
+          <a id="alink-4" class="alink" href="https://shopee.sg/universal-link/product/120981896/3242258901?utm_source=an_14302920000&utm_medium=affiliates&utm_campaign=5hdhmaqktnrj-1085-seller&utm_content=----&af_siteid=an_14302920000&pid=affiliates&af_click_lookback=7d&af_viewthrough_lookback=1d&is_retargeting=true&af_reengagement_window=7d&af_sub_siteid=----&c=5hdhmaqktnrj-1085-seller" target="_blank">Get a headset</a>
         </div>
       </div>
     </div>
@@ -170,8 +170,8 @@ const combinePlaces = R.compose(
   })
 )
 const compareId = (a, b) => getId(a) == getId(b)
-const adId = Math.floor(Math.random() * $('.ad').length)
-$($('.ad')[adId]).show()
+const adIdx = Math.floor(Math.random() * $('.ad').length)
+$($('.ad')[adIdx]).show()
 
 $.getJSON('data-prev-fetched.json', (data) => {
   const prevPlaces = data.visits
