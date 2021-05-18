@@ -124,6 +124,12 @@ html, body {
     <script>
 const map = new OpenLayers.Map("mapdiv")
 const osm = new OpenLayers.Layer.OSM('ppvbc', null, { tileOptions: { crossOriginKeyword: null } })
+const showAd = () => {
+  const adIdx = Math.floor(Math.random() * $('.ad').length)
+  $('.ad').hide()
+  $($('.ad')[adIdx]).show()
+}
+showAd()
 function closePopups(e) {
   $(map.popups).each((idx, popup) => popup.destroy())
 }
@@ -170,9 +176,6 @@ const combinePlaces = R.compose(
   })
 )
 const compareId = (a, b) => getId(a) == getId(b)
-const adIdx = Math.floor(Math.random() * $('.ad').length)
-$($('.ad')[adIdx]).show()
-
 $.getJSON('data-prev-fetched.json', (data) => {
   const prevPlaces = data.visits
   const combinedPrevPlaces = combinePlaces(prevPlaces)
@@ -219,7 +222,10 @@ $.getJSON('data-prev-fetched.json', (data) => {
                                                        popupHtml,
                                                        null,
                                                        false)
-        $(popup.contentDiv).click(closePopups)
+        $(popup.contentDiv).click(() => {
+          closePopups()
+          showAd()
+        })
         map.addPopup(popup)
       }
       marker.events.register('click', marker, showPopup)
