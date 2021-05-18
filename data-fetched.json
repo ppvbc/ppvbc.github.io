@@ -2,195 +2,6 @@
   "visits": [
     {
       "wayId": "479125612",
-      "date": "3 May",
-      "duration": "0630h to 0700h",
-      "name": "Food Inn Eating House (2 Clementi Loop)",
-      "lon": 103.7631251,
-      "lat": 1.3270615,
-      "id": "way479125612"
-    },
-    {
-      "wayId": "878815622",
-      "date": "3 May",
-      "duration": "0700h to 1500h",
-      "name": "M171 Gourmet Street Coffeeshop (171 MacPherson Road)",
-      "lon": 103.8740134,
-      "lat": 1.3299853,
-      "id": "way878815622"
-    },
-    {
-      "nodeId": "1932291025",
-      "date": "3 May",
-      "duration": "0830h to 2220h",
-      "name": "White Sands (1 Pasir Ris Central Street 3) • Unity Pharmacy",
-      "lon": 103.9496345,
-      "lat": 1.3724307,
-      "id": "node1932291025"
-    },
-    {
-      "wayId": "194260727",
-      "date": "3 May",
-      "duration": "0900h to 0930h",
-      "name": "Yummy Food Link (111 Woodlands Street 13)",
-      "lon": 103.7819698,
-      "lat": 1.4381695,
-      "id": "way194260727"
-    },
-    {
-      "wayId": "173010413",
-      "date": "3 May",
-      "duration": "1115h to 1200h",
-      "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-      "lon": 103.9878664,
-      "lat": 1.3599834,
-      "id": "way173010413"
-    },
-    {
-      "wayId": "173010413",
-      "date": "3 May",
-      "duration": "1200h to 1230h",
-      "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-      "lon": 103.9878664,
-      "lat": 1.3599834,
-      "id": "way173010413"
-    },
-    {
-      "wayId": "479125612",
-      "date": "3 May",
-      "duration": "1200h to 1230h",
-      "name": "Food Inn Eating House (2 Clementi Loop)",
-      "lon": 103.7631251,
-      "lat": 1.3270615,
-      "id": "way479125612"
-    },
-    {
-      "wayId": "173010413",
-      "date": "3 May",
-      "duration": "1200h to 1305h",
-      "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-      "lon": 103.9878664,
-      "lat": 1.3599834,
-      "id": "way173010413"
-    },
-    {
-      "wayId": "118994815",
-      "date": "3 May",
-      "duration": "1255h to 1400h",
-      "name": "The Clementi Mall (3155 Commonwealth Avenue West) • Boleh Boleh!",
-      "lon": 103.7646295,
-      "lat": 1.3156143,
-      "id": "way118994815"
-    },
-    {
-      "wayId": "173010413",
-      "date": "3 May",
-      "duration": "1315h to 1350h",
-      "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-      "lon": 103.9878664,
-      "lat": 1.3599834,
-      "id": "way173010413"
-    },
-    {
-      "wayId": "26561741",
-      "date": "3 May",
-      "duration": "1340h to 1420h",
-      "name": "Changi Airport Terminal 1 (80 Airport Boulevard) • Orchis Food Court",
-      "lon": 103.9897951,
-      "lat": 1.3649374,
-      "id": "way26561741"
-    },
-    {
-      "wayId": "502013652",
-      "date": "3 May",
-      "duration": "1410h to 1450h",
-      "name": "Marsiling Mall (4 Woodlands Street 12) • Kcuts",
-      "lon": 103.77949,
-      "lat": 1.4337394,
-      "id": "way502013652"
-    },
-    {
-      "relationId": "3899853",
-      "date": "3 May",
-      "duration": "1505h to 1600h",
-      "name": "Tampines Mart (9 Tampines Street 32) • Giant",
-      "lon": 103.9594805,
-      "lat": 1.3539614,
-      "id": "relation3899853"
-    },
-    {
-      "wayId": "174890684",
-      "date": "3 to 4 May",
-      "duration": "1600h to 0400h",
-      "name": "Kopitiam Square (10 Sengkang Square)",
-      "lon": 103.8937765,
-      "lat": 1.391236,
-      "id": "way174890684"
-    },
-    {
-      "wayId": "620515713",
-      "date": "3 May",
-      "duration": "1600h to 1645h",
-      "name": "Junction 8 (9 Bishan Place) • KFC",
-      "lon": 103.8486315,
-      "lat": 1.3501251,
-      "id": "way620515713"
-    },
-    {
-      "wayId": "620515713",
-      "date": "3 May",
-      "duration": "1700h to 2200h",
-      "name": "Junction 8 (9 Bishan Place) • Food Junction",
-      "lon": 103.8486315,
-      "lat": 1.3501251,
-      "id": "way620515713"
-    },
-    {
-      "wayId": "173010413",
-      "date": "3 May",
-      "duration": "1750h to 1825h",
-      "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-      "lon": 103.9878664,
-      "lat": 1.3599834,
-      "id": "way173010413"
-    },
-    {
-      "wayId": "166194476",
-      "date": "3 May",
-      "duration": "1835h to 2030h",
-      "name": "Tampines 1 (10 Tampines Central) • A1 Claypot",
-      "lon": 103.9448102,
-      "lat": 1.3541664,
-      "id": "way166194476"
-    },
-    {
-      "wayId": "173010413",
-      "date": "3 May",
-      "duration": "1840h to 2035h",
-      "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Central Thai",
-      "lon": 103.9878664,
-      "lat": 1.3599834,
-      "id": "way173010413"
-    },
-    {
-      "wayId": "194260727",
-      "date": "3 May",
-      "duration": "1900h to 1930h",
-      "name": "Yummy Food Link (111 Woodlands Street 13)",
-      "lon": 103.7819698,
-      "lat": 1.4381695,
-      "id": "way194260727"
-    },
-    {
-      "wayId": "173010413",
-      "date": "3 May",
-      "duration": "2025h to 2125h",
-      "name": "Changi Airport Terminal 3 (65 Airport Boulevard) • Kopitiam",
-      "lon": 103.9878664,
-      "lat": 1.3599834,
-      "id": "way173010413"
-    },
-    {
-      "wayId": "479125612",
       "date": "4 May",
       "duration": "0630h to 0700h",
       "name": "Food Inn Eating House (2 Clementi Loop)",
@@ -244,6 +55,15 @@
       "id": "way173010413"
     },
     {
+      "relationId": "2353588",
+      "date": "4 May",
+      "duration": "1425h to 1455h",
+      "name": "VivoCity (1 HarbourFront Walk) • Kopitiam",
+      "lon": 103.8208095,
+      "lat": 1.2635745,
+      "id": "relation2353588"
+    },
+    {
       "wayId": "173010413",
       "date": "4 May",
       "duration": "1520h to 1620h",
@@ -280,6 +100,15 @@
       "id": "way26561741"
     },
     {
+      "wayId": "463063312",
+      "date": "4 May",
+      "duration": "1720h to 1755h",
+      "name": "PLQ Mall (10 Paya Lebar Road)",
+      "lon": 103.8926196,
+      "lat": 1.3179032,
+      "id": "way463063312"
+    },
+    {
       "wayId": "758691180",
       "date": "4 May",
       "duration": "1750h to 1850h",
@@ -296,6 +125,15 @@
       "lon": 103.9305705,
       "lat": 1.324614,
       "id": "node598051932"
+    },
+    {
+      "wayId": "218269179",
+      "date": "4 May",
+      "duration": "1820h to 1855h",
+      "name": "Paya Lebar Square (60 Paya Lebar Road)",
+      "lon": 103.8923096,
+      "lat": 1.3182332,
+      "id": "way218269179"
     },
     {
       "wayId": "201904037",
@@ -386,6 +224,15 @@
       "lon": 103.9496345,
       "lat": 1.3724307,
       "id": "node1932291025"
+    },
+    {
+      "wayId": "116818224",
+      "date": "5 May",
+      "duration": "1000h to 2030h",
+      "name": "Toast & Curry (43 Siloso Beach Walk)",
+      "lon": 103.8178715,
+      "lat": 1.25208,
+      "id": "way116818224"
     },
     {
       "wayId": "166723949",
@@ -1630,6 +1477,15 @@
       "id": "way107578653"
     },
     {
+      "relationId": "11996246",
+      "date": "9 May",
+      "duration": "1900h to 2000h",
+      "name": "Ri Ri Sheng Mala Hotpot (823A Tampines Street 81)",
+      "lon": 103.9337936,
+      "lat": 1.349008,
+      "id": "relation11996246"
+    },
+    {
       "wayId": "170098979",
       "date": "9 May",
       "duration": "2000h to 2120h",
@@ -1709,6 +1565,15 @@
       "lon": 103.9496345,
       "lat": 1.3724307,
       "id": "node1932291025"
+    },
+    {
+      "wayId": "172029078",
+      "date": "10 May",
+      "duration": "1050h to 1230h",
+      "name": "Immigration Checkpoint Authority (10 Kallang Road)",
+      "lon": 103.8627269,
+      "lat": 1.3062708,
+      "id": "way172029078"
     },
     {
       "wayId": "32774292",
@@ -2064,7 +1929,25 @@
     {
       "wayId": "364073828",
       "date": "11 May",
+      "duration": "1600h to 1650h",
+      "name": "Hillion Mall (17 Petir Road)",
+      "lon": 103.7624086,
+      "lat": 1.3787262,
+      "id": "way364073828"
+    },
+    {
+      "wayId": "364073828",
+      "date": "11 May",
       "duration": "1605h to 1745h",
+      "name": "Hillion Mall (17 Petir Road) • Kopitiam",
+      "lon": 103.7624086,
+      "lat": 1.3787262,
+      "id": "way364073828"
+    },
+    {
+      "wayId": "364073828",
+      "date": "11 May",
+      "duration": "1650h to 1730h",
       "name": "Hillion Mall (17 Petir Road) • Kopitiam",
       "lon": 103.7624086,
       "lat": 1.3787262,
@@ -2260,6 +2143,15 @@
       "id": "way620515713"
     },
     {
+      "wayId": "85584512",
+      "date": "12 May",
+      "duration": "1600h to 1730h",
+      "name": "Start Smart Learning Centre Pte Ltd (164 Tampines St 12)",
+      "lon": 103.9454364,
+      "lat": 1.3496711,
+      "id": "way85584512"
+    },
+    {
       "nodeId": "598051932",
       "date": "12 May",
       "duration": "1620h to 1655h",
@@ -2341,6 +2233,15 @@
       "id": "way390023257"
     },
     {
+      "wayId": "599416637",
+      "date": "12 May",
+      "duration": "1930h to 2005h",
+      "name": "Le Quest Shopping Mall (4 Bukit Batok Street 41) • FairPrice Finest",
+      "lon": 103.7408327,
+      "lat": 1.3566083,
+      "id": "way599416637"
+    },
+    {
       "wayId": "213638924",
       "date": "12 May",
       "duration": "2000h to 2200h",
@@ -2368,6 +2269,24 @@
       "id": "way108390950"
     },
     {
+      "wayId": "108390950",
+      "date": "12 May",
+      "duration": "2200h to 2230h",
+      "name": "Yuhua Place (345 Jurong East Street 31) • NTUC FairPrice",
+      "lon": 103.7308297,
+      "lat": 1.3454166,
+      "id": "way108390950"
+    },
+    {
+      "wayId": "116818224",
+      "date": "12 May to 13 May",
+      "duration": "1000h to 2030h",
+      "name": "Toast & Curry (43 Siloso Beach Walk)",
+      "lon": 103.8178715,
+      "lat": 1.25208,
+      "id": "way116818224"
+    },
+    {
       "wayId": "620519197",
       "date": "13 May",
       "duration": "0820h to 0920h",
@@ -2384,15 +2303,6 @@
       "lon": 103.7432181,
       "lat": 1.3323561,
       "id": "way620519197"
-    },
-    {
-      "wayId": "108390950",
-      "date": "12 May",
-      "duration": "2200h to 2230h",
-      "name": "Yuhua Place (345 Jurong East Street 31) • NTUC FairPrice",
-      "lon": 103.7308297,
-      "lat": 1.3454166,
-      "id": "way108390950"
     },
     {
       "relationId": "9842838",
@@ -2467,6 +2377,33 @@
       "id": "way747734200"
     },
     {
+      "wayId": "71074841",
+      "date": "13 May",
+      "duration": "1710h to 1830h",
+      "name": "Causeway Point (1 Woodlands Square)",
+      "lon": 103.7853929,
+      "lat": 1.4362717,
+      "id": "way71074841"
+    },
+    {
+      "wayId": "71074841",
+      "date": "13 May",
+      "duration": "1725h to 1825h",
+      "name": "Causeway Point (1 Woodlands Square) • Metro Department Store",
+      "lon": 103.7853929,
+      "lat": 1.4362717,
+      "id": "way71074841"
+    },
+    {
+      "wayId": "251582198",
+      "date": "13 May",
+      "duration": "1825h to 2030h",
+      "name": "Wood Square (6 Woodlands Square) • Sanook Kitchen",
+      "lon": 103.7850897,
+      "lat": 1.4346132,
+      "id": "way251582198"
+    },
+    {
       "wayId": "393090489",
       "date": "13 May",
       "duration": "1830h to 1930h",
@@ -2512,6 +2449,15 @@
       "id": "way426826505"
     },
     {
+      "wayId": "104989047",
+      "date": "13 May",
+      "duration": "2140h to 2220h",
+      "name": "NTUC FairPrice (152B Serangoon North Avenue 1)",
+      "lon": 103.8731165,
+      "lat": 1.3699569,
+      "id": "way104989047"
+    },
+    {
       "nodeId": "4302905987",
       "date": "13 to 14 May",
       "duration": "2230h to 0730h",
@@ -2521,6 +2467,15 @@
       "id": "node4302905987"
     },
     {
+      "wayId": "154161595",
+      "date": "14 May",
+      "duration": "0810h to 0910h",
+      "name": "Marsiling MRT Station (71 Woodlands Avenue 3) • NTUC FairPrice",
+      "lon": 103.7739482,
+      "lat": 1.4328188,
+      "id": "way154161595"
+    },
+    {
       "wayId": "159171669",
       "date": "14 May",
       "duration": "0900h to 1000h",
@@ -2528,6 +2483,33 @@
       "lon": 103.8366041,
       "lat": 1.352121,
       "id": "way159171669"
+    },
+    {
+      "wayId": "116818224",
+      "date": "14 May",
+      "duration": "1030h to 1700h",
+      "name": "Toast & Curry (43 Siloso Beach Walk)",
+      "lon": 103.8178715,
+      "lat": 1.25208,
+      "id": "way116818224"
+    },
+    {
+      "wayId": "159940901",
+      "date": "14 May",
+      "duration": "1030h to 1700h",
+      "name": "Coronation Shopping Plaza (587 Bukit Timah Road) • The Goodburger Food Truck",
+      "lon": 103.8096024,
+      "lat": 1.3239163,
+      "id": "way159940901"
+    },
+    {
+      "wayId": "172529122",
+      "date": "14 May",
+      "duration": "1230h to 1330h",
+      "name": "United Square Shopping Mall (101 Thomson Road) • Jalan Kayu Prata Cafe",
+      "lon": 103.8436139,
+      "lat": 1.3164831,
+      "id": "way172529122"
     },
     {
       "wayId": "251607400",
@@ -2546,6 +2528,42 @@
       "lon": 103.7752509,
       "lat": 1.3422761,
       "id": "way668443018"
+    },
+    {
+      "wayId": "154249621",
+      "date": "14 May",
+      "duration": "1340h to 1430h",
+      "name": "Marsiling Community Club (100 Admiralty Road)",
+      "lon": 103.77341,
+      "lat": 1.4405896,
+      "id": "way154249621"
+    },
+    {
+      "wayId": "502013652",
+      "date": "14 May",
+      "duration": "1455h to 1555h",
+      "name": "Marsiling Mall (4 Woodlands Street 12) • Sheng Siong Supermarket",
+      "lon": 103.77949,
+      "lat": 1.4337394,
+      "id": "way502013652"
+    },
+    {
+      "wayId": "218269179",
+      "date": "14 May",
+      "duration": "1500 to 1600h",
+      "name": "Paya Lebar Square (60 Paya Lebar Road) • Ramen Keisuke Tonkatsu King Niku King",
+      "lon": 103.8923096,
+      "lat": 1.3182332,
+      "id": "way218269179"
+    },
+    {
+      "wayId": "245072068",
+      "date": "14 May",
+      "duration": "1805h to 1835h",
+      "name": "Junction 10 (1 Woodlands Road) • Sheng Siong Supermarket",
+      "lon": 103.7601916,
+      "lat": 1.3796694,
+      "id": "way245072068"
     },
     {
       "wayId": "426826505",
@@ -2575,6 +2593,24 @@
       "id": "way426826505"
     },
     {
+      "wayId": "708172308",
+      "date": "14 May",
+      "duration": "1915h to 2012h",
+      "name": "SAFRA Toa Payoh (293 Lorong 6 Toa Payoh) • Yakun Kaya Toast",
+      "lon": 103.8549061,
+      "lat": 1.3303821,
+      "id": "way708172308"
+    },
+    {
+      "wayId": "125627614",
+      "date": "14 May",
+      "duration": "2045h to 0030h",
+      "name": "Toa Payoh Mall (177 Toa Payoh Central) • Nagara Thai",
+      "lon": 103.8478115,
+      "lat": 1.33396,
+      "id": "way125627614"
+    },
+    {
       "wayId": "32774317",
       "date": "15 May",
       "duration": "0725h to 0755h",
@@ -2602,6 +2638,60 @@
       "id": "way103974208"
     },
     {
+      "wayId": "251607400",
+      "date": "15 May",
+      "duration": "1000h to 1100h",
+      "name": "Jurong Point (1 Jurong West Central 2) • NTUC FairPrice",
+      "lon": 103.7059254,
+      "lat": 1.3402497,
+      "id": "way251607400"
+    },
+    {
+      "wayId": "745633884",
+      "date": "15 May",
+      "duration": "1010h to 1055h",
+      "name": "Hola Cafeteria (248 Simei Street 5)",
+      "lon": 103.9530395,
+      "lat": 1.3438517,
+      "id": "way745633884"
+    },
+    {
+      "wayId": "159940901",
+      "date": "15 May",
+      "duration": "1030h to 1600h",
+      "name": "Coronation Shopping Plaza (587 Bukit Timah Road) • The Goodburger Food Truck",
+      "lon": 103.8096024,
+      "lat": 1.3239163,
+      "id": "way159940901"
+    },
+    {
+      "wayId": "251607400",
+      "date": "15 May",
+      "duration": "1120h to 1150h",
+      "name": "Jurong Point (1 Jurong West Central 2) • Watsons",
+      "lon": 103.7059254,
+      "lat": 1.3402497,
+      "id": "way251607400"
+    },
+    {
+      "wayId": "103626745",
+      "date": "15 May",
+      "duration": "1200h to 1245h",
+      "name": "Phoon Huat (107 Lorong 1 Toa Payoh)",
+      "lon": 103.8469682,
+      "lat": 1.3413096,
+      "id": "way103626745"
+    },
+    {
+      "wayId": "145430318",
+      "date": "15 May",
+      "duration": "1300h to 1400h",
+      "name": "Ghim Moh Market and Food Centre (20 Ghim Moh Road)",
+      "lon": 103.7878922,
+      "lat": 1.3106639,
+      "id": "way145430318"
+    },
+    {
       "wayId": "52236347",
       "date": "15 May",
       "duration": "1320h to 1520h",
@@ -2620,6 +2710,15 @@
       "id": "way116818121"
     },
     {
+      "wayId": "172769341",
+      "date": "15 May",
+      "duration": "1500h to 1700h",
+      "name": "Lao Si Chuan Dou Hua Zhuang (46 Temple Street)",
+      "lon": 103.8436713,
+      "lat": 1.2832073,
+      "id": "way172769341"
+    },
+    {
       "wayId": "46522846",
       "date": "15 May",
       "duration": "1515h to 1710h",
@@ -2627,7 +2726,43 @@
       "lon": 103.8447924,
       "lat": 1.2977599,
       "id": "way46522846"
+    },
+    {
+      "wayId": "937994805",
+      "date": "15 May",
+      "duration": "1530h to 1735h",
+      "name": "The Punggol Settlement (500 New Punggol Road) • Sun Bistro",
+      "lon": 103.9117403,
+      "lat": 1.4211274,
+      "id": "way937994805"
+    },
+    {
+      "wayId": "937994805",
+      "date": "15 May",
+      "duration": "1825h to 2025h",
+      "name": "The Punggol Settlement (500 New Punggol Road) • Relax Bar",
+      "lon": 103.9117403,
+      "lat": 1.4211274,
+      "id": "way937994805"
+    },
+    {
+      "wayId": "108757676",
+      "date": "15 May",
+      "duration": "1930h to 2030h",
+      "name": "The Carving Board (252 Jurong East Street 24)",
+      "lon": 103.7378531,
+      "lat": 1.3430887,
+      "id": "way108757676"
+    },
+    {
+      "wayId": "170403426",
+      "date": "16 May",
+      "duration": "1535h to 1620h",
+      "name": "Toa Payoh Central (520 Lorong 6 Toa Payoh) • OCBC",
+      "lon": 103.8477476,
+      "lat": 1.3328258,
+      "id": "way170403426"
     }
   ],
-  "timestamp": 1621299132572
+  "timestamp": 1621378624316
 }
