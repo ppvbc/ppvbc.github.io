@@ -76,6 +76,12 @@ html, body {
   color: white;
   border-radius: 2px;
 }
+.olFramedCloudPopupContent ul {
+  font-size: 12px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 0 0 0;
+}
 .ad {
   display: none;
 }
@@ -145,20 +151,30 @@ const formatVenues = R.compose(
     R.values,
     R.pick(['date', 'duration', 'venues'])
   )),
-  R.prop('places')
+  R.prop('visits')
 )
 const formatPlace = R.converge(
   R.concat,
   [ R.compose(R.values, R.pick(['name', 'address'])), formatVenues ]
 )
+function formatPlaceHtml (place) {
+  var html = '<strong>' + place.name + '</strong><br/>'
+  html += '<span>' + place.address + '</span>'
+  html += '<ul>'
+  $(place.visits).each((idx, visit) => {
+    html += '<li>' + [visit.date, visit.duration, visit.venues].join('&nbsp;') + '</li>'
+  })
+  html += '</ul>'
+  return html
+}
 const getId = R.prop('id')
-const combinePlaces = R.compose(
+const combineVisits = R.compose(
   R.reverse,
   R.values,
   R.map((data) => {
     return {
       id: data[0].id,
-      places: data,
+      visits: data,
       lon: data[0].lon,
       lat: data[0].lat,
       name: data[0].name,
@@ -178,13 +194,13 @@ const combinePlaces = R.compose(
 )
 const compareId = (a, b) => getId(a) == getId(b)
 $.getJSON('data-prev-fetched.json', (data) => {
-  const prevPlaces = data.visits
-  const combinedPrevPlaces = combinePlaces(prevPlaces)
+  const prevVisits = data.visits
+  const combinedPrevPlaces = combineVisits(prevVisits)
   $.getJSON('data-fetched.json', (data) => {
-    const places = data.visits
+    const visits = data.visits
     const timestamp = data.timestamp
     $('#lastUpdated').html('Last updated: ' + new Date(timestamp).toLocaleDateString())
-    const combinedPlaces = combinePlaces(places)
+    const combinedPlaces = combineVisits(visits)
     const newPlaces = R.differenceWith(compareId, combinedPlaces, combinedPrevPlaces)
     const newPlacesId = R.map(getId, newPlaces)
     $(combinedPlaces).each((idx, place) => {
@@ -206,7 +222,8 @@ $.getJSON('data-prev-fetched.json', (data) => {
         const popupContent = $("#popup").clone().prop('content')
         const contentDiv = $(popupContent).find('div.content')
         const lines = formatPlace(place)
-        contentDiv.html((isNew ? '<span class="new">New</span>': '') + lines.join('<br/>'))
+        const placeHtml = formatPlaceHtml(place)
+        contentDiv.html((isNew ? '<span class="new">New</span>': '') + placeHtml)
 
         const whatsappLink = $(popupContent).find('a.whatsapp')
         const whatsappUrl = whatsappLink.attr('href') + encodeURIComponent('\n\n' + lines.join('\n'))
