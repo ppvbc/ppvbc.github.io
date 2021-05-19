@@ -162,7 +162,10 @@ function formatPlaceHtml (place) {
   html += '<span>' + place.address + '</span>'
   html += '<ul>'
   $(place.visits).each((idx, visit) => {
-    html += '<li>' + [visit.date, visit.duration, visit.venues].join('&nbsp;') + '</li>'
+    const venues = visit.venues && visit.venues.length
+      ? '\u2022 ' + visit.venues.join(', ')
+      : ''
+    html += '<li>' + [visit.date, visit.duration, venues].join('&nbsp;') + '</li>'
   })
   html += '</ul>'
   return html
@@ -182,21 +185,13 @@ const combineVisits = R.compose(
     }
   }),
   R.groupBy(getId),
-  R.reverse,
-  R.map((data) => {
-    const regex = /^(.*?) \((.*?)\)(.*)/
-    const match = regex.exec(data.name)
-    data.name = match[1]
-    data.address = match[2]
-    data.venues = match[3]
-    return data
-  })
+  R.reverse
 )
 const compareId = (a, b) => getId(a) == getId(b)
-$.getJSON('data-prev-fetched.json', (data) => {
+$.getJSON('data-prev-fetched.json', {_: new Date().getTime()}, (data) => {
   const prevVisits = data.visits
   const combinedPrevPlaces = combineVisits(prevVisits)
-  $.getJSON('data-fetched.json', (data) => {
+  $.getJSON('data-fetched.json', {_: new Date().getTime()}, (data) => {
     const visits = data.visits
     const timestamp = data.timestamp
     $('#lastUpdated').html('Last updated: ' + new Date(timestamp).toLocaleDateString())
