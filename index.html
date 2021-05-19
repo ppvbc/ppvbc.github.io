@@ -162,10 +162,7 @@ function formatPlaceHtml (place) {
   html += '<span>' + place.address + '</span>'
   html += '<ul>'
   $(place.visits).each((idx, visit) => {
-    const venues = visit.venues.length
-      ? '\u2022 ' + visit.venues.join(', ')
-      : ''
-    html += '<li>' + [visit.date, visit.duration, venues].join('&nbsp;') + '</li>'
+    html += '<li>' + [visit.date, visit.duration, visit.venues].join('&nbsp;') + '</li>'
   })
   html += '</ul>'
   return html
@@ -185,7 +182,15 @@ const combineVisits = R.compose(
     }
   }),
   R.groupBy(getId),
-  R.reverse
+  R.reverse,
+  R.map((data) => {
+    const regex = /^(.*?) \((.*?)\)(.*)/
+    const match = regex.exec(data.name)
+    data.name = match[1]
+    data.address = match[2]
+    data.venues = match[3]
+    return data
+  })
 )
 const compareId = (a, b) => getId(a) == getId(b)
 $.getJSON('data-prev-fetched.json', (data) => {
