@@ -12,8 +12,13 @@
       <h5>Public places visited by cases in the community</h5>
     </div>
     <div id="mapdiv"></div>
-    <div id="footer">
+    <div id="legend">
+      <div class="legend-item"><img src="img/icon-new.png"/>Newly added</div>
+      <div class="legend-item"><img src="img/icon.png"/>Recent</div>
+      <div class="legend-item"><img src="img/icon.png" style="opacity: 0.5" />Older</div>
       <div id="lastUpdated"></div>
+    </div>
+    <div id="footer">
       <div id="ads">
       <!--
         <div id="ad-1" class="ad">
@@ -96,15 +101,33 @@ html, body {
 }
 #lastUpdated {
   font-size: 10px;
-  position: absolute;
-  width: 100%;
-  top: -26px;
-  left: 5px;
 }
 #ads {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.legend-item {
+  display: flex;
+  align-items: center;
+}
+#legend {
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  bottom: 38px;
+  z-index: 1000;
+  left: 0;
+  background: rgba(255,255,255,.8);
+  height: 120px;
+  justify-content: space-evenly;
+}
+#legend img {
+  width: 25px;
+  margin-right: 10px;
 }
 #footer {
   z-index: 1000;
@@ -188,6 +211,7 @@ $.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
     const marker = new OpenLayers.Marker(lonLat, icon);
     markers.addMarker(marker)
     const showPopup = () => {
+      $('#legend').hide()
       closePopups()
       const popupContent = $("#popup").clone().prop('content')
       const contentDiv = $(popupContent).find('div.content')
