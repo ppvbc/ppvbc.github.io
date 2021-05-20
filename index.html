@@ -170,80 +170,54 @@ function formatPlaceHtml (place) {
   html += '</ul>'
   return html
 }
-const getId = R.prop('id')
-const combineVisits = R.compose(
-  R.reverse,
-  R.values,
-  R.map((data) => {
-    return {
-      id: data[0].id,
-      visits: data,
-      lon: data[0].lon,
-      lat: data[0].lat,
-      name: data[0].name,
-      address: data[0].address
-    }
-  }),
-  R.groupBy(getId),
-  R.reverse
-)
-const compareId = (a, b) => getId(a) == getId(b)
-$.getJSON('data-prev-fetched.json', {_: new Date().getTime()}, (data) => {
-  const prevVisits = data.visits
-  const combinedPrevPlaces = combineVisits(prevVisits)
-  $.getJSON('data-fetched.json', {_: new Date().getTime()}, (data) => {
-    const visits = data.visits
-    const timestamp = data.timestamp
-    $('#lastUpdated').html('Last updated: ' + new Date(timestamp).toLocaleDateString())
-    const combinedPlaces = combineVisits(visits)
-    const newPlaces = R.differenceWith(compareId, combinedPlaces, combinedPrevPlaces)
-    const newPlacesId = R.map(getId, newPlaces)
-    $(combinedPlaces).each((idx, place) => {
-      const placeId = place.id
-      const isNew = R.contains(placeId, newPlacesId)
-      const lonLat = new OpenLayers.LonLat(place.lon, place.lat)
-        .transform(
-          new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
-          map.getProjectionObject() // to Spherical Mercator Projection
-        )
-      const size = new OpenLayers.Size(25, 25)
-      const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
-      const icon = new OpenLayers.Icon((isNew ? 'img/icon-new.png' : 'img/icon.png'), size, offset)
-      icon.imageDiv.style.opacity = .5 + (idx / combinedPlaces.length) * .5
-      const marker = new OpenLayers.Marker(lonLat, icon);
-      markers.addMarker(marker)
-      const showPopup = () => {
+$.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
+  const places = data.places
+  const timestamp = data.timestamp
+  $('#lastUpdated').html('Last updated: ' + new Date(timestamp).toLocaleDateString())
+  $(places).each((idx, place) => {
+    const placeId = place.id
+    const lonLat = new OpenLayers.LonLat(place.lon, place.lat)
+      .transform(
+        new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+        map.getProjectionObject() // to Spherical Mercator Projection
+      )
+    const size = new OpenLayers.Size(25, 25)
+    const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
+    const icon = new OpenLayers.Icon((place.isNew ? 'img/icon-new.png' : 'img/icon.png'), size, offset)
+    icon.imageDiv.style.opacity = .5 + (idx / places.length) * .5
+    const marker = new OpenLayers.Marker(lonLat, icon);
+    markers.addMarker(marker)
+    const showPopup = () => {
+      closePopups()
+      const popupContent = $("#popup").clone().prop('content')
+      const contentDiv = $(popupContent).find('div.content')
+      const lines = formatPlace(place)
+      const placeHtml = formatPlaceHtml(place)
+      contentDiv.html((place.isNew ? '<span class="new">New</span>': '') + placeHtml)
+
+      const whatsappLink = $(popupContent).find('a.whatsapp')
+      const whatsappUrl = whatsappLink.attr('href') + encodeURIComponent('\n\n' + lines.join('\n'))
+      whatsappLink.attr('href', whatsappUrl)
+
+      const telegramLink = $(popupContent).find('a.telegram')
+      const telegramUrl = telegramLink.attr('href') + encodeURIComponent(lines.join('\n'))
+      telegramLink.attr('href', telegramUrl)
+
+      const popupHtml = $('<div>').append(popupContent).html()
+      const popup = new OpenLayers.Popup.FramedCloud(placeId,
+                                                     lonLat,
+                                                     new OpenLayers.Size(600, 600),
+                                                     popupHtml,
+                                                     null,
+                                                     false)
+      $(popup.contentDiv).click(() => {
         closePopups()
-        const popupContent = $("#popup").clone().prop('content')
-        const contentDiv = $(popupContent).find('div.content')
-        const lines = formatPlace(place)
-        const placeHtml = formatPlaceHtml(place)
-        contentDiv.html((isNew ? '<span class="new">New</span>': '') + placeHtml)
-
-        const whatsappLink = $(popupContent).find('a.whatsapp')
-        const whatsappUrl = whatsappLink.attr('href') + encodeURIComponent('\n\n' + lines.join('\n'))
-        whatsappLink.attr('href', whatsappUrl)
-
-        const telegramLink = $(popupContent).find('a.telegram')
-        const telegramUrl = telegramLink.attr('href') + encodeURIComponent(lines.join('\n'))
-        telegramLink.attr('href', telegramUrl)
-
-        const popupHtml = $('<div>').append(popupContent).html()
-        const popup = new OpenLayers.Popup.FramedCloud(placeId,
-                                                       lonLat,
-                                                       new OpenLayers.Size(600, 600),
-                                                       popupHtml,
-                                                       null,
-                                                       false)
-        $(popup.contentDiv).click(() => {
-          closePopups()
-          showAd()
-        })
-        map.addPopup(popup)
-      }
-      marker.events.register('click', marker, showPopup)
-      marker.events.register('touchstart', marker, showPopup)
-    })
+        showAd()
+      })
+      map.addPopup(popup)
+    }
+    marker.events.register('click', marker, showPopup)
+    marker.events.register('touchstart', marker, showPopup)
   })
 })
 const centerLonLat = new OpenLayers.LonLat(103.8198, 1.3521)
