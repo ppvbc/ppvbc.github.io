@@ -1583,83 +1583,6 @@
       "lat": 1.3016813
     },
     {
-      "id": "node1932291025",
-      "visits": [
-        {
-          "date": "11 May",
-          "duration": "1420h to 1500h",
-          "venues": [
-            "Ya Kun Family Café"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1415h to 1530h",
-          "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "1025h to 2230h",
-          "venues": [
-            "WOK HEY"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "0830h to 2220h",
-          "venues": [
-            "Unity Pharmacy"
-          ]
-        },
-        {
-          "date": "9 May",
-          "duration": "1130h to 1235h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        },
-        {
-          "date": "9 May",
-          "duration": "1025h to 2230h",
-          "venues": [
-            "WOK HEY"
-          ]
-        },
-        {
-          "date": "9 May",
-          "duration": "1015h to 1045h",
-          "venues": [
-            "Koufu"
-          ]
-        },
-        {
-          "date": "9 May",
-          "duration": "0915h to 1030h",
-          "venues": [
-            "Cookhouse by Koufu"
-          ]
-        },
-        {
-          "date": "8 May",
-          "duration": "0830h to 2100h",
-          "venues": [
-            "WOK HEY"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "0830h to 2220h",
-          "venues": [
-            "Unity"
-          ]
-        }
-      ],
-      "name": "White Sands",
-      "address": "1 Pasir Ris Central Street 3",
-      "lon": 103.9496345,
-      "lat": 1.3724307
-    },
-    {
       "id": "way117325142",
       "visits": [
         {
@@ -3305,26 +3228,6 @@
       "lat": 1.292888
     },
     {
-      "id": "way455235868",
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1000h to 2200h",
-          "venues": []
-        },
-        {
-          "date": "15 May",
-          "duration": "1600h to 2200h",
-          "venues": []
-        }
-      ],
-      "name": "KFC",
-      "address": "35 Jalan Mas Puteh",
-      "isNew": true,
-      "lon": 103.7618983,
-      "lat": 1.3081982
-    },
-    {
       "id": "relation11996247",
       "visits": [
         {
@@ -3413,8 +3316,69 @@
       "lat": 1.3704819
     },
     {
+      "id": "way47198841",
+      "visits": [
+        {
+          "date": "16 May",
+          "duration": "2240h to 2330h",
+          "venues": []
+        }
+      ],
+      "name": "Mustafa Centre",
+      "address": "145 Syed Alwi Road",
+      "lon": 103.8550312,
+      "lat": 1.3104932
+    },
+    {
+      "id": "way117041958",
+      "visits": [
+        {
+          "date": "17 May",
+          "duration": "1000h to 1130h",
+          "venues": []
+        }
+      ],
+      "name": "Kong Meng San Phor Kark See Monastery",
+      "address": "88 Bright Hill Road",
+      "isNew": true,
+      "lon": 103.8361122,
+      "lat": 1.3632455
+    },
+    {
+      "id": "way455235868",
+      "visits": [
+        {
+          "date": "17 May",
+          "duration": "1000h to 2200h",
+          "venues": []
+        },
+        {
+          "date": "16 May",
+          "duration": "1000h to 2200h",
+          "venues": []
+        },
+        {
+          "date": "15 May",
+          "duration": "1600h to 2200h",
+          "venues": []
+        }
+      ],
+      "name": "KFC",
+      "address": "35 Jalan Mas Puteh",
+      "isNew": true,
+      "lon": 103.7618983,
+      "lat": 1.3081982
+    },
+    {
       "id": "way48581160",
       "visits": [
+        {
+          "date": "17 May",
+          "duration": "1530h to 1615h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
         {
           "date": "16 May",
           "duration": "1745h to 1850h",
@@ -3435,19 +3399,89 @@
       "lat": 1.4482634
     },
     {
-      "id": "way47198841",
+      "id": "node1932291025",
       "visits": [
         {
-          "date": "16 May",
-          "duration": "2240h to 2330h",
+          "date": "18 May",
+          "duration": "1315h to 1400h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "11 May",
+          "duration": "1420h to 1500h",
+          "venues": [
+            "Ya Kun Family Café"
+          ]
+        },
+        {
+          "date": "10 May",
+          "duration": "1415h to 1530h",
           "venues": []
+        },
+        {
+          "date": "10 May",
+          "duration": "1025h to 2230h",
+          "venues": [
+            "WOK HEY"
+          ]
+        },
+        {
+          "date": "10 May",
+          "duration": "0830h to 2220h",
+          "venues": [
+            "Unity Pharmacy"
+          ]
+        },
+        {
+          "date": "9 May",
+          "duration": "1130h to 1235h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "9 May",
+          "duration": "1025h to 2230h",
+          "venues": [
+            "WOK HEY"
+          ]
+        },
+        {
+          "date": "9 May",
+          "duration": "1015h to 1045h",
+          "venues": [
+            "Koufu"
+          ]
+        },
+        {
+          "date": "9 May",
+          "duration": "0915h to 1030h",
+          "venues": [
+            "Cookhouse by Koufu"
+          ]
+        },
+        {
+          "date": "8 May",
+          "duration": "0830h to 2100h",
+          "venues": [
+            "WOK HEY"
+          ]
+        },
+        {
+          "date": "7 May",
+          "duration": "0830h to 2220h",
+          "venues": [
+            "Unity"
+          ]
         }
       ],
-      "name": "Mustafa Centre",
-      "address": "145 Syed Alwi Road",
-      "lon": 103.8550312,
-      "lat": 1.3104932
+      "name": "White Sands",
+      "address": "1 Pasir Ris Central Street 3",
+      "lon": 103.9496345,
+      "lat": 1.3724307
     }
   ],
-  "timestamp": 1621553618987
+  "timestamp": 1621563423408
 }
