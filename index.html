@@ -13,7 +13,8 @@
     </div>
     <div id="mapdiv"></div>
     <div id="legend">
-      <div class="legend-item"><img src="img/icon-new.png"/>Newly added</div>
+      <div class="legend-item"><img class="iconNew" src="img/icon.png"/>Newly added</div>
+      <div class="legend-item"><img class="iconHot" src="img/icon.png"/>Hot spot</div>
       <div class="legend-item"><img src="img/icon.png"/>Recent</div>
       <div class="legend-item"><img src="img/icon.png" style="opacity: 0.5" />Older</div>
       <div id="lastUpdated"></div>
@@ -80,6 +81,17 @@ html, body {
   z-index: 1000;
   width: 100%;
   background: rgba(0,0,0,.1);
+}
+.iconNew {
+  top: -1px;
+  left: -1px;
+  background: #FFA300;
+  border-radius: 13px;
+}
+.iconHot {
+  border: 2px solid #A300FF;
+  border-radius: 13px;
+  margin: -2px;
 }
 .olFramedCloudPopupContent {
   font-size: 14px
@@ -219,12 +231,20 @@ $.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
       )
     const size = new OpenLayers.Size(25, 25)
     const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
-    const icon = new OpenLayers.Icon((place.isNew ? 'img/icon-new.png' : 'img/icon.png'), size, offset)
+    const icon = new OpenLayers.Icon('img/icon.png', size, offset)
     icon.imageDiv.style.opacity = .5 + (idx / places.length) * .5
-    const marker = new OpenLayers.Marker(lonLat, icon);
+    if (place.isNew) {
+      icon.imageDiv.style.borderRadius = '13px' 
+      icon.imageDiv.style.background = '#FFA300'
+    }
+    if ((place.visits && place.visits.length) >= 5) {
+      icon.imageDiv.style.borderRadius = '13px' 
+      icon.imageDiv.style.border = '2px solid #A300FF' 
+      icon.imageDiv.style.margin= '-2px' 
+    } 
+    const marker = new OpenLayers.Marker(lonLat, icon)
     markers.addMarker(marker)
     const showPopup = () => {
-      $('#legend').hide()
       closePopups()
       const popupContent = $("#popup").clone().prop('content')
       const contentDiv = $(popupContent).find('div.content')
