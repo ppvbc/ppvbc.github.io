@@ -1,125 +1,10 @@
 {
   "places": [
     {
-      "id": "way306119940",
-      "visits": [
-        {
-          "date": "6 May",
-          "duration": "0700h to 0730h",
-          "venues": []
-        }
-      ],
-      "name": "Soy Eu Tua Coffee Shop",
-      "address": "15 Upper East Coast Road",
-      "lon": 103.9253253,
-      "lat": 1.3130769
-    },
-    {
-      "id": "way388268881",
-      "visits": [
-        {
-          "date": "6 May",
-          "duration": "1030h to 1230h",
-          "venues": []
-        }
-      ],
-      "name": "Chai Chee Market",
-      "address": "1 Chai Chee Avenue",
-      "lon": 103.9250878,
-      "lat": 1.3250327
-    },
-    {
-      "id": "node4583783560",
-      "visits": [
-        {
-          "date": "6 May",
-          "duration": "1200h to 1300h",
-          "venues": []
-        }
-      ],
-      "name": "Singapore Post",
-      "address": "1 Pasir Ris Central Street 3",
-      "lon": 103.9495808,
-      "lat": 1.3726077
-    },
-    {
-      "id": "way369333668",
-      "visits": [
-        {
-          "date": "6 May",
-          "duration": "1420h to 1535h",
-          "venues": [
-            "Bai Nian Yong Tau Foo"
-          ]
-        }
-      ],
-      "name": "ESR Bizpark @ Chai Chee",
-      "address": "750 Chai Chee Road",
-      "lon": 103.9217763,
-      "lat": 1.323974
-    },
-    {
-      "id": "way736484880",
-      "visits": [
-        {
-          "date": "6 May",
-          "duration": "1420h to 1545h",
-          "venues": []
-        }
-      ],
-      "name": "IKEA Alexandra",
-      "address": "317 Alexandra Road",
-      "lon": 103.8056229,
-      "lat": 1.2881158
-    },
-    {
-      "id": "way26561741",
-      "visits": [
-        {
-          "date": "6 May",
-          "duration": "2120h to 2155h",
-          "venues": [
-            "Food Gallery"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1735h to 1820h",
-          "venues": [
-            "Orchis Food Court"
-          ]
-        }
-      ],
-      "name": "Changi Airport Terminal 1",
-      "address": "80 Airport Boulevard",
-      "lon": 103.9897951,
-      "lat": 1.3649374
-    },
-    {
-      "id": "way397728468",
-      "visits": [
-        {
-          "date": "6 May",
-          "duration": "2200h to 2210h",
-          "venues": []
-        }
-      ],
-      "name": "HAO Mart",
-      "address": "308C Punggol Walk",
-      "isNew": true,
-      "lon": 103.8993234,
-      "lat": 1.4077007
-    },
-    {
       "id": "way878815622",
       "visits": [
         {
           "date": "7 May",
-          "duration": "0700h to 1500h",
-          "venues": []
-        },
-        {
-          "date": "6 May",
           "duration": "0700h to 1500h",
           "venues": []
         }
@@ -198,7 +83,6 @@
       ],
       "name": "Prime Supermarket",
       "address": "322 Sumang Walk",
-      "isNew": true,
       "lon": 103.8975031,
       "lat": 1.4108509
     },
@@ -359,7 +243,6 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "209 New Upper Changi Road",
-      "isNew": true,
       "lon": 103.9314479,
       "lat": 1.3249267
     },
@@ -557,7 +440,6 @@
       ],
       "name": "City Plaza",
       "address": "810 Geylang Road",
-      "isNew": true,
       "lon": 103.8937586,
       "lat": 1.3152102
     },
@@ -617,7 +499,6 @@
       ],
       "name": "Golden Landmark Shopping Centre",
       "address": "390 Victoria Street",
-      "isNew": true,
       "lon": 103.8573772,
       "lat": 1.3019596
     },
@@ -713,14 +594,6 @@
           "duration": "1900h to 2000h",
           "venues": [
             "Ichikokudo Hokkaido Ramen"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1930h to 2100h",
-          "venues": [
-            "Western Mahua",
-            "Starbucks"
           ]
         }
       ],
@@ -1012,13 +885,6 @@
           "venues": [
             "Live Well Chiropractic"
           ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1000h to 1040h",
-          "venues": [
-            "McDonald’s"
-          ]
         }
       ],
       "name": "Rivervale Mall",
@@ -1228,41 +1094,6 @@
           "venues": [
             "Kopitiam"
           ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1930h to 2000h",
-          "venues": [
-            "Encik Tan"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1835h to 1945h",
-          "venues": [
-            "Kopitiam"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1645h to 1745h",
-          "venues": [
-            "Heavenly Wang"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1340h to 1405h",
-          "venues": [
-            "Kopitiam"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1140h to 1530h",
-          "venues": [
-            "Kopitiam"
-          ]
         }
       ],
       "name": "Changi Airport Terminal 3",
@@ -1327,7 +1158,6 @@
       ],
       "name": "HAO Mart",
       "address": "658 Punggol East",
-      "isNew": true,
       "lon": 103.9187926,
       "lat": 1.4003425
     },
@@ -1468,22 +1298,6 @@
       "lat": 1.3827903
     },
     {
-      "id": "way173144799",
-      "visits": [
-        {
-          "date": "11 May",
-          "duration": "0950h to 1055h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        }
-      ],
-      "name": "Bukit Panjang Plaza",
-      "address": "1 Jelebu Road",
-      "lon": 103.7643738,
-      "lat": 1.3792381
-    },
-    {
       "id": "way529931363",
       "visits": [
         {
@@ -1512,13 +1326,6 @@
           "duration": "1225h to 1320h",
           "venues": [
             "Saizeriya"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1920h to 2020h",
-          "venues": [
-            "Swensen’s"
           ]
         }
       ],
@@ -1553,27 +1360,6 @@
             "Hot Tomato Bistro",
             "Cold Storage",
             "DAISO"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1830h to 2330h",
-          "venues": [
-            "Starbucks"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1510h to 1610h",
-          "venues": [
-            "UNIQLO"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1415h to 1510h",
-          "venues": [
-            "Co Chung"
           ]
         }
       ],
@@ -1784,11 +1570,6 @@
           "date": "7 May",
           "duration": "0700h to 0740h",
           "venues": []
-        },
-        {
-          "date": "6 May",
-          "duration": "0700h to 0740h",
-          "venues": []
         }
       ],
       "name": "Pasir Ris Market Produce Shop",
@@ -1823,7 +1604,6 @@
       ],
       "name": "Giant",
       "address": "376 Bukit Batok Street 31",
-      "isNew": true,
       "lon": 103.7491983,
       "lat": 1.3582198
     },
@@ -1967,34 +1747,6 @@
       "address": "208B New Upper Changi Road",
       "lon": 103.9305705,
       "lat": 1.324614
-    },
-    {
-      "id": "relation9382787",
-      "visits": [
-        {
-          "date": "12 May",
-          "duration": "1645h to 1745h",
-          "venues": [
-            "Singtel Exclusive Retailer"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1925h to 2010h",
-          "venues": [
-            "Ajisen Ramen"
-          ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1915h to 2025h",
-          "venues": []
-        }
-      ],
-      "name": "Bedok Mall",
-      "address": "311 New Upper Changi Road",
-      "lon": 103.9285518,
-      "lat": 1.3250643
     },
     {
       "id": "way48031573",
@@ -2159,6 +1911,23 @@
       "lat": 1.3924657
     },
     {
+      "id": "way37326466",
+      "visits": [
+        {
+          "date": "12 May",
+          "duration": "2225h to 2300h",
+          "venues": [
+            "McDonald’s"
+          ]
+        }
+      ],
+      "name": "51@AMK",
+      "address": "51 Ang Mo Kio Avenue 3",
+      "isNew": true,
+      "lon": 103.8468797,
+      "lat": 1.3694463
+    },
+    {
       "id": "relation9842838",
       "visits": [
         {
@@ -2171,6 +1940,21 @@
       "address": "371 Bukit Batok Street 31",
       "lon": 103.7506119,
       "lat": 1.3595552
+    },
+    {
+      "id": "way540022412",
+      "visits": [
+        {
+          "date": "13 May",
+          "duration": "0910h to 1545h",
+          "venues": []
+        }
+      ],
+      "name": "Burger King",
+      "address": "11 Bedok North Street 1",
+      "isNew": true,
+      "lon": 103.9313378,
+      "lat": 1.3270845
     },
     {
       "id": "way117035196",
@@ -2245,7 +2029,6 @@
       ],
       "name": "HDB Hub",
       "address": "480 Lorong 6 Toa Payoh",
-      "isNew": true,
       "lon": 103.8481432,
       "lat": 1.3318394
     },
@@ -2461,7 +2244,7 @@
           "venues": []
         },
         {
-          "date": "12 May to 13 May",
+          "date": "12 to 13 May",
           "duration": "1000h to 2030h",
           "venues": []
         },
@@ -2716,13 +2499,6 @@
           "venues": [
             "LeNu"
           ]
-        },
-        {
-          "date": "6 May",
-          "duration": "1710h to 1810h",
-          "venues": [
-            "DON DON DONKI"
-          ]
         }
       ],
       "name": "JEM",
@@ -2855,6 +2631,34 @@
       "address": "118 Rivervale Drive",
       "lon": 103.9011771,
       "lat": 1.385057
+    },
+    {
+      "id": "relation9382787",
+      "visits": [
+        {
+          "date": "15 May",
+          "duration": "0800h to 0830h",
+          "venues": []
+        },
+        {
+          "date": "12 May",
+          "duration": "1645h to 1745h",
+          "venues": [
+            "Singtel Exclusive Retailer"
+          ]
+        },
+        {
+          "date": "7 May",
+          "duration": "1925h to 2010h",
+          "venues": [
+            "Ajisen Ramen"
+          ]
+        }
+      ],
+      "name": "McDonald’s",
+      "address": "311 New Upper Changi Road",
+      "lon": 103.9285518,
+      "lat": 1.3250643
     },
     {
       "id": "way104000617",
@@ -3069,30 +2873,51 @@
       "lat": 1.3011138
     },
     {
-      "id": "way71074841",
+      "id": "way173144799",
       "visits": [
         {
           "date": "15 May",
-          "duration": "1415h to 1630h",
-          "venues": []
-        },
-        {
-          "date": "13 May",
-          "duration": "1725h to 1825h",
+          "duration": "1415h to 1500h",
           "venues": [
-            "Metro Department Store"
+            "POPULAR Bookstore"
           ]
         },
         {
-          "date": "13 May",
-          "duration": "1710h to 1830h",
-          "venues": []
+          "date": "11 May",
+          "duration": "0950h to 1055h",
+          "venues": [
+            "FairPrice Finest"
+          ]
         }
       ],
-      "name": "Causeway Point",
-      "address": "1 Woodlands Square",
-      "lon": 103.7853929,
-      "lat": 1.4362717
+      "name": "Bukit Panjang Plaza",
+      "address": "1 Jelebu Road",
+      "lon": 103.7643738,
+      "lat": 1.3792381
+    },
+    {
+      "id": "relation4131188",
+      "visits": [
+        {
+          "date": "15 May",
+          "duration": "1425h to 1545h",
+          "venues": [
+            "One Care Reflexology and Wellness"
+          ]
+        },
+        {
+          "date": "15 May",
+          "duration": "1330h to 1430h",
+          "venues": [
+            "Wok Wei Kitchen"
+          ]
+        }
+      ],
+      "name": "Far East Plaza",
+      "address": "14 Scotts Road",
+      "isNew": true,
+      "lon": 103.8331463,
+      "lat": 1.307079
     },
     {
       "id": "way116818121",
@@ -3270,6 +3095,37 @@
       "lat": 1.3005635
     },
     {
+      "id": "way71074841",
+      "visits": [
+        {
+          "date": "16 May",
+          "duration": "1115h to 1245h",
+          "venues": []
+        },
+        {
+          "date": "15 May",
+          "duration": "1415h to 1630h",
+          "venues": []
+        },
+        {
+          "date": "13 May",
+          "duration": "1725h to 1825h",
+          "venues": [
+            "Metro Department Store"
+          ]
+        },
+        {
+          "date": "13 May",
+          "duration": "1710h to 1830h",
+          "venues": []
+        }
+      ],
+      "name": "Causeway Point",
+      "address": "1 Woodlands Square",
+      "lon": 103.7853929,
+      "lat": 1.4362717
+    },
+    {
       "id": "way170403426",
       "visits": [
         {
@@ -3296,7 +3152,6 @@
       ],
       "name": "NTUC Fairprice",
       "address": "570B Woodlands Avenue 1",
-      "isNew": true,
       "lon": 103.7904992,
       "lat": 1.431266
     },
@@ -3311,7 +3166,6 @@
       ],
       "name": "Cash Converters",
       "address": "710A Ang Mo Kio Avenue 8",
-      "isNew": true,
       "lon": 103.8478155,
       "lat": 1.3704819
     },
@@ -3340,7 +3194,6 @@
       ],
       "name": "Kong Meng San Phor Kark See Monastery",
       "address": "88 Bright Hill Road",
-      "isNew": true,
       "lon": 103.8361122,
       "lat": 1.3632455
     },
@@ -3365,9 +3218,23 @@
       ],
       "name": "KFC",
       "address": "35 Jalan Mas Puteh",
-      "isNew": true,
       "lon": 103.7618983,
       "lat": 1.3081982
+    },
+    {
+      "id": "way508994096",
+      "visits": [
+        {
+          "date": "17 May",
+          "duration": "1310h to 1340h",
+          "venues": []
+        }
+      ],
+      "name": "Masjid Jamae (Chulia)",
+      "address": "218 South Bridge Road",
+      "isNew": true,
+      "lon": 103.8457011,
+      "lat": 1.2831497
     },
     {
       "id": "way48581160",
@@ -3394,7 +3261,6 @@
       ],
       "name": "Sun Plaza",
       "address": "30 Sembawang Drive",
-      "isNew": true,
       "lon": 103.8189611,
       "lat": 1.4482634
     },
@@ -3483,5 +3349,5 @@
       "lat": 1.3724307
     }
   ],
-  "timestamp": 1621563423408
+  "timestamp": 1621643605053
 }
