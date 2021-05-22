@@ -64,8 +64,8 @@
       </div>
       <div class="share-place-buttons">
         <i>Tell a friend&nbsp;&nbsp;</i>
-        <a class="whatsapp" href="https://api.whatsapp.com/send?text=https://ppvbc.github.io" target="_blank"><img id="whatsapp" class="share-place-button" src="img/whatsapp-button.png"/></a>
-        <a class="telegram" href="https://t.me/share/url?url=https://ppvbc.github.io&text=" target="_blank"><img id="telegram" class="share-place-button" src="img/telegram-button.png"/></a>
+        <a class="whatsapp" href="https://api.whatsapp.com/send?text=https://ppvbc.github.io/?id=<id>" target="_blank"><img id="whatsapp" class="share-place-button" src="img/whatsapp-button.png"/></a>
+        <a class="telegram" href="https://t.me/share/url?url=https://ppvbc.github.io/?id=<id>&text=" target="_blank"><img id="telegram" class="share-place-button" src="img/telegram-button.png"/></a>
       </div>
     </template>
     <style>
@@ -254,6 +254,10 @@ function formatPlaceHtml (place) {
   html += '</ul>'
   return html
 }
+const queryString = window.location.search
+const urlParams = new URLSearchParams(queryString)
+const urlId = urlParams.get('id')
+
 $.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
   const places = data.places
   const timestamp = data.timestamp
@@ -289,11 +293,11 @@ $.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
       contentDiv.html((place.isNew ? '<span class="new">New</span>': '') + placeHtml)
 
       const whatsappLink = $(popupContent).find('a.whatsapp')
-      const whatsappUrl = whatsappLink.attr('href') + encodeURIComponent('\n\n' + lines.join('\n'))
+      const whatsappUrl = whatsappLink.attr('href').replace('<id>', placeId) + encodeURIComponent('\n\n' + lines.join('\n'))
       whatsappLink.attr('href', whatsappUrl)
 
       const telegramLink = $(popupContent).find('a.telegram')
-      const telegramUrl = telegramLink.attr('href') + encodeURIComponent(lines.join('\n'))
+      const telegramUrl = telegramLink.attr('href').replace('<id>', placeId) + encodeURIComponent(lines.join('\n'))
       telegramLink.attr('href', telegramUrl)
 
       const popupHtml = $('<div>').append(popupContent).html()
@@ -309,6 +313,7 @@ $.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
       })
       map.addPopup(popup)
     }
+    if (urlId === placeId) showPopup()
     marker.events.register('click', marker, showPopup)
     marker.events.register('touchstart', marker, showPopup)
   })
