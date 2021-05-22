@@ -1,15 +1,16 @@
 <html>
   <head>
     <title>COVID-19: Public places visited by cases in the community</title>
+    <link rel="manifest" href="manifest.webmanifest">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
     <meta property="og:image" content="https://ppvbc.github.io/img/ogImage.jpg" />
     <meta property="og:description" content="Public Places Visited by Cases in the Community during Infectious Period in Singapore. Excludes residence, workplaces, healthcare facilities and public transport. There is no need to avoid places where confirmed cases of COVID-19 have been. The National Environment Agency will engage the management of affected premises to provide guidance on cleaning and disinfection." />
-    <script data-ad-client="ca-pub-6306676453790058" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
   <body>
     <div id="title">
       <h4>COVID-19</h4>
       <h5>Public places visited by cases in the community</h5>
+      <button class="add-button">Add to home</button>
     </div>
     <div id="mapdiv"></div>
     <div id="legend">
@@ -175,8 +176,38 @@ html, body {
   width: 25px;
   margin: 4px;
 }
+.add-button {
+  color: white;
+  border-radius: 3px;
+  padding: 5px;
+  background: #FFA300;
+  position: absolute;
+  right: 10px; 
+  border: 0;
+  top: 10px;
+}
     </style>
     <script>
+let deferredPrompt;
+const addBtn = document.querySelector('.add-button');
+addBtn.style.display = 'none';
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  addBtn.style.display = 'block';
+  addBtn.addEventListener('click', (e) => {
+    addBtn.style.display = 'none';
+    deferredPrompt.prompt();
+    deferredPrompt.userChoice.then((choiceResult) => {
+        if (choiceResult.outcome === 'accepted') {
+          console.log('User accepted the A2HS prompt');
+        } else {
+          console.log('User dismissed the A2HS prompt');
+        }
+        deferredPrompt = null;
+      });
+  });
+});
 const map = new OpenLayers.Map("mapdiv")
 const osm = new OpenLayers.Layer.OSM('ppvbc', [ '//a.tile.openstreetmap.org/${z}/${x}/${y}.png', '//b.tile.openstreetmap.org/${z}/${x}/${y}.png', '//c.tile.openstreetmap.org/${z}/${x}/${y}.png' ], { tileOptions: { crossOriginKeyword: null } })
 const showAd = () => {
