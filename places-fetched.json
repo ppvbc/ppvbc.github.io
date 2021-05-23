@@ -1,252 +1,6 @@
 {
   "places": [
     {
-      "id": "way878815622",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "0700h to 1500h",
-          "venues": []
-        }
-      ],
-      "name": "M171 Gourmet Street Coffeeshop",
-      "address": "171 MacPherson Road",
-      "lon": 103.8740134,
-      "lat": 1.3299853
-    },
-    {
-      "id": "way34408631",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "0725h to 0825h",
-          "venues": []
-        }
-      ],
-      "name": "Giant Hypermarket - Tampines",
-      "address": "21 Tampines North Drive 2",
-      "lon": 103.9325132,
-      "lat": 1.3714584
-    },
-    {
-      "id": "way213638990",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "0800h to 0900h",
-          "venues": []
-        }
-      ],
-      "name": "Pasir Ris East Community Centre",
-      "address": "1 Pasir Ris Drive 4",
-      "lon": 103.9594108,
-      "lat": 1.3682878
-    },
-    {
-      "id": "way110857091",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "0900h to 0945h",
-          "venues": [
-            "Subway"
-          ]
-        }
-      ],
-      "name": "Eastwood Centre",
-      "address": "20 Eastwood Road",
-      "lon": 103.9559097,
-      "lat": 1.3214061
-    },
-    {
-      "id": "way46819610",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "0915h to 0945h",
-          "venues": []
-        }
-      ],
-      "name": "Block 216 Bedok Food Centre and Market",
-      "address": "216 Bedok North Street 1",
-      "lon": 103.9329858,
-      "lat": 1.3274148
-    },
-    {
-      "id": "way397582712",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1005h to 1025h",
-          "venues": []
-        }
-      ],
-      "name": "Prime Supermarket",
-      "address": "322 Sumang Walk",
-      "lon": 103.8975031,
-      "lat": 1.4108509
-    },
-    {
-      "id": "way42064044",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1305h to 1400h",
-          "venues": []
-        }
-      ],
-      "name": "Changi Cycling Singapore",
-      "address": "4 Changi Village Road",
-      "lon": 103.9874254,
-      "lat": 1.3895179
-    },
-    {
-      "id": "way76185180",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1330h to 1430h",
-          "venues": []
-        }
-      ],
-      "name": "201 Coffee Shop",
-      "address": "201 Tampines Street 21",
-      "lon": 103.9535753,
-      "lat": 1.3530736
-    },
-    {
-      "id": "relation7791675",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1435h to 1535h",
-          "venues": [
-            "METTA Café"
-          ]
-        }
-      ],
-      "name": "METTA Building",
-      "address": "32 Simei Street 1",
-      "lon": 103.9570349,
-      "lat": 1.3468464
-    },
-    {
-      "id": "way32774665",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1450h to 1550h",
-          "venues": []
-        }
-      ],
-      "name": "Hougang Mall",
-      "address": "90 Hougang Avenue 10",
-      "lon": 103.8937538,
-      "lat": 1.3721581
-    },
-    {
-      "id": "way166194031",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1600h to 1800h",
-          "venues": [
-            "Learning Point"
-          ]
-        }
-      ],
-      "name": "Century Square",
-      "address": "2 Tampines Central 5",
-      "lon": 103.9441315,
-      "lat": 1.3527126
-    },
-    {
-      "id": "way507688175",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1800h to 1930h",
-          "venues": [
-            "Michin Korean BBQ and Hotpot"
-          ]
-        }
-      ],
-      "name": "473 Coffee Stop",
-      "address": "473 Fernvale Street",
-      "lon": 103.881567,
-      "lat": 1.3977402
-    },
-    {
-      "id": "way175185427",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1900h to 2000h",
-          "venues": []
-        }
-      ],
-      "name": "Street 82 Coffee House",
-      "address": "844 Tampines Street 82",
-      "lon": 103.9365575,
-      "lat": 1.3523627
-    },
-    {
-      "id": "way153583762",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1940h to 2140h",
-          "venues": []
-        }
-      ],
-      "name": "Yio Chu Kang ActiveSG Sports Hall",
-      "address": "200 Ang Mo Kio Avenue 9",
-      "lon": 103.8459707,
-      "lat": 1.3838879
-    },
-    {
-      "id": "way104661348",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "1955h to 2140h",
-          "venues": []
-        }
-      ],
-      "name": "The Restaurant",
-      "address": "1010 Dover Road",
-      "lon": 103.7746314,
-      "lat": 1.3095329
-    },
-    {
-      "id": "way618844036",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "2035h to 2230h",
-          "venues": []
-        }
-      ],
-      "name": "SAFRA Tampines",
-      "address": "1/A Tampines Street 92",
-      "lon": 103.942782,
-      "lat": 1.3444366
-    },
-    {
-      "id": "way44309683",
-      "visits": [
-        {
-          "date": "7 May",
-          "duration": "2130h to 2210h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "209 New Upper Changi Road",
-      "lon": 103.9314479,
-      "lat": 1.3249267
-    },
-    {
       "id": "way172518492",
       "visits": [
         {
@@ -328,20 +82,6 @@
           "duration": "1135h to 1235h",
           "venues": [
             "Ah Khoo Kopi Toast"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1925h to 2030h",
-          "venues": [
-            "Hanis Cafe"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1920h to 2020h",
-          "venues": [
-            "Eng’s Wanton Noodles"
           ]
         }
       ],
@@ -485,22 +225,6 @@
       "address": "744 Bedok Reservoir Road",
       "lon": 103.9244106,
       "lat": 1.338144
-    },
-    {
-      "id": "way47134068",
-      "visits": [
-        {
-          "date": "8 May",
-          "duration": "1625h to 1700h",
-          "venues": [
-            "ANIZ"
-          ]
-        }
-      ],
-      "name": "Golden Landmark Shopping Centre",
-      "address": "390 Victoria Street",
-      "lon": 103.8573772,
-      "lat": 1.3019596
     },
     {
       "id": "way172120778",
@@ -647,6 +371,21 @@
       "lat": 1.3553222
     },
     {
+      "id": "relation10628185",
+      "visits": [
+        {
+          "date": "8 May",
+          "duration": "2150h to 2225h",
+          "venues": []
+        }
+      ],
+      "name": "Giant",
+      "address": "260 Kim Keat Avenue",
+      "isNew": true,
+      "lon": 103.8571987,
+      "lat": 1.3318374
+    },
+    {
       "id": "node4235356600",
       "visits": [
         {
@@ -700,11 +439,6 @@
         },
         {
           "date": "8 May",
-          "duration": "0900h to 1100h",
-          "venues": []
-        },
-        {
-          "date": "7 May",
           "duration": "0900h to 1100h",
           "venues": []
         }
@@ -1059,41 +793,6 @@
           "venues": [
             "Kopitiam"
           ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1915h to 1945h",
-          "venues": [
-            "Kopitiam"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1730h to 1830h",
-          "venues": [
-            "Heavenly Wang"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1240h to 1310h",
-          "venues": [
-            "McDonald’s"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1200h to 2100h",
-          "venues": [
-            "Kopitiam"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1055h to 1140h",
-          "venues": [
-            "Kopitiam"
-          ]
         }
       ],
       "name": "Changi Airport Terminal 3",
@@ -1162,20 +861,6 @@
       "lat": 1.4003425
     },
     {
-      "id": "way169526703",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1500h to 1530h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "4 Lorong 7 Toa Payoh",
-      "lon": 103.8551876,
-      "lat": 1.3389907
-    },
-    {
       "id": "way152638460",
       "visits": [
         {
@@ -1209,11 +894,6 @@
         },
         {
           "date": "7 to 8 May",
-          "duration": "1600h to 0400h",
-          "venues": []
-        },
-        {
-          "date": "6 to 7 May",
           "duration": "1600h to 0400h",
           "venues": []
         }
@@ -1320,13 +1000,6 @@
           "venues": [
             "FairPrice Finest"
           ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1225h to 1320h",
-          "venues": [
-            "Saizeriya"
-          ]
         }
       ],
       "name": "The Seletar Mall",
@@ -1375,11 +1048,6 @@
           "date": "11 May",
           "duration": "1515h to 1615h",
           "venues": []
-        },
-        {
-          "date": "7 May",
-          "duration": "1115h to 1200h",
-          "venues": []
         }
       ],
       "name": "Sheng Siong Supermarket",
@@ -1412,13 +1080,6 @@
         {
           "date": "9 May",
           "duration": "1010h to 2010h",
-          "venues": [
-            "New York Skin Solutions"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1040h to 1255h",
           "venues": [
             "New York Skin Solutions"
           ]
@@ -1565,11 +1226,6 @@
           "date": "8 May",
           "duration": "1020h to 1100h",
           "venues": []
-        },
-        {
-          "date": "7 May",
-          "duration": "0700h to 0740h",
-          "venues": []
         }
       ],
       "name": "Pasir Ris Market Produce Shop",
@@ -1594,25 +1250,18 @@
       "lat": 1.2914535
     },
     {
-      "id": "relation9842837",
-      "visits": [
-        {
-          "date": "12 May",
-          "duration": "1010h to 1050h",
-          "venues": []
-        }
-      ],
-      "name": "Giant",
-      "address": "376 Bukit Batok Street 31",
-      "lon": 103.7491983,
-      "lat": 1.3582198
-    },
-    {
       "id": "relation3899853",
       "visits": [
         {
           "date": "12 May",
           "duration": "1220h to 1300h",
+          "venues": [
+            "Giant"
+          ]
+        },
+        {
+          "date": "11 May",
+          "duration": "0930h to 1005h",
           "venues": [
             "Giant"
           ]
@@ -1622,36 +1271,6 @@
       "address": "9 Tampines Street 32",
       "lon": 103.9594805,
       "lat": 1.3539614
-    },
-    {
-      "id": "way158234014",
-      "visits": [
-        {
-          "date": "12 May",
-          "duration": "1300h to 2000h",
-          "venues": [
-            "Star Arts"
-          ]
-        },
-        {
-          "date": "11 May",
-          "duration": "0930h to 1030h",
-          "venues": [
-            "Toast Box"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1425h to 1510h",
-          "venues": [
-            "Kiddy Palace"
-          ]
-        }
-      ],
-      "name": "Westgate",
-      "address": "3 Gateway Drive",
-      "lon": 103.7424815,
-      "lat": 1.33352
     },
     {
       "id": "way111610945",
@@ -1785,13 +1404,6 @@
           "venues": [
             "McDonald’s"
           ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1700h to 1750h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
         }
       ],
       "name": "Toa Payoh HDB Hub",
@@ -1835,6 +1447,23 @@
       "address": "9 Bishan Place",
       "lon": 103.8486315,
       "lat": 1.3501251
+    },
+    {
+      "id": "node3819958704",
+      "visits": [
+        {
+          "date": "12 May",
+          "duration": "1740h to 2100h",
+          "venues": [
+            "Foresta Restaurant"
+          ]
+        }
+      ],
+      "name": "The Grandstand",
+      "address": "200 Turf Club Road",
+      "isNew": true,
+      "lon": 103.7929857,
+      "lat": 1.3388687
     },
     {
       "id": "way390023257",
@@ -1896,13 +1525,6 @@
           "venues": [
             "Sea Horse"
           ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1915h to 2000h",
-          "venues": [
-            "Encik Tan"
-          ]
         }
       ],
       "name": "Compass One",
@@ -1923,7 +1545,6 @@
       ],
       "name": "51@AMK",
       "address": "51 Ang Mo Kio Avenue 3",
-      "isNew": true,
       "lon": 103.8468797,
       "lat": 1.3694463
     },
@@ -1952,7 +1573,6 @@
       ],
       "name": "Burger King",
       "address": "11 Bedok North Street 1",
-      "isNew": true,
       "lon": 103.9313378,
       "lat": 1.3270845
     },
@@ -2260,6 +1880,23 @@
       "lat": 1.25208
     },
     {
+      "id": "way162524446",
+      "visits": [
+        {
+          "date": "14 May",
+          "duration": "1130h to 1230h",
+          "venues": [
+            "Simpson TCM Clinic"
+          ]
+        }
+      ],
+      "name": "West Mall",
+      "address": "1 Bukit Batok Central Link",
+      "isNew": true,
+      "lon": 103.7494415,
+      "lat": 1.3495518
+    },
+    {
       "id": "way668443018",
       "visits": [
         {
@@ -2277,6 +1914,21 @@
       "address": "2 Cheong Chin Nam Road",
       "lon": 103.7752509,
       "lat": 1.3422761
+    },
+    {
+      "id": "way37355745",
+      "visits": [
+        {
+          "date": "14 May",
+          "duration": "1255h to 1335h",
+          "venues": []
+        }
+      ],
+      "name": "Masjid Al-Muttaqin",
+      "address": "5140 Ang Mo Kio Avenue 6",
+      "isNew": true,
+      "lon": 103.846254,
+      "lat": 1.3702866
     },
     {
       "id": "way172529122",
@@ -2345,7 +1997,7 @@
           "date": "14 May",
           "duration": "1500h to 1600h",
           "venues": [
-            "Ramen Keisuke Tonkatsu King Niku King"
+            "Ramen Keisuke Tonkotsu King Niku King"
           ]
         },
         {
@@ -2376,6 +2028,23 @@
       "address": "290 Orchard Road",
       "lon": 103.8358278,
       "lat": 1.3030664
+    },
+    {
+      "id": "way383209579",
+      "visits": [
+        {
+          "date": "14 May",
+          "duration": "1750h to 1915h",
+          "venues": [
+            "Smash Arena"
+          ]
+        }
+      ],
+      "name": "D’Arena Country Club",
+      "address": "511 Upper Jurong Road",
+      "isNew": true,
+      "lon": 103.6836561,
+      "lat": 1.329686
     },
     {
       "id": "way245072068",
@@ -2444,67 +2113,19 @@
       "lat": 1.3303821
     },
     {
-      "id": "way620519197",
+      "id": "way335031444",
       "visits": [
         {
           "date": "14 May",
-          "duration": "1955h to 2130h",
-          "venues": [
-            "Seorae Korean Charcoal BBQ"
-          ]
-        },
-        {
-          "date": "14 May",
-          "duration": "1835h to 2145h",
-          "venues": [
-            "Ichiban Boshi"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1345h to 1445h",
-          "venues": [
-            "Cookhouse by Koufu"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "0830h to 0900h",
-          "venues": [
-            "Toast Box"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "0820h to 0920h",
+          "duration": "1930h to 2030h",
           "venues": []
-        },
-        {
-          "date": "11 May",
-          "duration": "1840h to 1940h",
-          "venues": [
-            "Tipsy Bunny"
-          ]
-        },
-        {
-          "date": "11 May",
-          "duration": "1755h to 1850h",
-          "venues": [
-            "Fairprice Xtra"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1335h to 1410h",
-          "venues": [
-            "LeNu"
-          ]
         }
       ],
-      "name": "JEM",
-      "address": "50 Jurong Gateway Road",
-      "lon": 103.7432181,
-      "lat": 1.3323561
+      "name": "S-11 Taman Jurong Food House",
+      "address": "101 Yung Sheng Road",
+      "isNew": true,
+      "lon": 103.7220574,
+      "lat": 1.3345202
     },
     {
       "id": "way125627614",
@@ -2571,19 +2192,29 @@
       "lat": 1.2836965
     },
     {
+      "id": "way295367645",
+      "visits": [
+        {
+          "date": "14 May",
+          "duration": "2220h to 2305h",
+          "venues": [
+            "McDonald’s"
+          ]
+        }
+      ],
+      "name": "Sengkang Sports Complex",
+      "address": "57 Anchorvale Road",
+      "isNew": true,
+      "lon": 103.8864792,
+      "lat": 1.3965973
+    },
+    {
       "id": "node7076626648",
       "visits": [
         {
           "date": "15 May",
           "duration": "0700h to 1630h",
           "venues": []
-        },
-        {
-          "date": "7 May",
-          "duration": "1905h to 1940h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
         }
       ],
       "name": "Canberra Plaza",
@@ -2645,13 +2276,6 @@
           "duration": "1645h to 1745h",
           "venues": [
             "Singtel Exclusive Retailer"
-          ]
-        },
-        {
-          "date": "7 May",
-          "duration": "1925h to 2010h",
-          "venues": [
-            "Ajisen Ramen"
           ]
         }
       ],
@@ -2777,48 +2401,6 @@
       "lat": 1.3413096
     },
     {
-      "id": "way830592799",
-      "visits": [
-        {
-          "date": "15 May",
-          "duration": "1200h to 1235h",
-          "venues": [
-            "Han’s"
-          ]
-        },
-        {
-          "date": "12 May",
-          "duration": "1145h to 1215h",
-          "venues": [
-            "Kopitiam"
-          ]
-        },
-        {
-          "date": "11 May",
-          "duration": "1300h to 1330h",
-          "venues": [
-            "McDonald’s"
-          ]
-        },
-        {
-          "date": "11 May",
-          "duration": "1240h to 1340h",
-          "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "1810h to 1940h",
-          "venues": [
-            "Kopitiam"
-          ]
-        }
-      ],
-      "name": "Changi City Point",
-      "address": "5 Changi Business Park Central 1",
-      "lon": 103.9634836,
-      "lat": 1.3332823
-    },
-    {
       "id": "way108390950",
       "visits": [
         {
@@ -2915,7 +2497,6 @@
       ],
       "name": "Far East Plaza",
       "address": "14 Scotts Road",
-      "isNew": true,
       "lon": 103.8331463,
       "lat": 1.307079
     },
@@ -2960,6 +2541,73 @@
       "address": "6 Fort Canning Road",
       "lon": 103.8447924,
       "lat": 1.2977599
+    },
+    {
+      "id": "way176326991",
+      "visits": [
+        {
+          "date": "15 May",
+          "duration": "1730h to 1825h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "Tekka Place",
+      "address": "2 Serangoon Road",
+      "isNew": true,
+      "lon": 103.8515733,
+      "lat": 1.3048571
+    },
+    {
+      "id": "way830592799",
+      "visits": [
+        {
+          "date": "15 May",
+          "duration": "1815h to 2020h",
+          "venues": [
+            "Saizeriya",
+            "Daiso"
+          ]
+        },
+        {
+          "date": "15 May",
+          "duration": "1200h to 1235h",
+          "venues": [
+            "Han’s"
+          ]
+        },
+        {
+          "date": "12 May",
+          "duration": "1145h to 1215h",
+          "venues": [
+            "Kopitiam"
+          ]
+        },
+        {
+          "date": "11 May",
+          "duration": "1300h to 1330h",
+          "venues": [
+            "McDonald’s"
+          ]
+        },
+        {
+          "date": "11 May",
+          "duration": "1240h to 1340h",
+          "venues": []
+        },
+        {
+          "date": "10 May",
+          "duration": "1810h to 1940h",
+          "venues": [
+            "Kopitiam"
+          ]
+        }
+      ],
+      "name": "Changi City Point",
+      "address": "5 Changi Business Park Central 1",
+      "lon": 103.9634836,
+      "lat": 1.3332823
     },
     {
       "id": "way937994805",
@@ -3010,17 +2658,51 @@
           "date": "14 May",
           "duration": "1720h to 1750h",
           "venues": []
-        },
-        {
-          "date": "7 May",
-          "duration": "1800h to 1900h",
-          "venues": []
         }
       ],
       "name": "Sheng Siong Supermarket",
       "address": "52 Chin Swee Road",
       "lon": 103.8400827,
       "lat": 1.28784
+    },
+    {
+      "id": "way169526703",
+      "visits": [
+        {
+          "date": "16 May",
+          "duration": "0915h to 0955h",
+          "venues": []
+        },
+        {
+          "date": "15 May",
+          "duration": "1045h to 1120h",
+          "venues": []
+        },
+        {
+          "date": "13 May",
+          "duration": "1045h to 1120h",
+          "venues": []
+        },
+        {
+          "date": "10 May",
+          "duration": "1500h to 1530h",
+          "venues": []
+        },
+        {
+          "date": "9 May",
+          "duration": "0930h to 1020h",
+          "venues": []
+        },
+        {
+          "date": "8 May",
+          "duration": "0815h to 0940h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "4 Toa Payoh Lorong 7",
+      "lon": 103.8551876,
+      "lat": 1.3389907
     },
     {
       "id": "way161136289",
@@ -3134,6 +2816,11 @@
           "venues": [
             "OCBC"
           ]
+        },
+        {
+          "date": "9 May",
+          "duration": "1705h to 1805h",
+          "venues": []
         }
       ],
       "name": "Toa Payoh Central",
@@ -3168,6 +2855,40 @@
       "address": "710A Ang Mo Kio Avenue 8",
       "lon": 103.8478155,
       "lat": 1.3704819
+    },
+    {
+      "id": "way169518582",
+      "visits": [
+        {
+          "date": "16 May",
+          "duration": "1520h to 1600h",
+          "venues": []
+        }
+      ],
+      "name": "Toa Payoh East Community Club",
+      "address": "160 Toa Payoh Lorong 6",
+      "isNew": true,
+      "lon": 103.8544991,
+      "lat": 1.3360272
+    },
+    {
+      "id": "relation9842837",
+      "visits": [
+        {
+          "date": "16 May",
+          "duration": "2010h to 2110h",
+          "venues": []
+        },
+        {
+          "date": "12 May",
+          "duration": "1010h to 1050h",
+          "venues": []
+        }
+      ],
+      "name": "Giant Supermarket",
+      "address": "376 Bukit Batok Street 31",
+      "lon": 103.7491983,
+      "lat": 1.3582198
     },
     {
       "id": "way47198841",
@@ -3222,6 +2943,36 @@
       "lat": 1.3081982
     },
     {
+      "id": "way47134068",
+      "visits": [
+        {
+          "date": "17 May",
+          "duration": "1130h to 1830h",
+          "venues": [
+            "Hijabville"
+          ]
+        },
+        {
+          "date": "11 May",
+          "duration": "1130h to 2100h",
+          "venues": [
+            "Hijabville"
+          ]
+        },
+        {
+          "date": "8 May",
+          "duration": "1625h to 1700h",
+          "venues": [
+            "ANIZ"
+          ]
+        }
+      ],
+      "name": "Golden Landmark Shopping Centre",
+      "address": "390 Victoria Street",
+      "lon": 103.8573772,
+      "lat": 1.3019596
+    },
+    {
       "id": "way508994096",
       "visits": [
         {
@@ -3232,7 +2983,6 @@
       ],
       "name": "Masjid Jamae (Chulia)",
       "address": "218 South Bridge Road",
-      "isNew": true,
       "lon": 103.8457011,
       "lat": 1.2831497
     },
@@ -3250,19 +3000,44 @@
           "date": "16 May",
           "duration": "1745h to 1850h",
           "venues": []
-        },
-        {
-          "date": "15 May",
-          "duration": "1715h to 1745h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
         }
       ],
       "name": "Sun Plaza",
       "address": "30 Sembawang Drive",
       "lon": 103.8189611,
       "lat": 1.4482634
+    },
+    {
+      "id": "way655155272",
+      "visits": [
+        {
+          "date": "17 May",
+          "duration": "2025h to 2105h",
+          "venues": [
+            "Decathlon Bedok"
+          ]
+        }
+      ],
+      "name": "Viva Business Park",
+      "address": "750A Chai Chee Road",
+      "isNew": true,
+      "lon": 103.9227659,
+      "lat": 1.3230747
+    },
+    {
+      "id": "way201904037",
+      "visits": [
+        {
+          "date": "18 May",
+          "duration": "1115h to 1220h",
+          "venues": []
+        }
+      ],
+      "name": "Geylang Serai Malay Market and Food Centre",
+      "address": "1 Geylang Serai",
+      "isNew": true,
+      "lon": 103.8984869,
+      "lat": 1.316583
     },
     {
       "id": "node1932291025",
@@ -3334,20 +3109,211 @@
           "venues": [
             "WOK HEY"
           ]
-        },
-        {
-          "date": "7 May",
-          "duration": "0830h to 2220h",
-          "venues": [
-            "Unity"
-          ]
         }
       ],
       "name": "White Sands",
       "address": "1 Pasir Ris Central Street 3",
       "lon": 103.9496345,
       "lat": 1.3724307
+    },
+    {
+      "id": "way208427267",
+      "visits": [
+        {
+          "date": "18 May",
+          "duration": "1755h to 1835h",
+          "venues": []
+        }
+      ],
+      "name": "Madam Fang Hairdressing & Beauty Saloon (1989)",
+      "address": "510 Bedok North Street 3",
+      "isNew": true,
+      "lon": 103.9304817,
+      "lat": 1.3319458
+    },
+    {
+      "id": "way33543880",
+      "visits": [
+        {
+          "date": "18 May",
+          "duration": "1800h to 1845h",
+          "venues": [
+            "Giant Hypermarket"
+          ]
+        }
+      ],
+      "name": "Giant @ IMM",
+      "address": "2 Jurong East Street 21",
+      "isNew": true,
+      "lon": 103.7462762,
+      "lat": 1.3359928
+    },
+    {
+      "id": "way158234014",
+      "visits": [
+        {
+          "date": "19 May",
+          "duration": "1745h to 1830h",
+          "venues": [
+            "RedMan by Phoon Huat"
+          ]
+        },
+        {
+          "date": "19 May",
+          "duration": "1030h to 2000h",
+          "venues": [
+            "Fun Toast"
+          ]
+        },
+        {
+          "date": "18 May",
+          "duration": "0730h to 2000h",
+          "venues": [
+            "Fun Toast"
+          ]
+        },
+        {
+          "date": "17 May",
+          "duration": "0730h to 2000h",
+          "venues": [
+            "Fun Toast"
+          ]
+        },
+        {
+          "date": "14 May",
+          "duration": "1355h to 1455h",
+          "venues": [
+            "Pandora"
+          ]
+        },
+        {
+          "date": "12 May",
+          "duration": "1300h to 2000h",
+          "venues": [
+            "Star Arts"
+          ]
+        },
+        {
+          "date": "11 May",
+          "duration": "0930h to 1030h",
+          "venues": [
+            "Toast Box"
+          ]
+        },
+        {
+          "date": "10 May",
+          "duration": "1425h to 1510h",
+          "venues": [
+            "Kiddy Palace"
+          ]
+        }
+      ],
+      "name": "Westgate",
+      "address": "3 Gateway Drive",
+      "lon": 103.7424815,
+      "lat": 1.33352
+    },
+    {
+      "id": "relation3385929",
+      "visits": [
+        {
+          "date": "20 May",
+          "duration": "1340h to 1510h",
+          "venues": [
+            "POSB Account Services Centre"
+          ]
+        }
+      ],
+      "name": "Kaki Bukit Recreation Centre",
+      "address": "7 Kaki Bukit Avenue 3",
+      "isNew": true,
+      "lon": 103.9066365,
+      "lat": 1.3370902
+    },
+    {
+      "id": "way620519197",
+      "visits": [
+        {
+          "date": "21 May",
+          "duration": "1515h to 1400h",
+          "venues": [
+            "NTUC Fairprice"
+          ]
+        },
+        {
+          "date": "14 May",
+          "duration": "1955h to 2130h",
+          "venues": [
+            "Seorae Korean Charcoal BBQ"
+          ]
+        },
+        {
+          "date": "14 May",
+          "duration": "1835h to 2145h",
+          "venues": [
+            "Ichiban Boshi"
+          ]
+        },
+        {
+          "date": "13 May",
+          "duration": "2005h to 2055h",
+          "venues": [
+            "XW Western Grill"
+          ]
+        },
+        {
+          "date": "13 May",
+          "duration": "1345h to 1445h",
+          "venues": [
+            "Cookhouse by Koufu"
+          ]
+        },
+        {
+          "date": "13 May",
+          "duration": "0830h to 0900h",
+          "venues": [
+            "Toast Box"
+          ]
+        },
+        {
+          "date": "13 May",
+          "duration": "0820h to 0920h",
+          "venues": []
+        },
+        {
+          "date": "11 May",
+          "duration": "1840h to 1940h",
+          "venues": [
+            "Tipsy Bunny"
+          ]
+        },
+        {
+          "date": "11 May",
+          "duration": "1755h to 1850h",
+          "venues": [
+            "Fairprice Xtra"
+          ]
+        },
+        {
+          "date": "10 May",
+          "duration": "1750h to 1825h",
+          "venues": [
+            "FairPrice Xtra"
+          ]
+        },
+        {
+          "date": "10 May",
+          "duration": "1335h to 1410h",
+          "venues": [
+            "LeNu"
+          ]
+        }
+      ],
+      "name": "JEM",
+      "address": "50 Jurong Gateway Road",
+      "lon": 103.7432181,
+      "lat": 1.3323561
     }
   ],
-  "timestamp": 1621643605053
+  "timestamp": 1621729361221
 }
