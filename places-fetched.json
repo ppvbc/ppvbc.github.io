@@ -1,245 +1,6 @@
 {
   "places": [
     {
-      "id": "way32774817",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "0845h to 0930h",
-          "venues": []
-        }
-      ],
-      "name": "Sengkang Community Club",
-      "address": "2 Sengkang Square",
-      "lon": 103.8943574,
-      "lat": 1.392511
-    },
-    {
-      "id": "way172029078",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1050h to 1230h",
-          "venues": []
-        }
-      ],
-      "name": "Immigration Checkpoint Authority",
-      "address": "10 Kallang Road",
-      "lon": 103.8627269,
-      "lat": 1.3062708
-    },
-    {
-      "id": "way295367545",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1150h to 1220h",
-          "venues": []
-        }
-      ],
-      "name": "Upper Boon Keng Market and Food Centre",
-      "address": "17 Upper Boon Keng Road",
-      "lon": 103.8713206,
-      "lat": 1.3146959
-    },
-    {
-      "id": "way312722345",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1200h to 1230h",
-          "venues": []
-        }
-      ],
-      "name": "Selegie Soyabean",
-      "address": "320 Bedok Road",
-      "lon": 103.9482654,
-      "lat": 1.3308226
-    },
-    {
-      "id": "way173010413",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1205h to 1245h",
-          "venues": [
-            "McDonald’s"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "0825h to 0855h",
-          "venues": [
-            "McDonald’s"
-          ]
-        }
-      ],
-      "name": "Changi Airport Terminal 3",
-      "address": "65 Airport Boulevard",
-      "lon": 103.9878664,
-      "lat": 1.3599834
-    },
-    {
-      "id": "way744520551",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1250h to 1325h",
-          "venues": [
-            "Five Spice"
-          ]
-        }
-      ],
-      "name": "Jewel Changi Airport",
-      "address": "78 Airport Boulevard",
-      "lon": 103.9895904,
-      "lat": 1.3609513
-    },
-    {
-      "id": "way443690975",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1310h to 1410h",
-          "venues": []
-        }
-      ],
-      "name": "The Beef Station",
-      "address": "2 Tai Thong Crescent",
-      "lon": 103.8689129,
-      "lat": 1.3292117
-    },
-    {
-      "id": "way775316140",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1330h to 1400h",
-          "venues": [
-            "Rong Cheng (Sin Ming Road) Bak Kut Teh"
-          ]
-        }
-      ],
-      "name": "Midview City",
-      "address": "26 Sin Ming Lane",
-      "lon": 103.8344609,
-      "lat": 1.3594254
-    },
-    {
-      "id": "way563908958",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1415h to 1430h",
-          "venues": []
-        }
-      ],
-      "name": "HAO Mart",
-      "address": "658 Punggol East",
-      "lon": 103.9187926,
-      "lat": 1.4003425
-    },
-    {
-      "id": "way152638460",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1535h to 1640h",
-          "venues": []
-        }
-      ],
-      "name": "Craftsmen Specialty Coffee Holland",
-      "address": "275 Holland Avenue",
-      "lon": 103.7953972,
-      "lat": 1.3113507
-    },
-    {
-      "id": "way174890684",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1600h to 1930h",
-          "venues": []
-        },
-        {
-          "date": "9 to 10 May",
-          "duration": "1600h to 0400h",
-          "venues": []
-        }
-      ],
-      "name": "Kopitiam Square",
-      "address": "10 Sengkang Square",
-      "lon": 103.8937765,
-      "lat": 1.391236
-    },
-    {
-      "id": "way166194476",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1700h to 1850h",
-          "venues": [
-            "Spacio"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1600h to 1650h",
-          "venues": [
-            "DAISO"
-          ]
-        }
-      ],
-      "name": "Tampines 1",
-      "address": "10 Tampines Central 1",
-      "lon": 103.9448102,
-      "lat": 1.3541664
-    },
-    {
-      "id": "way172915345",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1705h to 1800h",
-          "venues": [
-            "LeVel 33"
-          ]
-        }
-      ],
-      "name": "MBFC Tower 1",
-      "address": "8 Marina Boulevard",
-      "lon": 103.852002,
-      "lat": 1.2812132
-    },
-    {
-      "id": "node3653443360",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1830h to 2030h",
-          "venues": []
-        }
-      ],
-      "name": "Web Pub & Karaoke",
-      "address": "156 Joo Chiat Road",
-      "lon": 103.8996656,
-      "lat": 1.3131101
-    },
-    {
-      "id": "way302888305",
-      "visits": [
-        {
-          "date": "10 May",
-          "duration": "1930h to 2030h",
-          "venues": []
-        }
-      ],
-      "name": "Kopitiam City",
-      "address": "275D Compassvale Link",
-      "lon": 103.8938486,
-      "lat": 1.3827903
-    },
-    {
       "id": "way529931363",
       "visits": [
         {
@@ -262,18 +23,10 @@
           "venues": [
             "McDonald’s"
           ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1225h to 1330h",
-          "venues": [
-            "McDonald’s"
-          ]
         }
       ],
       "name": "Marina Square",
       "address": "6 Raffles Boulevard",
-      "isNew": true,
       "lon": 103.8575942,
       "lat": 1.2914693
     },
@@ -336,13 +89,6 @@
         {
           "date": "11 May",
           "duration": "1015h to 1400h",
-          "venues": [
-            "New York Skin Solutions"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1015h to 2130h",
           "venues": [
             "New York Skin Solutions"
           ]
@@ -744,18 +490,6 @@
           "venues": [
             "Pontian Wanton Noodles"
           ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1250h to 1330h",
-          "venues": [
-            "Timezone"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1100h to 1250h",
-          "venues": []
         }
       ],
       "name": "Compass One",
@@ -927,7 +661,6 @@
       ],
       "name": "U Stars Supermarket",
       "address": "829 Tampines Street 81",
-      "isNew": true,
       "lon": 103.934511,
       "lat": 1.3494523
     },
@@ -983,7 +716,6 @@
       ],
       "name": "Our Tampines Hub",
       "address": "1 Tampines Walk",
-      "isNew": true,
       "lon": 103.9400565,
       "lat": 1.3530312
     },
@@ -1035,11 +767,6 @@
         {
           "date": "12 May",
           "duration": "2000h to 2200h",
-          "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "2030h to 2130h",
           "venues": []
         }
       ],
@@ -1118,11 +845,6 @@
           "date": "12 to 13 May",
           "duration": "1000h to 2030h",
           "venues": []
-        },
-        {
-          "date": "5 to 10 May",
-          "duration": "1000h to 2030h",
-          "venues": []
         }
       ],
       "name": "Toast & Curry",
@@ -1153,18 +875,10 @@
           "venues": [
             "Food Court 2"
           ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1300h to 1400h",
-          "venues": [
-            "Food Court 2"
-          ]
         }
       ],
       "name": "Singapore Polytechnic",
       "address": "500 Dover Road",
-      "isNew": true,
       "lon": 103.7773857,
       "lat": 1.3084683
     },
@@ -1458,16 +1172,6 @@
           "date": "11 May",
           "duration": "1320h to 1410h",
           "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "1205h to 2105h",
-          "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "1115h to 1800h",
-          "venues": []
         }
       ],
       "name": "Marina Bay Sands Casino",
@@ -1533,11 +1237,6 @@
         {
           "date": "11 May",
           "duration": "0540h to 0625h",
-          "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "0900h to 1100h",
           "venues": []
         }
       ],
@@ -1755,7 +1454,6 @@
       ],
       "name": "Changi Airport Terminal 1",
       "address": "80 Airport Boulevard",
-      "isNew": true,
       "lon": 103.9897951,
       "lat": 1.3649374
     },
@@ -1864,29 +1562,6 @@
       "lat": 1.2977599
     },
     {
-      "id": "way154159343",
-      "visits": [
-        {
-          "date": "15 May",
-          "duration": "1540h to 2100h",
-          "venues": [
-            "Woodlands Regional Library"
-          ]
-        },
-        {
-          "date": "15 May",
-          "duration": "1155h to 1300h",
-          "venues": [
-            "Woodlands Regional Library"
-          ]
-        }
-      ],
-      "name": "Woodlands Civic Centre",
-      "address": "900 South Woodlands Drive",
-      "lon": 103.7864134,
-      "lat": 1.4347254
-    },
-    {
       "id": "way176326991",
       "visits": [
         {
@@ -1915,13 +1590,6 @@
           "duration": "1325h to 1400h",
           "venues": [
             "Steinway & Sons"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1535h to 1635h",
-          "venues": [
-            "4Fingers Crispy Chicken"
           ]
         }
       ],
@@ -1966,13 +1634,6 @@
           "date": "11 May",
           "duration": "1240h to 1340h",
           "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "1810h to 1940h",
-          "venues": [
-            "Kopitiam"
-          ]
         }
       ],
       "name": "Changi City Point",
@@ -2018,6 +1679,21 @@
       "lat": 1.3430887
     },
     {
+      "id": "way130361691",
+      "visits": [
+        {
+          "date": "15 May",
+          "duration": "1930h to 2130h",
+          "venues": []
+        }
+      ],
+      "name": "Chang Cheng HQ",
+      "address": "27 Woodlands Link",
+      "isNew": true,
+      "lon": 103.8101852,
+      "lat": 1.4519336
+    },
+    {
       "id": "way191009856",
       "visits": [
         {
@@ -2030,7 +1706,6 @@
       ],
       "name": "Arya Samaj Building",
       "address": "114 Syed Alwi Road",
-      "isNew": true,
       "lon": 103.855051,
       "lat": 1.3097836
     },
@@ -2086,11 +1761,6 @@
           "date": "13 May",
           "duration": "1045h to 1120h",
           "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "1500h to 1530h",
-          "venues": []
         }
       ],
       "name": "Sheng Siong Supermarket",
@@ -2106,13 +1776,6 @@
           "duration": "0950h to 1030h",
           "venues": [
             "MEIDI-YA Supermarket"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1615h to 1650h",
-          "venues": [
-            "Cold Storage"
           ]
         }
       ],
@@ -2151,7 +1814,6 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "154A Bukit Batok West Avenue 8",
-      "isNew": true,
       "lon": 103.7437317,
       "lat": 1.3474556
     },
@@ -2196,44 +1858,6 @@
       "address": "156 Bukit Batok Street 11",
       "lon": 103.74369,
       "lat": 1.3485143
-    },
-    {
-      "id": "way71074841",
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1115h to 1245h",
-          "venues": []
-        },
-        {
-          "date": "15 May",
-          "duration": "1415h to 1630h",
-          "venues": []
-        },
-        {
-          "date": "15 May",
-          "duration": "1310h to 1520h",
-          "venues": [
-            "Shabu Sai"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1725h to 1825h",
-          "venues": [
-            "Metro Department Store"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1710h to 1830h",
-          "venues": []
-        }
-      ],
-      "name": "Causeway Point",
-      "address": "1 Woodlands Square",
-      "lon": 103.7853929,
-      "lat": 1.4362717
     },
     {
       "id": "relation2434612",
@@ -2557,25 +2181,6 @@
           "venues": [
             "Ya Kun Family Café"
           ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1415h to 1530h",
-          "venues": []
-        },
-        {
-          "date": "10 May",
-          "duration": "1025h to 2230h",
-          "venues": [
-            "WOK HEY"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "0830h to 2220h",
-          "venues": [
-            "Unity Pharmacy"
-          ]
         }
       ],
       "name": "White Sands",
@@ -2612,6 +2217,96 @@
       "address": "2 Jurong East Street 21",
       "lon": 103.7462762,
       "lat": 1.3359928
+    },
+    {
+      "id": "way152752624",
+      "visits": [
+        {
+          "date": "19 to 21 May",
+          "duration": "0930h to 2130h",
+          "venues": [
+            "Tiger Sugar"
+          ]
+        }
+      ],
+      "name": "Holland Piazza",
+      "address": "3 Lorong Liput",
+      "isNew": true,
+      "lon": 103.7953949,
+      "lat": 1.3108381
+    },
+    {
+      "id": "way154159343",
+      "visits": [
+        {
+          "date": "19 May",
+          "duration": "1420h to 1520h",
+          "venues": []
+        },
+        {
+          "date": "15 May",
+          "duration": "1540h to 2100h",
+          "venues": [
+            "Woodlands Regional Library"
+          ]
+        },
+        {
+          "date": "15 May",
+          "duration": "1155h to 1300h",
+          "venues": [
+            "Woodlands Regional Library"
+          ]
+        }
+      ],
+      "name": "Woodlands Regional Library",
+      "address": "900 South Woodlands Drive",
+      "lon": 103.7864134,
+      "lat": 1.4347254
+    },
+    {
+      "id": "way71074841",
+      "visits": [
+        {
+          "date": "19 May",
+          "duration": "1515h to 1550h",
+          "venues": [
+            "UOB"
+          ]
+        },
+        {
+          "date": "16 May",
+          "duration": "1115h to 1245h",
+          "venues": []
+        },
+        {
+          "date": "15 May",
+          "duration": "1415h to 1630h",
+          "venues": []
+        },
+        {
+          "date": "15 May",
+          "duration": "1310h to 1520h",
+          "venues": [
+            "Shabu Sai"
+          ]
+        },
+        {
+          "date": "13 May",
+          "duration": "1725h to 1825h",
+          "venues": [
+            "Metro Department Store"
+          ]
+        },
+        {
+          "date": "13 May",
+          "duration": "1710h to 1830h",
+          "venues": []
+        }
+      ],
+      "name": "Causeway Point",
+      "address": "1 Woodlands Square",
+      "lon": 103.7853929,
+      "lat": 1.4362717
     },
     {
       "id": "way163785876",
@@ -2664,9 +2359,23 @@
       ],
       "name": "Punggol Plaza",
       "address": "168 Punggol Field",
-      "isNew": true,
       "lon": 103.9132612,
       "lat": 1.3938708
+    },
+    {
+      "id": "way128019938",
+      "visits": [
+        {
+          "date": "21 May",
+          "duration": "1415h to 1500h",
+          "venues": []
+        }
+      ],
+      "name": "POSB Bukit Batok Central Branch",
+      "address": "636 Bukit Batok Central",
+      "isNew": true,
+      "lon": 103.7519317,
+      "lat": 1.3498473
     },
     {
       "id": "way158234014",
@@ -2805,27 +2514,6 @@
           ]
         },
         {
-          "date": "10 May",
-          "duration": "1500h to 2100h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1425h to 1520h",
-          "venues": [
-            "Nunsaram Korean Dessert Café"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1425h to 1510h",
-          "venues": [
-            "Kiddy Palace"
-          ]
-        },
-        {
           "date": "9 to 21 May",
           "duration": "0800h to 2200h",
           "venues": []
@@ -2922,20 +2610,6 @@
           "venues": [
             "Fairprice Xtra"
           ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1750h to 1825h",
-          "venues": [
-            "FairPrice Xtra"
-          ]
-        },
-        {
-          "date": "10 May",
-          "duration": "1335h to 1410h",
-          "venues": [
-            "LeNu"
-          ]
         }
       ],
       "name": "JEM",
@@ -2963,10 +2637,41 @@
       ],
       "name": "VivoCity",
       "address": "1 HarbourFront Walk",
-      "isNew": true,
       "lon": 103.8208095,
       "lat": 1.2635745
+    },
+    {
+      "id": "way452298342",
+      "visits": [
+        {
+          "date": "22 May",
+          "duration": "1220h to 1300h",
+          "venues": []
+        }
+      ],
+      "name": "Hup Choon Eating House",
+      "address": "1 Binjai Park",
+      "isNew": true,
+      "lon": 103.7864787,
+      "lat": 1.3357655
+    },
+    {
+      "id": "way43550163",
+      "visits": [
+        {
+          "date": "22 May",
+          "duration": "1530h to 1630h",
+          "venues": [
+            "FairPrice Finest"
+          ]
+        }
+      ],
+      "name": "Bukit Timah Plaza",
+      "address": "1 Jalan Anak Bukit",
+      "isNew": true,
+      "lon": 103.7790325,
+      "lat": 1.3390747
     }
   ],
-  "timestamp": 1621897005445
+  "timestamp": 1621986903271
 }
