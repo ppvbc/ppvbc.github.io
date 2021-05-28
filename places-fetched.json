@@ -3,292 +3,6 @@
     {
       "visits": [
         {
-          "date": "13 May",
-          "duration": "0845h to 0915h",
-          "venues": []
-        }
-      ],
-      "name": "Bukit Batok Blk 371 Coffeeshop",
-      "address": "371 Bukit Batok Street 31",
-      "lon": "103.75069463109",
-      "lat": "1.35925940866067",
-      "id": "650371"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "0910h to 1545h",
-          "venues": []
-        }
-      ],
-      "name": "Burger King",
-      "address": "11 Bedok North Street 1",
-      "lon": "103.932104880536",
-      "lat": "1.3269254067053",
-      "id": "469662"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1000h to 1030h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "0900h to 0930h",
-          "venues": [
-            "Koufu"
-          ]
-        }
-      ],
-      "name": "Thomson Plaza",
-      "address": "301 Upper Thomson Road",
-      "lon": "103.830944960934",
-      "lat": "1.35465019298909",
-      "id": "574408"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1000h to 1400h",
-          "venues": []
-        }
-      ],
-      "name": "The Seletar Mall",
-      "address": "33 Sengkang West Avenue",
-      "lon": "103.876156956828",
-      "lat": "1.3913688093851",
-      "id": "797653"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1115h to 1150h",
-          "venues": []
-        }
-      ],
-      "name": "Selera Restaurant",
-      "address": "15 Mackenzie Road",
-      "isNew": true,
-      "lon": "103.849798660856",
-      "lat": "1.30437833970243",
-      "id": "228677"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1230h to 1330h",
-          "venues": []
-        }
-      ],
-      "name": "Eunos Food Station",
-      "address": "2A Eunos Crescent",
-      "lon": "103.903193509829",
-      "lat": "1.3202011052846",
-      "id": "401002"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1400h to 1500h",
-          "venues": [
-            "Bowl & Bowl"
-          ]
-        }
-      ],
-      "name": "HDB Hub",
-      "address": "480 Lorong 6 Toa Payoh",
-      "lon": "103.848335264381",
-      "lat": "1.33202548854255",
-      "id": "310480"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1545h to 1845h",
-          "venues": []
-        }
-      ],
-      "name": "Chong Yee Temple",
-      "address": "72 Sengkang West Avenue",
-      "lon": "103.872236016616",
-      "lat": "1.39186013872138",
-      "id": "797652"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1600h to 1640h",
-          "venues": []
-        }
-      ],
-      "name": "Peninsula Plaza",
-      "address": "111 North Bridge Road",
-      "lon": "103.850804507292",
-      "lat": "1.29232248414936",
-      "id": "179098"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1620h to 1715h",
-          "venues": []
-        }
-      ],
-      "name": "U Stars Supermarket",
-      "address": "829 Tampines Street 81",
-      "lon": "103.934914286623",
-      "lat": "1.34922100236977",
-      "id": "520829"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1700h to 1740h",
-          "venues": [
-            "Meidi-Ya Supermarket"
-          ]
-        }
-      ],
-      "name": "Millenia Walk",
-      "address": "9 Raffles Boulevard",
-      "lon": "103.859900233499",
-      "lat": "1.29204605302049",
-      "id": "039596"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1825h to 2030h",
-          "venues": [
-            "Sanook Kitchen"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1305h to 1405h",
-          "venues": [
-            "Saizeriya"
-          ]
-        }
-      ],
-      "name": "Wood Square",
-      "address": "6 Woodlands Square",
-      "lon": "103.785845466213",
-      "lat": "1.43514555835087",
-      "id": "737737"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1830h to 1930h",
-          "venues": []
-        }
-      ],
-      "name": "G7 Sin Ma Live Bull Frog Claypot Porridge",
-      "address": "5 Cheong Chin Nam Road",
-      "lon": "103.775237429914",
-      "lat": "1.34248911530732",
-      "id": "599730"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1850h to 1945h",
-          "venues": [
-            "Timezone"
-          ]
-        }
-      ],
-      "name": "Our Tampines Hub",
-      "address": "1 Tampines Walk",
-      "lon": "103.940148593378",
-      "lat": "1.35320985987658",
-      "id": "528523"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1900h to 2000h",
-          "venues": []
-        }
-      ],
-      "name": "SHU Vegetarian",
-      "address": "259 Jalan Kayu",
-      "lon": "103.872887978423",
-      "lat": "1.39684340556858",
-      "id": "799488"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "1930h to 2000h",
-          "venues": [
-            "Yenly Yours Desserts"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1830h to 1930h",
-          "venues": [
-            "Una Una"
-          ]
-        }
-      ],
-      "name": "Suntec City",
-      "address": "3 Temasek Boulevard",
-      "lon": "103.857675494346",
-      "lat": "1.2948790500243",
-      "id": "038983"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "2030h to 2200h",
-          "venues": []
-        }
-      ],
-      "name": "Kimly Coffeeshop",
-      "address": "444 Pasir Ris Drive 6",
-      "lon": "103.95748962666",
-      "lat": "1.37000224411598",
-      "id": "510444"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 May",
-          "duration": "2140h to 2220h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "152B Serangoon North Avenue 1",
-      "lon": "103.87303579046",
-      "lat": "1.36979940374161",
-      "id": "552152"
-    },
-    {
-      "visits": [
-        {
           "date": "14 May",
           "duration": "0030h to 0200h",
           "venues": []
@@ -335,11 +49,6 @@
         {
           "date": "14 May",
           "duration": "1000h to 1200h",
-          "venues": []
-        },
-        {
-          "date": "13 May",
-          "duration": "1000h to 2030h",
           "venues": []
         }
       ],
@@ -533,11 +242,6 @@
           "date": "13 to 14 May",
           "duration": "2030h to 0600h",
           "venues": []
-        },
-        {
-          "date": "13 May",
-          "duration": "1815h to 0600h",
-          "venues": []
         }
       ],
       "name": "Sheng Siong Supermarket",
@@ -613,20 +317,6 @@
           "date": "13 to 14 May",
           "duration": "2230h to 0730h",
           "venues": []
-        },
-        {
-          "date": "13 May",
-          "duration": "1230h to 1600h",
-          "venues": [
-            "Lavo Italian Restaurant And Rooftop Bar"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1155h to 1225h",
-          "venues": [
-            "ZARA"
-          ]
         }
       ],
       "name": "Marina Bay Sands Casino",
@@ -973,6 +663,38 @@
       "visits": [
         {
           "date": "15 May",
+          "duration": "1645h to 1730h",
+          "venues": [
+            "Long John Silver’s"
+          ]
+        }
+      ],
+      "name": "Tiong Bahru Plaza",
+      "address": "298 Tiong Bahru Road",
+      "isNew": true,
+      "lon": "103.828004844701",
+      "lat": "1.2863085351796",
+      "id": "168730"
+    },
+    {
+      "visits": [
+        {
+          "date": "15 May",
+          "duration": "1645h to 2045h",
+          "venues": []
+        }
+      ],
+      "name": "Tiong Bahru Plaza",
+      "address": "298 Tiong Bahru Rd",
+      "isNew": true,
+      "lon": "103.828004844701",
+      "lat": "1.2863085351796",
+      "id": "168730"
+    },
+    {
+      "visits": [
+        {
+          "date": "15 May",
           "duration": "1730h to 1825h",
           "venues": [
             "NTUC FairPrice"
@@ -984,6 +706,23 @@
       "lon": "103.852122945247",
       "lat": "1.30465788351304",
       "id": "218227"
+    },
+    {
+      "visits": [
+        {
+          "date": "15 May",
+          "duration": "1805h to 1905h",
+          "venues": [
+            "Sushi Tei"
+          ]
+        }
+      ],
+      "name": "Raffles Holland V Mall",
+      "address": "118 Holland Avenue",
+      "isNew": true,
+      "lon": "103.796105203103",
+      "lat": "1.31052977905884",
+      "id": "278997"
     },
     {
       "visits": [
@@ -1381,7 +1120,6 @@
       ],
       "name": "Tiong Bahru Plaza",
       "address": "302 Tiong Bahru Road",
-      "isNew": true,
       "lon": "103.827158267789",
       "lat": "1.28647119992724",
       "id": "168732"
@@ -1404,50 +1142,6 @@
       "visits": [
         {
           "date": "17 May",
-          "duration": "1415h to 1520h",
-          "venues": [
-            "Yue Hwa Chinese Products"
-          ]
-        },
-        {
-          "date": "15 May",
-          "duration": "1120h to 1150h",
-          "venues": [
-            "Watsons"
-          ]
-        },
-        {
-          "date": "15 May",
-          "duration": "1000h to 1120h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        },
-        {
-          "date": "15 May",
-          "duration": "1000h to 1100h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        },
-        {
-          "date": "14 May",
-          "duration": "1230h to 1600h",
-          "venues": [
-            "Seoul Garden"
-          ]
-        }
-      ],
-      "name": "Jurong Point",
-      "address": "1 Jurong West Central 2",
-      "lon": "103.706685012926",
-      "lat": "1.33945200436319",
-      "id": "648886"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
           "duration": "1530h to 1615h",
           "venues": [
             "NTUC FairPrice"
@@ -1457,13 +1151,6 @@
           "date": "16 May",
           "duration": "1745h to 1850h",
           "venues": []
-        },
-        {
-          "date": "13 May",
-          "duration": "1420h to 1500h",
-          "venues": [
-            "Dunkin’ Donuts"
-          ]
         }
       ],
       "name": "Sun Plaza",
@@ -1649,18 +1336,6 @@
           "venues": [
             "Shabu Sai"
           ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1725h to 1825h",
-          "venues": [
-            "Metro Department Store"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1710h to 1830h",
-          "venues": []
         }
       ],
       "name": "Causeway Point",
@@ -1712,13 +1387,6 @@
           "date": "15 May",
           "duration": "1740h to 1810h",
           "venues": []
-        },
-        {
-          "date": "13 May",
-          "duration": "1325h to 1400h",
-          "venues": [
-            "Steinway & Sons"
-          ]
         }
       ],
       "name": "ION Orchard",
@@ -1740,6 +1408,26 @@
       "lon": "103.843976528625",
       "lat": "1.31983049912881",
       "id": "307683"
+    },
+    {
+      "visits": [
+        {
+          "date": "20 May",
+          "duration": "1730h to 1820h",
+          "venues": []
+        },
+        {
+          "date": "16 May",
+          "duration": "1425h to 1455h",
+          "venues": []
+        }
+      ],
+      "name": "Chinatown Point",
+      "address": "133 New Bridge Road",
+      "isNew": true,
+      "lon": "103.845015574621",
+      "lat": "1.28533894878836",
+      "id": "059413"
     },
     {
       "visits": [
@@ -1775,7 +1463,6 @@
       ],
       "name": "Al Forno (East Coast) Pte Ltd",
       "address": "400 East Coast Road",
-      "isNew": true,
       "lon": "103.912040445917",
       "lat": "1.30869696282346",
       "id": "428996"
@@ -1824,47 +1511,6 @@
             "Din Tai Fung",
             "UNIQLO"
           ]
-        },
-        {
-          "date": "13 May",
-          "duration": "2005h to 2055h",
-          "venues": [
-            "XW Western Grill"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1620h to 2000h",
-          "venues": [
-            "IKEA Jurong",
-            "H&M",
-            "Cotton On Kids",
-            "Pizzakaya"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1345h to 1445h",
-          "venues": [
-            "Cookhouse by Koufu"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1325h to 1355h",
-          "venues": []
-        },
-        {
-          "date": "13 May",
-          "duration": "0830h to 0900h",
-          "venues": [
-            "Toast Box"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "0820h to 0920h",
-          "venues": []
         }
       ],
       "name": "JEM",
@@ -1883,10 +1529,29 @@
       ],
       "name": "Da Jin Factory Building",
       "address": "362 Upper Paya Lebar Road",
-      "isNew": true,
       "lon": "103.881382637613",
       "lat": "1.34805498296882",
       "id": "534963"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 May",
+          "duration": "1720h to 1750h",
+          "venues": []
+        },
+        {
+          "date": "18 May",
+          "duration": "1625h to 1725h",
+          "venues": []
+        }
+      ],
+      "name": "PLQ Mall",
+      "address": "10 Paya Lebar Road",
+      "isNew": true,
+      "lon": "103.892724428994",
+      "lat": "1.31752384637596",
+      "id": "409057"
     },
     {
       "visits": [
@@ -1900,10 +1565,24 @@
       ],
       "name": "NTP+",
       "address": "151 Lorong Chuan",
-      "isNew": true,
       "lon": "103.861533171041",
       "lat": "1.35148585261178",
       "id": "556741"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 May",
+          "duration": "1810h to 1940h",
+          "venues": []
+        }
+      ],
+      "name": "Parkway Parade",
+      "address": "80 Marine Parade Road",
+      "isNew": true,
+      "lon": "103.90528181445",
+      "lat": "1.30108003311455",
+      "id": "449269"
     },
     {
       "visits": [
@@ -1917,7 +1596,6 @@
       ],
       "name": "Keat Hong Shopping Centre",
       "address": "253 Choa Chu Kang Avenue 1",
-      "isNew": true,
       "lon": "103.744383225684",
       "lat": "1.37743963470096",
       "id": "680253"
@@ -1998,6 +1676,21 @@
       "visits": [
         {
           "date": "22 May",
+          "duration": "1230h to 1300h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "1 Jalan Bukit Merah",
+      "isNew": true,
+      "lon": "103.808286977232",
+      "lat": "1.28644157642074",
+      "id": "150001"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 May",
           "duration": "1500h to 2100h",
           "venues": [
             "Pizza Hut"
@@ -2067,21 +1760,7 @@
           ]
         },
         {
-          "date": "13 May",
-          "duration": "1520h to 1600h",
-          "venues": [
-            "Harvey Norman"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1100h to 1600h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        },
-        {
-          "date": "13 to 21 May",
+          "date": "14 to 21 May",
           "duration": "0800h to 2200h",
           "venues": []
         }
@@ -2123,13 +1802,6 @@
           "duration": "1530h to 1630h",
           "venues": [
             "FairPrice Finest"
-          ]
-        },
-        {
-          "date": "13 May",
-          "duration": "1940h to 2040h",
-          "venues": [
-            "NTUC FairPrice Finest"
           ]
         }
       ],
@@ -2202,7 +1874,6 @@
       ],
       "name": "Lucky Plaza",
       "address": "304 Orchard Road",
-      "isNew": true,
       "lon": "103.834005158524",
       "lat": "1.3044637897474",
       "id": "238863"
@@ -2220,6 +1891,89 @@
       "lon": "103.844652596814",
       "lat": "1.32697917569246",
       "id": "329876"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 May",
+          "duration": "1900h to 2015h",
+          "venues": []
+        }
+      ],
+      "name": "Lemongrass",
+      "address": "476 Upper Serangoon View",
+      "lon": "103.903713550367",
+      "lat": "1.37743337773734",
+      "id": "530476"
+    },
+    {
+      "visits": [
+        {
+          "date": "23 May",
+          "duration": "1100h to 1225h",
+          "venues": []
+        },
+        {
+          "date": "17 May",
+          "duration": "1415h to 1520h",
+          "venues": [
+            "Yue Hwa Chinese Products"
+          ]
+        },
+        {
+          "date": "15 May",
+          "duration": "1120h to 1150h",
+          "venues": [
+            "Watsons"
+          ]
+        },
+        {
+          "date": "15 May",
+          "duration": "1000h to 1120h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "15 May",
+          "duration": "1000h to 1100h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "14 May",
+          "duration": "1230h to 1600h",
+          "venues": [
+            "Seoul Garden"
+          ]
+        }
+      ],
+      "name": "Jurong Point",
+      "address": "1 Jurong West Central 2",
+      "lon": "103.706685012926",
+      "lat": "1.33945200436319",
+      "id": "648886"
+    },
+    {
+      "visits": [
+        {
+          "date": "23 May",
+          "duration": "1100h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "21 May",
+          "duration": "1100h to 2100h",
+          "venues": []
+        }
+      ],
+      "name": "Indobowl and Royz et Vous",
+      "address": "37 & 39 Sultan Gate",
+      "isNew": true,
+      "lon": "103.860598602583",
+      "lat": "1.3015049295861",
+      "id": "198487"
     },
     {
       "visits": [
@@ -2253,21 +2007,6 @@
     {
       "visits": [
         {
-          "date": "22 May",
-          "duration": "1900h to 2015h",
-          "venues": []
-        }
-      ],
-      "name": "Lemongrass",
-      "address": "476 Upper Serangoon View",
-      "isNew": true,
-      "lon": "103.903713550367",
-      "lat": "1.37743337773734",
-      "id": "530476"
-    },
-    {
-      "visits": [
-        {
           "date": "23 May",
           "duration": "1955h to 2030h",
           "venues": [
@@ -2277,7 +2016,6 @@
       ],
       "name": "NEX",
       "address": "23 Serangoon Central",
-      "isNew": true,
       "lon": "103.871861615443",
       "lat": "1.35067552120318",
       "id": "556083"
@@ -2304,7 +2042,37 @@
       "lon": "103.781337285958",
       "lat": "1.42933633490183",
       "id": "739065"
+    },
+    {
+      "visits": [
+        {
+          "date": "24 May",
+          "duration": "1230h to 1300h",
+          "venues": []
+        }
+      ],
+      "name": "D'FoodStop@ABC",
+      "address": "2 Jalan Bukit Merah",
+      "isNew": true,
+      "lon": "103.80686187976",
+      "lat": "1.2866292132996",
+      "id": "150002"
+    },
+    {
+      "visits": [
+        {
+          "date": "26 May",
+          "duration": "0900h to 1700h",
+          "venues": []
+        }
+      ],
+      "name": "Sri Murugan Trading Pte Ltd",
+      "address": "308 Anchorvale Road",
+      "isNew": true,
+      "lon": "103.886445107411",
+      "lat": "1.38925397515391",
+      "id": "540308"
     }
   ],
-  "timestamp": 1622165728362
+  "timestamp": 1622245198192
 }
