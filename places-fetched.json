@@ -1,7 +1,6 @@
 {
   "places": [
     {
-      "id": "relation9842838",
       "visits": [
         {
           "date": "13 May",
@@ -11,11 +10,11 @@
       ],
       "name": "Bukit Batok Blk 371 Coffeeshop",
       "address": "371 Bukit Batok Street 31",
-      "lon": 103.7506119,
-      "lat": 1.3595552
+      "lon": "103.75069463109",
+      "lat": "1.35925940866067",
+      "id": "650371"
     },
     {
-      "id": "way540022412",
       "visits": [
         {
           "date": "13 May",
@@ -25,11 +24,11 @@
       ],
       "name": "Burger King",
       "address": "11 Bedok North Street 1",
-      "lon": 103.9313378,
-      "lat": 1.3270845
+      "lon": "103.932104880536",
+      "lat": "1.3269254067053",
+      "id": "469662"
     },
     {
-      "id": "way117035196",
       "visits": [
         {
           "date": "13 May",
@@ -48,11 +47,11 @@
       ],
       "name": "Thomson Plaza",
       "address": "301 Upper Thomson Road",
-      "lon": 103.8308105,
-      "lat": 1.3550579
+      "lon": "103.831053292454",
+      "lat": "1.35502885653149",
+      "id": "NIL"
     },
     {
-      "id": "way233150122",
       "visits": [
         {
           "date": "13 May",
@@ -62,11 +61,11 @@
       ],
       "name": "The Seletar Mall",
       "address": "33 Sengkang West Avenue",
-      "lon": 103.8757834,
-      "lat": 1.3911566
+      "lon": "103.876156956828",
+      "lat": "1.3913688093851",
+      "id": "797653"
     },
     {
-      "id": "way231927857",
       "visits": [
         {
           "date": "13 May",
@@ -77,11 +76,11 @@
       "name": "Selera Restaurant",
       "address": "15 Mackenzie Road",
       "isNew": true,
-      "lon": 103.8498123,
-      "lat": 1.3043104
+      "lon": "103.849798660856",
+      "lat": "1.30437833970243",
+      "id": "228677"
     },
     {
-      "id": "way203258116",
       "visits": [
         {
           "date": "13 May",
@@ -91,11 +90,11 @@
       ],
       "name": "Eunos Food Station",
       "address": "2A Eunos Crescent",
-      "lon": 103.9028619,
-      "lat": 1.3200888
+      "lon": "103.903193509829",
+      "lat": "1.3202011052846",
+      "id": "401002"
     },
     {
-      "id": "way170403710",
       "visits": [
         {
           "date": "13 May",
@@ -107,11 +106,11 @@
       ],
       "name": "HDB Hub",
       "address": "480 Lorong 6 Toa Payoh",
-      "lon": 103.8481432,
-      "lat": 1.3318394
+      "lon": "103.848335264381",
+      "lat": "1.33202548854255",
+      "id": "310480"
     },
     {
-      "id": "way158985362",
       "visits": [
         {
           "date": "13 May",
@@ -121,11 +120,11 @@
       ],
       "name": "Chong Yee Temple",
       "address": "72 Sengkang West Avenue",
-      "lon": 103.872227,
-      "lat": 1.3917744
+      "lon": "103.872236016616",
+      "lat": "1.39186013872138",
+      "id": "797652"
     },
     {
-      "id": "way46594832",
       "visits": [
         {
           "date": "13 May",
@@ -135,11 +134,11 @@
       ],
       "name": "Peninsula Plaza",
       "address": "111 North Bridge Road",
-      "lon": 103.8507679,
-      "lat": 1.2927438
+      "lon": "103.85080450702",
+      "lat": "1.29232248414936",
+      "id": "NIL"
     },
     {
-      "id": "way175182316",
       "visits": [
         {
           "date": "13 May",
@@ -149,11 +148,11 @@
       ],
       "name": "U Stars Supermarket",
       "address": "829 Tampines Street 81",
-      "lon": 103.934511,
-      "lat": 1.3494523
+      "lon": "103.934914286623",
+      "lat": "1.34922100236977",
+      "id": "520829"
     },
     {
-      "id": "way747734200",
       "visits": [
         {
           "date": "13 May",
@@ -165,11 +164,11 @@
       ],
       "name": "Millenia Walk",
       "address": "9 Raffles Boulevard",
-      "lon": 103.8594129,
-      "lat": 1.2920682
+      "lon": "103.859900233499",
+      "lat": "1.29204605302049",
+      "id": "039596"
     },
     {
-      "id": "way251582198",
       "visits": [
         {
           "date": "13 May",
@@ -188,11 +187,11 @@
       ],
       "name": "Wood Square",
       "address": "6 Woodlands Square",
-      "lon": 103.7850897,
-      "lat": 1.4346132
+      "lon": "103.785845466213",
+      "lat": "1.43514555835087",
+      "id": "737737"
     },
     {
-      "id": "way668443025",
       "visits": [
         {
           "date": "13 May",
@@ -202,11 +201,11 @@
       ],
       "name": "G7 Sin Ma Live Bull Frog Claypot Porridge",
       "address": "5 Cheong Chin Nam Road",
-      "lon": 103.7752251,
-      "lat": 1.3424112
+      "lon": "103.775237429914",
+      "lat": "1.34248911530732",
+      "id": "599730"
     },
     {
-      "id": "way231670457",
       "visits": [
         {
           "date": "13 May",
@@ -218,11 +217,11 @@
       ],
       "name": "Our Tampines Hub",
       "address": "1 Tampines Walk",
-      "lon": 103.9400565,
-      "lat": 1.3530312
+      "lon": "103.940148593378",
+      "lat": "1.35320985987658",
+      "id": "528523"
     },
     {
-      "id": "way158541462",
       "visits": [
         {
           "date": "13 May",
@@ -232,11 +231,11 @@
       ],
       "name": "SHU Vegetarian",
       "address": "259 Jalan Kayu",
-      "lon": 103.8729611,
-      "lat": 1.3968125
+      "lon": "103.872887978423",
+      "lat": "1.39684340556858",
+      "id": "799488"
     },
     {
-      "id": "way393090489",
       "visits": [
         {
           "date": "13 May",
@@ -255,11 +254,11 @@
       ],
       "name": "Suntec City",
       "address": "3 Temasek Boulevard",
-      "lon": 103.8570867,
-      "lat": 1.294371
+      "lon": "103.857675494346",
+      "lat": "1.2948790500243",
+      "id": "038983"
     },
     {
-      "id": "way213638924",
       "visits": [
         {
           "date": "13 May",
@@ -269,11 +268,11 @@
       ],
       "name": "Kimly Coffeeshop",
       "address": "444 Pasir Ris Drive 6",
-      "lon": 103.9574695,
-      "lat": 1.3698902
+      "lon": "103.95748962666",
+      "lat": "1.37000224411598",
+      "id": "510444"
     },
     {
-      "id": "way104989047",
       "visits": [
         {
           "date": "13 May",
@@ -283,11 +282,11 @@
       ],
       "name": "NTUC FairPrice",
       "address": "152B Serangoon North Avenue 1",
-      "lon": 103.8731165,
-      "lat": 1.3699569
+      "lon": "103.87303579046",
+      "lat": "1.36979940374161",
+      "id": "552152"
     },
     {
-      "id": "way454444262",
       "visits": [
         {
           "date": "14 May",
@@ -297,11 +296,11 @@
       ],
       "name": "Rochor Beancurd House",
       "address": "745 Geylang Road",
-      "lon": 103.8902629,
-      "lat": 1.31504
+      "lon": "103.890631106434",
+      "lat": "1.31500882023433",
+      "id": "389653"
     },
     {
-      "id": "way154161595",
       "visits": [
         {
           "date": "14 May",
@@ -313,11 +312,11 @@
       ],
       "name": "Marsiling MRT Station",
       "address": "71 Woodlands Avenue 3",
-      "lon": 103.7739482,
-      "lat": 1.4328188
+      "lon": "103.774051197031",
+      "lat": "1.43262603485889",
+      "id": "739044"
     },
     {
-      "id": "way159171669",
       "visits": [
         {
           "date": "14 May",
@@ -327,11 +326,11 @@
       ],
       "name": "Shunfu Mart Food Centre",
       "address": "320 Shunfu Road",
-      "lon": 103.8366041,
-      "lat": 1.352121
+      "lon": "103.837031862103",
+      "lat": "1.3520074540159",
+      "id": "570320"
     },
     {
-      "id": "way116818224",
       "visits": [
         {
           "date": "14 May",
@@ -346,11 +345,11 @@
       ],
       "name": "Toast & Curry",
       "address": "43 Siloso Beach Walk",
-      "lon": 103.8178715,
-      "lat": 1.25208
+      "lon": "103.81755421712",
+      "lat": "1.25200579229141",
+      "id": "099010"
     },
     {
-      "id": "way172495541",
       "visits": [
         {
           "date": "14 May",
@@ -362,11 +361,11 @@
       ],
       "name": "Singapore Polytechnic",
       "address": "500 Dover Road",
-      "lon": 103.7773857,
-      "lat": 1.3084683
+      "lon": "103.778336591188",
+      "lat": "1.30891286089663",
+      "id": "NIL"
     },
     {
-      "id": "way668443018",
       "visits": [
         {
           "date": "14 May",
@@ -376,11 +375,11 @@
       ],
       "name": "Wanyoo Cybercafe (Beauty World)",
       "address": "2 Cheong Chin Nam Road",
-      "lon": 103.7752509,
-      "lat": 1.3422761
+      "lon": "103.77529722877",
+      "lat": "1.34227932028741",
+      "id": "599727"
     },
     {
-      "id": "way37355745",
       "visits": [
         {
           "date": "14 May",
@@ -390,11 +389,11 @@
       ],
       "name": "Masjid Al-Muttaqin",
       "address": "5140 Ang Mo Kio Avenue 6",
-      "lon": 103.846254,
-      "lat": 1.3702866
+      "lon": "103.846029708854",
+      "lat": "1.37033364985249",
+      "id": "569844"
     },
     {
-      "id": "way172529122",
       "visits": [
         {
           "date": "14 May",
@@ -420,11 +419,11 @@
       ],
       "name": "United Square Shopping Mall",
       "address": "101 Thomson Road",
-      "lon": 103.8436139,
-      "lat": 1.3164831
+      "lon": "103.84366703034",
+      "lat": "1.31707176560995",
+      "id": "NIL"
     },
     {
-      "id": "way154249621",
       "visits": [
         {
           "date": "14 May",
@@ -434,11 +433,11 @@
       ],
       "name": "Marsiling Community Club",
       "address": "100 Admiralty Road",
-      "lon": 103.77341,
-      "lat": 1.4405896
+      "lon": "103.773615177369",
+      "lat": "1.44065677881395",
+      "id": "739980"
     },
     {
-      "id": "way502013652",
       "visits": [
         {
           "date": "14 May",
@@ -450,11 +449,11 @@
       ],
       "name": "Marsiling Mall",
       "address": "4 Woodlands Street 12",
-      "lon": 103.77949,
-      "lat": 1.4337394
+      "lon": "103.779746860157",
+      "lat": "1.43351253520759",
+      "id": "738623"
     },
     {
-      "id": "way218269179",
       "visits": [
         {
           "date": "14 May",
@@ -466,11 +465,11 @@
       ],
       "name": "Paya Lebar Square",
       "address": "60 Paya Lebar Road",
-      "lon": 103.8923096,
-      "lat": 1.3182332
+      "lon": "103.892550598424",
+      "lat": "1.31867575623015",
+      "id": "409051"
     },
     {
-      "id": "way172518496",
       "visits": [
         {
           "date": "14 May",
@@ -482,11 +481,11 @@
       ],
       "name": "Paragon",
       "address": "290 Orchard Road",
-      "lon": 103.8358278,
-      "lat": 1.3030664
+      "lon": "103.83526664484",
+      "lat": "1.30371084737898",
+      "id": "238859"
     },
     {
-      "id": "way383209579",
       "visits": [
         {
           "date": "14 May",
@@ -498,11 +497,11 @@
       ],
       "name": "D’Arena Country Club",
       "address": "511 Upper Jurong Road",
-      "lon": 103.6836561,
-      "lat": 1.329686
+      "lon": "103.682388469812",
+      "lat": "1.32936819642869",
+      "id": "638366"
     },
     {
-      "id": "way245072068",
       "visits": [
         {
           "date": "14 May",
@@ -514,11 +513,11 @@
       ],
       "name": "Junction 10",
       "address": "1 Woodlands Road",
-      "lon": 103.7601916,
-      "lat": 1.3796694
+      "lon": "103.759993877793",
+      "lat": "1.38056276998076",
+      "id": "NIL"
     },
     {
-      "id": "way426826505",
       "visits": [
         {
           "date": "14 to 15 May",
@@ -543,11 +542,11 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "440 Bukit Batok West Avenue 8",
-      "lon": 103.738914,
-      "lat": 1.3554465
+      "lon": "103.739303105372",
+      "lat": "1.35572308109486",
+      "id": "650440"
     },
     {
-      "id": "way708172308",
       "visits": [
         {
           "date": "14 May",
@@ -559,11 +558,11 @@
       ],
       "name": "SAFRA Toa Payoh",
       "address": "293 Lorong 6 Toa Payoh",
-      "lon": 103.8549061,
-      "lat": 1.3303821
+      "lon": "103.854404351883",
+      "lat": "1.32980734095166",
+      "id": "319387"
     },
     {
-      "id": "way335031444",
       "visits": [
         {
           "date": "14 May",
@@ -573,11 +572,11 @@
       ],
       "name": "S-11 Taman Jurong Food House",
       "address": "101 Yung Sheng Road",
-      "lon": 103.7220574,
-      "lat": 1.3345202
+      "lon": "103.722221199754",
+      "lat": "1.33441342907314",
+      "id": "618497"
     },
     {
-      "id": "way125627614",
       "visits": [
         {
           "date": "14 May",
@@ -589,11 +588,11 @@
       ],
       "name": "Toa Payoh Mall",
       "address": "177 Toa Payoh Central",
-      "lon": 103.8478115,
-      "lat": 1.33396
+      "lon": "103.848854818382",
+      "lat": "1.33390034057387",
+      "id": "310177"
     },
     {
-      "id": "node4302905987",
       "visits": [
         {
           "date": "14 to 15 May",
@@ -632,11 +631,11 @@
       ],
       "name": "Marina Bay Sands Casino",
       "address": "10 Bayfront Avenue",
-      "lon": 103.8607226,
-      "lat": 1.2836965
+      "lon": "103.858562162091",
+      "lat": "1.28257452719678",
+      "id": "018956"
     },
     {
-      "id": "way295367645",
       "visits": [
         {
           "date": "14 May",
@@ -648,11 +647,11 @@
       ],
       "name": "Sengkang Sports Complex",
       "address": "57 Anchorvale Road",
-      "lon": 103.8864792,
-      "lat": 1.3965973
+      "lon": "103.885789251445",
+      "lat": "1.39549659121761",
+      "id": "544964"
     },
     {
-      "id": "node7076626648",
       "visits": [
         {
           "date": "15 May",
@@ -662,11 +661,11 @@
       ],
       "name": "Canberra Plaza",
       "address": "133 Canberra View",
-      "lon": 103.8305821,
-      "lat": 1.4432209
+      "lon": "103.83052345616",
+      "lat": "1.44324523168314",
+      "id": "750133"
     },
     {
-      "id": "way32774317",
       "visits": [
         {
           "date": "15 May",
@@ -678,11 +677,11 @@
       ],
       "name": "Rivervale Plaza",
       "address": "118 Rivervale Drive",
-      "lon": 103.9011771,
-      "lat": 1.385057
+      "lon": "103.901849634797",
+      "lat": "1.385371516087",
+      "id": "540118"
     },
     {
-      "id": "relation9382787",
       "visits": [
         {
           "date": "15 May",
@@ -692,11 +691,11 @@
       ],
       "name": "McDonald’s",
       "address": "311 New Upper Changi Road",
-      "lon": 103.9285518,
-      "lat": 1.3250643
+      "lon": "103.92940545649",
+      "lat": "1.32466897396908",
+      "id": "467360"
     },
     {
-      "id": "way104000617",
       "visits": [
         {
           "date": "15 May",
@@ -706,11 +705,11 @@
       ],
       "name": "Jinwei Hai Xian",
       "address": "280 Bishan Street 24",
-      "lon": 103.8443785,
-      "lat": 1.3574907
+      "lon": "103.844275790603",
+      "lat": "1.35742119635954",
+      "id": "570280"
     },
     {
-      "id": "way103974208",
       "visits": [
         {
           "date": "15 May",
@@ -720,11 +719,11 @@
       ],
       "name": "NTUC FairPrice",
       "address": "279 Bishan Street 24",
-      "lon": 103.8438391,
-      "lat": 1.3570068
+      "lon": "103.843790117762",
+      "lat": "1.35728842987327",
+      "id": "570279"
     },
     {
-      "id": "way745633884",
       "visits": [
         {
           "date": "15 May",
@@ -734,11 +733,11 @@
       ],
       "name": "Hola Cafeteria",
       "address": "248 Simei Street 5",
-      "lon": 103.9530395,
-      "lat": 1.3438517
+      "lon": "103.953541142825",
+      "lat": "1.34359376269609",
+      "id": "520248"
     },
     {
-      "id": "way159940901",
       "visits": [
         {
           "date": "15 May",
@@ -757,11 +756,11 @@
       ],
       "name": "Coronation Shopping Plaza",
       "address": "587 Bukit Timah Road",
-      "lon": 103.8096024,
-      "lat": 1.3239163
+      "lon": "103.810002032513",
+      "lat": "1.32383369976841",
+      "id": "NIL"
     },
     {
-      "id": "way103626745",
       "visits": [
         {
           "date": "15 May",
@@ -771,11 +770,25 @@
       ],
       "name": "Phoon Huat",
       "address": "107 Lorong 1 Toa Payoh",
-      "lon": 103.8469682,
-      "lat": 1.3413096
+      "lon": "103.847294021513",
+      "lat": "1.34123358840729",
+      "id": "310107"
     },
     {
-      "id": "way108390950",
+      "visits": [
+        {
+          "date": "15 May",
+          "duration": "1200h to 1300h",
+          "venues": []
+        }
+      ],
+      "name": "Broadway Coffeeshop",
+      "address": "155 Bukit Batok Street 11",
+      "lon": "103.743595035",
+      "lat": "1.3480262095627",
+      "id": "650155"
+    },
+    {
       "visits": [
         {
           "date": "15 May",
@@ -790,11 +803,11 @@
       ],
       "name": "NTUC FairPrice",
       "address": "345 Jurong East Street 31",
-      "lon": 103.7308297,
-      "lat": 1.3454166
+      "lon": "103.73121914575",
+      "lat": "1.3455121058675",
+      "id": "600345"
     },
     {
-      "id": "way464936032",
       "visits": [
         {
           "date": "15 May",
@@ -813,11 +826,11 @@
       ],
       "name": "FairPrice Hub",
       "address": "1 Joo Koon Circle",
-      "lon": 103.6777184,
-      "lat": 1.3273867
+      "lon": "103.678279283036",
+      "lat": "1.3271618610269",
+      "id": "629117"
     },
     {
-      "id": "way33795348",
       "visits": [
         {
           "date": "15 May",
@@ -827,11 +840,11 @@
       ],
       "name": "Mandai Crematorium and Columbarium Complex",
       "address": "300 Mandai Road",
-      "lon": 103.8077291,
-      "lat": 1.414179
+      "lon": "103.809638369507",
+      "lat": "1.41380605332013",
+      "id": "779393"
     },
     {
-      "id": "way145430318",
       "visits": [
         {
           "date": "15 May",
@@ -841,11 +854,11 @@
       ],
       "name": "Ghim Moh Market and Food Centre",
       "address": "20 Ghim Moh Road",
-      "lon": 103.7878922,
-      "lat": 1.3106639
+      "lon": "103.788241408454",
+      "lat": "1.31091018371374",
+      "id": "270020"
     },
     {
-      "id": "way26561741",
       "visits": [
         {
           "date": "15 May",
@@ -855,11 +868,11 @@
       ],
       "name": "Changi Airport Terminal 1",
       "address": "80 Airport Boulevard",
-      "lon": 103.9897951,
-      "lat": 1.3649374
+      "lon": "103.99060554697",
+      "lat": "1.36129123176598",
+      "id": "819642"
     },
     {
-      "id": "way52236347",
       "visits": [
         {
           "date": "15 May",
@@ -871,11 +884,11 @@
       ],
       "name": "313@Somerset",
       "address": "313 Orchard Road",
-      "lon": 103.8388717,
-      "lat": 1.3011138
+      "lon": "103.838350465208",
+      "lat": "1.30097808212209",
+      "id": "238895"
     },
     {
-      "id": "way173144799",
       "visits": [
         {
           "date": "15 May",
@@ -887,11 +900,11 @@
       ],
       "name": "Bukit Panjang Plaza",
       "address": "1 Jelebu Road",
-      "lon": 103.7643738,
-      "lat": 1.3792381
+      "lon": "103.763993944333",
+      "lat": "1.38054245606299",
+      "id": "NIL"
     },
     {
-      "id": "relation4131188",
       "visits": [
         {
           "date": "15 May",
@@ -910,11 +923,11 @@
       ],
       "name": "Far East Plaza",
       "address": "14 Scotts Road",
-      "lon": 103.8331463,
-      "lat": 1.307079
+      "lon": "103.833664932875",
+      "lat": "1.30724675116163",
+      "id": "228213"
     },
     {
-      "id": "way116818121",
       "visits": [
         {
           "date": "15 May",
@@ -922,13 +935,13 @@
           "venues": []
         }
       ],
-      "name": "7‑Eleven Resorts World Station",
+      "name": "7-Eleven Resorts World Station",
       "address": "32 Sentosa Gateway",
-      "lon": 103.8211768,
-      "lat": 1.2557907
+      "lon": "103.820949650589",
+      "lat": "1.25553213302224",
+      "id": "098141"
     },
     {
-      "id": "way172769341",
       "visits": [
         {
           "date": "15 May",
@@ -938,11 +951,11 @@
       ],
       "name": "Lao Si Chuan Dou Hua Zhuang",
       "address": "46 Temple Street",
-      "lon": 103.8436713,
-      "lat": 1.2832073
+      "lon": "103.843746846036",
+      "lat": "1.28327802168392",
+      "id": "058591"
     },
     {
-      "id": "way46522846",
       "visits": [
         {
           "date": "15 May",
@@ -952,11 +965,11 @@
       ],
       "name": "YWCA Fort Canning",
       "address": "6 Fort Canning Road",
-      "lon": 103.8447924,
-      "lat": 1.2977599
+      "lon": "103.844939104971",
+      "lat": "1.29724000120006",
+      "id": "179494"
     },
     {
-      "id": "way176326991",
       "visits": [
         {
           "date": "15 May",
@@ -968,11 +981,11 @@
       ],
       "name": "Tekka Place",
       "address": "2 Serangoon Road",
-      "lon": 103.8515733,
-      "lat": 1.3048571
+      "lon": "103.852122945247",
+      "lat": "1.30465788351304",
+      "id": "218227"
     },
     {
-      "id": "way937994805",
       "visits": [
         {
           "date": "15 May",
@@ -991,11 +1004,11 @@
       ],
       "name": "The Punggol Settlement",
       "address": "500 New Punggol Road",
-      "lon": 103.9117403,
-      "lat": 1.4211274
+      "lon": "103.912002388217",
+      "lat": "1.42088971823949",
+      "id": "828617"
     },
     {
-      "id": "way108757676",
       "visits": [
         {
           "date": "15 May",
@@ -1005,11 +1018,11 @@
       ],
       "name": "The Carving Board",
       "address": "252 Jurong East Street 24",
-      "lon": 103.7378531,
-      "lat": 1.3430887
+      "lon": "103.738233469424",
+      "lat": "1.34306217556914",
+      "id": "600252"
     },
     {
-      "id": "way130361691",
       "visits": [
         {
           "date": "15 May",
@@ -1019,11 +1032,11 @@
       ],
       "name": "Chang Cheng HQ",
       "address": "27 Woodlands Link",
-      "lon": 103.8101852,
-      "lat": 1.4519336
+      "lon": "103.810861351045",
+      "lat": "1.45240763472005",
+      "id": "738732"
     },
     {
-      "id": "way191009856",
       "visits": [
         {
           "date": "15 May",
@@ -1035,11 +1048,11 @@
       ],
       "name": "Arya Samaj Building",
       "address": "114 Syed Alwi Road",
-      "lon": 103.855051,
-      "lat": 1.3097836
+      "lon": "103.85503376296",
+      "lat": "1.30990992790192",
+      "id": "207682"
     },
     {
-      "id": "relation6715270",
       "visits": [
         {
           "date": "15 May",
@@ -1051,11 +1064,11 @@
       ],
       "name": "SAFRA Yishun",
       "address": "60 Yishun Avenue 4",
-      "lon": 103.8409265,
-      "lat": 1.4235071
+      "lon": "103.840902278162",
+      "lat": "1.42429829576671",
+      "id": "769027"
     },
     {
-      "id": "way668442999",
       "visits": [
         {
           "date": "15 May",
@@ -1070,11 +1083,11 @@
       ],
       "name": "BBQ Box @ Bukit Timah",
       "address": "22 Cheong Chin Nam Road",
-      "lon": 103.7749363,
-      "lat": 1.3436675
+      "lon": "103.775032268285",
+      "lat": "1.34364174837769",
+      "id": "599746"
     },
     {
-      "id": "way172022218",
       "visits": [
         {
           "date": "16 May",
@@ -1089,11 +1102,11 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "52 Chin Swee Road",
-      "lon": 103.8400827,
-      "lat": 1.28784
+      "lon": "103.841580109275",
+      "lat": "1.28708278284997",
+      "id": "160052"
     },
     {
-      "id": "way169526703",
       "visits": [
         {
           "date": "16 May",
@@ -1108,11 +1121,11 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "4 Toa Payoh Lorong 7",
-      "lon": 103.8551876,
-      "lat": 1.3389907
+      "lon": "103.85554106336",
+      "lat": "1.33904479783226",
+      "id": "310004"
     },
     {
-      "id": "way161136289",
       "visits": [
         {
           "date": "16 May",
@@ -1124,11 +1137,11 @@
       ],
       "name": "Great World City",
       "address": "1 Kim Seng Promenade",
-      "lon": 103.8326105,
-      "lat": 1.292888
+      "lon": "103.831975865363",
+      "lat": "1.29347596207041",
+      "id": "NIL"
     },
     {
-      "id": "relation11996247",
       "visits": [
         {
           "date": "16 May",
@@ -1138,11 +1151,11 @@
       ],
       "name": "Prime Supermarket",
       "address": "823 Tampines Street 81",
-      "lon": 103.9342173,
-      "lat": 1.348993
+      "lon": "103.934010232785",
+      "lat": "1.34873284518968",
+      "id": "520823"
     },
     {
-      "id": "node6817644618",
       "visits": [
         {
           "date": "16 May",
@@ -1152,11 +1165,11 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "154A Bukit Batok West Avenue 8",
-      "lon": 103.7437317,
-      "lat": 1.3474556
+      "lon": "103.743704684376",
+      "lat": "1.34738825473827",
+      "id": "651154"
     },
     {
-      "id": "way52238208",
       "visits": [
         {
           "date": "16 May",
@@ -1168,30 +1181,25 @@
       ],
       "name": "TripleOne Somerset",
       "address": "111 Somerset Road",
-      "lon": 103.8371649,
-      "lat": 1.3005635
+      "lon": "103.837362540861",
+      "lat": "1.30019272342804",
+      "id": "238164"
     },
     {
-      "id": "way162650180",
       "visits": [
         {
           "date": "16 May",
           "duration": "1115h to 1215h",
           "venues": []
-        },
-        {
-          "date": "15 May",
-          "duration": "1200h to 1300h",
-          "venues": []
         }
       ],
       "name": "Snip Avenue",
       "address": "156 Bukit Batok Street 11",
-      "lon": 103.74369,
-      "lat": 1.3485143
+      "lon": "103.743842009803",
+      "lat": "1.34836489977938",
+      "id": "650156"
     },
     {
-      "id": "relation2434612",
       "visits": [
         {
           "date": "16 May",
@@ -1203,11 +1211,11 @@
       ],
       "name": "Boon Lay Shopping Centre",
       "address": "221 Boon Lay Place",
-      "lon": 103.7123672,
-      "lat": 1.3464538
+      "lon": "103.712472819666",
+      "lat": "1.34637376407877",
+      "id": "640221"
     },
     {
-      "id": "way30527021",
       "visits": [
         {
           "date": "16 May",
@@ -1217,11 +1225,11 @@
       ],
       "name": "Sim Lim Square",
       "address": "1 Rochor Canal Road",
-      "lon": 103.8530751,
-      "lat": 1.3025436
+      "lon": "103.852875622062",
+      "lat": "1.30302298515261",
+      "id": "188504"
     },
     {
-      "id": "way179100300",
       "visits": [
         {
           "date": "16 May",
@@ -1231,11 +1239,11 @@
       ],
       "name": "NTUC Fairprice",
       "address": "570B Woodlands Avenue 1",
-      "lon": 103.7904992,
-      "lat": 1.431266
+      "lon": "103.790454078756",
+      "lat": "1.43106395458306",
+      "id": "732570"
     },
     {
-      "id": "way37356989",
       "visits": [
         {
           "date": "16 May",
@@ -1245,11 +1253,11 @@
       ],
       "name": "Cash Converters",
       "address": "710A Ang Mo Kio Avenue 8",
-      "lon": 103.8478155,
-      "lat": 1.3704819
+      "lon": "103.847868789047",
+      "lat": "1.37073128033233",
+      "id": "NIL"
     },
     {
-      "id": "way169518582",
       "visits": [
         {
           "date": "16 May",
@@ -1259,11 +1267,11 @@
       ],
       "name": "Toa Payoh East Community Club",
       "address": "160 Toa Payoh Lorong 6",
-      "lon": 103.8544991,
-      "lat": 1.3360272
+      "lon": "103.854700248891",
+      "lat": "1.33627489786903",
+      "id": "319380"
     },
     {
-      "id": "way170403426",
       "visits": [
         {
           "date": "16 May",
@@ -1275,11 +1283,11 @@
       ],
       "name": "Toa Payoh Central",
       "address": "520 Lorong 6 Toa Payoh",
-      "lon": 103.8477476,
-      "lat": 1.3328258
+      "lon": "103.847464972969",
+      "lat": "1.3331304765624",
+      "id": "310520"
     },
     {
-      "id": "relation9842837",
       "visits": [
         {
           "date": "16 May",
@@ -1289,11 +1297,11 @@
       ],
       "name": "Giant Supermarket",
       "address": "376 Bukit Batok Street 31",
-      "lon": 103.7491983,
-      "lat": 1.3582198
+      "lon": "103.749579868748",
+      "lat": "1.35831705249924",
+      "id": "650376"
     },
     {
-      "id": "way117041958",
       "visits": [
         {
           "date": "17 May",
@@ -1303,11 +1311,11 @@
       ],
       "name": "Kong Meng San Phor Kark See Monastery",
       "address": "88 Bright Hill Road",
-      "lon": 103.8361122,
-      "lat": 1.3632455
+      "lon": "103.836519069051",
+      "lat": "1.3605199364473",
+      "id": "574117"
     },
     {
-      "id": "way455235868",
       "visits": [
         {
           "date": "17 May",
@@ -1327,11 +1335,11 @@
       ],
       "name": "KFC",
       "address": "35 Jalan Mas Puteh",
-      "lon": 103.7618983,
-      "lat": 1.3081982
+      "lon": "103.762278702257",
+      "lat": "1.30844135523806",
+      "id": "128635"
     },
     {
-      "id": "way47134068",
       "visits": [
         {
           "date": "17 May",
@@ -1343,11 +1351,11 @@
       ],
       "name": "Golden Landmark Shopping Centre",
       "address": "390 Victoria Street",
-      "lon": 103.8573772,
-      "lat": 1.3019596
+      "lon": "103.857847794036",
+      "lat": "1.30189677580548",
+      "id": "188061"
     },
     {
-      "id": "way103751890",
       "visits": [
         {
           "date": "17 May",
@@ -1357,11 +1365,11 @@
       ],
       "name": "Jurong Regional Library",
       "address": "21 Jurong East Central 1",
-      "lon": 103.7398433,
-      "lat": 1.3325955
+      "lon": "103.739492767422",
+      "lat": "1.33288031932833",
+      "id": "609732"
     },
     {
-      "id": "way172117296",
       "visits": [
         {
           "date": "17 May",
@@ -1374,11 +1382,11 @@
       "name": "Tiong Bahru Plaza",
       "address": "302 Tiong Bahru Road",
       "isNew": true,
-      "lon": 103.8264474,
-      "lat": 1.286316
+      "lon": "103.827158267789",
+      "lat": "1.28647119992724",
+      "id": "168732"
     },
     {
-      "id": "way508994096",
       "visits": [
         {
           "date": "17 May",
@@ -1388,11 +1396,11 @@
       ],
       "name": "Masjid Jamae (Chulia)",
       "address": "218 South Bridge Road",
-      "lon": 103.8457011,
-      "lat": 1.2831497
+      "lon": "103.845394767843",
+      "lat": "1.28319555478948",
+      "id": "058767"
     },
     {
-      "id": "way251607400",
       "visits": [
         {
           "date": "17 May",
@@ -1432,11 +1440,11 @@
       ],
       "name": "Jurong Point",
       "address": "1 Jurong West Central 2",
-      "lon": 103.7059254,
-      "lat": 1.3402497
+      "lon": "103.706685012654",
+      "lat": "1.33945200436318",
+      "id": "NIL"
     },
     {
-      "id": "way48581160",
       "visits": [
         {
           "date": "17 May",
@@ -1460,11 +1468,11 @@
       ],
       "name": "Sun Plaza",
       "address": "30 Sembawang Drive",
-      "lon": 103.8189611,
-      "lat": 1.4482634
+      "lon": "103.819462102812",
+      "lat": "1.44822653818275",
+      "id": "757713"
     },
     {
-      "id": "way655155272",
       "visits": [
         {
           "date": "17 May",
@@ -1476,11 +1484,11 @@
       ],
       "name": "Viva Business Park",
       "address": "750A Chai Chee Road",
-      "lon": 103.9227659,
-      "lat": 1.3230747
+      "lon": "103.922124606113",
+      "lat": "1.32297820248267",
+      "id": "469001"
     },
     {
-      "id": "way201904037",
       "visits": [
         {
           "date": "18 May",
@@ -1490,11 +1498,11 @@
       ],
       "name": "Geylang Serai Malay Market and Food Centre",
       "address": "1 Geylang Serai",
-      "lon": 103.8984869,
-      "lat": 1.316583
+      "lon": "103.898227885294",
+      "lat": "1.31673634902958",
+      "id": "402001"
     },
     {
-      "id": "node1932291025",
       "visits": [
         {
           "date": "18 May",
@@ -1506,11 +1514,11 @@
       ],
       "name": "White Sands",
       "address": "1 Pasir Ris Central Street 3",
-      "lon": 103.9496345,
-      "lat": 1.3724307
+      "lon": "103.949749226457",
+      "lat": "1.37239898072242",
+      "id": "518457"
     },
     {
-      "id": "way208427267",
       "visits": [
         {
           "date": "18 May",
@@ -1520,11 +1528,11 @@
       ],
       "name": "Madam Fang Hairdressing & Beauty Saloon (1989)",
       "address": "510 Bedok North Street 3",
-      "lon": 103.9304817,
-      "lat": 1.3319458
+      "lon": "103.930496816187",
+      "lat": "1.33233655577229",
+      "id": "460510"
     },
     {
-      "id": "way33543880",
       "visits": [
         {
           "date": "18 May",
@@ -1536,11 +1544,11 @@
       ],
       "name": "Giant @ IMM",
       "address": "2 Jurong East Street 21",
-      "lon": 103.7462762,
-      "lat": 1.3359928
+      "lon": "103.746638235324",
+      "lat": "1.33502430989432",
+      "id": "NIL"
     },
     {
-      "id": "way152752624",
       "visits": [
         {
           "date": "19 to 21 May",
@@ -1552,11 +1560,41 @@
       ],
       "name": "Holland Piazza",
       "address": "3 Lorong Liput",
-      "lon": 103.7953949,
-      "lat": 1.3108381
+      "lon": "103.795246166084",
+      "lat": "1.31064349551562",
+      "id": "277725"
     },
     {
-      "id": "way154159343",
+      "visits": [
+        {
+          "date": "19 May",
+          "duration": "1030h to 2000h",
+          "venues": [
+            "Fun Toast"
+          ]
+        },
+        {
+          "date": "18 May",
+          "duration": "0730h to 2000h",
+          "venues": [
+            "Fun Toast"
+          ]
+        },
+        {
+          "date": "17 May",
+          "duration": "0730h to 2000h",
+          "venues": [
+            "Fun Toast"
+          ]
+        }
+      ],
+      "name": "Westgate",
+      "address": "3 Westgate Drive",
+      "lon": "103.742870105512",
+      "lat": "1.33428313049536",
+      "id": "608532"
+    },
+    {
       "visits": [
         {
           "date": "19 May",
@@ -1580,13 +1618,13 @@
           ]
         }
       ],
-      "name": "Woodlands Regional Library",
+      "name": "Woodlands Civic Centre",
       "address": "900 South Woodlands Drive",
-      "lon": 103.7864134,
-      "lat": 1.4347254
+      "lon": "103.786857742853",
+      "lat": "1.43518691179968",
+      "id": "NIL"
     },
     {
-      "id": "way71074841",
       "visits": [
         {
           "date": "19 May",
@@ -1627,11 +1665,11 @@
       ],
       "name": "Causeway Point",
       "address": "1 Woodlands Square",
-      "lon": 103.7853929,
-      "lat": 1.4362717
+      "lon": "103.786009973678",
+      "lat": "1.43608867729912",
+      "id": "738099"
     },
     {
-      "id": "way163785876",
       "visits": [
         {
           "date": "20 May",
@@ -1641,11 +1679,11 @@
       ],
       "name": "Prime Supermarket",
       "address": "373 Bukit Batok Street 31",
-      "lon": 103.7501444,
-      "lat": 1.3589067
+      "lon": "103.750397174291",
+      "lat": "1.35892457118178",
+      "id": "650373"
     },
     {
-      "id": "relation3385929",
       "visits": [
         {
           "date": "20 May",
@@ -1657,11 +1695,11 @@
       ],
       "name": "Kaki Bukit Recreation Centre",
       "address": "7 Kaki Bukit Avenue 3",
-      "lon": 103.9066365,
-      "lat": 1.3370902
+      "lon": "103.90663168981",
+      "lat": "1.33729714367902",
+      "id": "415814"
     },
     {
-      "id": "way231917869",
       "visits": [
         {
           "date": "20 May",
@@ -1685,11 +1723,11 @@
       ],
       "name": "ION Orchard",
       "address": "2 Orchard Turn",
-      "lon": 103.8326366,
-      "lat": 1.304072
+      "lon": "103.831774296637",
+      "lat": "1.30419841973372",
+      "id": "NIL"
     },
     {
-      "id": "relation10734758",
       "visits": [
         {
           "date": "20 May",
@@ -1699,11 +1737,11 @@
       ],
       "name": "Poke Theory",
       "address": "238 Thomson Road",
-      "lon": 103.8442803,
-      "lat": 1.3189616
+      "lon": "103.843840430508",
+      "lat": "1.32045851808391",
+      "id": "NIL"
     },
     {
-      "id": "way218215289",
       "visits": [
         {
           "date": "21 May",
@@ -1723,11 +1761,11 @@
       ],
       "name": "Punggol Plaza",
       "address": "168 Punggol Field",
-      "lon": 103.9132612,
-      "lat": 1.3938708
+      "lon": "103.912976437583",
+      "lat": "1.39418409438271",
+      "id": "820168"
     },
     {
-      "id": "way452264904",
       "visits": [
         {
           "date": "21 May",
@@ -1738,11 +1776,11 @@
       "name": "Al Forno (East Coast) Pte Ltd",
       "address": "400 East Coast Road",
       "isNew": true,
-      "lon": 103.9120121,
-      "lat": 1.3085953
+      "lon": "103.912040445917",
+      "lat": "1.30869696282346",
+      "id": "428996"
     },
     {
-      "id": "way128019938",
       "visits": [
         {
           "date": "21 May",
@@ -1752,11 +1790,11 @@
       ],
       "name": "POSB Bukit Batok Central Branch",
       "address": "636 Bukit Batok Central",
-      "lon": 103.7519317,
-      "lat": 1.3498473
+      "lon": "103.751825708286",
+      "lat": "1.34963273798353",
+      "id": "650636"
     },
     {
-      "id": "way620519197",
       "visits": [
         {
           "date": "21 May",
@@ -1831,11 +1869,11 @@
       ],
       "name": "JEM",
       "address": "50 Jurong Gateway Road",
-      "lon": 103.7432181,
-      "lat": 1.3323561
+      "lon": "103.743262234833",
+      "lat": "1.3325523295069",
+      "id": "NIL"
     },
     {
-      "id": "way397188694",
       "visits": [
         {
           "date": "21 May",
@@ -1846,11 +1884,11 @@
       "name": "Da Jin Factory Building",
       "address": "362 Upper Paya Lebar Road",
       "isNew": true,
-      "lon": 103.8807368,
-      "lat": 1.3478267
+      "lon": "103.881382637613",
+      "lat": "1.34805498296882",
+      "id": "534963"
     },
     {
-      "id": "way93028197",
       "visits": [
         {
           "date": "21 May",
@@ -1863,11 +1901,11 @@
       "name": "NTP+",
       "address": "151 Lorong Chuan",
       "isNew": true,
-      "lon": 103.8618671,
-      "lat": 1.3515527
+      "lon": "103.861533171041",
+      "lat": "1.35148585261178",
+      "id": "556741"
     },
     {
-      "id": "relation7773060",
       "visits": [
         {
           "date": "21 May",
@@ -1880,11 +1918,11 @@
       "name": "Keat Hong Shopping Centre",
       "address": "253 Choa Chu Kang Avenue 1",
       "isNew": true,
-      "lon": 103.7447199,
-      "lat": 1.376613
+      "lon": "103.744383225684",
+      "lat": "1.37743963470096",
+      "id": "680253"
     },
     {
-      "id": "relation2353588",
       "visits": [
         {
           "date": "21 May",
@@ -1903,11 +1941,11 @@
       ],
       "name": "VivoCity",
       "address": "1 HarbourFront Walk",
-      "lon": 103.8208095,
-      "lat": 1.2635745
+      "lon": "103.82238251183",
+      "lat": "1.26427727331345",
+      "id": "NIL"
     },
     {
-      "id": "way162524446",
       "visits": [
         {
           "date": "22 May",
@@ -1938,11 +1976,11 @@
       ],
       "name": "West Mall",
       "address": "1 Bukit Batok Central Link",
-      "lon": 103.7494415,
-      "lat": 1.3495518
+      "lon": "103.749021976618",
+      "lat": "1.35018916560505",
+      "id": "658713"
     },
     {
-      "id": "way452298342",
       "visits": [
         {
           "date": "22 May",
@@ -1952,11 +1990,11 @@
       ],
       "name": "Hup Choon Eating House",
       "address": "1 Binjai Park",
-      "lon": 103.7864787,
-      "lat": 1.3357655
+      "lon": "103.786493273519",
+      "lat": "1.33583983703734",
+      "id": "589818"
     },
     {
-      "id": "way158234014",
       "visits": [
         {
           "date": "22 May",
@@ -1994,13 +2032,6 @@
           ]
         },
         {
-          "date": "19 May",
-          "duration": "1030h to 2000h",
-          "venues": [
-            "Fun Toast"
-          ]
-        },
-        {
           "date": "18 May",
           "duration": "1515h to 2100h",
           "venues": [
@@ -2008,24 +2039,10 @@
           ]
         },
         {
-          "date": "18 May",
-          "duration": "0730h to 2000h",
-          "venues": [
-            "Fun Toast"
-          ]
-        },
-        {
           "date": "17 May",
           "duration": "1505h to 2100h",
           "venues": [
             "Pizza Hut"
-          ]
-        },
-        {
-          "date": "17 May",
-          "duration": "0730h to 2000h",
-          "venues": [
-            "Fun Toast"
           ]
         },
         {
@@ -2071,11 +2088,11 @@
       ],
       "name": "Westgate",
       "address": "3 Gateway Drive",
-      "lon": 103.7424815,
-      "lat": 1.33352
+      "lon": "103.742722109979",
+      "lat": "1.33429478930696",
+      "id": "NIL"
     },
     {
-      "id": "way47198841",
       "visits": [
         {
           "date": "22 May",
@@ -2095,11 +2112,11 @@
       ],
       "name": "Mustafa Centre",
       "address": "145 Syed Alwi Road",
-      "lon": 103.8550312,
-      "lat": 1.3104932
+      "lon": "103.855002052529",
+      "lat": "1.31053493112423",
+      "id": "207704"
     },
     {
-      "id": "way43550163",
       "visits": [
         {
           "date": "22 May",
@@ -2118,11 +2135,11 @@
       ],
       "name": "Bukit Timah Plaza",
       "address": "1 Jalan Anak Bukit",
-      "lon": 103.7790325,
-      "lat": 1.3390747
+      "lon": "103.778560467143",
+      "lat": "1.33865677622928",
+      "id": "588996"
     },
     {
-      "id": "way334111739",
       "visits": [
         {
           "date": "22 May",
@@ -2134,11 +2151,11 @@
       ],
       "name": "KINEX",
       "address": "11 Tanjong Katong Road",
-      "lon": 103.8943591,
-      "lat": 1.3140907
+      "lon": "103.894755701595",
+      "lat": "1.31426620953983",
+      "id": "NIL"
     },
     {
-      "id": "way599416637",
       "visits": [
         {
           "date": "22 May",
@@ -2157,11 +2174,11 @@
       ],
       "name": "Le Quest Mall",
       "address": "4 Bukit Batok Street 41",
-      "lon": 103.7408327,
-      "lat": 1.3566083
+      "lon": "103.741127005764",
+      "lat": "1.35594171176111",
+      "id": "657991"
     },
     {
-      "id": "way172518492",
       "visits": [
         {
           "date": "22 May",
@@ -2186,11 +2203,11 @@
       "name": "Lucky Plaza",
       "address": "304 Orchard Road",
       "isNew": true,
-      "lon": 103.8336232,
-      "lat": 1.3047869
+      "lon": "103.834005158524",
+      "lat": "1.3044637897474",
+      "id": "NIL"
     },
     {
-      "id": "node4749101762",
       "visits": [
         {
           "date": "22 May",
@@ -2200,11 +2217,11 @@
       ],
       "name": "Hafary Pte Ltd",
       "address": "560 Balestier Road",
-      "lon": 103.844645,
-      "lat": 1.3269118
+      "lon": "103.844652596814",
+      "lat": "1.32697917569246",
+      "id": "329876"
     },
     {
-      "id": "way830592799",
       "visits": [
         {
           "date": "23 May",
@@ -2229,11 +2246,11 @@
       ],
       "name": "Changi City Point",
       "address": "5 Changi Business Park Central 1",
-      "lon": 103.9634836,
-      "lat": 1.3332823
+      "lon": "103.962946043413",
+      "lat": "1.33408363820793",
+      "id": "NIL"
     },
     {
-      "id": "way726076295",
       "visits": [
         {
           "date": "22 May",
@@ -2244,11 +2261,11 @@
       "name": "Lemongrass",
       "address": "476 Upper Serangoon View",
       "isNew": true,
-      "lon": 103.903938,
-      "lat": 1.3777099
+      "lon": "103.903713550367",
+      "lat": "1.37743337773734",
+      "id": "530476"
     },
     {
-      "id": "way174035941",
       "visits": [
         {
           "date": "23 May",
@@ -2261,11 +2278,11 @@
       "name": "NEX",
       "address": "23 Serangoon Central",
       "isNew": true,
-      "lon": 103.8730094,
-      "lat": 1.3497977
+      "lon": "103.871861615443",
+      "lat": "1.35067552120318",
+      "id": "556083"
     },
     {
-      "id": "way189378458",
       "visits": [
         {
           "date": "24 May",
@@ -2284,9 +2301,10 @@
       ],
       "name": "The Woodgrove",
       "address": "30 Woodlands Avenue 1",
-      "lon": 103.7808956,
-      "lat": 1.428799
+      "lon": "103.781337285958",
+      "lat": "1.42933633490183",
+      "id": "739065"
     }
   ],
-  "timestamp": 1622157537382
+  "timestamp": 1622163479195
 }
