@@ -3,194 +3,6 @@
     {
       "visits": [
         {
-          "date": "16 May",
-          "duration": "0845h to 0915h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "52 Chin Swee Road",
-      "lon": "103.841580109275",
-      "lat": "1.28708278284997",
-      "id": "160052"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "0915h to 0955h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "4 Toa Payoh Lorong 7",
-      "lon": "103.85554106336",
-      "lat": "1.33904479783226",
-      "id": "310004"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "0950h to 1030h",
-          "venues": [
-            "MEIDI-YA Supermarket"
-          ]
-        }
-      ],
-      "name": "Great World City",
-      "address": "1 Kim Seng Promenade",
-      "lon": "103.831928020443",
-      "lat": "1.2931549290701",
-      "id": "237994"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1015h to 1100h",
-          "venues": []
-        }
-      ],
-      "name": "Prime Supermarket",
-      "address": "823 Tampines Street 81",
-      "lon": "103.934010232785",
-      "lat": "1.34873284518968",
-      "id": "520823"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1020h to 1055h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "154A Bukit Batok West Avenue 8",
-      "lon": "103.743704684376",
-      "lat": "1.34738825473827",
-      "id": "651154"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1055h to 1130h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        }
-      ],
-      "name": "TripleOne Somerset",
-      "address": "111 Somerset Road",
-      "lon": "103.837362540861",
-      "lat": "1.30019272342804",
-      "id": "238164"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1115h to 1215h",
-          "venues": []
-        }
-      ],
-      "name": "Snip Avenue",
-      "address": "156 Bukit Batok Street 11",
-      "lon": "103.743842009803",
-      "lat": "1.34836489977938",
-      "id": "650156"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1305h to 1355h",
-          "venues": []
-        }
-      ],
-      "name": "Sim Lim Square",
-      "address": "1 Rochor Canal Road",
-      "lon": "103.852875622062",
-      "lat": "1.30302298515261",
-      "id": "188504"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1405h to 1445h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC Fairprice",
-      "address": "570B Woodlands Avenue 1",
-      "lon": "103.790454078756",
-      "lat": "1.43106395458306",
-      "id": "732570"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1415h to 1525h",
-          "venues": []
-        }
-      ],
-      "name": "Cash Converters",
-      "address": "710A Ang Mo Kio Avenue 8",
-      "lon": "103.848045714146",
-      "lat": "1.37062493513784",
-      "id": "561710"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1520h to 1600h",
-          "venues": []
-        }
-      ],
-      "name": "Toa Payoh East Community Club",
-      "address": "160 Toa Payoh Lorong 6",
-      "lon": "103.854700248891",
-      "lat": "1.33627489786903",
-      "id": "319380"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "1535h to 1620h",
-          "venues": [
-            "OCBC"
-          ]
-        }
-      ],
-      "name": "Toa Payoh Central",
-      "address": "520 Lorong 6 Toa Payoh",
-      "lon": "103.847464972969",
-      "lat": "1.3331304765624",
-      "id": "310520"
-    },
-    {
-      "visits": [
-        {
-          "date": "16 May",
-          "duration": "2010h to 2110h",
-          "venues": []
-        }
-      ],
-      "name": "Giant Supermarket",
-      "address": "376 Bukit Batok Street 31",
-      "lon": "103.749579868748",
-      "lat": "1.35831705249924",
-      "id": "650376"
-    },
-    {
-      "visits": [
-        {
           "date": "17 May",
           "duration": "1000h to 1130h",
           "venues": []
@@ -206,11 +18,6 @@
       "visits": [
         {
           "date": "17 May",
-          "duration": "1000h to 2200h",
-          "venues": []
-        },
-        {
-          "date": "16 May",
           "duration": "1000h to 2200h",
           "venues": []
         }
@@ -289,11 +96,6 @@
           "venues": [
             "NTUC FairPrice"
           ]
-        },
-        {
-          "date": "16 May",
-          "duration": "1745h to 1850h",
-          "venues": []
         }
       ],
       "name": "Sun Plaza",
@@ -301,6 +103,21 @@
       "lon": "103.819462102812",
       "lat": "1.44822653818275",
       "id": "757713"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 May",
+          "duration": "1845h to 1945h",
+          "venues": []
+        }
+      ],
+      "name": "Hair Label Salon",
+      "address": "57A New Upper Changi Road",
+      "isNew": true,
+      "lon": "103.94128871491",
+      "lat": "1.32371678676906",
+      "id": "462057"
     },
     {
       "visits": [
@@ -448,11 +265,6 @@
           "venues": [
             "Tonkotsu Hototogisu"
           ]
-        },
-        {
-          "date": "16 May",
-          "duration": "1115h to 1245h",
-          "venues": []
         }
       ],
       "name": "Causeway Point",
@@ -460,6 +272,26 @@
       "lon": "103.786009973678",
       "lat": "1.43608867729912",
       "id": "738099"
+    },
+    {
+      "visits": [
+        {
+          "date": "20 May",
+          "duration": "0810h to 1255h",
+          "venues": []
+        },
+        {
+          "date": "19 to 20 May",
+          "duration": "1600h to 0020h",
+          "venues": []
+        }
+      ],
+      "name": "Resorts World Sentosa Casino",
+      "address": "8 Sentosa Gateway",
+      "isNew": true,
+      "lon": "103.820310245477",
+      "lat": "1.25675542276498",
+      "id": "098269"
     },
     {
       "visits": [
@@ -527,11 +359,6 @@
           "date": "20 May",
           "duration": "1730h to 1820h",
           "venues": []
-        },
-        {
-          "date": "16 May",
-          "duration": "1425h to 1455h",
-          "venues": []
         }
       ],
       "name": "Chinatown Point",
@@ -539,6 +366,50 @@
       "lon": "103.845015574621",
       "lat": "1.28533894878836",
       "id": "059413"
+    },
+    {
+      "visits": [
+        {
+          "date": "20 May",
+          "duration": "1820h to 1920h",
+          "venues": []
+        }
+      ],
+      "name": "Rains Foot Massage",
+      "address": "6 Hougang Avenue 3",
+      "isNew": true,
+      "lon": "103.893980503167",
+      "lat": "1.36271446291047",
+      "id": "530006"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 May",
+          "duration": "0845h to 0915h",
+          "venues": []
+        }
+      ],
+      "name": "Quan Shui Wet Market",
+      "address": "156 Bukit Batok Street 11",
+      "lon": "103.743842009803",
+      "lat": "1.34836489977938",
+      "id": "650156"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 May",
+          "duration": "1030h to 1100h",
+          "venues": []
+        }
+      ],
+      "name": "Sri Murugan Hill Temple",
+      "address": "931 Upper Bukit Timah Road",
+      "isNew": true,
+      "lon": "103.761623921943",
+      "lat": "1.37707008676107",
+      "id": "678207"
     },
     {
       "visits": [
@@ -691,14 +562,22 @@
       "visits": [
         {
           "date": "21 May",
-          "duration": "2100h to 2130h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        },
+          "duration": "2010h to 2110h",
+          "venues": []
+        }
+      ],
+      "name": "Bukit Batok Golf Range",
+      "address": "2 Bukit Batok West Avenue 7",
+      "isNew": true,
+      "lon": "103.748520902563",
+      "lat": "1.36577391240463",
+      "id": "659003"
+    },
+    {
+      "visits": [
         {
-          "date": "16 May",
-          "duration": "1135h to 1210h",
+          "date": "21 May",
+          "duration": "2100h to 2130h",
           "venues": [
             "NTUC FairPrice"
           ]
@@ -763,6 +642,23 @@
       "visits": [
         {
           "date": "22 May",
+          "duration": "1435h to 1510h",
+          "venues": [
+            "Giant Supermarket"
+          ]
+        }
+      ],
+      "name": "Sunshine Place",
+      "address": "475 Choa Chu Kang Avenue 3",
+      "isNew": true,
+      "lon": "103.738931794069",
+      "lat": "1.37805614752084",
+      "id": "680475"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 May",
           "duration": "1500h to 2100h",
           "venues": [
             "Pizza Hut"
@@ -811,7 +707,7 @@
           ]
         },
         {
-          "date": "16 to 21 May",
+          "date": "17 to 21 May",
           "duration": "0800h to 2200h",
           "venues": []
         }
@@ -827,11 +723,6 @@
         {
           "date": "22 May",
           "duration": "1520h to 1625h",
-          "venues": []
-        },
-        {
-          "date": "16 May",
-          "duration": "2240h to 2330h",
           "venues": []
         }
       ],
@@ -891,20 +782,6 @@
           "date": "18 May",
           "duration": "1300h to 1350h",
           "venues": []
-        },
-        {
-          "date": "16 May",
-          "duration": "1510h to 1540h",
-          "venues": [
-            "Jollibee"
-          ]
-        },
-        {
-          "date": "16 May",
-          "duration": "1320h to 1350h",
-          "venues": [
-            "Ayam Penyet President"
-          ]
         }
       ],
       "name": "Lucky Plaza",
@@ -1097,7 +974,6 @@
       ],
       "name": "Funan",
       "address": "107 North Bridge Road",
-      "isNew": true,
       "lon": "103.849984790048",
       "lat": "1.29124400604241",
       "id": "179105"
@@ -1249,7 +1125,6 @@
       ],
       "name": "Wenxintang Spa",
       "address": "316B Ang Mo Kio Street 31",
-      "isNew": true,
       "lon": "103.847677034369",
       "lat": "1.36462540270463",
       "id": "563316"
@@ -1337,6 +1212,26 @@
     {
       "visits": [
         {
+          "date": "27 May",
+          "duration": "1605h to 1805h",
+          "venues": []
+        },
+        {
+          "date": "19 May",
+          "duration": "1420h to 1500h",
+          "venues": []
+        }
+      ],
+      "name": "Health Management Centre",
+      "address": "809 French Road",
+      "isNew": true,
+      "lon": "103.862059784174",
+      "lat": "1.3083939667367",
+      "id": "200809"
+    },
+    {
+      "visits": [
+        {
           "date": "29 May",
           "duration": "0600h to 1300h",
           "venues": []
@@ -1415,11 +1310,30 @@
       ],
       "name": "Hougang Green Shopping Mall",
       "address": "21 Hougang Street 51",
-      "isNew": true,
       "lon": "103.887847089168",
       "lat": "1.37931783471773",
       "id": "538719"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 May",
+          "duration": "0940h to 1630h",
+          "venues": []
+        },
+        {
+          "date": "29 May",
+          "duration": "1255h to 2225h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC Foodfare",
+      "address": "476D Upper Serangoon View",
+      "isNew": true,
+      "lon": "103.903623796196",
+      "lat": "1.37791506138101",
+      "id": "537476"
     }
   ],
-  "timestamp": 1622415080890
+  "timestamp": 1622499593748
 }
