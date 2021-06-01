@@ -3,141 +3,6 @@
     {
       "visits": [
         {
-          "date": "17 May",
-          "duration": "1000h to 1130h",
-          "venues": []
-        }
-      ],
-      "name": "Kong Meng San Phor Kark See Monastery",
-      "address": "88 Bright Hill Road",
-      "lon": "103.836519069051",
-      "lat": "1.3605199364473",
-      "id": "574117"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
-          "duration": "1000h to 2200h",
-          "venues": []
-        }
-      ],
-      "name": "KFC",
-      "address": "35 Jalan Mas Puteh",
-      "lon": "103.762278702257",
-      "lat": "1.30844135523806",
-      "id": "128635"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
-          "duration": "1130h to 1830h",
-          "venues": [
-            "Hijabville"
-          ]
-        }
-      ],
-      "name": "Golden Landmark Shopping Centre",
-      "address": "390 Victoria Street",
-      "lon": "103.857847794036",
-      "lat": "1.30189677580548",
-      "id": "188061"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
-          "duration": "1245h to 1350h",
-          "venues": []
-        }
-      ],
-      "name": "Jurong Regional Library",
-      "address": "21 Jurong East Central 1",
-      "lon": "103.739492767422",
-      "lat": "1.33288031932833",
-      "id": "609732"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
-          "duration": "1300h to 1330h",
-          "venues": [
-            "POSB"
-          ]
-        }
-      ],
-      "name": "Tiong Bahru Plaza",
-      "address": "302 Tiong Bahru Road",
-      "lon": "103.827158267789",
-      "lat": "1.28647119992724",
-      "id": "168732"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
-          "duration": "1310h to 1340h",
-          "venues": []
-        }
-      ],
-      "name": "Masjid Jamae (Chulia)",
-      "address": "218 South Bridge Road",
-      "lon": "103.845394767843",
-      "lat": "1.28319555478948",
-      "id": "058767"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
-          "duration": "1530h to 1615h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        }
-      ],
-      "name": "Sun Plaza",
-      "address": "30 Sembawang Drive",
-      "lon": "103.819462102812",
-      "lat": "1.44822653818275",
-      "id": "757713"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
-          "duration": "1845h to 1945h",
-          "venues": []
-        }
-      ],
-      "name": "Hair Label Salon",
-      "address": "57A New Upper Changi Road",
-      "isNew": true,
-      "lon": "103.94128871491",
-      "lat": "1.32371678676906",
-      "id": "462057"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 May",
-          "duration": "2025h to 2105h",
-          "venues": [
-            "Decathlon Bedok"
-          ]
-        }
-      ],
-      "name": "Viva Business Park",
-      "address": "750A Chai Chee Road",
-      "lon": "103.922124606113",
-      "lat": "1.32297820248267",
-      "id": "469001"
-    },
-    {
-      "visits": [
-        {
           "date": "18 May",
           "duration": "1115h to 1220h",
           "venues": []
@@ -226,13 +91,6 @@
           "venues": [
             "Fun Toast"
           ]
-        },
-        {
-          "date": "17 May",
-          "duration": "0730h to 2000h",
-          "venues": [
-            "Fun Toast"
-          ]
         }
       ],
       "name": "Westgate",
@@ -288,7 +146,6 @@
       ],
       "name": "Resorts World Sentosa Casino",
       "address": "8 Sentosa Gateway",
-      "isNew": true,
       "lon": "103.820310245477",
       "lat": "1.25675542276498",
       "id": "098269"
@@ -377,7 +234,6 @@
       ],
       "name": "Rains Foot Massage",
       "address": "6 Hougang Avenue 3",
-      "isNew": true,
       "lon": "103.893980503167",
       "lat": "1.36271446291047",
       "id": "530006"
@@ -406,7 +262,6 @@
       ],
       "name": "Sri Murugan Hill Temple",
       "address": "931 Upper Bukit Timah Road",
-      "isNew": true,
       "lon": "103.761623921943",
       "lat": "1.37707008676107",
       "id": "678207"
@@ -568,7 +423,6 @@
       ],
       "name": "Bukit Batok Golf Range",
       "address": "2 Bukit Batok West Avenue 7",
-      "isNew": true,
       "lon": "103.748520902563",
       "lat": "1.36577391240463",
       "id": "659003"
@@ -597,11 +451,6 @@
           "venues": [
             "Subway"
           ]
-        },
-        {
-          "date": "17 May",
-          "duration": "1940h to 2015h",
-          "venues": []
         }
       ],
       "name": "West Mall",
@@ -650,7 +499,6 @@
       ],
       "name": "Sunshine Place",
       "address": "475 Choa Chu Kang Avenue 3",
-      "isNew": true,
       "lon": "103.738931794069",
       "lat": "1.37805614752084",
       "id": "680475"
@@ -700,14 +548,7 @@
           ]
         },
         {
-          "date": "17 May",
-          "duration": "1505h to 2100h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        },
-        {
-          "date": "17 to 21 May",
+          "date": "18 to 21 May",
           "duration": "0800h to 2200h",
           "venues": []
         }
@@ -847,13 +688,6 @@
           "date": "23 May",
           "duration": "1100h to 1225h",
           "venues": []
-        },
-        {
-          "date": "17 May",
-          "duration": "1415h to 1520h",
-          "venues": [
-            "Yue Hwa Chinese Products"
-          ]
         }
       ],
       "name": "Jurong Point",
@@ -1075,6 +909,21 @@
       "visits": [
         {
           "date": "26 May",
+          "duration": "1400h to 1430h",
+          "venues": []
+        }
+      ],
+      "name": "New Trendy Salon LLP",
+      "address": "84 Redhill Lane",
+      "isNew": true,
+      "lon": "103.818851050403",
+      "lat": "1.28708575062296",
+      "id": "150084"
+    },
+    {
+      "visits": [
+        {
+          "date": "26 May",
           "duration": "1430h to 1500h",
           "venues": [
             "Passion Bike"
@@ -1146,6 +995,21 @@
     {
       "visits": [
         {
+          "date": "27 to 31 May",
+          "duration": "0000h to 2359h",
+          "venues": []
+        }
+      ],
+      "name": "Tuas Amenity Centre Carpark Booth",
+      "address": "71 Pioneer Road",
+      "isNew": true,
+      "lon": "103.652208660421",
+      "lat": "1.31720416812204",
+      "id": "639591"
+    },
+    {
+      "visits": [
+        {
           "date": "27 May",
           "duration": "0905h to 1030h",
           "venues": []
@@ -1176,6 +1040,11 @@
         {
           "date": "27 May",
           "duration": "0600h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "25 May",
+          "duration": "1535h to 1630h",
           "venues": []
         },
         {
@@ -1224,10 +1093,69 @@
       ],
       "name": "Health Management Centre",
       "address": "809 French Road",
-      "isNew": true,
       "lon": "103.862059784174",
       "lat": "1.3083939667367",
       "id": "200809"
+    },
+    {
+      "visits": [
+        {
+          "date": "27 May",
+          "duration": "1725h to 1825h",
+          "venues": []
+        }
+      ],
+      "name": "GP Motoring",
+      "address": "282 Macpherson Road",
+      "isNew": true,
+      "lon": "103.877130417609",
+      "lat": "1.33039834337195",
+      "id": "348607"
+    },
+    {
+      "visits": [
+        {
+          "date": "27 May",
+          "duration": "2230h to 2300h",
+          "venues": []
+        }
+      ],
+      "name": "Atatzcutz Singapore",
+      "address": "348 Bedok Road",
+      "isNew": true,
+      "lon": "103.948260304303",
+      "lat": "1.33143623119911",
+      "id": "469560"
+    },
+    {
+      "visits": [
+        {
+          "date": "28 May",
+          "duration": "1955h to 2105h",
+          "venues": []
+        }
+      ],
+      "name": "The Seletar Mall",
+      "address": "33 Sengkang West Avenue",
+      "isNew": true,
+      "lon": "103.876156956828",
+      "lat": "1.3913688093851",
+      "id": "797653"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "0110h to 0530h",
+          "venues": []
+        }
+      ],
+      "name": "Marina Bay Sands Casino",
+      "address": "10 Bayfront Avenue",
+      "isNew": true,
+      "lon": "103.858562162091",
+      "lat": "1.28257452719678",
+      "id": "018956"
     },
     {
       "visits": [
@@ -1267,9 +1195,95 @@
       "visits": [
         {
           "date": "29 May",
+          "duration": "1315h to 1500h",
+          "venues": []
+        }
+      ],
+      "name": "Chien Chi Tow Healthcare",
+      "address": "78 Redhill Lane",
+      "isNew": true,
+      "lon": "103.818486786844",
+      "lat": "1.28843088346846",
+      "id": "150078"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "1840h to 1950h",
+          "venues": [
+            "Decathlon"
+          ]
+        }
+      ],
+      "name": "ESR BizPark@Chai Chee",
+      "address": "750A Chai Chee Road",
+      "lon": "103.922124606113",
+      "lat": "1.32297820248267",
+      "id": "469001"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "2030h to 2055h",
+          "venues": [
+            "Cold Storage"
+          ]
+        },
+        {
+          "date": "29 May",
+          "duration": "2030h to 2115h",
+          "venues": []
+        }
+      ],
+      "name": "Plaza Singapura",
+      "address": "68 Orchard Road",
+      "isNew": true,
+      "lon": "103.845067272666",
+      "lat": "1.30082071769235",
+      "id": "238839"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 May",
+          "duration": "0940h to 1630h",
+          "venues": []
+        },
+        {
+          "date": "29 May",
+          "duration": "1255h to 2225h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC Foodfare",
+      "address": "476D Upper Serangoon View",
+      "lon": "103.903623796196",
+      "lat": "1.37791506138101",
+      "id": "537476"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 May",
+          "duration": "1100h to 2200h",
+          "venues": [
+            "Pizza Hut"
+          ]
+        },
+        {
+          "date": "29 May",
           "duration": "0630h to 1300h",
           "venues": [
             "Fu Fa Food Court"
+          ]
+        },
+        {
+          "date": "28 May",
+          "duration": "1100h to 2200h",
+          "venues": [
+            "Pizza Hut"
           ]
         },
         {
@@ -1313,27 +1327,7 @@
       "lon": "103.887847089168",
       "lat": "1.37931783471773",
       "id": "538719"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "0940h to 1630h",
-          "venues": []
-        },
-        {
-          "date": "29 May",
-          "duration": "1255h to 2225h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC Foodfare",
-      "address": "476D Upper Serangoon View",
-      "isNew": true,
-      "lon": "103.903623796196",
-      "lat": "1.37791506138101",
-      "id": "537476"
     }
   ],
-  "timestamp": 1622499593748
+  "timestamp": 1622582179160
 }
