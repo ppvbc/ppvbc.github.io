@@ -3,66 +3,6 @@
     {
       "visits": [
         {
-          "date": "18 May",
-          "duration": "1115h to 1220h",
-          "venues": []
-        }
-      ],
-      "name": "Geylang Serai Malay Market and Food Centre",
-      "address": "1 Geylang Serai",
-      "lon": "103.898227885294",
-      "lat": "1.31673634902958",
-      "id": "402001"
-    },
-    {
-      "visits": [
-        {
-          "date": "18 May",
-          "duration": "1315h to 1400h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        }
-      ],
-      "name": "White Sands",
-      "address": "1 Pasir Ris Central Street 3",
-      "lon": "103.949749226457",
-      "lat": "1.37239898072242",
-      "id": "518457"
-    },
-    {
-      "visits": [
-        {
-          "date": "18 May",
-          "duration": "1755h to 1835h",
-          "venues": []
-        }
-      ],
-      "name": "Madam Fang Hairdressing & Beauty Saloon (1989)",
-      "address": "510 Bedok North Street 3",
-      "lon": "103.930496816187",
-      "lat": "1.33233655577229",
-      "id": "460510"
-    },
-    {
-      "visits": [
-        {
-          "date": "18 May",
-          "duration": "1800h to 1845h",
-          "venues": [
-            "Giant Hypermarket"
-          ]
-        }
-      ],
-      "name": "Giant @ IMM",
-      "address": "2 Jurong East Street 21",
-      "lon": "103.74695659203",
-      "lat": "1.33466661862849",
-      "id": "609601"
-    },
-    {
-      "visits": [
-        {
           "date": "19 to 21 May",
           "duration": "0930h to 2130h",
           "venues": [
@@ -81,13 +21,6 @@
         {
           "date": "19 May",
           "duration": "1030h to 2000h",
-          "venues": [
-            "Fun Toast"
-          ]
-        },
-        {
-          "date": "18 May",
-          "duration": "0730h to 2000h",
           "venues": [
             "Fun Toast"
           ]
@@ -114,22 +47,6 @@
       "lon": "103.786619615641",
       "lat": "1.4350778940091",
       "id": "730900"
-    },
-    {
-      "visits": [
-        {
-          "date": "19 May",
-          "duration": "1515h to 1550h",
-          "venues": [
-            "Tonkotsu Hototogisu"
-          ]
-        }
-      ],
-      "name": "Causeway Point",
-      "address": "1 Woodlands Square",
-      "lon": "103.786009973678",
-      "lat": "1.43608867729912",
-      "id": "738099"
     },
     {
       "visits": [
@@ -354,11 +271,6 @@
           "date": "21 May",
           "duration": "1720h to 1750h",
           "venues": []
-        },
-        {
-          "date": "18 May",
-          "duration": "1625h to 1725h",
-          "venues": []
         }
       ],
       "name": "PLQ Mall",
@@ -541,14 +453,7 @@
           ]
         },
         {
-          "date": "18 May",
-          "duration": "1515h to 2100h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        },
-        {
-          "date": "18 to 21 May",
+          "date": "19 to 21 May",
           "duration": "0800h to 2200h",
           "venues": []
         }
@@ -558,6 +463,21 @@
       "lon": "103.742870105512",
       "lat": "1.33428313049536",
       "id": "608532"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 May",
+          "duration": "1515h to 1620h",
+          "venues": []
+        }
+      ],
+      "name": "Joo Chiat Complex",
+      "address": "1 Joo Chiat Road",
+      "isNew": true,
+      "lon": "103.898397565472",
+      "lat": "1.31593802099833",
+      "id": "420001"
     },
     {
       "visits": [
@@ -617,11 +537,6 @@
         {
           "date": "22 May",
           "duration": "1705h to 1740h",
-          "venues": []
-        },
-        {
-          "date": "18 May",
-          "duration": "1300h to 1350h",
           "venues": []
         }
       ],
@@ -815,6 +730,27 @@
     {
       "visits": [
         {
+          "date": "24 May",
+          "duration": "2025h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "19 May",
+          "duration": "1515h to 1550h",
+          "venues": [
+            "Tonkotsu Hototogisu"
+          ]
+        }
+      ],
+      "name": "Causeway Point",
+      "address": "1 Woodlands Square",
+      "lon": "103.786009973678",
+      "lat": "1.43608867729912",
+      "id": "738099"
+    },
+    {
+      "visits": [
+        {
           "date": "25 May",
           "duration": "0920h to 1000h",
           "venues": []
@@ -881,41 +817,12 @@
       "visits": [
         {
           "date": "26 May",
-          "duration": "1355h to 1700h",
-          "venues": []
-        },
-        {
-          "date": "21 May",
-          "duration": "1940h to 2010h",
-          "venues": [
-            "Toys\"R\"Us"
-          ]
-        },
-        {
-          "date": "21 May",
-          "duration": "1905h to 1940h",
-          "venues": [
-            "DAISO"
-          ]
-        }
-      ],
-      "name": "VivoCity",
-      "address": "1 HarbourFront Walk",
-      "lon": "103.821589247996",
-      "lat": "1.26389581240004",
-      "id": "098585"
-    },
-    {
-      "visits": [
-        {
-          "date": "26 May",
           "duration": "1400h to 1430h",
           "venues": []
         }
       ],
       "name": "New Trendy Salon LLP",
       "address": "84 Redhill Lane",
-      "isNew": true,
       "lon": "103.818851050403",
       "lat": "1.28708575062296",
       "id": "150084"
@@ -935,6 +842,36 @@
       "lon": "103.796927634921",
       "lat": "1.30430366397836",
       "id": "149544"
+    },
+    {
+      "visits": [
+        {
+          "date": "26 May",
+          "duration": "1430h to 1535h",
+          "venues": []
+        },
+        {
+          "date": "23 May",
+          "duration": "1430h to 1535h",
+          "venues": []
+        },
+        {
+          "date": "19 May",
+          "duration": "1430h to 1535h",
+          "venues": []
+        },
+        {
+          "date": "19 to 30 May",
+          "duration": "1320h to 1530h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "301 Yishun Avenue 2",
+      "isNew": true,
+      "lon": "103.835058273602",
+      "lat": "1.42951728655036",
+      "id": "769093"
     },
     {
       "visits": [
@@ -1000,12 +937,26 @@
           "venues": []
         }
       ],
-      "name": "Tuas Amenity Centre Carpark Booth",
+      "name": "Tuas Amenity Centre",
       "address": "71 Pioneer Road",
-      "isNew": true,
       "lon": "103.652208660421",
       "lat": "1.31720416812204",
       "id": "639591"
+    },
+    {
+      "visits": [
+        {
+          "date": "27 May",
+          "duration": "0750h to 0820h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "417 Fernvale Link",
+      "isNew": true,
+      "lon": "103.879874611419",
+      "lat": "1.39158622983505",
+      "id": "790417"
     },
     {
       "visits": [
@@ -1039,35 +990,6 @@
       "visits": [
         {
           "date": "27 May",
-          "duration": "0600h to 1900h",
-          "venues": []
-        },
-        {
-          "date": "25 May",
-          "duration": "1535h to 1630h",
-          "venues": []
-        },
-        {
-          "date": "25 May",
-          "duration": "0600h to 1900h",
-          "venues": []
-        },
-        {
-          "date": "24 May",
-          "duration": "0600h to 1900h",
-          "venues": []
-        }
-      ],
-      "name": "Food Hub",
-      "address": "455 Sengkang West Avenue",
-      "lon": "103.871190376558",
-      "lat": "1.39183688254074",
-      "id": "790455"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
           "duration": "1100h to 2230h",
           "venues": []
         }
@@ -1077,6 +999,30 @@
       "lon": "103.87013457465",
       "lat": "1.35381198342473",
       "id": "550237"
+    },
+    {
+      "visits": [
+        {
+          "date": "27 May",
+          "duration": "1125h to 2035h",
+          "venues": [
+            "328 Katong Laksa"
+          ]
+        },
+        {
+          "date": "26 May",
+          "duration": "1130h to 2100h",
+          "venues": [
+            "328 Katong Laksa"
+          ]
+        }
+      ],
+      "name": "Tiong Bahru Plaza",
+      "address": "298 Tiong Bahru Road",
+      "isNew": true,
+      "lon": "103.828004844701",
+      "lat": "1.2863085351796",
+      "id": "168730"
     },
     {
       "visits": [
@@ -1101,13 +1047,47 @@
       "visits": [
         {
           "date": "27 May",
+          "duration": "1630h to 1700h",
+          "venues": []
+        },
+        {
+          "date": "26 May",
+          "duration": "1630h to 1700h",
+          "venues": []
+        }
+      ],
+      "name": "Yuhua Village Market and Food Centre",
+      "address": "254 Jurong East Street 24",
+      "isNew": true,
+      "lon": "103.737851045986",
+      "lat": "1.34351625707382",
+      "id": "600254"
+    },
+    {
+      "visits": [
+        {
+          "date": "27 May",
+          "duration": "1700h to 1730h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "200 Woodlands Industrial Park E7",
+      "isNew": true,
+      "lon": "103.797050379065",
+      "lat": "1.45089565555643",
+      "id": "757177"
+    },
+    {
+      "visits": [
+        {
+          "date": "27 May",
           "duration": "1725h to 1825h",
           "venues": []
         }
       ],
       "name": "GP Motoring",
       "address": "282 Macpherson Road",
-      "isNew": true,
       "lon": "103.877130417609",
       "lat": "1.33039834337195",
       "id": "348607"
@@ -1122,7 +1102,6 @@
       ],
       "name": "Atatzcutz Singapore",
       "address": "348 Bedok Road",
-      "isNew": true,
       "lon": "103.948260304303",
       "lat": "1.33143623119911",
       "id": "469560"
@@ -1131,31 +1110,65 @@
       "visits": [
         {
           "date": "28 May",
-          "duration": "1955h to 2105h",
+          "duration": "1010h to 1155h",
           "venues": []
         }
       ],
-      "name": "The Seletar Mall",
-      "address": "33 Sengkang West Avenue",
+      "name": "Carole Unisex Salon",
+      "address": "620 Hougang Avenue 8",
       "isNew": true,
-      "lon": "103.876156956828",
-      "lat": "1.3913688093851",
-      "id": "797653"
+      "lon": "103.883968140531",
+      "lat": "1.3701440065551",
+      "id": "530620"
     },
     {
       "visits": [
         {
-          "date": "29 May",
-          "duration": "0110h to 0530h",
+          "date": "28 May",
+          "duration": "1300h to 1340h",
           "venues": []
         }
       ],
-      "name": "Marina Bay Sands Casino",
-      "address": "10 Bayfront Avenue",
+      "name": "Masjid Jamek Queenstown",
+      "address": "946 Margaret Drive",
       "isNew": true,
-      "lon": "103.858562162091",
-      "lat": "1.28257452719678",
-      "id": "018956"
+      "lon": "103.815415725873",
+      "lat": "1.29301045552152",
+      "id": "149309"
+    },
+    {
+      "visits": [
+        {
+          "date": "28 May",
+          "duration": "1615h to 1650h",
+          "venues": []
+        },
+        {
+          "date": "27 May",
+          "duration": "0600h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "25 May",
+          "duration": "1535h to 1630h",
+          "venues": []
+        },
+        {
+          "date": "25 May",
+          "duration": "0600h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "24 May",
+          "duration": "0600h to 1900h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "455 Sengkang West Avenue",
+      "lon": "103.871190376558",
+      "lat": "1.39183688254074",
+      "id": "790455"
     },
     {
       "visits": [
@@ -1195,16 +1208,91 @@
       "visits": [
         {
           "date": "29 May",
+          "duration": "1020h to 1100h",
+          "venues": []
+        },
+        {
+          "date": "28 May",
+          "duration": "1955h to 2105h",
+          "venues": []
+        },
+        {
+          "date": "28 May",
+          "duration": "1955h to 2055h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "The Seletar Mall",
+      "address": "33 Sengkang West Avenue",
+      "lon": "103.876156956828",
+      "lat": "1.3913688093851",
+      "id": "797653"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
           "duration": "1315h to 1500h",
           "venues": []
         }
       ],
       "name": "Chien Chi Tow Healthcare",
       "address": "78 Redhill Lane",
-      "isNew": true,
       "lon": "103.818486786844",
       "lat": "1.28843088346846",
       "id": "150078"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "1555h to 1645h",
+          "venues": []
+        }
+      ],
+      "name": "Peninsula Plaza Singapore",
+      "address": "111 North Bridge Road",
+      "isNew": true,
+      "lon": "103.850804507292",
+      "lat": "1.29232248414936",
+      "id": "179098"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "1820h to 2000h",
+          "venues": [
+            "FairPrice Xtra"
+          ]
+        },
+        {
+          "date": "26 May",
+          "duration": "1355h to 1700h",
+          "venues": []
+        },
+        {
+          "date": "21 May",
+          "duration": "1940h to 2010h",
+          "venues": [
+            "Toys\"R\"Us"
+          ]
+        },
+        {
+          "date": "21 May",
+          "duration": "1905h to 1940h",
+          "venues": [
+            "DAISO"
+          ]
+        }
+      ],
+      "name": "VivoCity",
+      "address": "1 HarbourFront Walk",
+      "lon": "103.821589247996",
+      "lat": "1.26389581240004",
+      "id": "098585"
     },
     {
       "visits": [
@@ -1239,7 +1327,6 @@
       ],
       "name": "Plaza Singapura",
       "address": "68 Orchard Road",
-      "isNew": true,
       "lon": "103.845067272666",
       "lat": "1.30082071769235",
       "id": "238839"
@@ -1327,7 +1414,56 @@
       "lon": "103.887847089168",
       "lat": "1.37931783471773",
       "id": "538719"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 May",
+          "duration": "1200h to 1300h",
+          "venues": []
+        }
+      ],
+      "name": "Bugis Street",
+      "address": "3 New Bugis Street",
+      "isNew": true,
+      "lon": "103.854935164999",
+      "lat": "1.30056609522079",
+      "id": "188867"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 May",
+          "duration": "1800h to 1900h",
+          "venues": []
+        }
+      ],
+      "name": "Hong Yang Health Products & Foot Reflexology Centre",
+      "address": "38 Beo Crescent",
+      "isNew": true,
+      "lon": "103.827290023383",
+      "lat": "1.28855393184563",
+      "id": "160038"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 to 31 May",
+          "duration": "2005h to 0005h",
+          "venues": []
+        },
+        {
+          "date": "29 May",
+          "duration": "0110h to 0530h",
+          "venues": []
+        }
+      ],
+      "name": "Marina Bay Sands Casino",
+      "address": "10 Bayfront Avenue",
+      "lon": "103.858562162091",
+      "lat": "1.28257452719678",
+      "id": "018956"
     }
   ],
-  "timestamp": 1622582179160
+  "timestamp": 1622668129590
 }
