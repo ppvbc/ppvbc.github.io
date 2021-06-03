@@ -3,7 +3,7 @@
     {
       "visits": [
         {
-          "date": "19 to 21 May",
+          "date": "20 to 21 May",
           "duration": "0930h to 2130h",
           "venues": [
             "Tiger Sugar"
@@ -19,45 +19,8 @@
     {
       "visits": [
         {
-          "date": "19 May",
-          "duration": "1030h to 2000h",
-          "venues": [
-            "Fun Toast"
-          ]
-        }
-      ],
-      "name": "Westgate",
-      "address": "3 Westgate Drive",
-      "lon": "103.742870105512",
-      "lat": "1.33428313049536",
-      "id": "608532"
-    },
-    {
-      "visits": [
-        {
-          "date": "19 May",
-          "duration": "1420h to 1525h",
-          "venues": [
-            "Workforce Singapore’s Careers Connect"
-          ]
-        }
-      ],
-      "name": "Woodlands Civic Centre",
-      "address": "900 South Woodlands Drive",
-      "lon": "103.786619615641",
-      "lat": "1.4350778940091",
-      "id": "730900"
-    },
-    {
-      "visits": [
-        {
           "date": "20 May",
-          "duration": "0810h to 1255h",
-          "venues": []
-        },
-        {
-          "date": "19 to 20 May",
-          "duration": "1600h to 0020h",
+          "duration": "0910h to 1255h",
           "venues": []
         }
       ],
@@ -159,6 +122,21 @@
       "visits": [
         {
           "date": "21 May",
+          "duration": "0800h to 0850h",
+          "venues": []
+        }
+      ],
+      "name": "Yuhua Community Club",
+      "address": "90 Boon Lay Way",
+      "isNew": true,
+      "lon": "103.737115832566",
+      "lat": "1.33995851319377",
+      "id": "609958"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 May",
           "duration": "0845h to 0915h",
           "venues": []
         }
@@ -192,11 +170,6 @@
         },
         {
           "date": "20 May",
-          "duration": "1600h to 2300h",
-          "venues": []
-        },
-        {
-          "date": "19 May",
           "duration": "1600h to 2300h",
           "venues": []
         }
@@ -375,6 +348,21 @@
       "visits": [
         {
           "date": "22 May",
+          "duration": "0830h to 0930h",
+          "venues": []
+        }
+      ],
+      "name": "Fu Nan Traditional Chinese Medicine Centre",
+      "address": "152 Bukit Batok Street 11",
+      "isNew": true,
+      "lon": "103.744257268105",
+      "lat": "1.34830189530173",
+      "id": "650152"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 May",
           "duration": "1220h to 1300h",
           "venues": []
         }
@@ -387,6 +375,11 @@
     },
     {
       "visits": [
+        {
+          "date": "22 May",
+          "duration": "1240h to 1310h",
+          "venues": []
+        },
         {
           "date": "22 May",
           "duration": "1230h to 1300h",
@@ -432,6 +425,11 @@
           ]
         },
         {
+          "date": "21 May",
+          "duration": "0800h to 2200h",
+          "venues": []
+        },
+        {
           "date": "20 May",
           "duration": "1510h to 2100h",
           "venues": [
@@ -439,21 +437,7 @@
           ]
         },
         {
-          "date": "19 May",
-          "duration": "1745h to 1830h",
-          "venues": [
-            "RedMan by Phoon Huat"
-          ]
-        },
-        {
-          "date": "19 May",
-          "duration": "1520h to 2100h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        },
-        {
-          "date": "19 to 21 May",
+          "date": "20 May",
           "duration": "0800h to 2200h",
           "venues": []
         }
@@ -474,7 +458,6 @@
       ],
       "name": "Joo Chiat Complex",
       "address": "1 Joo Chiat Road",
-      "isNew": true,
       "lon": "103.898397565472",
       "lat": "1.31593802099833",
       "id": "420001"
@@ -531,20 +514,6 @@
       "lon": "103.741127005764",
       "lat": "1.35594171176111",
       "id": "657991"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1705h to 1740h",
-          "venues": []
-        }
-      ],
-      "name": "Lucky Plaza",
-      "address": "304 Orchard Road",
-      "lon": "103.834005158524",
-      "lat": "1.3044637897474",
-      "id": "238863"
     },
     {
       "visits": [
@@ -687,6 +656,21 @@
       "visits": [
         {
           "date": "24 May",
+          "duration": "1155h to 1625h",
+          "venues": []
+        }
+      ],
+      "name": "Ramada",
+      "address": "16 Ah Hood Road",
+      "isNew": true,
+      "lon": "103.846554377679",
+      "lat": "1.32694504484324",
+      "id": "329982"
+    },
+    {
+      "visits": [
+        {
+          "date": "24 May",
           "duration": "1230h to 1300h",
           "venues": []
         }
@@ -731,15 +715,23 @@
       "visits": [
         {
           "date": "24 May",
+          "duration": "1745h to 1845h",
+          "venues": []
+        }
+      ],
+      "name": "Yew Tee Community Club",
+      "address": "20 Choa Chu Kang Street 52",
+      "isNew": true,
+      "lon": "103.744971294739",
+      "lat": "1.39480564592114",
+      "id": "689286"
+    },
+    {
+      "visits": [
+        {
+          "date": "24 May",
           "duration": "2025h to 2100h",
           "venues": []
-        },
-        {
-          "date": "19 May",
-          "duration": "1515h to 1550h",
-          "venues": [
-            "Tonkotsu Hototogisu"
-          ]
         }
       ],
       "name": "Causeway Point",
@@ -802,6 +794,21 @@
     {
       "visits": [
         {
+          "date": "25 May",
+          "duration": "1800h to 1900h",
+          "venues": []
+        }
+      ],
+      "name": "Al Barakah Health and Beauty Mart",
+      "address": "302 Woodlands Street 31",
+      "isNew": true,
+      "lon": "103.774428425787",
+      "lat": "1.43151114760044",
+      "id": "730302"
+    },
+    {
+      "visits": [
+        {
           "date": "26 May",
           "duration": "0905h to 1200h",
           "venues": []
@@ -851,24 +858,38 @@
           "venues": []
         },
         {
+          "date": "26 May",
+          "duration": "1320h to 1530h",
+          "venues": []
+        },
+        {
+          "date": "24 May",
+          "duration": "1320h to 1530h",
+          "venues": []
+        },
+        {
           "date": "23 May",
           "duration": "1430h to 1535h",
           "venues": []
         },
         {
-          "date": "19 May",
-          "duration": "1430h to 1535h",
+          "date": "23 May",
+          "duration": "1320h to 1530h",
           "venues": []
         },
         {
-          "date": "19 to 30 May",
+          "date": "22 May",
+          "duration": "1320h to 1530h",
+          "venues": []
+        },
+        {
+          "date": "22 May",
           "duration": "1320h to 1530h",
           "venues": []
         }
       ],
       "name": "NTUC FairPrice",
       "address": "301 Yishun Avenue 2",
-      "isNew": true,
       "lon": "103.835058273602",
       "lat": "1.42951728655036",
       "id": "769093"
@@ -953,7 +974,6 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "417 Fernvale Link",
-      "isNew": true,
       "lon": "103.879874611419",
       "lat": "1.39158622983505",
       "id": "790417"
@@ -990,6 +1010,21 @@
       "visits": [
         {
           "date": "27 May",
+          "duration": "0945h to 1100h",
+          "venues": []
+        }
+      ],
+      "name": "Jurong Port Pass/ Permit Office",
+      "address": "37 Jurong Port Road",
+      "isNew": true,
+      "lon": "103.722807330979",
+      "lat": "1.3074595063712",
+      "id": "619110"
+    },
+    {
+      "visits": [
+        {
+          "date": "27 May",
           "duration": "1100h to 2230h",
           "venues": []
         }
@@ -1019,7 +1054,6 @@
       ],
       "name": "Tiong Bahru Plaza",
       "address": "298 Tiong Bahru Road",
-      "isNew": true,
       "lon": "103.828004844701",
       "lat": "1.2863085351796",
       "id": "168730"
@@ -1028,12 +1062,22 @@
       "visits": [
         {
           "date": "27 May",
-          "duration": "1605h to 1805h",
+          "duration": "1240h to 1345h",
           "venues": []
-        },
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "50 Havelock Road",
+      "isNew": true,
+      "lon": "103.826802915076",
+      "lat": "1.2897647546758",
+      "id": "160050"
+    },
+    {
+      "visits": [
         {
-          "date": "19 May",
-          "duration": "1420h to 1500h",
+          "date": "27 May",
+          "duration": "1605h to 1810h",
           "venues": []
         }
       ],
@@ -1047,33 +1091,12 @@
       "visits": [
         {
           "date": "27 May",
-          "duration": "1630h to 1700h",
-          "venues": []
-        },
-        {
-          "date": "26 May",
-          "duration": "1630h to 1700h",
-          "venues": []
-        }
-      ],
-      "name": "Yuhua Village Market and Food Centre",
-      "address": "254 Jurong East Street 24",
-      "isNew": true,
-      "lon": "103.737851045986",
-      "lat": "1.34351625707382",
-      "id": "600254"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
           "duration": "1700h to 1730h",
           "venues": []
         }
       ],
       "name": "Sheng Siong Supermarket",
       "address": "200 Woodlands Industrial Park E7",
-      "isNew": true,
       "lon": "103.797050379065",
       "lat": "1.45089565555643",
       "id": "757177"
@@ -1096,7 +1119,65 @@
       "visits": [
         {
           "date": "27 May",
+          "duration": "1755h to 2030h",
+          "venues": []
+        },
+        {
+          "date": "22 May",
+          "duration": "1705h to 1740h",
+          "venues": []
+        }
+      ],
+      "name": "Lucky Plaza",
+      "address": "304 Orchard Road",
+      "lon": "103.834005158524",
+      "lat": "1.3044637897474",
+      "id": "238863"
+    },
+    {
+      "visits": [
+        {
+          "date": "28 May",
+          "duration": "0800h to 1800h",
+          "venues": []
+        }
+      ],
+      "name": "Orchard Hotel Singapore",
+      "address": "442 Orchard Road",
+      "isNew": true,
+      "lon": "103.828540491131",
+      "lat": "1.3076228258502",
+      "id": "238879"
+    },
+    {
+      "visits": [
+        {
+          "date": "28 May",
+          "duration": "1010h to 1155h",
+          "venues": []
+        }
+      ],
+      "name": "Carole Unisex Salon",
+      "address": "620 Hougang Avenue 8",
+      "lon": "103.883968140531",
+      "lat": "1.3701440065551",
+      "id": "530620"
+    },
+    {
+      "visits": [
+        {
+          "date": "28 to 31 May",
+          "duration": "1200h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "27 May",
           "duration": "2230h to 2300h",
+          "venues": []
+        },
+        {
+          "date": "27 May",
+          "duration": "1400h to 2200h",
           "venues": []
         }
       ],
@@ -1110,28 +1191,12 @@
       "visits": [
         {
           "date": "28 May",
-          "duration": "1010h to 1155h",
-          "venues": []
-        }
-      ],
-      "name": "Carole Unisex Salon",
-      "address": "620 Hougang Avenue 8",
-      "isNew": true,
-      "lon": "103.883968140531",
-      "lat": "1.3701440065551",
-      "id": "530620"
-    },
-    {
-      "visits": [
-        {
-          "date": "28 May",
           "duration": "1300h to 1340h",
           "venues": []
         }
       ],
       "name": "Masjid Jamek Queenstown",
       "address": "946 Margaret Drive",
-      "isNew": true,
       "lon": "103.815415725873",
       "lat": "1.29301045552152",
       "id": "149309"
@@ -1144,22 +1209,12 @@
           "venues": []
         },
         {
-          "date": "27 May",
-          "duration": "0600h to 1900h",
-          "venues": []
-        },
-        {
           "date": "25 May",
           "duration": "1535h to 1630h",
           "venues": []
         },
         {
-          "date": "25 May",
-          "duration": "0600h to 1900h",
-          "venues": []
-        },
-        {
-          "date": "24 May",
+          "date": "24 to 28 May",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -1174,46 +1229,7 @@
       "visits": [
         {
           "date": "29 May",
-          "duration": "0600h to 1300h",
-          "venues": []
-        },
-        {
-          "date": "28 May",
-          "duration": "0600h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "27 May",
-          "duration": "0600h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "26 May",
-          "duration": "0900h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "26 May",
-          "duration": "0900h to 1700h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC Foodfare",
-      "address": "308 Anchorvale Road",
-      "lon": "103.886445107411",
-      "lat": "1.38925397515391",
-      "id": "540308"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 May",
           "duration": "1020h to 1100h",
-          "venues": []
-        },
-        {
-          "date": "28 May",
-          "duration": "1955h to 2105h",
           "venues": []
         },
         {
@@ -1254,10 +1270,24 @@
       ],
       "name": "Peninsula Plaza Singapore",
       "address": "111 North Bridge Road",
-      "isNew": true,
       "lon": "103.850804507292",
       "lat": "1.29232248414936",
       "id": "179098"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "1815h to 1915h",
+          "venues": []
+        }
+      ],
+      "name": "Thong Sheng Motors Trading",
+      "address": "7 Pioneer Road North",
+      "isNew": true,
+      "lon": "103.695427890578",
+      "lat": "1.32483634845564",
+      "id": "628459"
     },
     {
       "visits": [
@@ -1313,16 +1343,95 @@
     {
       "visits": [
         {
+          "date": "29 to 30 May",
+          "duration": "1930h to 0000h",
+          "venues": []
+        },
+        {
+          "date": "29 May",
+          "duration": "0900h to 1300h",
+          "venues": []
+        },
+        {
+          "date": "29 May",
+          "duration": "0600h to 1300h",
+          "venues": []
+        },
+        {
+          "date": "29 May",
+          "duration": "0000h to 0730h",
+          "venues": []
+        },
+        {
+          "date": "28 May",
+          "duration": "1930h to 0000h",
+          "venues": []
+        },
+        {
+          "date": "28 May",
+          "duration": "0900h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "27 May",
+          "duration": "0900h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "27 to 28 May",
+          "duration": "0600h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "27 May",
+          "duration": "0000h to 0730h",
+          "venues": []
+        },
+        {
+          "date": "26 May",
+          "duration": "0900h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "26 to 27 May",
+          "duration": "0900h to 1700h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC Foodfare",
+      "address": "308 Anchorvale Road",
+      "lon": "103.886445107411",
+      "lat": "1.38925397515391",
+      "id": "540308"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "2000h to 2035h",
+          "venues": []
+        }
+      ],
+      "name": "Prime Supermarket",
+      "address": "763 Jurong West Street 75",
+      "isNew": true,
+      "lon": "103.698292005963",
+      "lat": "1.34872644269897",
+      "id": "640763"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "2030h to 2115h",
+          "venues": []
+        },
+        {
           "date": "29 May",
           "duration": "2030h to 2055h",
           "venues": [
             "Cold Storage"
           ]
-        },
-        {
-          "date": "29 May",
-          "duration": "2030h to 2115h",
-          "venues": []
         }
       ],
       "name": "Plaza Singapura",
@@ -1336,11 +1445,6 @@
         {
           "date": "30 May",
           "duration": "0940h to 1630h",
-          "venues": []
-        },
-        {
-          "date": "29 May",
-          "duration": "1255h to 2225h",
           "venues": []
         }
       ],
@@ -1374,35 +1478,14 @@
           ]
         },
         {
-          "date": "28 May",
+          "date": "27 to 28 May",
           "duration": "0630h to 2200h",
           "venues": [
             "Fu Fa Food Court"
           ]
         },
         {
-          "date": "27 May",
-          "duration": "0630h to 2200h",
-          "venues": [
-            "Fu Fa Food Court"
-          ]
-        },
-        {
-          "date": "26 May",
-          "duration": "1000h to 2200h",
-          "venues": [
-            "Fu Fa Food Court"
-          ]
-        },
-        {
-          "date": "25 May",
-          "duration": "1000h to 2200h",
-          "venues": [
-            "Fu Fa Food Court"
-          ]
-        },
-        {
-          "date": "24 May",
+          "date": "24 to 29 May",
           "duration": "1000h to 2200h",
           "venues": [
             "Fu Fa Food Court"
@@ -1419,13 +1502,27 @@
       "visits": [
         {
           "date": "30 May",
+          "duration": "1125h to 1200h",
+          "venues": []
+        }
+      ],
+      "name": "Ang Mo Supermarket",
+      "address": "642 Hougang Avenue 8",
+      "isNew": true,
+      "lon": "103.879948293051",
+      "lat": "1.37169878879802",
+      "id": "530642"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 May",
           "duration": "1200h to 1300h",
           "venues": []
         }
       ],
       "name": "Bugis Street",
       "address": "3 New Bugis Street",
-      "isNew": true,
       "lon": "103.854935164999",
       "lat": "1.30056609522079",
       "id": "188867"
@@ -1440,7 +1537,6 @@
       ],
       "name": "Hong Yang Health Products & Foot Reflexology Centre",
       "address": "38 Beo Crescent",
-      "isNew": true,
       "lon": "103.827290023383",
       "lat": "1.28855393184563",
       "id": "160038"
@@ -1463,7 +1559,37 @@
       "lon": "103.858562162091",
       "lat": "1.28257452719678",
       "id": "018956"
+    },
+    {
+      "visits": [
+        {
+          "date": "1 Jun",
+          "duration": "1000h to 1230h",
+          "venues": []
+        }
+      ],
+      "name": "JIC Inspection Services",
+      "address": "53 Pioneer Road",
+      "isNew": true,
+      "lon": "103.657832233969",
+      "lat": "1.31133149338762",
+      "id": "628505"
+    },
+    {
+      "visits": [
+        {
+          "date": "1 Jun",
+          "duration": "1100h to 1230h",
+          "venues": []
+        }
+      ],
+      "name": "VICOM Inspection Centre",
+      "address": "511 Bukit Batok Street 2",
+      "isNew": true,
+      "lon": "103.755832339467",
+      "lat": "1.34175978313366",
+      "id": "659545"
     }
   ],
-  "timestamp": 1622668129590
+  "timestamp": 1622756378380
 }
