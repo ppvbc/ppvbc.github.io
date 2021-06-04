@@ -207,6 +207,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
       });
   });
 });
+
 const map = new OpenLayers.Map("mapdiv")
 const osm = new OpenLayers.Layer.OSM('ppvbc', [ '//a.tile.openstreetmap.org/${z}/${x}/${y}.png', '//b.tile.openstreetmap.org/${z}/${x}/${y}.png', '//c.tile.openstreetmap.org/${z}/${x}/${y}.png' ], { tileOptions: { crossOriginKeyword: null } })
 const showAd = () => {
