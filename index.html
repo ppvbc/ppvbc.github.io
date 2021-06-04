@@ -14,6 +14,7 @@
       <button class="add-button">Install App</button>
     </div>
     <div id="mapdiv"></div>
+    <div id="bottom-left">
     <div id="legend">
       <div id="legend-collapsed">
 				<i class="fas fa-list"></i>
@@ -26,6 +27,11 @@
 				<div id="lastUpdated"></div>
 			</div>
     </div>
+    <div id="position">
+			<i class="fas fa-street-view"></i>
+			<i class="fas fa-dot-circle"></i>
+		</div>
+	  </div>
     <div id="footer">
       <div id="ads">
         <div id="ad-laz-1" class="ad">
@@ -129,18 +135,27 @@ html, body {
   display: flex;
   align-items: center;
 }
+#bottom-left {
+  position: absolute;
+  z-index: 1000;
+  bottom: 38px;
+  left: 0;
+}
 #legend {
   border-radius: 5px;
   padding: 10px;
   margin: 10px;
-  position: absolute;
   display: flex;
   flex-direction: column;
-  bottom: 38px;
-  z-index: 1000;
-  left: 0;
   background: rgba(255,255,255,.8);
   justify-content: space-evenly;
+}
+#position {
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  background: rgba(255,255,255,.8);
+	width: 16px;
 }
 #legend-collapsed {
  	display: none;
@@ -265,6 +280,35 @@ const collapseLegend = () => {
 
 $('#legend-collapsed').click(expandLegend)
 map.events.register('movestart', map, collapseLegend)
+var positionMarker = null;
+const showPosition = (position) => {
+  if (positionMarker) markers.removeMarker(positionMarker)
+	const lonLat = new OpenLayers.LonLat(position.coords.longitude, position.coords.latitude)
+		.transform(
+			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+			map.getProjectionObject() // to Spherical Mercator Projection
+		)
+  const size = new OpenLayers.Size(25, 25)
+  const offset = new OpenLayers.Pixel(-(size.w/2), -size.h)
+  const icon = new OpenLayers.Icon('img/position.png', size, offset)
+  positionMarker = new OpenLayers.Marker(lonLat, icon)
+  markers.addMarker(positionMarker)
+  map.setCenter(lonLat, 15)
+  $('#position .fa-street-view').show() 
+	$('#position .fa-dot-circle').hide()
+}
+const handlePositionError = (error) => {
+  $('#position .fa-street-view').show() 
+	$('#position .fa-dot-circle').hide()
+}
+$('#position .fa-dot-circle').hide()
+$('#position .fa-street-view').click(() => {
+	if (navigator.geolocation) {
+    $('#position .fa-street-view').hide() 
+		$('#position .fa-dot-circle').show()
+    navigator.geolocation.getCurrentPosition(showPosition, handlePositionError);
+  }
+})
 
 $.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
   const places = data.places
