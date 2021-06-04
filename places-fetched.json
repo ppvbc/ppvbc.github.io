@@ -3,7 +3,7 @@
     {
       "visits": [
         {
-          "date": "20 to 21 May",
+          "date": "21 May",
           "duration": "0930h to 2130h",
           "venues": [
             "Tiger Sugar"
@@ -19,108 +19,6 @@
     {
       "visits": [
         {
-          "date": "20 May",
-          "duration": "0910h to 1255h",
-          "venues": []
-        }
-      ],
-      "name": "Resorts World Sentosa Casino",
-      "address": "8 Sentosa Gateway",
-      "lon": "103.820310245477",
-      "lat": "1.25675542276498",
-      "id": "098269"
-    },
-    {
-      "visits": [
-        {
-          "date": "20 May",
-          "duration": "1150h to 1225h",
-          "venues": []
-        }
-      ],
-      "name": "Prime Supermarket",
-      "address": "373 Bukit Batok Street 31",
-      "lon": "103.750397174291",
-      "lat": "1.35892457118178",
-      "id": "650373"
-    },
-    {
-      "visits": [
-        {
-          "date": "20 May",
-          "duration": "1340h to 1510h",
-          "venues": [
-            "POSB Account Services Centre"
-          ]
-        }
-      ],
-      "name": "Kaki Bukit Recreation Centre",
-      "address": "7 Kaki Bukit Avenue 3",
-      "lon": "103.90663168981",
-      "lat": "1.33729714367902",
-      "id": "415814"
-    },
-    {
-      "visits": [
-        {
-          "date": "20 May",
-          "duration": "1420h to 1520h",
-          "venues": [
-            "FLNT at 1-ATICO"
-          ]
-        }
-      ],
-      "name": "ION Orchard",
-      "address": "2 Orchard Turn",
-      "lon": "103.831888294023",
-      "lat": "1.30404253406976",
-      "id": "238801"
-    },
-    {
-      "visits": [
-        {
-          "date": "20 May",
-          "duration": "1700h to 2200h",
-          "venues": []
-        }
-      ],
-      "name": "Poke Theory",
-      "address": "238 Thomson Road",
-      "lon": "103.843976528625",
-      "lat": "1.31983049912881",
-      "id": "307683"
-    },
-    {
-      "visits": [
-        {
-          "date": "20 May",
-          "duration": "1730h to 1820h",
-          "venues": []
-        }
-      ],
-      "name": "Chinatown Point",
-      "address": "133 New Bridge Road",
-      "lon": "103.845015574621",
-      "lat": "1.28533894878836",
-      "id": "059413"
-    },
-    {
-      "visits": [
-        {
-          "date": "20 May",
-          "duration": "1820h to 1920h",
-          "venues": []
-        }
-      ],
-      "name": "Rains Foot Massage",
-      "address": "6 Hougang Avenue 3",
-      "lon": "103.893980503167",
-      "lat": "1.36271446291047",
-      "id": "530006"
-    },
-    {
-      "visits": [
-        {
           "date": "21 May",
           "duration": "0800h to 0850h",
           "venues": []
@@ -128,7 +26,6 @@
       ],
       "name": "Yuhua Community Club",
       "address": "90 Boon Lay Way",
-      "isNew": true,
       "lon": "103.737115832566",
       "lat": "1.33995851319377",
       "id": "609958"
@@ -166,11 +63,6 @@
         {
           "date": "21 May",
           "duration": "1100h to 1600h",
-          "venues": []
-        },
-        {
-          "date": "20 May",
-          "duration": "1600h to 2300h",
           "venues": []
         }
       ],
@@ -354,7 +246,6 @@
       ],
       "name": "Fu Nan Traditional Chinese Medicine Centre",
       "address": "152 Bukit Batok Street 11",
-      "isNew": true,
       "lon": "103.744257268105",
       "lat": "1.34830189530173",
       "id": "650152"
@@ -426,18 +317,6 @@
         },
         {
           "date": "21 May",
-          "duration": "0800h to 2200h",
-          "venues": []
-        },
-        {
-          "date": "20 May",
-          "duration": "1510h to 2100h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        },
-        {
-          "date": "20 May",
           "duration": "0800h to 2200h",
           "venues": []
         }
@@ -662,7 +541,6 @@
       ],
       "name": "Ramada",
       "address": "16 Ah Hood Road",
-      "isNew": true,
       "lon": "103.846554377679",
       "lat": "1.32694504484324",
       "id": "329982"
@@ -721,7 +599,6 @@
       ],
       "name": "Yew Tee Community Club",
       "address": "20 Choa Chu Kang Street 52",
-      "isNew": true,
       "lon": "103.744971294739",
       "lat": "1.39480564592114",
       "id": "689286"
@@ -801,7 +678,6 @@
       ],
       "name": "Al Barakah Health and Beauty Mart",
       "address": "302 Woodlands Street 31",
-      "isNew": true,
       "lon": "103.774428425787",
       "lat": "1.43151114760044",
       "id": "730302"
@@ -1016,7 +892,6 @@
       ],
       "name": "Jurong Port Pass/ Permit Office",
       "address": "37 Jurong Port Road",
-      "isNew": true,
       "lon": "103.722807330979",
       "lat": "1.3074595063712",
       "id": "619110"
@@ -1068,7 +943,6 @@
       ],
       "name": "NTUC FairPrice",
       "address": "50 Havelock Road",
-      "isNew": true,
       "lon": "103.826802915076",
       "lat": "1.2897647546758",
       "id": "160050"
@@ -1144,7 +1018,6 @@
       ],
       "name": "Orchard Hotel Singapore",
       "address": "442 Orchard Road",
-      "isNew": true,
       "lon": "103.828540491131",
       "lat": "1.3076228258502",
       "id": "238879"
@@ -1229,27 +1102,6 @@
       "visits": [
         {
           "date": "29 May",
-          "duration": "1020h to 1100h",
-          "venues": []
-        },
-        {
-          "date": "28 May",
-          "duration": "1955h to 2055h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        }
-      ],
-      "name": "The Seletar Mall",
-      "address": "33 Sengkang West Avenue",
-      "lon": "103.876156956828",
-      "lat": "1.3913688093851",
-      "id": "797653"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 May",
           "duration": "1315h to 1500h",
           "venues": []
         }
@@ -1284,7 +1136,6 @@
       ],
       "name": "Thong Sheng Motors Trading",
       "address": "7 Pioneer Road North",
-      "isNew": true,
       "lon": "103.695427890578",
       "lat": "1.32483634845564",
       "id": "628459"
@@ -1414,7 +1265,6 @@
       ],
       "name": "Prime Supermarket",
       "address": "763 Jurong West Street 75",
-      "isNew": true,
       "lon": "103.698292005963",
       "lat": "1.34872644269897",
       "id": "640763"
@@ -1439,20 +1289,6 @@
       "lon": "103.845067272666",
       "lat": "1.30082071769235",
       "id": "238839"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "0940h to 1630h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC Foodfare",
-      "address": "476D Upper Serangoon View",
-      "lon": "103.903623796196",
-      "lat": "1.37791506138101",
-      "id": "537476"
     },
     {
       "visits": [
@@ -1508,7 +1344,6 @@
       ],
       "name": "Ang Mo Supermarket",
       "address": "642 Hougang Avenue 8",
-      "isNew": true,
       "lon": "103.879948293051",
       "lat": "1.37169878879802",
       "id": "530642"
@@ -1570,7 +1405,6 @@
       ],
       "name": "JIC Inspection Services",
       "address": "53 Pioneer Road",
-      "isNew": true,
       "lon": "103.657832233969",
       "lat": "1.31133149338762",
       "id": "628505"
@@ -1585,11 +1419,38 @@
       ],
       "name": "VICOM Inspection Centre",
       "address": "511 Bukit Batok Street 2",
-      "isNew": true,
       "lon": "103.755832339467",
       "lat": "1.34175978313366",
       "id": "659545"
+    },
+    {
+      "visits": [
+        {
+          "date": "1 Jun",
+          "duration": "1955h to 2030h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "29 May",
+          "duration": "1020h to 1100h",
+          "venues": []
+        },
+        {
+          "date": "28 May",
+          "duration": "1955h to 2055h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "Seletar Mall",
+      "address": "33 Sengkang West Avenue",
+      "lon": "103.876156956828",
+      "lat": "1.3913688093851",
+      "id": "797653"
     }
   ],
-  "timestamp": 1622756378380
+  "timestamp": 1622844324089
 }
