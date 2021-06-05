@@ -3,226 +3,6 @@
     {
       "visits": [
         {
-          "date": "21 May",
-          "duration": "0930h to 2130h",
-          "venues": [
-            "Tiger Sugar"
-          ]
-        }
-      ],
-      "name": "Holland Piazza",
-      "address": "3 Lorong Liput",
-      "lon": "103.795246166084",
-      "lat": "1.31064349551562",
-      "id": "277725"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "0800h to 0850h",
-          "venues": []
-        }
-      ],
-      "name": "Yuhua Community Club",
-      "address": "90 Boon Lay Way",
-      "lon": "103.737115832566",
-      "lat": "1.33995851319377",
-      "id": "609958"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "0845h to 0915h",
-          "venues": []
-        }
-      ],
-      "name": "Quan Shui Wet Market",
-      "address": "156 Bukit Batok Street 11",
-      "lon": "103.743842009803",
-      "lat": "1.34836489977938",
-      "id": "650156"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1030h to 1100h",
-          "venues": []
-        }
-      ],
-      "name": "Sri Murugan Hill Temple",
-      "address": "931 Upper Bukit Timah Road",
-      "lon": "103.761623921943",
-      "lat": "1.37707008676107",
-      "id": "678207"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1100h to 1600h",
-          "venues": []
-        }
-      ],
-      "name": "Punggol Plaza",
-      "address": "168 Punggol Field",
-      "lon": "103.912976437583",
-      "lat": "1.39418409438271",
-      "id": "820168"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1105h to 1155h",
-          "venues": []
-        }
-      ],
-      "name": "Al Forno (East Coast) Pte Ltd",
-      "address": "400 East Coast Road",
-      "lon": "103.912040445917",
-      "lat": "1.30869696282346",
-      "id": "428996"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1415h to 1500h",
-          "venues": []
-        }
-      ],
-      "name": "POSB Bukit Batok Central Branch",
-      "address": "636 Bukit Batok Central",
-      "lon": "103.751825708286",
-      "lat": "1.34963273798353",
-      "id": "650636"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1515h to 1600h",
-          "venues": [
-            "FairPrice Xtra"
-          ]
-        }
-      ],
-      "name": "JEM",
-      "address": "50 Jurong Gateway Road",
-      "lon": "103.743170428258",
-      "lat": "1.3332002182913",
-      "id": "608549"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1600h to 1635h",
-          "venues": []
-        }
-      ],
-      "name": "Da Jin Factory Building",
-      "address": "362 Upper Paya Lebar Road",
-      "lon": "103.881382637613",
-      "lat": "1.34805498296882",
-      "id": "534963"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1720h to 1750h",
-          "venues": []
-        }
-      ],
-      "name": "PLQ Mall",
-      "address": "10 Paya Lebar Road",
-      "lon": "103.892724428994",
-      "lat": "1.31752384637596",
-      "id": "409057"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1720h to 1755h",
-          "venues": [
-            "The Social Alley, Singapore"
-          ]
-        }
-      ],
-      "name": "NTP+",
-      "address": "151 Lorong Chuan",
-      "lon": "103.861533171041",
-      "lat": "1.35148585261178",
-      "id": "556741"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1810h to 1940h",
-          "venues": []
-        }
-      ],
-      "name": "Parkway Parade",
-      "address": "80 Marine Parade Road",
-      "lon": "103.90528181445",
-      "lat": "1.30108003311455",
-      "id": "449269"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "1820h to 1900h",
-          "venues": [
-            "KFC"
-          ]
-        }
-      ],
-      "name": "Keat Hong Shopping Centre",
-      "address": "253 Choa Chu Kang Avenue 1",
-      "lon": "103.744383225684",
-      "lat": "1.37743963470096",
-      "id": "680253"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "2010h to 2110h",
-          "venues": []
-        }
-      ],
-      "name": "Bukit Batok Golf Range",
-      "address": "2 Bukit Batok West Avenue 7",
-      "lon": "103.748520902563",
-      "lat": "1.36577391240463",
-      "id": "659003"
-    },
-    {
-      "visits": [
-        {
-          "date": "21 May",
-          "duration": "2100h to 2130h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        }
-      ],
-      "name": "Boon Lay Shopping Centre",
-      "address": "221 Boon Lay Place",
-      "lon": "103.712472819666",
-      "lat": "1.34637376407877",
-      "id": "640221"
-    },
-    {
-      "visits": [
-        {
           "date": "22 May",
           "duration": "0740h to 2000h",
           "venues": [
@@ -307,18 +87,6 @@
           "venues": [
             "Pizza Hut"
           ]
-        },
-        {
-          "date": "21 May",
-          "duration": "1445h to 2100h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        },
-        {
-          "date": "21 May",
-          "duration": "0800h to 2200h",
-          "venues": []
         }
       ],
       "name": "Westgate",
@@ -376,13 +144,6 @@
         {
           "date": "22 May",
           "duration": "1620h to 1655h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        },
-        {
-          "date": "21 May",
-          "duration": "0915h to 0950h",
           "venues": [
             "FairPrice Finest"
           ]
@@ -448,6 +209,21 @@
     {
       "visits": [
         {
+          "date": "22 May",
+          "duration": "2315h to 2345h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "202 Marsiling Drive",
+      "isNew": true,
+      "lon": "103.775164777049",
+      "lat": "1.44315121142693",
+      "id": "730202"
+    },
+    {
+      "visits": [
+        {
           "date": "23 May",
           "duration": "1100h to 1225h",
           "venues": []
@@ -463,11 +239,6 @@
       "visits": [
         {
           "date": "23 May",
-          "duration": "1100h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "21 May",
           "duration": "1100h to 2100h",
           "venues": []
         }
@@ -602,20 +373,6 @@
       "lon": "103.744971294739",
       "lat": "1.39480564592114",
       "id": "689286"
-    },
-    {
-      "visits": [
-        {
-          "date": "24 May",
-          "duration": "2025h to 2100h",
-          "venues": []
-        }
-      ],
-      "name": "Causeway Point",
-      "address": "1 Woodlands Square",
-      "lon": "103.786009973678",
-      "lat": "1.43608867729912",
-      "id": "738099"
     },
     {
       "visits": [
@@ -1054,7 +811,7 @@
           "venues": []
         }
       ],
-      "name": "Atatzcutz Singapore",
+      "name": "Atatcutz Singapore",
       "address": "348 Bedok Road",
       "lon": "103.948260304303",
       "lat": "1.33143623119911",
@@ -1097,6 +854,69 @@
       "lon": "103.871190376558",
       "lat": "1.39183688254074",
       "id": "790455"
+    },
+    {
+      "visits": [
+        {
+          "date": "28 May",
+          "duration": "1845h to 1935h",
+          "venues": [
+            "POPULAR Bookstore"
+          ]
+        },
+        {
+          "date": "28 May",
+          "duration": "1830h to 2000h",
+          "venues": []
+        },
+        {
+          "date": "24 May",
+          "duration": "2025h to 2100h",
+          "venues": []
+        }
+      ],
+      "name": "Causeway Point",
+      "address": "1 Woodlands Square",
+      "lon": "103.786009973678",
+      "lat": "1.43608867729912",
+      "id": "738099"
+    },
+    {
+      "visits": [
+        {
+          "date": "28 May",
+          "duration": "2015h to 2120h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "Woodlands Civic Centre",
+      "address": "900 South Woodlands Drive",
+      "isNew": true,
+      "lon": "103.786619615641",
+      "lat": "1.4350778940091",
+      "id": "730900"
+    },
+    {
+      "visits": [
+        {
+          "date": "29 May",
+          "duration": "1040h to 1140h",
+          "venues": []
+        },
+        {
+          "date": "26 May",
+          "duration": "1040h to 1140h",
+          "venues": []
+        }
+      ],
+      "name": "Marsiling Lane Food Centre",
+      "address": "20 Marsiling Lane",
+      "isNew": true,
+      "lon": "103.776967080069",
+      "lat": "1.44339444325539",
+      "id": "730020"
     },
     {
       "visits": [
@@ -1153,20 +973,6 @@
           "date": "26 May",
           "duration": "1355h to 1700h",
           "venues": []
-        },
-        {
-          "date": "21 May",
-          "duration": "1940h to 2010h",
-          "venues": [
-            "Toys\"R\"Us"
-          ]
-        },
-        {
-          "date": "21 May",
-          "duration": "1905h to 1940h",
-          "venues": [
-            "DAISO"
-          ]
         }
       ],
       "name": "VivoCity",
@@ -1452,5 +1258,5 @@
       "id": "797653"
     }
   ],
-  "timestamp": 1622844324089
+  "timestamp": 1622936857652
 }
