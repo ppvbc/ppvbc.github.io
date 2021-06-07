@@ -3,227 +3,6 @@
     {
       "visits": [
         {
-          "date": "22 May",
-          "duration": "0740h to 2000h",
-          "venues": [
-            "Subway"
-          ]
-        }
-      ],
-      "name": "West Mall",
-      "address": "1 Bukit Batok Central Link",
-      "lon": "103.749021976618",
-      "lat": "1.35018916560505",
-      "id": "658713"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "0830h to 0930h",
-          "venues": []
-        }
-      ],
-      "name": "Fu Nan Traditional Chinese Medicine Centre",
-      "address": "152 Bukit Batok Street 11",
-      "lon": "103.744257268105",
-      "lat": "1.34830189530173",
-      "id": "650152"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1220h to 1300h",
-          "venues": []
-        }
-      ],
-      "name": "Hup Choon Eating House",
-      "address": "1 Binjai Park",
-      "lon": "103.786493273519",
-      "lat": "1.33583983703734",
-      "id": "589818"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1240h to 1310h",
-          "venues": []
-        },
-        {
-          "date": "22 May",
-          "duration": "1230h to 1300h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "1 Jalan Bukit Merah",
-      "lon": "103.808286977232",
-      "lat": "1.28644157642074",
-      "id": "150001"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1435h to 1510h",
-          "venues": [
-            "Giant Supermarket"
-          ]
-        }
-      ],
-      "name": "Sunshine Place",
-      "address": "475 Choa Chu Kang Avenue 3",
-      "lon": "103.738931794069",
-      "lat": "1.37805614752084",
-      "id": "680475"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1500h to 2100h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        }
-      ],
-      "name": "Westgate",
-      "address": "3 Gateway Drive",
-      "lon": "103.742870105512",
-      "lat": "1.33428313049536",
-      "id": "608532"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1515h to 1620h",
-          "venues": []
-        }
-      ],
-      "name": "Joo Chiat Complex",
-      "address": "1 Joo Chiat Road",
-      "lon": "103.898397565472",
-      "lat": "1.31593802099833",
-      "id": "420001"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1520h to 1625h",
-          "venues": []
-        }
-      ],
-      "name": "Mustafa Centre",
-      "address": "145 Syed Alwi Road",
-      "lon": "103.855002052529",
-      "lat": "1.31053493112423",
-      "id": "207704"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1605h to 1700h",
-          "venues": [
-            "Eccellente by HAO Mart"
-          ]
-        }
-      ],
-      "name": "KINEX",
-      "address": "11 Tanjong Katong Road",
-      "lon": "103.894480526031",
-      "lat": "1.31469213499494",
-      "id": "437157"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1620h to 1655h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        }
-      ],
-      "name": "Le Quest Mall",
-      "address": "4 Bukit Batok Street 41",
-      "lon": "103.741127005764",
-      "lat": "1.35594171176111",
-      "id": "657991"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1710h to 1800h",
-          "venues": []
-        }
-      ],
-      "name": "Hafary Pte Ltd",
-      "address": "560 Balestier Road",
-      "lon": "103.844652596814",
-      "lat": "1.32697917569246",
-      "id": "329876"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1730h to 1800h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        },
-        {
-          "date": "22 May",
-          "duration": "1530h to 1630h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        }
-      ],
-      "name": "Bukit Timah Plaza",
-      "address": "1 Jalan Anak Bukit",
-      "lon": "103.778560467143",
-      "lat": "1.33865677622928",
-      "id": "588996"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "1900h to 2015h",
-          "venues": []
-        }
-      ],
-      "name": "Lemongrass",
-      "address": "476 Upper Serangoon View",
-      "lon": "103.903713550367",
-      "lat": "1.37743337773734",
-      "id": "530476"
-    },
-    {
-      "visits": [
-        {
-          "date": "22 May",
-          "duration": "2315h to 2345h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "202 Marsiling Drive",
-      "isNew": true,
-      "lon": "103.775164777049",
-      "lat": "1.44315121142693",
-      "id": "730202"
-    },
-    {
-      "visits": [
-        {
           "date": "23 May",
           "duration": "1100h to 1225h",
           "venues": []
@@ -284,13 +63,6 @@
         {
           "date": "24 May",
           "duration": "0600h to 1500h",
-          "venues": [
-            "McDonald’s"
-          ]
-        },
-        {
-          "date": "22 May",
-          "duration": "0000h to 0400h",
           "venues": [
             "McDonald’s"
           ]
@@ -509,16 +281,6 @@
           "date": "23 May",
           "duration": "1320h to 1530h",
           "venues": []
-        },
-        {
-          "date": "22 May",
-          "duration": "1320h to 1530h",
-          "venues": []
-        },
-        {
-          "date": "22 May",
-          "duration": "1320h to 1530h",
-          "venues": []
         }
       ],
       "name": "NTUC FairPrice",
@@ -671,6 +433,21 @@
       "visits": [
         {
           "date": "27 May",
+          "duration": "1125h to 1210h",
+          "venues": []
+        }
+      ],
+      "name": "United Square Shopping Mall",
+      "address": "101 Thomson Road",
+      "isNew": true,
+      "lon": "103.843773665257",
+      "lat": "1.31717838140911",
+      "id": "307591"
+    },
+    {
+      "visits": [
+        {
+          "date": "27 May",
           "duration": "1125h to 2035h",
           "venues": [
             "328 Katong Laksa"
@@ -751,11 +528,6 @@
         {
           "date": "27 May",
           "duration": "1755h to 2030h",
-          "venues": []
-        },
-        {
-          "date": "22 May",
-          "duration": "1705h to 1740h",
           "venues": []
         }
       ],
@@ -893,7 +665,6 @@
       ],
       "name": "Woodlands Civic Centre",
       "address": "900 South Woodlands Drive",
-      "isNew": true,
       "lon": "103.786619615641",
       "lat": "1.4350778940091",
       "id": "730900"
@@ -913,7 +684,6 @@
       ],
       "name": "Marsiling Lane Food Centre",
       "address": "20 Marsiling Lane",
-      "isNew": true,
       "lon": "103.776967080069",
       "lat": "1.44339444325539",
       "id": "730020"
@@ -1258,5 +1028,5 @@
       "id": "797653"
     }
   ],
-  "timestamp": 1622936857652
+  "timestamp": 1623031447871
 }
