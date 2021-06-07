@@ -3,64 +3,6 @@
     {
       "visits": [
         {
-          "date": "23 May",
-          "duration": "1100h to 1225h",
-          "venues": []
-        }
-      ],
-      "name": "Jurong Point",
-      "address": "1 Jurong West Central 2",
-      "lon": "103.706685012926",
-      "lat": "1.33945200436319",
-      "id": "648886"
-    },
-    {
-      "visits": [
-        {
-          "date": "23 May",
-          "duration": "1100h to 2100h",
-          "venues": []
-        }
-      ],
-      "name": "Indobowl and Royz et Vous",
-      "address": "37 & 39 Sultan Gate",
-      "lon": "103.860598602583",
-      "lat": "1.3015049295861",
-      "id": "198487"
-    },
-    {
-      "visits": [
-        {
-          "date": "23 May",
-          "duration": "1755h to 1830h",
-          "venues": []
-        }
-      ],
-      "name": "Changi City Point",
-      "address": "5 Changi Business Park Central 1",
-      "lon": "103.962792843921",
-      "lat": "1.33411313029445",
-      "id": "486038"
-    },
-    {
-      "visits": [
-        {
-          "date": "23 May",
-          "duration": "1955h to 2030h",
-          "venues": [
-            "FairPrice Xtra"
-          ]
-        }
-      ],
-      "name": "NEX",
-      "address": "23 Serangoon Central",
-      "lon": "103.871861615443",
-      "lat": "1.35067552120318",
-      "id": "556083"
-    },
-    {
-      "visits": [
-        {
           "date": "24 May",
           "duration": "0600h to 1500h",
           "venues": [
@@ -152,11 +94,6 @@
           "date": "25 May",
           "duration": "0920h to 1000h",
           "venues": []
-        },
-        {
-          "date": "23 May",
-          "duration": "0815h to 0920h",
-          "venues": []
         }
       ],
       "name": "Sheng Siong Supermarket",
@@ -196,6 +133,23 @@
       "lon": "103.752749137065",
       "lat": "1.32855512493378",
       "id": "609966"
+    },
+    {
+      "visits": [
+        {
+          "date": "25 May",
+          "duration": "1935h to 2010h",
+          "venues": [
+            "Giant Supermarket"
+          ]
+        }
+      ],
+      "name": "Greenridge Shopping Centre",
+      "address": "524A Jelapang Road",
+      "isNew": true,
+      "lon": "103.766235457752",
+      "lat": "1.38541768689995",
+      "id": "671524"
     },
     {
       "visits": [
@@ -269,16 +223,6 @@
         },
         {
           "date": "24 May",
-          "duration": "1320h to 1530h",
-          "venues": []
-        },
-        {
-          "date": "23 May",
-          "duration": "1430h to 1535h",
-          "venues": []
-        },
-        {
-          "date": "23 May",
           "duration": "1320h to 1530h",
           "venues": []
         }
@@ -439,7 +383,6 @@
       ],
       "name": "United Square Shopping Mall",
       "address": "101 Thomson Road",
-      "isNew": true,
       "lon": "103.843773665257",
       "lat": "1.31717838140911",
       "id": "307591"
@@ -602,6 +545,30 @@
       "lon": "103.815415725873",
       "lat": "1.29301045552152",
       "id": "149309"
+    },
+    {
+      "visits": [
+        {
+          "date": "28 May",
+          "duration": "1505h to 1540h",
+          "venues": [
+            "Giant Supermarket"
+          ]
+        },
+        {
+          "date": "24 May",
+          "duration": "1230h to 1300h",
+          "venues": [
+            "Giant Supermarket"
+          ]
+        }
+      ],
+      "name": "Fajar Shopping Centre",
+      "address": "445 Fajar Road",
+      "isNew": true,
+      "lon": "103.770774778244",
+      "lat": "1.38358020252974",
+      "id": "670445"
     },
     {
       "visits": [
@@ -942,6 +909,21 @@
       "visits": [
         {
           "date": "30 May",
+          "duration": "1550h to 1650h",
+          "venues": []
+        }
+      ],
+      "name": "Choa Chu Kang Columbarium",
+      "address": "51 Chinese Cemetery Path 4",
+      "isNew": true,
+      "lon": "103.686619579014",
+      "lat": "1.37432217346346",
+      "id": "698932"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 May",
           "duration": "1800h to 1900h",
           "venues": []
         }
@@ -970,6 +952,26 @@
       "lon": "103.858562162091",
       "lat": "1.28257452719678",
       "id": "018956"
+    },
+    {
+      "visits": [
+        {
+          "date": "1 Jun",
+          "duration": "0735h to 0810h",
+          "venues": []
+        },
+        {
+          "date": "31 May",
+          "duration": "1940h to 2010h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "446A Fajar Road",
+      "isNew": true,
+      "lon": "103.771350678551",
+      "lat": "1.38377798738412",
+      "id": "671446"
     },
     {
       "visits": [
@@ -1028,5 +1030,5 @@
       "id": "797653"
     }
   ],
-  "timestamp": 1623031447871
+  "timestamp": 1623099422129
 }
