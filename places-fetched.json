@@ -3,94 +3,6 @@
     {
       "visits": [
         {
-          "date": "24 May",
-          "duration": "0600h to 1500h",
-          "venues": [
-            "McDonald’s"
-          ]
-        }
-      ],
-      "name": "The Woodgrove",
-      "address": "30 Woodlands Avenue 1",
-      "lon": "103.781337285958",
-      "lat": "1.42933633490183",
-      "id": "739065"
-    },
-    {
-      "visits": [
-        {
-          "date": "24 May",
-          "duration": "1155h to 1625h",
-          "venues": []
-        }
-      ],
-      "name": "Ramada",
-      "address": "16 Ah Hood Road",
-      "lon": "103.846554377679",
-      "lat": "1.32694504484324",
-      "id": "329982"
-    },
-    {
-      "visits": [
-        {
-          "date": "24 May",
-          "duration": "1230h to 1300h",
-          "venues": []
-        }
-      ],
-      "name": "D'FoodStop@ABC",
-      "address": "2 Jalan Bukit Merah",
-      "lon": "103.80686187976",
-      "lat": "1.2866292132996",
-      "id": "150002"
-    },
-    {
-      "visits": [
-        {
-          "date": "24 May",
-          "duration": "1235h to 1310h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "30 Bendemeer Road",
-      "lon": "103.863880362385",
-      "lat": "1.31906233206995",
-      "id": "330030"
-    },
-    {
-      "visits": [
-        {
-          "date": "24 May",
-          "duration": "1535h to 1640h",
-          "venues": [
-            "Popsical"
-          ]
-        }
-      ],
-      "name": "Funan",
-      "address": "107 North Bridge Road",
-      "lon": "103.849984790048",
-      "lat": "1.29124400604241",
-      "id": "179105"
-    },
-    {
-      "visits": [
-        {
-          "date": "24 May",
-          "duration": "1745h to 1845h",
-          "venues": []
-        }
-      ],
-      "name": "Yew Tee Community Club",
-      "address": "20 Choa Chu Kang Street 52",
-      "lon": "103.744971294739",
-      "lat": "1.39480564592114",
-      "id": "689286"
-    },
-    {
-      "visits": [
-        {
           "date": "25 May",
           "duration": "0920h to 1000h",
           "venues": []
@@ -146,7 +58,6 @@
       ],
       "name": "Greenridge Shopping Centre",
       "address": "524A Jelapang Road",
-      "isNew": true,
       "lon": "103.766235457752",
       "lat": "1.38541768689995",
       "id": "671524"
@@ -218,11 +129,6 @@
         },
         {
           "date": "26 May",
-          "duration": "1320h to 1530h",
-          "venues": []
-        },
-        {
-          "date": "24 May",
           "duration": "1320h to 1530h",
           "venues": []
         }
@@ -554,18 +460,10 @@
           "venues": [
             "Giant Supermarket"
           ]
-        },
-        {
-          "date": "24 May",
-          "duration": "1230h to 1300h",
-          "venues": [
-            "Giant Supermarket"
-          ]
         }
       ],
       "name": "Fajar Shopping Centre",
       "address": "445 Fajar Road",
-      "isNew": true,
       "lon": "103.770774778244",
       "lat": "1.38358020252974",
       "id": "670445"
@@ -583,7 +481,7 @@
           "venues": []
         },
         {
-          "date": "24 to 28 May",
+          "date": "25 to 28 May",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -606,11 +504,6 @@
         {
           "date": "28 May",
           "duration": "1830h to 2000h",
-          "venues": []
-        },
-        {
-          "date": "24 May",
-          "duration": "2025h to 2100h",
           "venues": []
         }
       ],
@@ -864,7 +757,7 @@
           ]
         },
         {
-          "date": "24 to 29 May",
+          "date": "25 to 29 May",
           "duration": "1000h to 2200h",
           "venues": [
             "Fu Fa Food Court"
@@ -915,7 +808,6 @@
       ],
       "name": "Choa Chu Kang Columbarium",
       "address": "51 Chinese Cemetery Path 4",
-      "isNew": true,
       "lon": "103.686619579014",
       "lat": "1.37432217346346",
       "id": "698932"
@@ -968,7 +860,6 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "446A Fajar Road",
-      "isNew": true,
       "lon": "103.771350678551",
       "lat": "1.38377798738412",
       "id": "671446"
@@ -1028,7 +919,96 @@
       "lon": "103.876156956828",
       "lat": "1.3913688093851",
       "id": "797653"
+    },
+    {
+      "visits": [
+        {
+          "date": "3 Jun",
+          "duration": "1645h to 1720h",
+          "venues": [
+            "Scarlett Supermarket"
+          ]
+        }
+      ],
+      "name": "People’s Park Complex",
+      "address": "1 Park Road",
+      "isNew": true,
+      "lon": "103.842584810239",
+      "lat": "1.2841286266379",
+      "id": "059108"
+    },
+    {
+      "visits": [
+        {
+          "date": "6 Jun",
+          "duration": "1300h to 2130h",
+          "venues": [
+            "Four Leaves"
+          ]
+        },
+        {
+          "date": "5 Jun",
+          "duration": "0900h to 2130h",
+          "venues": [
+            "Four Leaves"
+          ]
+        },
+        {
+          "date": "4 Jun",
+          "duration": "1300h to 2130h",
+          "venues": [
+            "Four Leaves"
+          ]
+        },
+        {
+          "date": "3 Jun",
+          "duration": "0900h to 1600h",
+          "venues": [
+            "Four Leaves"
+          ]
+        }
+      ],
+      "name": "ION Orchard",
+      "address": "2 Orchard Turn",
+      "isNew": true,
+      "lon": "103.831888294023",
+      "lat": "1.30404253406976",
+      "id": "238801"
+    },
+    {
+      "visits": [
+        {
+          "date": "6 Jun",
+          "duration": "1000h to 1100h",
+          "venues": [
+            "Decathlon"
+          ]
+        }
+      ],
+      "name": "The Centrepoint",
+      "address": "176 Orchard Road",
+      "isNew": true,
+      "lon": "103.840054426935",
+      "lat": "1.30151446722773",
+      "id": "238843"
+    },
+    {
+      "visits": [
+        {
+          "date": "6 Jun",
+          "duration": "1100h to 1145h",
+          "venues": [
+            "UNIQLO"
+          ]
+        }
+      ],
+      "name": "Orchard Central",
+      "address": "181 Orchard Road",
+      "isNew": true,
+      "lon": "103.839692368177",
+      "lat": "1.30072350356705",
+      "id": "238896"
     }
   ],
-  "timestamp": 1623099422129
+  "timestamp": 1623190421836
 }
