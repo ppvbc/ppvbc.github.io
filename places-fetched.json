@@ -3,82 +3,6 @@
     {
       "visits": [
         {
-          "date": "25 May",
-          "duration": "0920h to 1000h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "108 McNair Road",
-      "lon": "103.859382719506",
-      "lat": "1.3216190383169",
-      "id": "321108"
-    },
-    {
-      "visits": [
-        {
-          "date": "25 May",
-          "duration": "1230h to 1430h",
-          "venues": [
-            "Beauty World Thai Massage"
-          ]
-        }
-      ],
-      "name": "Beauty World Centre",
-      "address": "144 Upper Bukit Timah Road",
-      "lon": "103.776539385678",
-      "lat": "1.34241264188642",
-      "id": "588177"
-    },
-    {
-      "visits": [
-        {
-          "date": "25 May",
-          "duration": "1500h to 1550h",
-          "venues": [
-            "Rodalink Jurong East Bicycle Megastore"
-          ]
-        }
-      ],
-      "name": "Tradehub 21",
-      "address": "18 Boon Lay Way",
-      "lon": "103.752749137065",
-      "lat": "1.32855512493378",
-      "id": "609966"
-    },
-    {
-      "visits": [
-        {
-          "date": "25 May",
-          "duration": "1935h to 2010h",
-          "venues": [
-            "Giant Supermarket"
-          ]
-        }
-      ],
-      "name": "Greenridge Shopping Centre",
-      "address": "524A Jelapang Road",
-      "lon": "103.766235457752",
-      "lat": "1.38541768689995",
-      "id": "671524"
-    },
-    {
-      "visits": [
-        {
-          "date": "25 May",
-          "duration": "1800h to 1900h",
-          "venues": []
-        }
-      ],
-      "name": "Al Barakah Health and Beauty Mart",
-      "address": "302 Woodlands Street 31",
-      "lon": "103.774428425787",
-      "lat": "1.43151114760044",
-      "id": "730302"
-    },
-    {
-      "visits": [
-        {
           "date": "26 May",
           "duration": "0905h to 1200h",
           "venues": []
@@ -476,12 +400,7 @@
           "venues": []
         },
         {
-          "date": "25 May",
-          "duration": "1535h to 1630h",
-          "venues": []
-        },
-        {
-          "date": "25 to 28 May",
+          "date": "26 to 28 May",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -757,7 +676,7 @@
           ]
         },
         {
-          "date": "25 to 29 May",
+          "date": "26 to 29 May",
           "duration": "1000h to 2200h",
           "venues": [
             "Fu Fa Food Court"
@@ -848,6 +767,37 @@
     {
       "visits": [
         {
+          "date": "31 May",
+          "duration": "1140h to 1500h",
+          "venues": [
+            "Church’s"
+          ]
+        },
+        {
+          "date": "29 May",
+          "duration": "0900h to 1135h",
+          "venues": [
+            "Church’s"
+          ]
+        },
+        {
+          "date": "27 May",
+          "duration": "0835h to 1105h",
+          "venues": [
+            "Miu Miu"
+          ]
+        }
+      ],
+      "name": "Marina Bay Sands",
+      "address": "2 Bayfront Avenue",
+      "isNew": true,
+      "lon": "103.857629111139",
+      "lat": "1.28332249857386",
+      "id": "018972"
+    },
+    {
+      "visits": [
+        {
           "date": "1 Jun",
           "duration": "0735h to 0810h",
           "venues": []
@@ -896,6 +846,28 @@
       "visits": [
         {
           "date": "1 Jun",
+          "duration": "1725h to 1800h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "29 May",
+          "duration": "1715h to 1750h",
+          "venues": []
+        }
+      ],
+      "name": "Yew Tee Point",
+      "address": "21 Choa Chu Kang North 6",
+      "isNew": true,
+      "lon": "103.746558067665",
+      "lat": "1.39730190912668",
+      "id": "689578"
+    },
+    {
+      "visits": [
+        {
+          "date": "1 Jun",
           "duration": "1955h to 2030h",
           "venues": [
             "NTUC FairPrice"
@@ -932,7 +904,6 @@
       ],
       "name": "People’s Park Complex",
       "address": "1 Park Road",
-      "isNew": true,
       "lon": "103.842584810239",
       "lat": "1.2841286266379",
       "id": "059108"
@@ -966,11 +937,24 @@
           "venues": [
             "Four Leaves"
           ]
+        },
+        {
+          "date": "3 Jun",
+          "duration": "0845h to 1050h",
+          "venues": [
+            "Dolce & Gabbana"
+          ]
+        },
+        {
+          "date": "27 to 28 May",
+          "duration": "2030h to 0200h",
+          "venues": [
+            "Tiffany & Co."
+          ]
         }
       ],
       "name": "ION Orchard",
       "address": "2 Orchard Turn",
-      "isNew": true,
       "lon": "103.831888294023",
       "lat": "1.30404253406976",
       "id": "238801"
@@ -987,7 +971,6 @@
       ],
       "name": "The Centrepoint",
       "address": "176 Orchard Road",
-      "isNew": true,
       "lon": "103.840054426935",
       "lat": "1.30151446722773",
       "id": "238843"
@@ -1004,11 +987,10 @@
       ],
       "name": "Orchard Central",
       "address": "181 Orchard Road",
-      "isNew": true,
       "lon": "103.839692368177",
       "lat": "1.30072350356705",
       "id": "238896"
     }
   ],
-  "timestamp": 1623190421836
+  "timestamp": 1623277268235
 }
