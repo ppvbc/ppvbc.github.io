@@ -3,125 +3,6 @@
     {
       "visits": [
         {
-          "date": "26 May",
-          "duration": "0905h to 1200h",
-          "venues": []
-        }
-      ],
-      "name": "McDonald’s",
-      "address": "293 Yishun Street 22",
-      "lon": "103.837858420722",
-      "lat": "1.43591598491658",
-      "id": "760293"
-    },
-    {
-      "visits": [
-        {
-          "date": "26 May",
-          "duration": "1400h to 1430h",
-          "venues": []
-        }
-      ],
-      "name": "New Trendy Salon LLP",
-      "address": "84 Redhill Lane",
-      "lon": "103.818851050403",
-      "lat": "1.28708575062296",
-      "id": "150084"
-    },
-    {
-      "visits": [
-        {
-          "date": "26 May",
-          "duration": "1430h to 1500h",
-          "venues": [
-            "Passion Bike"
-          ]
-        }
-      ],
-      "name": "One Commonwealth",
-      "address": "1 Commonwealth Lane",
-      "lon": "103.796927634921",
-      "lat": "1.30430366397836",
-      "id": "149544"
-    },
-    {
-      "visits": [
-        {
-          "date": "26 May",
-          "duration": "1430h to 1535h",
-          "venues": []
-        },
-        {
-          "date": "26 May",
-          "duration": "1320h to 1530h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "301 Yishun Avenue 2",
-      "lon": "103.835058273602",
-      "lat": "1.42951728655036",
-      "id": "769093"
-    },
-    {
-      "visits": [
-        {
-          "date": "26 May",
-          "duration": "1710h to 1740h",
-          "venues": []
-        }
-      ],
-      "name": "Giant",
-      "address": "256 Bangkit Road",
-      "lon": "103.772937487128",
-      "lat": "1.37904775583142",
-      "id": "670256"
-    },
-    {
-      "visits": [
-        {
-          "date": "26 May",
-          "duration": "1850h to 2025h",
-          "venues": []
-        }
-      ],
-      "name": "Decathlon – Singapore Lab",
-      "address": "230 Stadium Boulevard",
-      "lon": "103.882367769241",
-      "lat": "1.30426016123523",
-      "id": "397799"
-    },
-    {
-      "visits": [
-        {
-          "date": "26 May",
-          "duration": "2100h to 2130h",
-          "venues": []
-        }
-      ],
-      "name": "Wenxintang Spa",
-      "address": "316B Ang Mo Kio Street 31",
-      "lon": "103.847677034369",
-      "lat": "1.36462540270463",
-      "id": "563316"
-    },
-    {
-      "visits": [
-        {
-          "date": "26 May",
-          "duration": "2115h to 2220h",
-          "venues": []
-        }
-      ],
-      "name": "People’s Park Centre",
-      "address": "101 Upper Cross Street",
-      "lon": "103.843922993246",
-      "lat": "1.28560659056634",
-      "id": "058357"
-    },
-    {
-      "visits": [
-        {
           "date": "27 to 31 May",
           "duration": "0000h to 2359h",
           "venues": []
@@ -222,13 +103,6 @@
         {
           "date": "27 May",
           "duration": "1125h to 2035h",
-          "venues": [
-            "328 Katong Laksa"
-          ]
-        },
-        {
-          "date": "26 May",
-          "duration": "1130h to 2100h",
           "venues": [
             "328 Katong Laksa"
           ]
@@ -400,7 +274,7 @@
           "venues": []
         },
         {
-          "date": "26 to 28 May",
+          "date": "27 to 28 May",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -452,11 +326,6 @@
       "visits": [
         {
           "date": "29 May",
-          "duration": "1040h to 1140h",
-          "venues": []
-        },
-        {
-          "date": "26 May",
           "duration": "1040h to 1140h",
           "venues": []
         }
@@ -517,11 +386,6 @@
           "venues": [
             "FairPrice Xtra"
           ]
-        },
-        {
-          "date": "26 May",
-          "duration": "1355h to 1700h",
-          "venues": []
         }
       ],
       "name": "VivoCity",
@@ -594,12 +458,7 @@
           "venues": []
         },
         {
-          "date": "26 May",
-          "duration": "0900h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "26 to 27 May",
+          "date": "27 May",
           "duration": "0900h to 1700h",
           "venues": []
         }
@@ -676,7 +535,7 @@
           ]
         },
         {
-          "date": "26 to 29 May",
+          "date": "27 to 29 May",
           "duration": "1000h to 2200h",
           "venues": [
             "Fu Fa Food Court"
@@ -790,10 +649,24 @@
       ],
       "name": "Marina Bay Sands",
       "address": "2 Bayfront Avenue",
-      "isNew": true,
       "lon": "103.857629111139",
       "lat": "1.28332249857386",
       "id": "018972"
+    },
+    {
+      "visits": [
+        {
+          "date": "31 May",
+          "duration": "1835h to 1920h",
+          "venues": []
+        }
+      ],
+      "name": "Woodlands Galaxy Community Club",
+      "address": "31 Woodlands Avenue 6",
+      "isNew": true,
+      "lon": "103.802610982998",
+      "lat": "1.43904161542405",
+      "id": "738991"
     },
     {
       "visits": [
@@ -859,7 +732,6 @@
       ],
       "name": "Yew Tee Point",
       "address": "21 Choa Chu Kang North 6",
-      "isNew": true,
       "lon": "103.746558067665",
       "lat": "1.39730190912668",
       "id": "689578"
@@ -895,6 +767,30 @@
     {
       "visits": [
         {
+          "date": "3 to 6 Jun",
+          "duration": "0645h to 1700h",
+          "venues": [
+            "St. Leaven"
+          ]
+        },
+        {
+          "date": "27 to 31 May",
+          "duration": "0645h to 1700h",
+          "venues": [
+            "St. Leaven"
+          ]
+        }
+      ],
+      "name": "Takashimaya",
+      "address": "391A Orchard Road",
+      "isNew": true,
+      "lon": "103.834676124723",
+      "lat": "1.30242417189411",
+      "id": "238873"
+    },
+    {
+      "visits": [
+        {
           "date": "3 Jun",
           "duration": "1645h to 1720h",
           "venues": [
@@ -907,6 +803,21 @@
       "lon": "103.842584810239",
       "lat": "1.2841286266379",
       "id": "059108"
+    },
+    {
+      "visits": [
+        {
+          "date": "6 to 9 Jun",
+          "duration": "0600h to 1400h",
+          "venues": []
+        }
+      ],
+      "name": "115 Bukit Merah View Market & Hawker Centre",
+      "address": "115 Bukit Merah View",
+      "isNew": true,
+      "lon": "103.822049433334",
+      "lat": "1.28550483170444",
+      "id": "151115"
     },
     {
       "visits": [
@@ -992,5 +903,5 @@
       "id": "238896"
     }
   ],
-  "timestamp": 1623277268235
+  "timestamp": 1623360609862
 }
