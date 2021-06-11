@@ -3,7 +3,7 @@
     {
       "visits": [
         {
-          "date": "27 to 31 May",
+          "date": "28 to 31 May",
           "duration": "0000h to 2359h",
           "venues": []
         }
@@ -13,176 +13,6 @@
       "lon": "103.652208660421",
       "lat": "1.31720416812204",
       "id": "639591"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "0750h to 0820h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "417 Fernvale Link",
-      "lon": "103.879874611419",
-      "lat": "1.39158622983505",
-      "id": "790417"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "0905h to 1030h",
-          "venues": []
-        }
-      ],
-      "name": "Bukit Merah Community Centre",
-      "address": "4000 Jalan Bukit Merah",
-      "lon": "103.815828547684",
-      "lat": "1.28525427322707",
-      "id": "159465"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "0915h to 1400h",
-          "venues": []
-        }
-      ],
-      "name": "LeVel 33",
-      "address": "8 Marina Boulevard",
-      "lon": "103.854188393989",
-      "lat": "1.27998145046295",
-      "id": "018981"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "0945h to 1100h",
-          "venues": []
-        }
-      ],
-      "name": "Jurong Port Pass/ Permit Office",
-      "address": "37 Jurong Port Road",
-      "lon": "103.722807330979",
-      "lat": "1.3074595063712",
-      "id": "619110"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "1100h to 2230h",
-          "venues": []
-        }
-      ],
-      "name": "Chop Joo Hiong Eating House",
-      "address": "237 Serangoon Avenue 3",
-      "lon": "103.87013457465",
-      "lat": "1.35381198342473",
-      "id": "550237"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "1125h to 1210h",
-          "venues": []
-        }
-      ],
-      "name": "United Square Shopping Mall",
-      "address": "101 Thomson Road",
-      "lon": "103.843773665257",
-      "lat": "1.31717838140911",
-      "id": "307591"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "1125h to 2035h",
-          "venues": [
-            "328 Katong Laksa"
-          ]
-        }
-      ],
-      "name": "Tiong Bahru Plaza",
-      "address": "298 Tiong Bahru Road",
-      "lon": "103.828004844701",
-      "lat": "1.2863085351796",
-      "id": "168730"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "1240h to 1345h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "50 Havelock Road",
-      "lon": "103.826802915076",
-      "lat": "1.2897647546758",
-      "id": "160050"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "1605h to 1810h",
-          "venues": []
-        }
-      ],
-      "name": "Health Management Centre",
-      "address": "809 French Road",
-      "lon": "103.862059784174",
-      "lat": "1.3083939667367",
-      "id": "200809"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "1700h to 1730h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "200 Woodlands Industrial Park E7",
-      "lon": "103.797050379065",
-      "lat": "1.45089565555643",
-      "id": "757177"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "1725h to 1825h",
-          "venues": []
-        }
-      ],
-      "name": "GP Motoring",
-      "address": "282 Macpherson Road",
-      "lon": "103.877130417609",
-      "lat": "1.33039834337195",
-      "id": "348607"
-    },
-    {
-      "visits": [
-        {
-          "date": "27 May",
-          "duration": "1755h to 2030h",
-          "venues": []
-        }
-      ],
-      "name": "Lucky Plaza",
-      "address": "304 Orchard Road",
-      "lon": "103.834005158524",
-      "lat": "1.3044637897474",
-      "id": "238863"
     },
     {
       "visits": [
@@ -217,16 +47,6 @@
         {
           "date": "28 to 31 May",
           "duration": "1200h to 1900h",
-          "venues": []
-        },
-        {
-          "date": "27 May",
-          "duration": "2230h to 2300h",
-          "venues": []
-        },
-        {
-          "date": "27 May",
-          "duration": "1400h to 2200h",
           "venues": []
         }
       ],
@@ -274,7 +94,7 @@
           "venues": []
         },
         {
-          "date": "27 to 28 May",
+          "date": "28 May",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -443,23 +263,8 @@
           "venues": []
         },
         {
-          "date": "27 May",
-          "duration": "0900h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "27 to 28 May",
+          "date": "28 May",
           "duration": "0600h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "27 May",
-          "duration": "0000h to 0730h",
-          "venues": []
-        },
-        {
-          "date": "27 May",
-          "duration": "0900h to 1700h",
           "venues": []
         }
       ],
@@ -528,15 +333,15 @@
           ]
         },
         {
-          "date": "27 to 28 May",
-          "duration": "0630h to 2200h",
+          "date": "28 to 29 May",
+          "duration": "1000h to 2200h",
           "venues": [
             "Fu Fa Food Court"
           ]
         },
         {
-          "date": "27 to 29 May",
-          "duration": "1000h to 2200h",
+          "date": "28 May",
+          "duration": "0630h to 2200h",
           "venues": [
             "Fu Fa Food Court"
           ]
@@ -594,6 +399,23 @@
       "visits": [
         {
           "date": "30 May",
+          "duration": "1630h to 1700h",
+          "venues": [
+            "Sheng Siong Supermarket"
+          ]
+        }
+      ],
+      "name": "Marsiling Mall",
+      "address": "4 Woodlands Street 12",
+      "isNew": true,
+      "lon": "103.779746860157",
+      "lat": "1.43351253520759",
+      "id": "738623"
+    },
+    {
+      "visits": [
+        {
+          "date": "30 May",
           "duration": "1800h to 1900h",
           "venues": []
         }
@@ -638,13 +460,6 @@
           "venues": [
             "Church’s"
           ]
-        },
-        {
-          "date": "27 May",
-          "duration": "0835h to 1105h",
-          "venues": [
-            "Miu Miu"
-          ]
         }
       ],
       "name": "Marina Bay Sands",
@@ -663,7 +478,6 @@
       ],
       "name": "Woodlands Galaxy Community Club",
       "address": "31 Woodlands Avenue 6",
-      "isNew": true,
       "lon": "103.802610982998",
       "lat": "1.43904161542405",
       "id": "738991"
@@ -774,7 +588,7 @@
           ]
         },
         {
-          "date": "27 to 31 May",
+          "date": "28 to 31 May",
           "duration": "0645h to 1700h",
           "venues": [
             "St. Leaven"
@@ -783,7 +597,6 @@
       ],
       "name": "Takashimaya",
       "address": "391A Orchard Road",
-      "isNew": true,
       "lon": "103.834676124723",
       "lat": "1.30242417189411",
       "id": "238873"
@@ -807,6 +620,21 @@
     {
       "visits": [
         {
+          "date": "5 Jun",
+          "duration": "1000h to 1045h",
+          "venues": []
+        }
+      ],
+      "name": "Divine Beauty",
+      "address": "303 Woodlands Street 31",
+      "isNew": true,
+      "lon": "103.774011078412",
+      "lat": "1.43079961583476",
+      "id": "730303"
+    },
+    {
+      "visits": [
+        {
           "date": "6 to 9 Jun",
           "duration": "0600h to 1400h",
           "venues": []
@@ -814,7 +642,6 @@
       ],
       "name": "115 Bukit Merah View Market & Hawker Centre",
       "address": "115 Bukit Merah View",
-      "isNew": true,
       "lon": "103.822049433334",
       "lat": "1.28550483170444",
       "id": "151115"
@@ -823,9 +650,99 @@
       "visits": [
         {
           "date": "6 Jun",
+          "duration": "1000h to 1100h",
+          "venues": [
+            "Decathlon"
+          ]
+        }
+      ],
+      "name": "The Centrepoint",
+      "address": "176 Orchard Road",
+      "lon": "103.840054426935",
+      "lat": "1.30151446722773",
+      "id": "238843"
+    },
+    {
+      "visits": [
+        {
+          "date": "6 Jun",
+          "duration": "1100h to 1145h",
+          "venues": [
+            "UNIQLO"
+          ]
+        }
+      ],
+      "name": "Orchard Central",
+      "address": "181 Orchard Road",
+      "lon": "103.839692368177",
+      "lat": "1.30072350356705",
+      "id": "238896"
+    },
+    {
+      "visits": [
+        {
+          "date": "8 Jun",
+          "duration": "1100h to 1345h",
+          "venues": []
+        }
+      ],
+      "name": "The One Hairstyling Studio",
+      "address": "123 Lorong 1 Toa Payoh",
+      "isNew": true,
+      "lon": "103.845703844955",
+      "lat": "1.33864901784911",
+      "id": "310123"
+    },
+    {
+      "visits": [
+        {
+          "date": "8 Jun",
+          "duration": "2015h to 2045h",
+          "venues": []
+        }
+      ],
+      "name": "Ang Mo Kio MRT Station",
+      "address": "2450 Ang Mo Kio Avenue 8",
+      "isNew": true,
+      "lon": "103.84955809232",
+      "lat": "1.36993284962262",
+      "id": "569811"
+    },
+    {
+      "visits": [
+        {
+          "date": "9 Jun",
+          "duration": "1230h to 2030h",
+          "venues": [
+            "Guardian"
+          ]
+        },
+        {
+          "date": "7 Jun",
+          "duration": "1230h to 2030h",
+          "venues": [
+            "Guardian"
+          ]
+        },
+        {
+          "date": "6 Jun",
           "duration": "1300h to 2130h",
           "venues": [
             "Four Leaves"
+          ]
+        },
+        {
+          "date": "6 Jun",
+          "duration": "1230h to 2030h",
+          "venues": [
+            "Guardian"
+          ]
+        },
+        {
+          "date": "5 Jun",
+          "duration": "1230h to 2030h",
+          "venues": [
+            "Guardian"
           ]
         },
         {
@@ -869,39 +786,7 @@
       "lon": "103.831888294023",
       "lat": "1.30404253406976",
       "id": "238801"
-    },
-    {
-      "visits": [
-        {
-          "date": "6 Jun",
-          "duration": "1000h to 1100h",
-          "venues": [
-            "Decathlon"
-          ]
-        }
-      ],
-      "name": "The Centrepoint",
-      "address": "176 Orchard Road",
-      "lon": "103.840054426935",
-      "lat": "1.30151446722773",
-      "id": "238843"
-    },
-    {
-      "visits": [
-        {
-          "date": "6 Jun",
-          "duration": "1100h to 1145h",
-          "venues": [
-            "UNIQLO"
-          ]
-        }
-      ],
-      "name": "Orchard Central",
-      "address": "181 Orchard Road",
-      "lon": "103.839692368177",
-      "lat": "1.30072350356705",
-      "id": "238896"
     }
   ],
-  "timestamp": 1623360609862
+  "timestamp": 1623447976941
 }
