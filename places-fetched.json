@@ -3,7 +3,7 @@
     {
       "visits": [
         {
-          "date": "29 to 31 May",
+          "date": "30 to 31 May",
           "duration": "0000h to 2359h",
           "venues": []
         }
@@ -17,7 +17,7 @@
     {
       "visits": [
         {
-          "date": "29 to 31 May",
+          "date": "30 to 31 May",
           "duration": "1200h to 1900h",
           "venues": []
         }
@@ -31,111 +31,8 @@
     {
       "visits": [
         {
-          "date": "29 May",
-          "duration": "1040h to 1140h",
-          "venues": []
-        }
-      ],
-      "name": "Marsiling Lane Food Centre",
-      "address": "20 Marsiling Lane",
-      "lon": "103.776967080069",
-      "lat": "1.44339444325539",
-      "id": "730020"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 May",
-          "duration": "1315h to 1500h",
-          "venues": []
-        }
-      ],
-      "name": "Chien Chi Tow Healthcare",
-      "address": "78 Redhill Lane",
-      "lon": "103.818486786844",
-      "lat": "1.28843088346846",
-      "id": "150078"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 May",
-          "duration": "1555h to 1645h",
-          "venues": []
-        }
-      ],
-      "name": "Peninsula Plaza Singapore",
-      "address": "111 North Bridge Road",
-      "lon": "103.850804507292",
-      "lat": "1.29232248414936",
-      "id": "179098"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 May",
-          "duration": "1815h to 1915h",
-          "venues": []
-        }
-      ],
-      "name": "Thong Sheng Motors Trading",
-      "address": "7 Pioneer Road North",
-      "lon": "103.695427890578",
-      "lat": "1.32483634845564",
-      "id": "628459"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 May",
-          "duration": "1820h to 2000h",
-          "venues": [
-            "FairPrice Xtra"
-          ]
-        }
-      ],
-      "name": "VivoCity",
-      "address": "1 HarbourFront Walk",
-      "lon": "103.821589247996",
-      "lat": "1.26389581240004",
-      "id": "098585"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 May",
-          "duration": "1840h to 1950h",
-          "venues": [
-            "Decathlon"
-          ]
-        }
-      ],
-      "name": "ESR BizPark@Chai Chee",
-      "address": "750A Chai Chee Road",
-      "lon": "103.922124606113",
-      "lat": "1.32297820248267",
-      "id": "469001"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 to 30 May",
+          "date": "30 May",
           "duration": "1930h to 0000h",
-          "venues": []
-        },
-        {
-          "date": "29 May",
-          "duration": "0900h to 1300h",
-          "venues": []
-        },
-        {
-          "date": "29 May",
-          "duration": "0600h to 1300h",
-          "venues": []
-        },
-        {
-          "date": "29 May",
-          "duration": "0000h to 0730h",
           "venues": []
         }
       ],
@@ -148,59 +45,10 @@
     {
       "visits": [
         {
-          "date": "29 May",
-          "duration": "2000h to 2035h",
-          "venues": []
-        }
-      ],
-      "name": "Prime Supermarket",
-      "address": "763 Jurong West Street 75",
-      "lon": "103.698292005963",
-      "lat": "1.34872644269897",
-      "id": "640763"
-    },
-    {
-      "visits": [
-        {
-          "date": "29 May",
-          "duration": "2030h to 2115h",
-          "venues": []
-        },
-        {
-          "date": "29 May",
-          "duration": "2030h to 2055h",
-          "venues": [
-            "Cold Storage"
-          ]
-        }
-      ],
-      "name": "Plaza Singapura",
-      "address": "68 Orchard Road",
-      "lon": "103.845067272666",
-      "lat": "1.30082071769235",
-      "id": "238839"
-    },
-    {
-      "visits": [
-        {
           "date": "30 May",
           "duration": "1100h to 2200h",
           "venues": [
             "Pizza Hut"
-          ]
-        },
-        {
-          "date": "29 May",
-          "duration": "0630h to 1300h",
-          "venues": [
-            "Fu Fa Food Court"
-          ]
-        },
-        {
-          "date": "29 May",
-          "duration": "1000h to 2200h",
-          "venues": [
-            "Fu Fa Food Court"
           ]
         }
       ],
@@ -248,7 +96,6 @@
       ],
       "name": "NTUC FairPrice",
       "address": "37 Teban Gardens Road",
-      "isNew": true,
       "lon": "103.742651512921",
       "lat": "1.32052026841644",
       "id": "600037"
@@ -303,11 +150,6 @@
           "date": "30 to 31 May",
           "duration": "2005h to 0005h",
           "venues": []
-        },
-        {
-          "date": "29 May",
-          "duration": "0110h to 0530h",
-          "venues": []
         }
       ],
       "name": "Marina Bay Sands Casino",
@@ -321,13 +163,6 @@
         {
           "date": "31 May",
           "duration": "1140h to 1500h",
-          "venues": [
-            "Church’s"
-          ]
-        },
-        {
-          "date": "29 May",
-          "duration": "0900h to 1135h",
           "venues": [
             "Church’s"
           ]
@@ -376,6 +211,21 @@
       "visits": [
         {
           "date": "1 Jun",
+          "duration": "0900h to 0930h",
+          "venues": []
+        }
+      ],
+      "name": "Beo Crescent Market",
+      "address": "38A Beo Crescent",
+      "isNew": true,
+      "lon": "103.827400817412",
+      "lat": "1.2888400791879",
+      "id": "169982"
+    },
+    {
+      "visits": [
+        {
+          "date": "1 Jun",
           "duration": "1000h to 1230h",
           "venues": []
         }
@@ -408,11 +258,6 @@
           "venues": [
             "NTUC FairPrice"
           ]
-        },
-        {
-          "date": "29 May",
-          "duration": "1715h to 1750h",
-          "venues": []
         }
       ],
       "name": "Yew Tee Point",
@@ -429,11 +274,6 @@
           "venues": [
             "FairPrice Finest"
           ]
-        },
-        {
-          "date": "29 May",
-          "duration": "1020h to 1100h",
-          "venues": []
         }
       ],
       "name": "Seletar Mall",
@@ -448,13 +288,12 @@
           "date": "1 Jun",
           "duration": "2100h to 2130h",
           "venues": [
-            "NTUC Fairprice"
+            "NTUC FairPrice"
           ]
         }
       ],
       "name": "HDB Hub",
       "address": "500 Toa Payoh Lorong 6",
-      "isNew": true,
       "lon": "103.8471181837",
       "lat": "1.33276117944875",
       "id": "310500"
@@ -471,7 +310,6 @@
       ],
       "name": "Novena Square 2",
       "address": "10 Sinaran Drive",
-      "isNew": true,
       "lon": "103.844331494859",
       "lat": "1.32061258625865",
       "id": "307506"
@@ -486,7 +324,6 @@
       ],
       "name": "Velocity@Novena Square",
       "address": "238 Thomson Road",
-      "isNew": true,
       "lon": "103.843976528625",
       "lat": "1.31983049912881",
       "id": "307683"
@@ -501,7 +338,7 @@
           ]
         },
         {
-          "date": "29 to 31 May",
+          "date": "30 to 31 May",
           "duration": "0645h to 1700h",
           "venues": [
             "St. Leaven"
@@ -529,6 +366,35 @@
       "lon": "103.842584810239",
       "lat": "1.2841286266379",
       "id": "059108"
+    },
+    {
+      "visits": [
+        {
+          "date": "3 Jun",
+          "duration": "1900h to 1950h",
+          "venues": []
+        }
+      ],
+      "name": "Peninsula Plaza",
+      "address": "111 North Bridge Road",
+      "lon": "103.850804507292",
+      "lat": "1.29232248414936",
+      "id": "179098"
+    },
+    {
+      "visits": [
+        {
+          "date": "3 Jun",
+          "duration": "1955h to 2035h",
+          "venues": []
+        }
+      ],
+      "name": "Mustafa Centre",
+      "address": "145 Syed Alwi Road",
+      "isNew": true,
+      "lon": "103.855002052529",
+      "lat": "1.31053493112423",
+      "id": "207704"
     },
     {
       "visits": [
@@ -586,7 +452,6 @@
       ],
       "name": "Redhill Market",
       "address": "79 Redhill Lane",
-      "isNew": true,
       "lon": "103.818349792057",
       "lat": "1.28784702822268",
       "id": "150079"
@@ -601,10 +466,24 @@
       ],
       "name": "Tiong Bahru Market and Food Centre",
       "address": "30 Seng Poh Road",
-      "isNew": true,
       "lon": "103.832348811484",
       "lat": "1.28508829297302",
       "id": "168898"
+    },
+    {
+      "visits": [
+        {
+          "date": "8 Jun",
+          "duration": "1025h to 1100h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "50 Havelock Road",
+      "isNew": true,
+      "lon": "103.826802915076",
+      "lat": "1.2897647546758",
+      "id": "160050"
     },
     {
       "visits": [
@@ -638,30 +517,6 @@
       "visits": [
         {
           "date": "9 Jun",
-          "duration": "0800h to 1500h",
-          "venues": []
-        },
-        {
-          "date": "8 Jun",
-          "duration": "0920h to 1500h",
-          "venues": []
-        },
-        {
-          "date": "6 to 9 Jun",
-          "duration": "0600h to 1400h",
-          "venues": []
-        }
-      ],
-      "name": "115 Bukit Merah View Market & Hawker Centre",
-      "address": "115 Bukit Merah View",
-      "lon": "103.822049433334",
-      "lat": "1.28550483170444",
-      "id": "151115"
-    },
-    {
-      "visits": [
-        {
-          "date": "9 Jun",
           "duration": "1510h to 1550h",
           "venues": [
             "FairPrice Finest"
@@ -670,10 +525,24 @@
       ],
       "name": "Tiong Bahru Plaza",
       "address": "298 Tiong Bahru Road",
-      "isNew": true,
       "lon": "103.828004844701",
       "lat": "1.2863085351796",
       "id": "168730"
+    },
+    {
+      "visits": [
+        {
+          "date": "10 Jun",
+          "duration": "1205h to 1310h",
+          "venues": []
+        }
+      ],
+      "name": "Renee Hair Salon",
+      "address": "756 Upper Serangoon Road",
+      "isNew": true,
+      "lon": "103.878828409594",
+      "lat": "1.35348088326123",
+      "id": "534626"
     },
     {
       "visits": [
@@ -763,12 +632,12 @@
           ]
         },
         {
-          "date": "29 May to 7 Jun",
+          "date": "30 May to 7 Jun",
           "duration": "0600h to 1900h",
           "venues": []
         },
         {
-          "date": "29 May to 1 Jun",
+          "date": "30 May to 1 Jun",
           "duration": "1230h to 2030h",
           "venues": [
             "Guardian"
@@ -780,7 +649,41 @@
       "lon": "103.831888294023",
       "lat": "1.30404253406976",
       "id": "238801"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "0500h to 0530h",
+          "venues": []
+        },
+        {
+          "date": "9 Jun",
+          "duration": "0800h to 1500h",
+          "venues": []
+        },
+        {
+          "date": "9 to 11 Jun",
+          "duration": "0500h to 1800h",
+          "venues": []
+        },
+        {
+          "date": "8 Jun",
+          "duration": "0920h to 1500h",
+          "venues": []
+        },
+        {
+          "date": "6 to 9 Jun",
+          "duration": "0600h to 1400h",
+          "venues": []
+        }
+      ],
+      "name": "115 Bukit Merah View Market & Hawker Centre",
+      "address": "115 Bukit Merah View",
+      "lon": "103.822049433334",
+      "lat": "1.28550483170444",
+      "id": "151115"
     }
   ],
-  "timestamp": 1623535450042
+  "timestamp": 1623621520743
 }
