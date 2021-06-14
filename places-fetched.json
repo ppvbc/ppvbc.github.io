@@ -3,7 +3,7 @@
     {
       "visits": [
         {
-          "date": "30 to 31 May",
+          "date": "31 May",
           "duration": "0000h to 2359h",
           "venues": []
         }
@@ -17,7 +17,21 @@
     {
       "visits": [
         {
-          "date": "30 to 31 May",
+          "date": "31 May",
+          "duration": "1140h to 1500h",
+          "venues": []
+        }
+      ],
+      "name": "Marina Bay Sands",
+      "address": "2 Bayfront Avenue",
+      "lon": "103.857629111139",
+      "lat": "1.28332249857386",
+      "id": "018972"
+    },
+    {
+      "visits": [
+        {
+          "date": "31 May",
           "duration": "1200h to 1900h",
           "venues": []
         }
@@ -27,152 +41,6 @@
       "lon": "103.948260304303",
       "lat": "1.33143623119911",
       "id": "469560"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "1930h to 0000h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC Foodfare",
-      "address": "308 Anchorvale Road",
-      "lon": "103.886445107411",
-      "lat": "1.38925397515391",
-      "id": "540308"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "1100h to 2200h",
-          "venues": [
-            "Pizza Hut"
-          ]
-        }
-      ],
-      "name": "Hougang Green Shopping Mall",
-      "address": "21 Hougang Street 51",
-      "lon": "103.887847089168",
-      "lat": "1.37931783471773",
-      "id": "538719"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "1125h to 1200h",
-          "venues": []
-        }
-      ],
-      "name": "Ang Mo Supermarket",
-      "address": "642 Hougang Avenue 8",
-      "lon": "103.879948293051",
-      "lat": "1.37169878879802",
-      "id": "530642"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "1200h to 1300h",
-          "venues": []
-        }
-      ],
-      "name": "Bugis Street",
-      "address": "3 New Bugis Street",
-      "lon": "103.854935164999",
-      "lat": "1.30056609522079",
-      "id": "188867"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "1350h to 1440h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "37 Teban Gardens Road",
-      "lon": "103.742651512921",
-      "lat": "1.32052026841644",
-      "id": "600037"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "1550h to 1650h",
-          "venues": []
-        }
-      ],
-      "name": "Choa Chu Kang Columbarium",
-      "address": "51 Chinese Cemetery Path 4",
-      "lon": "103.686619579014",
-      "lat": "1.37432217346346",
-      "id": "698932"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "1630h to 1700h",
-          "venues": [
-            "Sheng Siong Supermarket"
-          ]
-        }
-      ],
-      "name": "Marsiling Mall",
-      "address": "4 Woodlands Street 12",
-      "lon": "103.779746860157",
-      "lat": "1.43351253520759",
-      "id": "738623"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 May",
-          "duration": "1800h to 1900h",
-          "venues": []
-        }
-      ],
-      "name": "Hong Yang Health Products & Foot Reflexology Centre",
-      "address": "38 Beo Crescent",
-      "lon": "103.827290023383",
-      "lat": "1.28855393184563",
-      "id": "160038"
-    },
-    {
-      "visits": [
-        {
-          "date": "30 to 31 May",
-          "duration": "2005h to 0005h",
-          "venues": []
-        }
-      ],
-      "name": "Marina Bay Sands Casino",
-      "address": "10 Bayfront Avenue",
-      "lon": "103.858562162091",
-      "lat": "1.28257452719678",
-      "id": "018956"
-    },
-    {
-      "visits": [
-        {
-          "date": "31 May",
-          "duration": "1140h to 1500h",
-          "venues": [
-            "Church’s"
-          ]
-        }
-      ],
-      "name": "Marina Bay Sands",
-      "address": "2 Bayfront Avenue",
-      "lon": "103.857629111139",
-      "lat": "1.28332249857386",
-      "id": "018972"
     },
     {
       "visits": [
@@ -187,6 +55,20 @@
       "lon": "103.802610982998",
       "lat": "1.43904161542405",
       "id": "738991"
+    },
+    {
+      "visits": [
+        {
+          "date": "31 May",
+          "duration": "2005h to 0005h",
+          "venues": []
+        }
+      ],
+      "name": "Marina Bay Sands Casino",
+      "address": "10 Bayfront Avenue",
+      "lon": "103.858562162091",
+      "lat": "1.28257452719678",
+      "id": "018956"
     },
     {
       "visits": [
@@ -217,7 +99,6 @@
       ],
       "name": "Beo Crescent Market",
       "address": "38A Beo Crescent",
-      "isNew": true,
       "lon": "103.827400817412",
       "lat": "1.2888400791879",
       "id": "169982"
@@ -249,6 +130,21 @@
       "lon": "103.755832339467",
       "lat": "1.34175978313366",
       "id": "659545"
+    },
+    {
+      "visits": [
+        {
+          "date": "1 Jun",
+          "duration": "1620h to 1810h",
+          "venues": []
+        }
+      ],
+      "name": "Hair Flare",
+      "address": "201B Tampines Street 21",
+      "isNew": true,
+      "lon": "103.953023672678",
+      "lat": "1.35343545338045",
+      "id": "522201"
     },
     {
       "visits": [
@@ -331,6 +227,21 @@
     {
       "visits": [
         {
+          "date": "2 Jun",
+          "duration": "2115h to 2150h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Shiong Supermarket",
+      "address": "52 Chin Swee Road",
+      "isNew": true,
+      "lon": "103.841580109275",
+      "lat": "1.28708278284997",
+      "id": "160052"
+    },
+    {
+      "visits": [
+        {
           "date": "3 to 6 Jun",
           "duration": "0645h to 1700h",
           "venues": [
@@ -338,7 +249,7 @@
           ]
         },
         {
-          "date": "30 to 31 May",
+          "date": "31 May",
           "duration": "0645h to 1700h",
           "venues": [
             "St. Leaven"
@@ -371,6 +282,23 @@
       "visits": [
         {
           "date": "3 Jun",
+          "duration": "1845h to 1935h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "Oasis Terraces",
+      "address": "681 Punggol Drive",
+      "isNew": true,
+      "lon": "103.913270565628",
+      "lat": "1.40263460056252",
+      "id": "820681"
+    },
+    {
+      "visits": [
+        {
+          "date": "3 Jun",
           "duration": "1900h to 1950h",
           "venues": []
         }
@@ -391,7 +319,6 @@
       ],
       "name": "Mustafa Centre",
       "address": "145 Syed Alwi Road",
-      "isNew": true,
       "lon": "103.855002052529",
       "lat": "1.31053493112423",
       "id": "207704"
@@ -445,6 +372,21 @@
     {
       "visits": [
         {
+          "date": "6 Jun",
+          "duration": "1955h to 2045h",
+          "venues": []
+        }
+      ],
+      "name": "Queenstown Community Centre",
+      "address": "365 Commonwealth Avenue",
+      "isNew": true,
+      "lon": "103.801305103523",
+      "lat": "1.29915023283283",
+      "id": "149732"
+    },
+    {
+      "visits": [
+        {
           "date": "8 to 10 Jun",
           "duration": "0730h to 0815h",
           "venues": []
@@ -474,13 +416,27 @@
       "visits": [
         {
           "date": "8 Jun",
+          "duration": "1000h to 1200h",
+          "venues": []
+        }
+      ],
+      "name": "POSB Tiong Bahru Branch",
+      "address": "302 Tiong Bahru Road",
+      "isNew": true,
+      "lon": "103.827158267789",
+      "lat": "1.28647119992724",
+      "id": "168732"
+    },
+    {
+      "visits": [
+        {
+          "date": "8 Jun",
           "duration": "1025h to 1100h",
           "venues": []
         }
       ],
       "name": "NTUC FairPrice",
       "address": "50 Havelock Road",
-      "isNew": true,
       "lon": "103.826802915076",
       "lat": "1.2897647546758",
       "id": "160050"
@@ -498,6 +454,21 @@
       "lon": "103.845703844955",
       "lat": "1.33864901784911",
       "id": "310123"
+    },
+    {
+      "visits": [
+        {
+          "date": "8 Jun",
+          "duration": "1505h to 1555h",
+          "venues": []
+        }
+      ],
+      "name": "Excelsior Shopping Centre",
+      "address": "5 Coleman Street",
+      "isNew": true,
+      "lon": "103.849820399819",
+      "lat": "1.29194592832965",
+      "id": "179805"
     },
     {
       "visits": [
@@ -539,7 +510,6 @@
       ],
       "name": "Renee Hair Salon",
       "address": "756 Upper Serangoon Road",
-      "isNew": true,
       "lon": "103.878828409594",
       "lat": "1.35348088326123",
       "id": "534626"
@@ -566,6 +536,11 @@
         {
           "date": "9 to 10 Jun",
           "duration": "0600h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "8 Jun",
+          "duration": "1325h to 1425h",
           "venues": []
         },
         {
@@ -632,16 +607,14 @@
           ]
         },
         {
-          "date": "30 May to 7 Jun",
-          "duration": "0600h to 1900h",
+          "date": "31 May to 1 Jun",
+          "duration": "1230h to 2030h",
           "venues": []
         },
         {
-          "date": "30 May to 1 Jun",
-          "duration": "1230h to 2030h",
-          "venues": [
-            "Guardian"
-          ]
+          "date": "31 May to 7 Jun",
+          "duration": "0600h to 1900h",
+          "venues": []
         }
       ],
       "name": "ION Orchard",
@@ -654,12 +627,47 @@
       "visits": [
         {
           "date": "12 Jun",
+          "duration": "0930h to 1430h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
           "duration": "0500h to 0530h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1700h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "0930h to 1430h",
+          "venues": []
+        },
+        {
+          "date": "10 Jun",
+          "duration": "1700h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "10 Jun",
+          "duration": "0930h to 1430h",
+          "venues": []
+        },
+        {
+          "date": "10 to 11 Jun",
+          "duration": "0800h to 1400h",
           "venues": []
         },
         {
           "date": "9 Jun",
           "duration": "0800h to 1500h",
+          "venues": []
+        },
+        {
+          "date": "9 to 11 Jun",
+          "duration": "0600h to 1500h",
           "venues": []
         },
         {
@@ -673,6 +681,21 @@
           "venues": []
         },
         {
+          "date": "7 Jun",
+          "duration": "0900h to 1000h",
+          "venues": []
+        },
+        {
+          "date": "6 Jun",
+          "duration": "1700h to 1945h",
+          "venues": []
+        },
+        {
+          "date": "6 Jun",
+          "duration": "0930h to 1430h",
+          "venues": []
+        },
+        {
           "date": "6 to 9 Jun",
           "duration": "0600h to 1400h",
           "venues": []
@@ -683,7 +706,56 @@
       "lon": "103.822049433334",
       "lat": "1.28550483170444",
       "id": "151115"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "1000h to 1930h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1000h to 1930h",
+          "venues": [
+            "Al-barakah Food Corner"
+          ]
+        },
+        {
+          "date": "10 Jun",
+          "duration": "1000h to 1930h",
+          "venues": [
+            ""
+          ]
+        }
+      ],
+      "name": "Telok Blangah Food Centre",
+      "address": "79 Telok Blangah Drive",
+      "isNew": true,
+      "lon": "103.807621587927",
+      "lat": "1.27336490550026",
+      "id": "100079"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "1900h to 1945h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1900h to 1940h",
+          "venues": []
+        }
+      ],
+      "name": "VivoCity",
+      "address": "1 Harbourfront Walk",
+      "isNew": true,
+      "lon": "103.821589247996",
+      "lat": "1.26389581240004",
+      "id": "098585"
     }
   ],
-  "timestamp": 1623621520743
+  "timestamp": 1623708300327
 }
