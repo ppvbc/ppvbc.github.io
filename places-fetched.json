@@ -3,83 +3,8 @@
     {
       "visits": [
         {
-          "date": "31 May",
-          "duration": "0000h to 2359h",
-          "venues": []
-        }
-      ],
-      "name": "Tuas Amenity Centre",
-      "address": "71 Pioneer Road",
-      "lon": "103.652208660421",
-      "lat": "1.31720416812204",
-      "id": "639591"
-    },
-    {
-      "visits": [
-        {
-          "date": "31 May",
-          "duration": "1140h to 1500h",
-          "venues": []
-        }
-      ],
-      "name": "Marina Bay Sands",
-      "address": "2 Bayfront Avenue",
-      "lon": "103.857629111139",
-      "lat": "1.28332249857386",
-      "id": "018972"
-    },
-    {
-      "visits": [
-        {
-          "date": "31 May",
-          "duration": "1200h to 1900h",
-          "venues": []
-        }
-      ],
-      "name": "Atatcutz Singapore",
-      "address": "348 Bedok Road",
-      "lon": "103.948260304303",
-      "lat": "1.33143623119911",
-      "id": "469560"
-    },
-    {
-      "visits": [
-        {
-          "date": "31 May",
-          "duration": "1835h to 1920h",
-          "venues": []
-        }
-      ],
-      "name": "Woodlands Galaxy Community Club",
-      "address": "31 Woodlands Avenue 6",
-      "lon": "103.802610982998",
-      "lat": "1.43904161542405",
-      "id": "738991"
-    },
-    {
-      "visits": [
-        {
-          "date": "31 May",
-          "duration": "2005h to 0005h",
-          "venues": []
-        }
-      ],
-      "name": "Marina Bay Sands Casino",
-      "address": "10 Bayfront Avenue",
-      "lon": "103.858562162091",
-      "lat": "1.28257452719678",
-      "id": "018956"
-    },
-    {
-      "visits": [
-        {
           "date": "1 Jun",
           "duration": "0735h to 0810h",
-          "venues": []
-        },
-        {
-          "date": "31 May",
-          "duration": "1940h to 2010h",
           "venues": []
         }
       ],
@@ -126,7 +51,8 @@
         }
       ],
       "name": "VICOM Inspection Centre",
-      "address": "511 Bukit Batok Street 2",
+      "address": "511 Bukit Batok Street 23",
+      "isNew": true,
       "lon": "103.755832339467",
       "lat": "1.34175978313366",
       "id": "659545"
@@ -141,7 +67,6 @@
       ],
       "name": "Hair Flare",
       "address": "201B Tampines Street 21",
-      "isNew": true,
       "lon": "103.953023672678",
       "lat": "1.35343545338045",
       "id": "522201"
@@ -198,6 +123,21 @@
       "visits": [
         {
           "date": "2 Jun",
+          "duration": "0725h to 0930h",
+          "venues": []
+        }
+      ],
+      "name": "The Poiz Centre",
+      "address": "51 Upper Serangoon Road",
+      "isNew": true,
+      "lon": "103.868076452861",
+      "lat": "1.33130351440714",
+      "id": "347697"
+    },
+    {
+      "visits": [
+        {
+          "date": "2 Jun",
           "duration": "1320h to 1420h",
           "venues": [
             "Hush Puppies"
@@ -234,33 +174,9 @@
       ],
       "name": "Sheng Shiong Supermarket",
       "address": "52 Chin Swee Road",
-      "isNew": true,
       "lon": "103.841580109275",
       "lat": "1.28708278284997",
       "id": "160052"
-    },
-    {
-      "visits": [
-        {
-          "date": "3 to 6 Jun",
-          "duration": "0645h to 1700h",
-          "venues": [
-            "St. Leaven"
-          ]
-        },
-        {
-          "date": "31 May",
-          "duration": "0645h to 1700h",
-          "venues": [
-            "St. Leaven"
-          ]
-        }
-      ],
-      "name": "Takashimaya",
-      "address": "391A Orchard Road",
-      "lon": "103.834676124723",
-      "lat": "1.30242417189411",
-      "id": "238873"
     },
     {
       "visits": [
@@ -290,7 +206,6 @@
       ],
       "name": "Oasis Terraces",
       "address": "681 Punggol Drive",
-      "isNew": true,
       "lon": "103.913270565628",
       "lat": "1.40263460056252",
       "id": "820681"
@@ -373,16 +288,53 @@
       "visits": [
         {
           "date": "6 Jun",
+          "duration": "1555h to 1700h",
+          "venues": []
+        }
+      ],
+      "name": "Shona Thai Foot Massage",
+      "address": "8 Telok Blangah Crescent",
+      "isNew": true,
+      "lon": "103.819341303524",
+      "lat": "1.27779539068993",
+      "id": "090008"
+    },
+    {
+      "visits": [
+        {
+          "date": "6 Jun",
           "duration": "1955h to 2045h",
           "venues": []
         }
       ],
       "name": "Queenstown Community Centre",
       "address": "365 Commonwealth Avenue",
-      "isNew": true,
       "lon": "103.801305103523",
       "lat": "1.29915023283283",
       "id": "149732"
+    },
+    {
+      "visits": [
+        {
+          "date": "7 Jun",
+          "duration": "1300h to 1505h",
+          "venues": [
+            "Takashimaya Shopping Centre"
+          ]
+        },
+        {
+          "date": "3 to 6 Jun",
+          "duration": "0645h to 1700h",
+          "venues": [
+            "St. Leaven"
+          ]
+        }
+      ],
+      "name": "Ngee Ann City",
+      "address": "391A Orchard Road",
+      "lon": "103.834676124723",
+      "lat": "1.30242417189411",
+      "id": "238873"
     },
     {
       "visits": [
@@ -422,7 +374,6 @@
       ],
       "name": "POSB Tiong Bahru Branch",
       "address": "302 Tiong Bahru Road",
-      "isNew": true,
       "lon": "103.827158267789",
       "lat": "1.28647119992724",
       "id": "168732"
@@ -465,7 +416,6 @@
       ],
       "name": "Excelsior Shopping Centre",
       "address": "5 Coleman Street",
-      "isNew": true,
       "lon": "103.849820399819",
       "lat": "1.29194592832965",
       "id": "179805"
@@ -551,11 +501,21 @@
           ]
         },
         {
+          "date": "7 Jun",
+          "duration": "1220h to 1300h",
+          "venues": []
+        },
+        {
           "date": "6 Jun",
           "duration": "1300h to 2130h",
           "venues": [
             "Four Leaves"
           ]
+        },
+        {
+          "date": "6 Jun",
+          "duration": "1240h to 1345h",
+          "venues": []
         },
         {
           "date": "6 Jun",
@@ -607,12 +567,14 @@
           ]
         },
         {
-          "date": "31 May to 1 Jun",
+          "date": "1 Jun",
           "duration": "1230h to 2030h",
-          "venues": []
+          "venues": [
+            "Guardian"
+          ]
         },
         {
-          "date": "31 May to 7 Jun",
+          "date": "1 to 7 Jun",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -622,6 +584,21 @@
       "lon": "103.831888294023",
       "lat": "1.30404253406976",
       "id": "238801"
+    },
+    {
+      "visits": [
+        {
+          "date": "11 Jun",
+          "duration": "1230h to 1335h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "166 Bukit Merah Central",
+      "isNew": true,
+      "lon": "103.817663685706",
+      "lat": "1.28305664324915",
+      "id": "150166"
     },
     {
       "visits": [
@@ -712,7 +689,9 @@
         {
           "date": "12 Jun",
           "duration": "1000h to 1930h",
-          "venues": []
+          "venues": [
+            ""
+          ]
         },
         {
           "date": "11 Jun",
@@ -731,10 +710,24 @@
       ],
       "name": "Telok Blangah Food Centre",
       "address": "79 Telok Blangah Drive",
-      "isNew": true,
       "lon": "103.807621587927",
       "lat": "1.27336490550026",
       "id": "100079"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "1535h to 1610h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "88 Tanglin Halt Road",
+      "isNew": true,
+      "lon": "103.798021743473",
+      "lat": "1.30203802175036",
+      "id": "141088"
     },
     {
       "visits": [
@@ -746,16 +739,39 @@
         {
           "date": "12 Jun",
           "duration": "1900h to 1940h",
-          "venues": []
+          "venues": [
+            ""
+          ]
         }
       ],
       "name": "VivoCity",
       "address": "1 Harbourfront Walk",
-      "isNew": true,
       "lon": "103.821589247996",
       "lat": "1.26389581240004",
       "id": "098585"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1315h to 1405h",
+          "venues": [
+            "Clementi Public Library"
+          ]
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1610h to 1645h",
+          "venues": []
+        }
+      ],
+      "name": "The Clementi Mall",
+      "address": "3155 Commonwealth Avenue West",
+      "isNew": true,
+      "lon": "103.764596439304",
+      "lat": "1.31555354277947",
+      "id": "129588"
     }
   ],
-  "timestamp": 1623708300327
+  "timestamp": 1623790734658
 }
