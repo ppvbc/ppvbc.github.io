@@ -3,125 +3,6 @@
     {
       "visits": [
         {
-          "date": "1 Jun",
-          "duration": "0735h to 0810h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "446A Fajar Road",
-      "lon": "103.771350678551",
-      "lat": "1.38377798738412",
-      "id": "671446"
-    },
-    {
-      "visits": [
-        {
-          "date": "1 Jun",
-          "duration": "0900h to 0930h",
-          "venues": []
-        }
-      ],
-      "name": "Beo Crescent Market",
-      "address": "38A Beo Crescent",
-      "lon": "103.827400817412",
-      "lat": "1.2888400791879",
-      "id": "169982"
-    },
-    {
-      "visits": [
-        {
-          "date": "1 Jun",
-          "duration": "1000h to 1230h",
-          "venues": []
-        }
-      ],
-      "name": "JIC Inspection Services",
-      "address": "53 Pioneer Road",
-      "lon": "103.657832233969",
-      "lat": "1.31133149338762",
-      "id": "628505"
-    },
-    {
-      "visits": [
-        {
-          "date": "1 Jun",
-          "duration": "1100h to 1230h",
-          "venues": []
-        }
-      ],
-      "name": "VICOM Inspection Centre",
-      "address": "511 Bukit Batok Street 23",
-      "isNew": true,
-      "lon": "103.755832339467",
-      "lat": "1.34175978313366",
-      "id": "659545"
-    },
-    {
-      "visits": [
-        {
-          "date": "1 Jun",
-          "duration": "1620h to 1810h",
-          "venues": []
-        }
-      ],
-      "name": "Hair Flare",
-      "address": "201B Tampines Street 21",
-      "lon": "103.953023672678",
-      "lat": "1.35343545338045",
-      "id": "522201"
-    },
-    {
-      "visits": [
-        {
-          "date": "1 Jun",
-          "duration": "1725h to 1800h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        }
-      ],
-      "name": "Yew Tee Point",
-      "address": "21 Choa Chu Kang North 6",
-      "lon": "103.746558067665",
-      "lat": "1.39730190912668",
-      "id": "689578"
-    },
-    {
-      "visits": [
-        {
-          "date": "1 Jun",
-          "duration": "1955h to 2030h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        }
-      ],
-      "name": "Seletar Mall",
-      "address": "33 Sengkang West Avenue",
-      "lon": "103.876156956828",
-      "lat": "1.3913688093851",
-      "id": "797653"
-    },
-    {
-      "visits": [
-        {
-          "date": "1 Jun",
-          "duration": "2100h to 2130h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        }
-      ],
-      "name": "HDB Hub",
-      "address": "500 Toa Payoh Lorong 6",
-      "lon": "103.8471181837",
-      "lat": "1.33276117944875",
-      "id": "310500"
-    },
-    {
-      "visits": [
-        {
           "date": "2 Jun",
           "duration": "0725h to 0930h",
           "venues": []
@@ -251,6 +132,21 @@
       "lon": "103.774011078412",
       "lat": "1.43079961583476",
       "id": "730303"
+    },
+    {
+      "visits": [
+        {
+          "date": "5 Jun",
+          "duration": "1550h to 1625h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "849 Yishun Ring Road",
+      "isNew": true,
+      "lon": "103.835293763997",
+      "lat": "1.41697224217054",
+      "id": "760849"
     },
     {
       "visits": [
@@ -467,6 +363,21 @@
     {
       "visits": [
         {
+          "date": "10 Jun",
+          "duration": "1455h to 1730h",
+          "venues": []
+        }
+      ],
+      "name": "Fu Lu Shou Complex",
+      "address": "149 Rochor Road",
+      "isNew": true,
+      "lon": "103.854568540158",
+      "lat": "1.30148706909734",
+      "id": "188425"
+    },
+    {
+      "visits": [
+        {
           "date": "11 Jun",
           "duration": "1030h to 1900h",
           "venues": []
@@ -567,14 +478,7 @@
           ]
         },
         {
-          "date": "1 Jun",
-          "duration": "1230h to 2030h",
-          "venues": [
-            "Guardian"
-          ]
-        },
-        {
-          "date": "1 to 7 Jun",
+          "date": "2 to 7 Jun",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -584,6 +488,40 @@
       "lon": "103.831888294023",
       "lat": "1.30404253406976",
       "id": "238801"
+    },
+    {
+      "visits": [
+        {
+          "date": "11 Jun",
+          "duration": "1105h to 1140h",
+          "venues": [
+            "Wet market"
+          ]
+        }
+      ],
+      "name": "Chinatown Complex",
+      "address": "335 Smith Street",
+      "isNew": true,
+      "lon": "103.843177640795",
+      "lat": "1.28223521144331",
+      "id": "050335"
+    },
+    {
+      "visits": [
+        {
+          "date": "11 Jun",
+          "duration": "1140h to 1215h",
+          "venues": [
+            "myCK – Chinatown"
+          ]
+        }
+      ],
+      "name": "Chinatown Complex",
+      "address": "336 Smith Street",
+      "isNew": true,
+      "lon": "103.84270303814",
+      "lat": "1.28276238827844",
+      "id": "050336"
     },
     {
       "visits": [
@@ -604,6 +542,181 @@
       "visits": [
         {
           "date": "12 Jun",
+          "duration": "0915h to 0945h",
+          "venues": []
+        }
+      ],
+      "name": "Kim San Leng Coffee Shop",
+      "address": "116 Bukit Merah View",
+      "isNew": true,
+      "lon": "103.821606935412",
+      "lat": "1.28512215258239",
+      "id": "151116"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "1000h to 1930h",
+          "venues": [
+            "Al-barakah Food Corner"
+          ]
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1000h to 1930h",
+          "venues": [
+            "Al-barakah Food Corner"
+          ]
+        },
+        {
+          "date": "10 Jun",
+          "duration": "1000h to 1930h",
+          "venues": [
+            "Al-barakah Food Corner"
+          ]
+        }
+      ],
+      "name": "Telok Blangah Food Centre",
+      "address": "79 Telok Blangah Drive",
+      "lon": "103.807621587927",
+      "lat": "1.27336490550026",
+      "id": "100079"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "1535h to 1610h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "88 Tanglin Halt Road",
+      "isNew": true,
+      "lon": "103.798021743473",
+      "lat": "1.30203802175036",
+      "id": "141088"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "1535h to 1630h",
+          "venues": []
+        }
+      ],
+      "name": "Greet Effect Aquarium",
+      "address": "801 French Road",
+      "isNew": true,
+      "lon": "103.860472435164",
+      "lat": "1.30736241836644",
+      "id": "200801"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "1900h to 1945h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1900h to 1940h",
+          "venues": [
+            "Swarovski"
+          ]
+        }
+      ],
+      "name": "VivoCity",
+      "address": "1 Harbourfront Walk",
+      "lon": "103.821589247996",
+      "lat": "1.26389581240004",
+      "id": "098585"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "2040h to 2230h",
+          "venues": []
+        }
+      ],
+      "name": "Night Safari",
+      "address": "80 Mandai Lake Road",
+      "isNew": true,
+      "lon": "103.788541352688",
+      "lat": "1.40354764653419",
+      "id": "729826"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1110h to 1315h",
+          "venues": [
+            "Sheng Siong Supermarket"
+          ]
+        }
+      ],
+      "name": "Junction 10",
+      "address": "1 Woodlands Road",
+      "isNew": true,
+      "lon": "103.760041583169",
+      "lat": "1.38060512473524",
+      "id": "677899"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1200h to 1540h",
+          "venues": []
+        }
+      ],
+      "name": "Katong Shopping Centre",
+      "address": "865 Mountbatten Road",
+      "isNew": true,
+      "lon": "103.901040040135",
+      "lat": "1.30382040183738",
+      "id": "437844"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1315h to 1405h",
+          "venues": [
+            "Clementi Public Library"
+          ]
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1610h to 1645h",
+          "venues": []
+        }
+      ],
+      "name": "The Clementi Mall",
+      "address": "3155 Commonwealth Avenue West",
+      "isNew": true,
+      "lon": "103.764596439304",
+      "lat": "1.31555354277947",
+      "id": "129588"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1500h to 1530h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1100h to 1130h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
           "duration": "0930h to 1430h",
           "venues": []
         },
@@ -619,12 +732,22 @@
         },
         {
           "date": "11 Jun",
+          "duration": "1100h to 1130h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
           "duration": "0930h to 1430h",
           "venues": []
         },
         {
           "date": "10 Jun",
           "duration": "1700h to 2100h",
+          "venues": []
+        },
+        {
+          "date": "10 Jun",
+          "duration": "1100h to 1130h",
           "venues": []
         },
         {
@@ -687,91 +810,35 @@
     {
       "visits": [
         {
-          "date": "12 Jun",
-          "duration": "1000h to 1930h",
-          "venues": [
-            ""
-          ]
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1000h to 1930h",
-          "venues": [
-            "Al-barakah Food Corner"
-          ]
-        },
-        {
-          "date": "10 Jun",
-          "duration": "1000h to 1930h",
-          "venues": [
-            ""
-          ]
-        }
-      ],
-      "name": "Telok Blangah Food Centre",
-      "address": "79 Telok Blangah Drive",
-      "lon": "103.807621587927",
-      "lat": "1.27336490550026",
-      "id": "100079"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "1535h to 1610h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "88 Tanglin Halt Road",
-      "isNew": true,
-      "lon": "103.798021743473",
-      "lat": "1.30203802175036",
-      "id": "141088"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "1900h to 1945h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1900h to 1940h",
-          "venues": [
-            ""
-          ]
-        }
-      ],
-      "name": "VivoCity",
-      "address": "1 Harbourfront Walk",
-      "lon": "103.821589247996",
-      "lat": "1.26389581240004",
-      "id": "098585"
-    },
-    {
-      "visits": [
-        {
           "date": "13 Jun",
-          "duration": "1315h to 1405h",
+          "duration": "1530h to 1630h",
           "venues": [
-            "Clementi Public Library"
+            "NTUC FairPrice"
           ]
-        },
+        }
+      ],
+      "name": "Katong V Mall",
+      "address": "30 East Coast Road",
+      "isNew": true,
+      "lon": "103.902850370889",
+      "lat": "1.30385030375717",
+      "id": "428751"
+    },
+    {
+      "visits": [
         {
-          "date": "11 Jun",
-          "duration": "1610h to 1645h",
+          "date": "14 Jun",
+          "duration": "1130h to 1205h",
           "venues": []
         }
       ],
-      "name": "The Clementi Mall",
-      "address": "3155 Commonwealth Avenue West",
+      "name": "Teoh Hock Seng",
+      "address": "129 Kim Tian Road",
       "isNew": true,
-      "lon": "103.764596439304",
-      "lat": "1.31555354277947",
-      "id": "129588"
+      "lon": "103.828856188305",
+      "lat": "1.2811530312289",
+      "id": "160129"
     }
   ],
-  "timestamp": 1623790734658
+  "timestamp": 1623881310465
 }
