@@ -10,7 +10,6 @@
       ],
       "name": "The Poiz Centre",
       "address": "51 Upper Serangoon Road",
-      "isNew": true,
       "lon": "103.868076452861",
       "lat": "1.33130351440714",
       "id": "347697"
@@ -190,7 +189,6 @@
       ],
       "name": "Shona Thai Foot Massage",
       "address": "8 Telok Blangah Crescent",
-      "isNew": true,
       "lon": "103.819341303524",
       "lat": "1.27779539068993",
       "id": "090008"
@@ -533,7 +531,6 @@
       ],
       "name": "NTUC FairPrice",
       "address": "166 Bukit Merah Central",
-      "isNew": true,
       "lon": "103.817663685706",
       "lat": "1.28305664324915",
       "id": "150166"
@@ -593,7 +590,6 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "88 Tanglin Halt Road",
-      "isNew": true,
       "lon": "103.798021743473",
       "lat": "1.30203802175036",
       "id": "141088"
@@ -698,7 +694,6 @@
       ],
       "name": "The Clementi Mall",
       "address": "3155 Commonwealth Avenue West",
-      "isNew": true,
       "lon": "103.764596439304",
       "lat": "1.31555354277947",
       "id": "129588"
@@ -840,5 +835,5 @@
       "id": "160129"
     }
   ],
-  "timestamp": 1623881310465
+  "timestamp": 1623885776360
 }
