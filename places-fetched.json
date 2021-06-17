@@ -3,64 +3,6 @@
     {
       "visits": [
         {
-          "date": "2 Jun",
-          "duration": "0725h to 0930h",
-          "venues": []
-        }
-      ],
-      "name": "The Poiz Centre",
-      "address": "51 Upper Serangoon Road",
-      "lon": "103.868076452861",
-      "lat": "1.33130351440714",
-      "id": "347697"
-    },
-    {
-      "visits": [
-        {
-          "date": "2 Jun",
-          "duration": "1320h to 1420h",
-          "venues": [
-            "Hush Puppies"
-          ]
-        }
-      ],
-      "name": "Novena Square 2",
-      "address": "10 Sinaran Drive",
-      "lon": "103.844331494859",
-      "lat": "1.32061258625865",
-      "id": "307506"
-    },
-    {
-      "visits": [
-        {
-          "date": "2 Jun",
-          "duration": "1420h to 1520h",
-          "venues": []
-        }
-      ],
-      "name": "Velocity@Novena Square",
-      "address": "238 Thomson Road",
-      "lon": "103.843976528625",
-      "lat": "1.31983049912881",
-      "id": "307683"
-    },
-    {
-      "visits": [
-        {
-          "date": "2 Jun",
-          "duration": "2115h to 2150h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Shiong Supermarket",
-      "address": "52 Chin Swee Road",
-      "lon": "103.841580109275",
-      "lat": "1.28708278284997",
-      "id": "160052"
-    },
-    {
-      "visits": [
-        {
           "date": "3 Jun",
           "duration": "1645h to 1720h",
           "venues": [
@@ -73,6 +15,21 @@
       "lon": "103.842584810239",
       "lat": "1.2841286266379",
       "id": "059108"
+    },
+    {
+      "visits": [
+        {
+          "date": "3 Jun",
+          "duration": "1720h to 1920h",
+          "venues": []
+        }
+      ],
+      "name": "Angel Salon",
+      "address": "38 Beo Crescent",
+      "isNew": true,
+      "lon": "103.827290023383",
+      "lat": "1.28855393184563",
+      "id": "160038"
     },
     {
       "visits": [
@@ -142,7 +99,6 @@
       ],
       "name": "NTUC FairPrice",
       "address": "849 Yishun Ring Road",
-      "isNew": true,
       "lon": "103.835293763997",
       "lat": "1.41697224217054",
       "id": "760849"
@@ -336,6 +292,16 @@
           "venues": [
             "FairPrice Finest"
           ]
+        },
+        {
+          "date": "8 Jun",
+          "duration": "1035h to 1145h",
+          "venues": []
+        },
+        {
+          "date": "7 Jun",
+          "duration": "1120h to 1200h",
+          "venues": []
         }
       ],
       "name": "Tiong Bahru Plaza",
@@ -368,7 +334,6 @@
       ],
       "name": "Fu Lu Shou Complex",
       "address": "149 Rochor Road",
-      "isNew": true,
       "lon": "103.854568540158",
       "lat": "1.30148706909734",
       "id": "188425"
@@ -476,7 +441,7 @@
           ]
         },
         {
-          "date": "2 to 7 Jun",
+          "date": "3 to 7 Jun",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -499,7 +464,6 @@
       ],
       "name": "Chinatown Complex",
       "address": "335 Smith Street",
-      "isNew": true,
       "lon": "103.843177640795",
       "lat": "1.28223521144331",
       "id": "050335"
@@ -516,24 +480,9 @@
       ],
       "name": "Chinatown Complex",
       "address": "336 Smith Street",
-      "isNew": true,
       "lon": "103.84270303814",
       "lat": "1.28276238827844",
       "id": "050336"
-    },
-    {
-      "visits": [
-        {
-          "date": "11 Jun",
-          "duration": "1230h to 1335h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "166 Bukit Merah Central",
-      "lon": "103.817663685706",
-      "lat": "1.28305664324915",
-      "id": "150166"
     },
     {
       "visits": [
@@ -545,7 +494,6 @@
       ],
       "name": "Kim San Leng Coffee Shop",
       "address": "116 Bukit Merah View",
-      "isNew": true,
       "lon": "103.821606935412",
       "lat": "1.28512215258239",
       "id": "151116"
@@ -584,6 +532,30 @@
       "visits": [
         {
           "date": "12 Jun",
+          "duration": "1005h to 1035h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1235h to 1335h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1230h to 1335h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "166 Bukit Merah Central",
+      "lon": "103.817663685706",
+      "lat": "1.28305664324915",
+      "id": "150166"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
           "duration": "1535h to 1610h",
           "venues": []
         }
@@ -604,13 +576,78 @@
       ],
       "name": "Greet Effect Aquarium",
       "address": "801 French Road",
-      "isNew": true,
       "lon": "103.860472435164",
       "lat": "1.30736241836644",
       "id": "200801"
     },
     {
       "visits": [
+        {
+          "date": "12 Jun",
+          "duration": "2040h to 2230h",
+          "venues": []
+        }
+      ],
+      "name": "Night Safari",
+      "address": "80 Mandai Lake Road",
+      "lon": "103.788541352688",
+      "lat": "1.40354764653419",
+      "id": "729826"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1110h to 1315h",
+          "venues": [
+            "Sheng Siong Supermarket"
+          ]
+        }
+      ],
+      "name": "Junction 10",
+      "address": "1 Woodlands Road",
+      "lon": "103.760041583169",
+      "lat": "1.38060512473524",
+      "id": "677899"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1150h to 1220h",
+          "venues": []
+        }
+      ],
+      "name": "Giant Express",
+      "address": "86 Redhill Close",
+      "isNew": true,
+      "lon": "103.818673592235",
+      "lat": "1.28692006229628",
+      "id": "150086"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1200h to 1540h",
+          "venues": []
+        }
+      ],
+      "name": "Katong Shopping Centre",
+      "address": "865 Mountbatten Road",
+      "lon": "103.901040040135",
+      "lat": "1.30382040183738",
+      "id": "437844"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1310h to 1520h",
+          "venues": [
+            "Toys “R” Us"
+          ]
+        },
         {
           "date": "12 Jun",
           "duration": "1900h to 1945h",
@@ -629,53 +666,6 @@
       "lon": "103.821589247996",
       "lat": "1.26389581240004",
       "id": "098585"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "2040h to 2230h",
-          "venues": []
-        }
-      ],
-      "name": "Night Safari",
-      "address": "80 Mandai Lake Road",
-      "isNew": true,
-      "lon": "103.788541352688",
-      "lat": "1.40354764653419",
-      "id": "729826"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 Jun",
-          "duration": "1110h to 1315h",
-          "venues": [
-            "Sheng Siong Supermarket"
-          ]
-        }
-      ],
-      "name": "Junction 10",
-      "address": "1 Woodlands Road",
-      "isNew": true,
-      "lon": "103.760041583169",
-      "lat": "1.38060512473524",
-      "id": "677899"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 Jun",
-          "duration": "1200h to 1540h",
-          "venues": []
-        }
-      ],
-      "name": "Katong Shopping Centre",
-      "address": "865 Mountbatten Road",
-      "isNew": true,
-      "lon": "103.901040040135",
-      "lat": "1.30382040183738",
-      "id": "437844"
     },
     {
       "visits": [
@@ -794,6 +784,11 @@
           "date": "6 to 9 Jun",
           "duration": "0600h to 1400h",
           "venues": []
+        },
+        {
+          "date": "3 to 12 Jun",
+          "duration": "0830h to 1430h",
+          "venues": []
         }
       ],
       "name": "115 Bukit Merah View Market & Hawker Centre",
@@ -814,10 +809,64 @@
       ],
       "name": "Katong V Mall",
       "address": "30 East Coast Road",
-      "isNew": true,
       "lon": "103.902850370889",
       "lat": "1.30385030375717",
       "id": "428751"
+    },
+    {
+      "visits": [
+        {
+          "date": "14 Jun",
+          "duration": "0630h to 1600h",
+          "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "0630h to 1700h",
+          "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "0630h to 1150h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "0630h to 1700h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "0630h to 1115h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "0630h to 1230h",
+          "venues": []
+        },
+        {
+          "date": "9 Jun",
+          "duration": "0630h to 1100h",
+          "venues": []
+        },
+        {
+          "date": "8 Jun",
+          "duration": "0630h to 1025h",
+          "venues": []
+        },
+        {
+          "date": "7 Jun",
+          "duration": "0630h to 1110h",
+          "venues": []
+        }
+      ],
+      "name": "Tiong Bahru Yong Tao Hu",
+      "address": "56 Eng Hoon Street",
+      "isNew": true,
+      "lon": "103.833923067555",
+      "lat": "1.28424137023495",
+      "id": "160056"
     },
     {
       "visits": [
@@ -829,11 +878,10 @@
       ],
       "name": "Teoh Hock Seng",
       "address": "129 Kim Tian Road",
-      "isNew": true,
       "lon": "103.828856188305",
       "lat": "1.2811530312289",
       "id": "160129"
     }
   ],
-  "timestamp": 1623885776360
+  "timestamp": 1623966002995
 }
