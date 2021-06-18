@@ -3,81 +3,6 @@
     {
       "visits": [
         {
-          "date": "3 Jun",
-          "duration": "1645h to 1720h",
-          "venues": [
-            "Scarlett Supermarket"
-          ]
-        }
-      ],
-      "name": "People’s Park Complex",
-      "address": "1 Park Road",
-      "lon": "103.842584810239",
-      "lat": "1.2841286266379",
-      "id": "059108"
-    },
-    {
-      "visits": [
-        {
-          "date": "3 Jun",
-          "duration": "1720h to 1920h",
-          "venues": []
-        }
-      ],
-      "name": "Angel Salon",
-      "address": "38 Beo Crescent",
-      "isNew": true,
-      "lon": "103.827290023383",
-      "lat": "1.28855393184563",
-      "id": "160038"
-    },
-    {
-      "visits": [
-        {
-          "date": "3 Jun",
-          "duration": "1845h to 1935h",
-          "venues": [
-            "NTUC FairPrice"
-          ]
-        }
-      ],
-      "name": "Oasis Terraces",
-      "address": "681 Punggol Drive",
-      "lon": "103.913270565628",
-      "lat": "1.40263460056252",
-      "id": "820681"
-    },
-    {
-      "visits": [
-        {
-          "date": "3 Jun",
-          "duration": "1900h to 1950h",
-          "venues": []
-        }
-      ],
-      "name": "Peninsula Plaza",
-      "address": "111 North Bridge Road",
-      "lon": "103.850804507292",
-      "lat": "1.29232248414936",
-      "id": "179098"
-    },
-    {
-      "visits": [
-        {
-          "date": "3 Jun",
-          "duration": "1955h to 2035h",
-          "venues": []
-        }
-      ],
-      "name": "Mustafa Centre",
-      "address": "145 Syed Alwi Road",
-      "lon": "103.855002052529",
-      "lat": "1.31053493112423",
-      "id": "207704"
-    },
-    {
-      "visits": [
-        {
           "date": "5 Jun",
           "duration": "1000h to 1045h",
           "venues": []
@@ -173,7 +98,7 @@
           ]
         },
         {
-          "date": "3 to 6 Jun",
+          "date": "4 to 6 Jun",
           "duration": "0645h to 1700h",
           "venues": [
             "St. Leaven"
@@ -283,6 +208,21 @@
       "lon": "103.849746698247",
       "lat": "1.36970693964152",
       "id": "569811"
+    },
+    {
+      "visits": [
+        {
+          "date": "9 Jun",
+          "duration": "1000h to 1100h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC Health Senior Activity Centre (SilverACE) – Henderson",
+      "address": "117 Bukit Merah View",
+      "isNew": true,
+      "lon": "103.821907213378",
+      "lat": "1.28430105508162",
+      "id": "151117"
     },
     {
       "visits": [
@@ -420,28 +360,14 @@
           ]
         },
         {
-          "date": "3 to 4 Jun",
+          "date": "4 Jun",
           "duration": "1230h to 2030h",
           "venues": [
             "Guardian"
           ]
         },
         {
-          "date": "3 Jun",
-          "duration": "0900h to 1600h",
-          "venues": [
-            "Four Leaves"
-          ]
-        },
-        {
-          "date": "3 Jun",
-          "duration": "0845h to 1050h",
-          "venues": [
-            "Dolce & Gabbana"
-          ]
-        },
-        {
-          "date": "3 to 7 Jun",
+          "date": "4 to 7 Jun",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -532,30 +458,6 @@
       "visits": [
         {
           "date": "12 Jun",
-          "duration": "1005h to 1035h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1235h to 1335h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1230h to 1335h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "166 Bukit Merah Central",
-      "lon": "103.817663685706",
-      "lat": "1.28305664324915",
-      "id": "150166"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
           "duration": "1535h to 1610h",
           "venues": []
         }
@@ -598,6 +500,35 @@
       "visits": [
         {
           "date": "13 Jun",
+          "duration": "1020h to 1115h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1005h to 1035h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1235h to 1335h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1230h to 1335h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "166 Bukit Merah Central",
+      "lon": "103.817663685706",
+      "lat": "1.28305664324915",
+      "id": "150166"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
           "duration": "1110h to 1315h",
           "venues": [
             "Sheng Siong Supermarket"
@@ -620,7 +551,6 @@
       ],
       "name": "Giant Express",
       "address": "86 Redhill Close",
-      "isNew": true,
       "lon": "103.818673592235",
       "lat": "1.28692006229628",
       "id": "150086"
@@ -786,7 +716,7 @@
           "venues": []
         },
         {
-          "date": "3 to 12 Jun",
+          "date": "4 to 12 Jun",
           "duration": "0830h to 1430h",
           "venues": []
         }
@@ -863,7 +793,6 @@
       ],
       "name": "Tiong Bahru Yong Tao Hu",
       "address": "56 Eng Hoon Street",
-      "isNew": true,
       "lon": "103.833923067555",
       "lat": "1.28424137023495",
       "id": "160056"
@@ -881,7 +810,22 @@
       "lon": "103.828856188305",
       "lat": "1.2811530312289",
       "id": "160129"
+    },
+    {
+      "visits": [
+        {
+          "date": "14 Jun",
+          "duration": "1200h to 2100h",
+          "venues": []
+        }
+      ],
+      "name": "Bake King",
+      "address": "10 Haig Road",
+      "isNew": true,
+      "lon": "103.895864993673",
+      "lat": "1.31484641105659",
+      "id": "430010"
     }
   ],
-  "timestamp": 1623966002995
+  "timestamp": 1624059507582
 }
