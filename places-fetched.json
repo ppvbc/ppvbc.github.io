@@ -98,7 +98,7 @@
           ]
         },
         {
-          "date": "4 to 6 Jun",
+          "date": "5 to 6 Jun",
           "duration": "0645h to 1700h",
           "venues": [
             "St. Leaven"
@@ -157,20 +157,6 @@
       "visits": [
         {
           "date": "8 Jun",
-          "duration": "1025h to 1100h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "50 Havelock Road",
-      "lon": "103.826802915076",
-      "lat": "1.2897647546758",
-      "id": "160050"
-    },
-    {
-      "visits": [
-        {
-          "date": "8 Jun",
           "duration": "1100h to 1345h",
           "venues": []
         }
@@ -180,6 +166,21 @@
       "lon": "103.845703844955",
       "lat": "1.33864901784911",
       "id": "310123"
+    },
+    {
+      "visits": [
+        {
+          "date": "8 Jun",
+          "duration": "1505h to 1540h",
+          "venues": []
+        }
+      ],
+      "name": "TEN DOLLARS SALON",
+      "address": "13 Haig Road",
+      "isNew": true,
+      "lon": "103.895587944619",
+      "lat": "1.31510752106275",
+      "id": "430013"
     },
     {
       "visits": [
@@ -219,36 +220,9 @@
       ],
       "name": "NTUC Health Senior Activity Centre (SilverACE) – Henderson",
       "address": "117 Bukit Merah View",
-      "isNew": true,
       "lon": "103.821907213378",
       "lat": "1.28430105508162",
       "id": "151117"
-    },
-    {
-      "visits": [
-        {
-          "date": "9 Jun",
-          "duration": "1510h to 1550h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        },
-        {
-          "date": "8 Jun",
-          "duration": "1035h to 1145h",
-          "venues": []
-        },
-        {
-          "date": "7 Jun",
-          "duration": "1120h to 1200h",
-          "venues": []
-        }
-      ],
-      "name": "Tiong Bahru Plaza",
-      "address": "298 Tiong Bahru Road",
-      "lon": "103.828004844701",
-      "lat": "1.2863085351796",
-      "id": "168730"
     },
     {
       "visits": [
@@ -340,6 +314,11 @@
         },
         {
           "date": "5 Jun",
+          "duration": "1510h to 1545h",
+          "venues": []
+        },
+        {
+          "date": "5 Jun",
           "duration": "1230h to 2030h",
           "venues": [
             "Guardian"
@@ -353,21 +332,7 @@
           ]
         },
         {
-          "date": "4 Jun",
-          "duration": "1300h to 2130h",
-          "venues": [
-            "Four Leaves"
-          ]
-        },
-        {
-          "date": "4 Jun",
-          "duration": "1230h to 2030h",
-          "venues": [
-            "Guardian"
-          ]
-        },
-        {
-          "date": "4 to 7 Jun",
+          "date": "5 to 7 Jun",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -458,6 +423,30 @@
       "visits": [
         {
           "date": "12 Jun",
+          "duration": "1010h to 1215h",
+          "venues": [
+            "Harvester Community Church"
+          ]
+        },
+        {
+          "date": "5 Jun",
+          "duration": "1015h to 1200h",
+          "venues": [
+            "Harvester Community Church"
+          ]
+        }
+      ],
+      "name": "Harvest Care Centre",
+      "address": "165 Sims Avenue",
+      "isNew": true,
+      "lon": "103.879155033273",
+      "lat": "1.31478785277218",
+      "id": "387606"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
           "duration": "1535h to 1610h",
           "venues": []
         }
@@ -500,30 +489,20 @@
       "visits": [
         {
           "date": "13 Jun",
-          "duration": "1020h to 1115h",
+          "duration": "0800h to 0835h",
           "venues": []
         },
         {
-          "date": "12 Jun",
-          "duration": "1005h to 1035h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1235h to 1335h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1230h to 1335h",
+          "date": "8 Jun",
+          "duration": "1025h to 1100h",
           "venues": []
         }
       ],
       "name": "NTUC FairPrice",
-      "address": "166 Bukit Merah Central",
-      "lon": "103.817663685706",
-      "lat": "1.28305664324915",
-      "id": "150166"
+      "address": "50 Havelock Road",
+      "lon": "103.826802915076",
+      "lat": "1.2897647546758",
+      "id": "160050"
     },
     {
       "visits": [
@@ -554,20 +533,6 @@
       "lon": "103.818673592235",
       "lat": "1.28692006229628",
       "id": "150086"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 Jun",
-          "duration": "1200h to 1540h",
-          "venues": []
-        }
-      ],
-      "name": "Katong Shopping Centre",
-      "address": "865 Mountbatten Road",
-      "lon": "103.901040040135",
-      "lat": "1.30382040183738",
-      "id": "437844"
     },
     {
       "visits": [
@@ -617,6 +582,21 @@
       "lon": "103.764596439304",
       "lat": "1.31555354277947",
       "id": "129588"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1415h to 1505h",
+          "venues": []
+        }
+      ],
+      "name": "Joo Chiat Complex",
+      "address": "1 Joo Chiat Road",
+      "isNew": true,
+      "lon": "103.898397565472",
+      "lat": "1.31593802099833",
+      "id": "420001"
     },
     {
       "visits": [
@@ -716,7 +696,7 @@
           "venues": []
         },
         {
-          "date": "4 to 12 Jun",
+          "date": "5 to 12 Jun",
           "duration": "0830h to 1430h",
           "venues": []
         }
@@ -731,9 +711,37 @@
       "visits": [
         {
           "date": "13 Jun",
+          "duration": "1535h to 1635h",
+          "venues": [
+            "FairPrice Finest"
+          ]
+        },
+        {
+          "date": "13 Jun",
           "duration": "1530h to 1630h",
           "venues": [
             "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1730h to 1815h",
+          "venues": [
+            "FairPrice Finest"
+          ]
+        },
+        {
+          "date": "10 Jun",
+          "duration": "1735h to 1930h",
+          "venues": [
+            "FairPrice Finest"
+          ]
+        },
+        {
+          "date": "7 Jun",
+          "duration": "1605h to 1710h",
+          "venues": [
+            "FairPrice Finest"
           ]
         }
       ],
@@ -801,6 +809,118 @@
       "visits": [
         {
           "date": "14 Jun",
+          "duration": "1010h to 1400h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1635h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1200h to 1540h",
+          "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1000h to 1535h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1000h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1815h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1000h to 1735h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "10 Jun",
+          "duration": "1930h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "10 Jun",
+          "duration": "1000h to 1740h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "9 Jun",
+          "duration": "1000h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "8 Jun",
+          "duration": "1000h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "7 Jun",
+          "duration": "1705h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "7 Jun",
+          "duration": "1000h to 1610h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "6 Jun",
+          "duration": "1000h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        },
+        {
+          "date": "5 Jun",
+          "duration": "1000h to 2000h",
+          "venues": [
+            "Union United Employment Pte Ltd"
+          ]
+        }
+      ],
+      "name": "Katong Shopping Centre",
+      "address": "865 Mountbatten Road",
+      "lon": "103.901040040135",
+      "lat": "1.30382040183738",
+      "id": "437844"
+    },
+    {
+      "visits": [
+        {
+          "date": "14 Jun",
           "duration": "1130h to 1205h",
           "venues": []
         }
@@ -821,11 +941,107 @@
       ],
       "name": "Bake King",
       "address": "10 Haig Road",
-      "isNew": true,
       "lon": "103.895864993673",
       "lat": "1.31484641105659",
       "id": "430010"
+    },
+    {
+      "visits": [
+        {
+          "date": "14 Jun",
+          "duration": "1955h to 2030h",
+          "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1020h to 1115h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1005h to 1035h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1235h to 1335h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1230h to 1335h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "166 Bukit Merah Central",
+      "lon": "103.817663685706",
+      "lat": "1.28305664324915",
+      "id": "150166"
+    },
+    {
+      "visits": [
+        {
+          "date": "15 Jun",
+          "duration": "1605h to 1645h",
+          "venues": []
+        }
+      ],
+      "name": "Public Free Clinic Society",
+      "address": "245 Tampines Street 21",
+      "isNew": true,
+      "lon": "103.946489840363",
+      "lat": "1.35320840937902",
+      "id": "521245"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1145h to 1230h",
+          "venues": []
+        },
+        {
+          "date": "9 Jun",
+          "duration": "1510h to 1550h",
+          "venues": [
+            "FairPrice Finest"
+          ]
+        },
+        {
+          "date": "8 Jun",
+          "duration": "1035h to 1145h",
+          "venues": []
+        },
+        {
+          "date": "7 Jun",
+          "duration": "1120h to 1200h",
+          "venues": []
+        }
+      ],
+      "name": "Tiong Bahru Plaza",
+      "address": "298 Tiong Bahru Road",
+      "lon": "103.828004844701",
+      "lat": "1.2863085351796",
+      "id": "168730"
+    },
+    {
+      "visits": [
+        {
+          "date": "18 Jun",
+          "duration": "1330h to 1800h",
+          "venues": [
+            "Bakery Point"
+          ]
+        }
+      ],
+      "name": "Redhill MRT Station",
+      "address": "920 Tiong Bahru Road",
+      "isNew": true,
+      "lon": "103.817058256205",
+      "lat": "1.28933202700543",
+      "id": "158792"
     }
   ],
-  "timestamp": 1624059507582
+  "timestamp": 1624146455336
 }
