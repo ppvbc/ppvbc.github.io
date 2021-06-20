@@ -3,34 +3,6 @@
     {
       "visits": [
         {
-          "date": "5 Jun",
-          "duration": "1000h to 1045h",
-          "venues": []
-        }
-      ],
-      "name": "Divine Beauty",
-      "address": "303 Woodlands Street 31",
-      "lon": "103.774011078412",
-      "lat": "1.43079961583476",
-      "id": "730303"
-    },
-    {
-      "visits": [
-        {
-          "date": "5 Jun",
-          "duration": "1550h to 1625h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "849 Yishun Ring Road",
-      "lon": "103.835293763997",
-      "lat": "1.41697224217054",
-      "id": "760849"
-    },
-    {
-      "visits": [
-        {
           "date": "6 Jun",
           "duration": "1000h to 1100h",
           "venues": [
@@ -78,6 +50,21 @@
       "visits": [
         {
           "date": "6 Jun",
+          "duration": "1635h to 1710h",
+          "venues": []
+        }
+      ],
+      "name": "Causeway Point",
+      "address": "1 Woodlands Square",
+      "isNew": true,
+      "lon": "103.786009973678",
+      "lat": "1.43608867729912",
+      "id": "738099"
+    },
+    {
+      "visits": [
+        {
+          "date": "6 Jun",
           "duration": "1955h to 2045h",
           "venues": []
         }
@@ -98,7 +85,7 @@
           ]
         },
         {
-          "date": "5 to 6 Jun",
+          "date": "6 Jun",
           "duration": "0645h to 1700h",
           "venues": [
             "St. Leaven"
@@ -177,7 +164,6 @@
       ],
       "name": "TEN DOLLARS SALON",
       "address": "13 Haig Road",
-      "isNew": true,
       "lon": "103.895587944619",
       "lat": "1.31510752106275",
       "id": "430013"
@@ -313,26 +299,7 @@
           ]
         },
         {
-          "date": "5 Jun",
-          "duration": "1510h to 1545h",
-          "venues": []
-        },
-        {
-          "date": "5 Jun",
-          "duration": "1230h to 2030h",
-          "venues": [
-            "Guardian"
-          ]
-        },
-        {
-          "date": "5 Jun",
-          "duration": "0900h to 2130h",
-          "venues": [
-            "Four Leaves"
-          ]
-        },
-        {
-          "date": "5 to 7 Jun",
+          "date": "6 to 7 Jun",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -427,18 +394,10 @@
           "venues": [
             "Harvester Community Church"
           ]
-        },
-        {
-          "date": "5 Jun",
-          "duration": "1015h to 1200h",
-          "venues": [
-            "Harvester Community Church"
-          ]
         }
       ],
       "name": "Harvest Care Centre",
       "address": "165 Sims Avenue",
-      "isNew": true,
       "lon": "103.879155033273",
       "lat": "1.31478785277218",
       "id": "387606"
@@ -593,7 +552,6 @@
       ],
       "name": "Joo Chiat Complex",
       "address": "1 Joo Chiat Road",
-      "isNew": true,
       "lon": "103.898397565472",
       "lat": "1.31593802099833",
       "id": "420001"
@@ -696,7 +654,7 @@
           "venues": []
         },
         {
-          "date": "5 to 12 Jun",
+          "date": "6 to 12 Jun",
           "duration": "0830h to 1430h",
           "venues": []
         }
@@ -755,7 +713,7 @@
       "visits": [
         {
           "date": "14 Jun",
-          "duration": "0630h to 1600h",
+          "duration": "0500h to 1620h",
           "venues": []
         },
         {
@@ -770,7 +728,7 @@
         },
         {
           "date": "12 Jun",
-          "duration": "0630h to 1700h",
+          "duration": "0600h to 1700h",
           "venues": []
         },
         {
@@ -902,13 +860,6 @@
           "venues": [
             "Union United Employment Pte Ltd"
           ]
-        },
-        {
-          "date": "5 Jun",
-          "duration": "1000h to 2000h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
         }
       ],
       "name": "Katong Shopping Centre",
@@ -948,6 +899,25 @@
     {
       "visits": [
         {
+          "date": "15 Jun",
+          "duration": "1605h to 1645h",
+          "venues": []
+        }
+      ],
+      "name": "Public Free Clinic Society",
+      "address": "245 Tampines Street 21",
+      "lon": "103.946489840363",
+      "lat": "1.35320840937902",
+      "id": "521245"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1035h to 1240h",
+          "venues": []
+        },
+        {
           "date": "14 Jun",
           "duration": "1955h to 2030h",
           "venues": []
@@ -982,17 +952,19 @@
     {
       "visits": [
         {
-          "date": "15 Jun",
-          "duration": "1605h to 1645h",
-          "venues": []
+          "date": "17 Jun",
+          "duration": "1100h to 1300h",
+          "venues": [
+            "Teo Heng KTV Studio"
+          ]
         }
       ],
-      "name": "Public Free Clinic Society",
-      "address": "245 Tampines Street 21",
+      "name": "Bedok Point",
+      "address": "799 New Upper Changi Road",
       "isNew": true,
-      "lon": "103.946489840363",
-      "lat": "1.35320840937902",
-      "id": "521245"
+      "lon": "103.932384005117",
+      "lat": "1.32480102552267",
+      "id": "467351"
     },
     {
       "visits": [
@@ -1028,6 +1000,21 @@
     {
       "visits": [
         {
+          "date": "17 Jun",
+          "duration": "2000h to 2100h",
+          "venues": []
+        }
+      ],
+      "name": "Market Square @ Downtown East",
+      "address": "1 Pasir Ris Close",
+      "isNew": true,
+      "lon": "103.955013328302",
+      "lat": "1.37918445128044",
+      "id": "519599"
+    },
+    {
+      "visits": [
+        {
           "date": "18 Jun",
           "duration": "1330h to 1800h",
           "venues": [
@@ -1037,11 +1024,10 @@
       ],
       "name": "Redhill MRT Station",
       "address": "920 Tiong Bahru Road",
-      "isNew": true,
       "lon": "103.817058256205",
       "lat": "1.28933202700543",
       "id": "158792"
     }
   ],
-  "timestamp": 1624146455336
+  "timestamp": 1624231676024
 }
