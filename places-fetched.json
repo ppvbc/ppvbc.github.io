@@ -3,22 +3,6 @@
     {
       "visits": [
         {
-          "date": "7 Jun",
-          "duration": "1300h to 1505h",
-          "venues": [
-            "Takashimaya Shopping Centre"
-          ]
-        }
-      ],
-      "name": "Ngee Ann City",
-      "address": "391A Orchard Road",
-      "lon": "103.834676124723",
-      "lat": "1.30242417189411",
-      "id": "238873"
-    },
-    {
-      "visits": [
-        {
           "date": "8 Jun",
           "duration": "0820h to 0900h",
           "venues": []
@@ -132,6 +116,21 @@
       "visits": [
         {
           "date": "10 Jun",
+          "duration": "1345h to 1545h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "18/20 Kim Tian Road",
+      "isNew": true,
+      "lon": "103.829324523902",
+      "lat": "1.28474840501031",
+      "id": "169253"
+    },
+    {
+      "visits": [
+        {
+          "date": "10 Jun",
           "duration": "1455h to 1730h",
           "venues": []
         }
@@ -170,23 +169,6 @@
           "date": "8 Jun",
           "duration": "1325h to 1425h",
           "venues": []
-        },
-        {
-          "date": "7 Jun",
-          "duration": "1230h to 2030h",
-          "venues": [
-            "Guardian"
-          ]
-        },
-        {
-          "date": "7 Jun",
-          "duration": "1220h to 1300h",
-          "venues": []
-        },
-        {
-          "date": "7 Jun",
-          "duration": "0600h to 1900h",
-          "venues": []
         }
       ],
       "name": "ION Orchard",
@@ -223,7 +205,6 @@
       ],
       "name": "ARTRA",
       "address": "12 Alexandra View",
-      "isNew": true,
       "lon": "103.816552347869",
       "lat": "1.29012765494819",
       "id": "158736"
@@ -243,6 +224,21 @@
       "lon": "103.84270303814",
       "lat": "1.28276238827844",
       "id": "050336"
+    },
+    {
+      "visits": [
+        {
+          "date": "11 Jun",
+          "duration": "1325h to 1520h",
+          "venues": []
+        }
+      ],
+      "name": "Hing Show Nails",
+      "address": "82 Marine Parade Central",
+      "isNew": true,
+      "lon": "103.906791337078",
+      "lat": "1.30248110033246",
+      "id": "440082"
     },
     {
       "visits": [
@@ -385,48 +381,6 @@
       "visits": [
         {
           "date": "13 Jun",
-          "duration": "1150h to 1220h",
-          "venues": []
-        }
-      ],
-      "name": "Giant Express",
-      "address": "86 Redhill Close",
-      "lon": "103.818673592235",
-      "lat": "1.28692006229628",
-      "id": "150086"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 Jun",
-          "duration": "1310h to 1520h",
-          "venues": [
-            "Toys “R” Us"
-          ]
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1900h to 1945h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1900h to 1940h",
-          "venues": [
-            "Swarovski"
-          ]
-        }
-      ],
-      "name": "VivoCity",
-      "address": "1 Harbourfront Walk",
-      "lon": "103.821589247996",
-      "lat": "1.26389581240004",
-      "id": "098585"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 Jun",
           "duration": "1315h to 1405h",
           "venues": [
             "Clementi Public Library"
@@ -536,17 +490,12 @@
           "venues": []
         },
         {
-          "date": "7 Jun",
-          "duration": "0900h to 1000h",
-          "venues": []
-        },
-        {
-          "date": "7 to 9 Jun",
+          "date": "8 to 9 Jun",
           "duration": "0600h to 1400h",
           "venues": []
         },
         {
-          "date": "7 to 12 Jun",
+          "date": "8 to 12 Jun",
           "duration": "0830h to 1430h",
           "venues": []
         }
@@ -583,13 +532,6 @@
         {
           "date": "10 Jun",
           "duration": "1735h to 1930h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        },
-        {
-          "date": "7 Jun",
-          "duration": "1605h to 1710h",
           "venues": [
             "FairPrice Finest"
           ]
@@ -647,11 +589,6 @@
           "date": "8 Jun",
           "duration": "0630h to 1025h",
           "venues": []
-        },
-        {
-          "date": "7 Jun",
-          "duration": "0630h to 1110h",
-          "venues": []
         }
       ],
       "name": "Tiong Bahru Yong Tao Hu",
@@ -691,6 +628,21 @@
     {
       "visits": [
         {
+          "date": "14 Jun",
+          "duration": "1940h to 2040h",
+          "venues": []
+        }
+      ],
+      "name": "Jurong Point",
+      "address": "1 Jurong West Central 2",
+      "isNew": true,
+      "lon": "103.706685012926",
+      "lat": "1.33945200436319",
+      "id": "648886"
+    },
+    {
+      "visits": [
+        {
           "date": "15 Jun",
           "duration": "1605h to 1645h",
           "venues": []
@@ -705,29 +657,109 @@
     {
       "visits": [
         {
-          "date": "16 Jun",
-          "duration": "1430h to 1500h",
-          "venues": []
-        },
-        {
-          "date": "14 Jun",
-          "duration": "1430h to 1500h",
-          "venues": []
-        },
-        {
-          "date": "8 to 10 Jun",
-          "duration": "0730h to 0815h",
-          "venues": []
+          "date": "17 Jun",
+          "duration": "1100h to 1300h",
+          "venues": [
+            "Teo Heng KTV Studio"
+          ]
         }
       ],
-      "name": "Redhill Market",
-      "address": "79 Redhill Lane",
-      "lon": "103.818349792057",
-      "lat": "1.28784702822268",
-      "id": "150079"
+      "name": "Bedok Point",
+      "address": "799 New Upper Changi Road",
+      "lon": "103.932384005117",
+      "lat": "1.32480102552267",
+      "id": "467351"
     },
     {
       "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1250h to 1430h",
+          "venues": [
+            "Khai Yong Heng Goldsmith"
+          ]
+        },
+        {
+          "date": "17 Jun",
+          "duration": "1145h to 1230h",
+          "venues": []
+        },
+        {
+          "date": "16 Jun",
+          "duration": "1810h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "9 Jun",
+          "duration": "1510h to 1550h",
+          "venues": [
+            "FairPrice Finest"
+          ]
+        },
+        {
+          "date": "8 Jun",
+          "duration": "1035h to 1145h",
+          "venues": []
+        }
+      ],
+      "name": "Tiong Bahru Plaza",
+      "address": "298 Tiong Bahru Road",
+      "lon": "103.828004844701",
+      "lat": "1.2863085351796",
+      "id": "168730"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1535h to 1710h",
+          "venues": []
+        }
+      ],
+      "name": "Hairpost Beauty Salon",
+      "address": "162 Bukit Merah Central",
+      "isNew": true,
+      "lon": "103.81746608298",
+      "lat": "1.28383730148701",
+      "id": "150162"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1640h to 1715h",
+          "venues": []
+        }
+      ],
+      "name": "People’s Park Centre",
+      "address": "101 Upper Cross Street",
+      "isNew": true,
+      "lon": "103.843922993246",
+      "lat": "1.28560659056634",
+      "id": "058357"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1745h to 1825h",
+          "venues": []
+        }
+      ],
+      "name": "Sim Lim Square",
+      "address": "1 Rochor Canal Road",
+      "isNew": true,
+      "lon": "103.852875622062",
+      "lat": "1.30302298515261",
+      "id": "188504"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1815h to 2020h",
+          "venues": []
+        },
         {
           "date": "17 Jun",
           "duration": "1035h to 1240h",
@@ -757,6 +789,11 @@
           "date": "11 Jun",
           "duration": "1230h to 1335h",
           "venues": []
+        },
+        {
+          "date": "10 Jun",
+          "duration": "1500h to 1535h",
+          "venues": []
         }
       ],
       "name": "NTUC FairPrice",
@@ -764,53 +801,6 @@
       "lon": "103.817663685706",
       "lat": "1.28305664324915",
       "id": "150166"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 Jun",
-          "duration": "1100h to 1300h",
-          "venues": [
-            "Teo Heng KTV Studio"
-          ]
-        }
-      ],
-      "name": "Bedok Point",
-      "address": "799 New Upper Changi Road",
-      "lon": "103.932384005117",
-      "lat": "1.32480102552267",
-      "id": "467351"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 Jun",
-          "duration": "1145h to 1230h",
-          "venues": []
-        },
-        {
-          "date": "9 Jun",
-          "duration": "1510h to 1550h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        },
-        {
-          "date": "8 Jun",
-          "duration": "1035h to 1145h",
-          "venues": []
-        },
-        {
-          "date": "7 Jun",
-          "duration": "1120h to 1200h",
-          "venues": []
-        }
-      ],
-      "name": "Tiong Bahru Plaza",
-      "address": "298 Tiong Bahru Road",
-      "lon": "103.828004844701",
-      "lat": "1.2863085351796",
-      "id": "168730"
     },
     {
       "visits": [
@@ -836,10 +826,26 @@
       ],
       "name": "Prime Supermarket",
       "address": "823 Tampines Street 81",
-      "isNew": true,
       "lon": "103.934010232785",
       "lat": "1.34873284518968",
       "id": "520823"
+    },
+    {
+      "visits": [
+        {
+          "date": "18 Jun",
+          "duration": "1400h to 1500h",
+          "venues": [
+            "Premium Eyecare"
+          ]
+        }
+      ],
+      "name": "Funan",
+      "address": "107 North Bridge Road",
+      "isNew": true,
+      "lon": "103.849984790048",
+      "lat": "1.29124400604241",
+      "id": "179105"
     },
     {
       "visits": [
@@ -860,6 +866,39 @@
     {
       "visits": [
         {
+          "date": "18 Jun",
+          "duration": "1800h to 1950h",
+          "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1310h to 1520h",
+          "venues": [
+            "Toys “R” Us"
+          ]
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1900h to 1945h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1900h to 1940h",
+          "venues": [
+            "Swarovski"
+          ]
+        }
+      ],
+      "name": "VivoCity",
+      "address": "1 Harbourfront Walk",
+      "lon": "103.821589247996",
+      "lat": "1.26389581240004",
+      "id": "098585"
+    },
+    {
+      "visits": [
+        {
           "date": "19 Jun",
           "duration": "0115h to 0230h",
           "venues": [
@@ -869,10 +908,26 @@
       ],
       "name": "China Square",
       "address": "51 Telok Ayer Street",
-      "isNew": true,
       "lon": "103.849281764587",
       "lat": "1.28289702779315",
       "id": "048441"
+    },
+    {
+      "visits": [
+        {
+          "date": "19 Jun",
+          "duration": "1045h to 1220h",
+          "venues": [
+            "Zenxin Organic Food Singapore"
+          ]
+        }
+      ],
+      "name": "Pasir Panjang Wholesale Centre",
+      "address": "1 Wholesale Centre",
+      "isNew": true,
+      "lon": "103.779116810591",
+      "lat": "1.28527208365743",
+      "id": "110001"
     },
     {
       "visits": [
@@ -900,10 +955,45 @@
       ],
       "name": "*SCAPE",
       "address": "2 Orchard Link",
-      "isNew": true,
       "lon": "103.835700840357",
       "lat": "1.30086543586583",
       "id": "237978"
+    },
+    {
+      "visits": [
+        {
+          "date": "19 Jun",
+          "duration": "1835h to 2135h",
+          "venues": [
+            "JJ Dance Movement"
+          ]
+        }
+      ],
+      "name": "Orchid Hotel",
+      "address": "1 Tras Link",
+      "isNew": true,
+      "lon": "103.843854230672",
+      "lat": "1.27690359251688",
+      "id": "078867"
+    },
+    {
+      "visits": [
+        {
+          "date": "20 Jun",
+          "duration": "0640h to 0710h",
+          "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1150h to 1220h",
+          "venues": []
+        }
+      ],
+      "name": "Giant Express",
+      "address": "86 Redhill Close",
+      "lon": "103.818673592235",
+      "lat": "1.28692006229628",
+      "id": "150086"
     },
     {
       "visits": [
@@ -1023,20 +1113,6 @@
           "venues": [
             "Union United Employment Pte Ltd"
           ]
-        },
-        {
-          "date": "7 Jun",
-          "duration": "1705h to 2000h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
-        },
-        {
-          "date": "7 Jun",
-          "duration": "1000h to 1610h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
         }
       ],
       "name": "Katong Shopping Centre",
@@ -1044,7 +1120,76 @@
       "lon": "103.901040040135",
       "lat": "1.30382040183738",
       "id": "437844"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 Jun",
+          "duration": "0630h to 0900h",
+          "venues": []
+        },
+        {
+          "date": "20 Jun",
+          "duration": "1700h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "20 Jun",
+          "duration": "1100h to 1400h",
+          "venues": []
+        },
+        {
+          "date": "20 Jun",
+          "duration": "0630h to 0900h",
+          "venues": []
+        },
+        {
+          "date": "19 Jun",
+          "duration": "1700h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "19 Jun",
+          "duration": "1100h to 1400h",
+          "venues": []
+        },
+        {
+          "date": "16 Jun",
+          "duration": "1430h to 1500h",
+          "venues": []
+        },
+        {
+          "date": "14 Jun",
+          "duration": "1430h to 1500h",
+          "venues": []
+        },
+        {
+          "date": "8 to 10 Jun",
+          "duration": "0730h to 0815h",
+          "venues": []
+        }
+      ],
+      "name": "Redhill Market",
+      "address": "79 Redhill Lane",
+      "lon": "103.818349792057",
+      "lat": "1.28784702822268",
+      "id": "150079"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 Jun",
+          "duration": "1800h to 1900h",
+          "venues": []
+        }
+      ],
+      "name": "Guan Kim Restaurant",
+      "address": "47 Tanglin Halt Road",
+      "isNew": true,
+      "lon": "103.798077052596",
+      "lat": "1.30079276076265",
+      "id": "141047"
     }
   ],
-  "timestamp": 1624311722610
+  "timestamp": 1624395838850
 }
