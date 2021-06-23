@@ -3,90 +3,6 @@
     {
       "visits": [
         {
-          "date": "8 Jun",
-          "duration": "0820h to 0900h",
-          "venues": []
-        }
-      ],
-      "name": "Tiong Bahru Market and Food Centre",
-      "address": "30 Seng Poh Road",
-      "lon": "103.832348811484",
-      "lat": "1.28508829297302",
-      "id": "168898"
-    },
-    {
-      "visits": [
-        {
-          "date": "8 Jun",
-          "duration": "1000h to 1200h",
-          "venues": []
-        }
-      ],
-      "name": "POSB Tiong Bahru Branch",
-      "address": "302 Tiong Bahru Road",
-      "lon": "103.827158267789",
-      "lat": "1.28647119992724",
-      "id": "168732"
-    },
-    {
-      "visits": [
-        {
-          "date": "8 Jun",
-          "duration": "1100h to 1345h",
-          "venues": []
-        }
-      ],
-      "name": "The One Hairstyling Studio",
-      "address": "123 Lorong 1 Toa Payoh",
-      "lon": "103.845703844955",
-      "lat": "1.33864901784911",
-      "id": "310123"
-    },
-    {
-      "visits": [
-        {
-          "date": "8 Jun",
-          "duration": "1505h to 1540h",
-          "venues": []
-        }
-      ],
-      "name": "TEN DOLLARS SALON",
-      "address": "13 Haig Road",
-      "lon": "103.895587944619",
-      "lat": "1.31510752106275",
-      "id": "430013"
-    },
-    {
-      "visits": [
-        {
-          "date": "8 Jun",
-          "duration": "1505h to 1555h",
-          "venues": []
-        }
-      ],
-      "name": "Excelsior Shopping Centre",
-      "address": "5 Coleman Street",
-      "lon": "103.849820399819",
-      "lat": "1.29194592832965",
-      "id": "179805"
-    },
-    {
-      "visits": [
-        {
-          "date": "8 Jun",
-          "duration": "2015h to 2045h",
-          "venues": []
-        }
-      ],
-      "name": "Ang Mo Kio MRT Station",
-      "address": "2450 Ang Mo Kio Avenue 8",
-      "lon": "103.849746698247",
-      "lat": "1.36970693964152",
-      "id": "569811"
-    },
-    {
-      "visits": [
-        {
           "date": "9 Jun",
           "duration": "1000h to 1100h",
           "venues": []
@@ -122,7 +38,6 @@
       ],
       "name": "NTUC FairPrice",
       "address": "18/20 Kim Tian Road",
-      "isNew": true,
       "lon": "103.829324523902",
       "lat": "1.28474840501031",
       "id": "169253"
@@ -140,42 +55,6 @@
       "lon": "103.854568540158",
       "lat": "1.30148706909734",
       "id": "188425"
-    },
-    {
-      "visits": [
-        {
-          "date": "11 Jun",
-          "duration": "1030h to 1900h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "0600h to 0900h",
-          "venues": []
-        },
-        {
-          "date": "9 Jun",
-          "duration": "1230h to 2030h",
-          "venues": [
-            "Guardian"
-          ]
-        },
-        {
-          "date": "9 to 10 Jun",
-          "duration": "0600h to 1900h",
-          "venues": []
-        },
-        {
-          "date": "8 Jun",
-          "duration": "1325h to 1425h",
-          "venues": []
-        }
-      ],
-      "name": "ION Orchard",
-      "address": "2 Orchard Turn",
-      "lon": "103.831888294023",
-      "lat": "1.30404253406976",
-      "id": "238801"
     },
     {
       "visits": [
@@ -235,7 +114,6 @@
       ],
       "name": "Hing Show Nails",
       "address": "82 Marine Parade Central",
-      "isNew": true,
       "lon": "103.906791337078",
       "lat": "1.30248110033246",
       "id": "440082"
@@ -347,11 +225,6 @@
         {
           "date": "13 Jun",
           "duration": "0800h to 0835h",
-          "venues": []
-        },
-        {
-          "date": "8 Jun",
-          "duration": "1025h to 1100h",
           "venues": []
         }
       ],
@@ -470,6 +343,11 @@
           "venues": []
         },
         {
+          "date": "9 to 12 Jun",
+          "duration": "0830h to 1430h",
+          "venues": []
+        },
+        {
           "date": "9 Jun",
           "duration": "0800h to 1500h",
           "venues": []
@@ -482,21 +360,6 @@
         {
           "date": "9 to 11 Jun",
           "duration": "0500h to 1800h",
-          "venues": []
-        },
-        {
-          "date": "8 Jun",
-          "duration": "0920h to 1500h",
-          "venues": []
-        },
-        {
-          "date": "8 to 9 Jun",
-          "duration": "0600h to 1400h",
-          "venues": []
-        },
-        {
-          "date": "8 to 12 Jun",
-          "duration": "0830h to 1430h",
           "venues": []
         }
       ],
@@ -524,7 +387,7 @@
         },
         {
           "date": "11 Jun",
-          "duration": "1730h to 1815h",
+          "duration": "1730h to 1930h",
           "venues": [
             "FairPrice Finest"
           ]
@@ -567,6 +430,11 @@
         },
         {
           "date": "12 Jun",
+          "duration": "0630h to 1700h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
           "duration": "0630h to 1115h",
           "venues": []
         },
@@ -583,11 +451,6 @@
         {
           "date": "9 Jun",
           "duration": "0630h to 1100h",
-          "venues": []
-        },
-        {
-          "date": "8 Jun",
-          "duration": "0630h to 1025h",
           "venues": []
         }
       ],
@@ -635,7 +498,6 @@
       ],
       "name": "Jurong Point",
       "address": "1 Jurong West Central 2",
-      "isNew": true,
       "lon": "103.706685012926",
       "lat": "1.33945200436319",
       "id": "648886"
@@ -653,6 +515,36 @@
       "lon": "103.946489840363",
       "lat": "1.35320840937902",
       "id": "521245"
+    },
+    {
+      "visits": [
+        {
+          "date": "15 Jun",
+          "duration": "1650h to 1800h",
+          "venues": []
+        }
+      ],
+      "name": "Waterway Point",
+      "address": "83 Punggol Central",
+      "isNew": true,
+      "lon": "103.902150850842",
+      "lat": "1.40638890775119",
+      "id": "828761"
+    },
+    {
+      "visits": [
+        {
+          "date": "15 Jun",
+          "duration": "1850h to 2130h",
+          "venues": []
+        }
+      ],
+      "name": "Palelai Buddhist Temple",
+      "address": "49 Bedok Walk",
+      "isNew": true,
+      "lon": "103.946548317833",
+      "lat": "1.33095215907042",
+      "id": "469145"
     },
     {
       "visits": [
@@ -695,11 +587,6 @@
           "venues": [
             "FairPrice Finest"
           ]
-        },
-        {
-          "date": "8 Jun",
-          "duration": "1035h to 1145h",
-          "venues": []
         }
       ],
       "name": "Tiong Bahru Plaza",
@@ -718,7 +605,6 @@
       ],
       "name": "Hairpost Beauty Salon",
       "address": "162 Bukit Merah Central",
-      "isNew": true,
       "lon": "103.81746608298",
       "lat": "1.28383730148701",
       "id": "150162"
@@ -733,7 +619,6 @@
       ],
       "name": "People’s Park Centre",
       "address": "101 Upper Cross Street",
-      "isNew": true,
       "lon": "103.843922993246",
       "lat": "1.28560659056634",
       "id": "058357"
@@ -748,7 +633,6 @@
       ],
       "name": "Sim Lim Square",
       "address": "1 Rochor Canal Road",
-      "isNew": true,
       "lon": "103.852875622062",
       "lat": "1.30302298515261",
       "id": "188504"
@@ -834,23 +718,6 @@
       "visits": [
         {
           "date": "18 Jun",
-          "duration": "1400h to 1500h",
-          "venues": [
-            "Premium Eyecare"
-          ]
-        }
-      ],
-      "name": "Funan",
-      "address": "107 North Bridge Road",
-      "isNew": true,
-      "lon": "103.849984790048",
-      "lat": "1.29124400604241",
-      "id": "179105"
-    },
-    {
-      "visits": [
-        {
-          "date": "18 Jun",
           "duration": "1330h to 1800h",
           "venues": [
             "Bakery Point"
@@ -867,8 +734,56 @@
       "visits": [
         {
           "date": "18 Jun",
+          "duration": "1400h to 1500h",
+          "venues": [
+            "Premium Eyecare"
+          ]
+        }
+      ],
+      "name": "Funan",
+      "address": "107 North Bridge Road",
+      "lon": "103.849984790048",
+      "lat": "1.29124400604241",
+      "id": "179105"
+    },
+    {
+      "visits": [
+        {
+          "date": "18 Jun",
+          "duration": "1545h to 1800h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1450h to 1700h",
+          "venues": []
+        }
+      ],
+      "name": "Northpoint City",
+      "address": "930 Yishun Avenue 2",
+      "isNew": true,
+      "lon": "103.836107231373",
+      "lat": "1.42924414326245",
+      "id": "769098"
+    },
+    {
+      "visits": [
+        {
+          "date": "18 Jun",
           "duration": "1800h to 1950h",
           "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "2000h to 2030h",
+          "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1320h to 1430h",
+          "venues": [
+            "Toys “R” Us"
+          ]
         },
         {
           "date": "13 Jun",
@@ -891,7 +806,8 @@
         }
       ],
       "name": "VivoCity",
-      "address": "1 Harbourfront Walk",
+      "address": "1 HarbourFront Walk",
+      "isNew": true,
       "lon": "103.821589247996",
       "lat": "1.26389581240004",
       "id": "098585"
@@ -924,7 +840,6 @@
       ],
       "name": "Pasir Panjang Wholesale Centre",
       "address": "1 Wholesale Centre",
-      "isNew": true,
       "lon": "103.779116810591",
       "lat": "1.28527208365743",
       "id": "110001"
@@ -971,7 +886,6 @@
       ],
       "name": "Orchid Hotel",
       "address": "1 Tras Link",
-      "isNew": true,
       "lon": "103.843854230672",
       "lat": "1.27690359251688",
       "id": "078867"
@@ -994,6 +908,58 @@
       "lon": "103.818673592235",
       "lat": "1.28692006229628",
       "id": "150086"
+    },
+    {
+      "visits": [
+        {
+          "date": "20 Jun",
+          "duration": "0945h to 2000h",
+          "venues": [
+            "Monster Curry"
+          ]
+        },
+        {
+          "date": "19 Jun",
+          "duration": "0945h to 2000h",
+          "venues": [
+            "Monster Curry"
+          ]
+        },
+        {
+          "date": "18 Jun",
+          "duration": "0945h to 2000h",
+          "venues": [
+            "Monster Curry"
+          ]
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1030h to 1900h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "0600h to 0900h",
+          "venues": []
+        },
+        {
+          "date": "9 Jun",
+          "duration": "1230h to 2030h",
+          "venues": [
+            "Guardian"
+          ]
+        },
+        {
+          "date": "9 to 10 Jun",
+          "duration": "0600h to 1900h",
+          "venues": []
+        }
+      ],
+      "name": "ION Orchard",
+      "address": "2 Orchard Turn",
+      "lon": "103.831888294023",
+      "lat": "1.30404253406976",
+      "id": "238801"
     },
     {
       "visits": [
@@ -1055,7 +1021,7 @@
         },
         {
           "date": "13 Jun",
-          "duration": "1200h to 1540h",
+          "duration": "1200h to 1530h",
           "venues": []
         },
         {
@@ -1074,7 +1040,7 @@
         },
         {
           "date": "11 Jun",
-          "duration": "1815h to 2000h",
+          "duration": "1930h to 2000h",
           "venues": [
             "Union United Employment Pte Ltd"
           ]
@@ -1102,13 +1068,6 @@
         },
         {
           "date": "9 Jun",
-          "duration": "1000h to 2000h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
-        },
-        {
-          "date": "8 Jun",
           "duration": "1000h to 2000h",
           "venues": [
             "Union United Employment Pte Ltd"
@@ -1164,7 +1123,7 @@
           "venues": []
         },
         {
-          "date": "8 to 10 Jun",
+          "date": "9 to 10 Jun",
           "duration": "0730h to 0815h",
           "venues": []
         }
@@ -1185,11 +1144,27 @@
       ],
       "name": "Guan Kim Restaurant",
       "address": "47 Tanglin Halt Road",
-      "isNew": true,
       "lon": "103.798077052596",
       "lat": "1.30079276076265",
       "id": "141047"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 Jun",
+          "duration": "1830h to 2000h",
+          "venues": [
+            "StraitsKitchen"
+          ]
+        }
+      ],
+      "name": "Grand Hyatt Singapore",
+      "address": "10 Scotts Road",
+      "isNew": true,
+      "lon": "103.833311286296",
+      "lat": "1.30631272444849",
+      "id": "228211"
     }
   ],
-  "timestamp": 1624395838850
+  "timestamp": 1624488238948
 }
