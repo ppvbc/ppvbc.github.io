@@ -3,20 +3,6 @@
     {
       "visits": [
         {
-          "date": "9 Jun",
-          "duration": "1000h to 1100h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC Health Senior Activity Centre (SilverACE) – Henderson",
-      "address": "117 Bukit Merah View",
-      "lon": "103.821907213378",
-      "lat": "1.28430105508162",
-      "id": "151117"
-    },
-    {
-      "visits": [
-        {
           "date": "10 Jun",
           "duration": "1205h to 1310h",
           "venues": []
@@ -182,6 +168,21 @@
       "visits": [
         {
           "date": "12 Jun",
+          "duration": "1105h to 1205h",
+          "venues": []
+        }
+      ],
+      "name": "Junction 8",
+      "address": "9 Bishan Place",
+      "isNew": true,
+      "lon": "103.848515664081",
+      "lat": "1.3501820033849",
+      "id": "579837"
+    },
+    {
+      "visits": [
+        {
+          "date": "12 Jun",
           "duration": "1535h to 1610h",
           "venues": []
         }
@@ -233,6 +234,23 @@
       "lon": "103.826802915076",
       "lat": "1.2897647546758",
       "id": "160050"
+    },
+    {
+      "visits": [
+        {
+          "date": "13 Jun",
+          "duration": "1035h to 1110h",
+          "venues": [
+            "Daiso Japan"
+          ]
+        }
+      ],
+      "name": "Thomson Plaza",
+      "address": "301 Upper Thomson Road",
+      "isNew": true,
+      "lon": "103.830944960934",
+      "lat": "1.35465019298909",
+      "id": "574408"
     },
     {
       "visits": [
@@ -343,22 +361,17 @@
           "venues": []
         },
         {
-          "date": "9 to 12 Jun",
+          "date": "10 to 12 Jun",
           "duration": "0830h to 1430h",
           "venues": []
         },
         {
-          "date": "9 Jun",
-          "duration": "0800h to 1500h",
-          "venues": []
-        },
-        {
-          "date": "9 to 11 Jun",
+          "date": "10 to 11 Jun",
           "duration": "0600h to 1500h",
           "venues": []
         },
         {
-          "date": "9 to 11 Jun",
+          "date": "10 to 11 Jun",
           "duration": "0500h to 1800h",
           "venues": []
         }
@@ -447,11 +460,6 @@
           "date": "11 Jun",
           "duration": "0630h to 1230h",
           "venues": []
-        },
-        {
-          "date": "9 Jun",
-          "duration": "0630h to 1100h",
-          "venues": []
         }
       ],
       "name": "Tiong Bahru Yong Tao Hu",
@@ -492,6 +500,21 @@
       "visits": [
         {
           "date": "14 Jun",
+          "duration": "1755h to 1925h",
+          "venues": []
+        }
+      ],
+      "name": "City Square Mall",
+      "address": "180 Kitchener Road",
+      "isNew": true,
+      "lon": "103.856780762986",
+      "lat": "1.31147744952233",
+      "id": "208539"
+    },
+    {
+      "visits": [
+        {
+          "date": "14 Jun",
           "duration": "1940h to 2040h",
           "venues": []
         }
@@ -501,6 +524,21 @@
       "lon": "103.706685012926",
       "lat": "1.33945200436319",
       "id": "648886"
+    },
+    {
+      "visits": [
+        {
+          "date": "15 Jun",
+          "duration": "0100h to 0130h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "108 McNair Road",
+      "isNew": true,
+      "lon": "103.859382719506",
+      "lat": "1.3216190383169",
+      "id": "321108"
     },
     {
       "visits": [
@@ -526,7 +564,6 @@
       ],
       "name": "Waterway Point",
       "address": "83 Punggol Central",
-      "isNew": true,
       "lon": "103.902150850842",
       "lat": "1.40638890775119",
       "id": "828761"
@@ -541,10 +578,39 @@
       ],
       "name": "Palelai Buddhist Temple",
       "address": "49 Bedok Walk",
-      "isNew": true,
       "lon": "103.946548317833",
       "lat": "1.33095215907042",
       "id": "469145"
+    },
+    {
+      "visits": [
+        {
+          "date": "16 Jun",
+          "duration": "0940h to 1010h",
+          "venues": []
+        }
+      ],
+      "name": "Geylang Bahru Market and Food Centre",
+      "address": "69 Geylang Bahru",
+      "isNew": true,
+      "lon": "103.870046130327",
+      "lat": "1.32139947024503",
+      "id": "330069"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "0945h to 1020h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice Finest",
+      "address": "202 Hougang Street 21",
+      "isNew": true,
+      "lon": "103.884028949439",
+      "lat": "1.35752772836952",
+      "id": "530202"
     },
     {
       "visits": [
@@ -566,6 +632,13 @@
       "visits": [
         {
           "date": "17 Jun",
+          "duration": "1255h to 1325h",
+          "venues": [
+            "Khai Yong Heng Goldsmith"
+          ]
+        },
+        {
+          "date": "17 Jun",
           "duration": "1250h to 1430h",
           "venues": [
             "Khai Yong Heng Goldsmith"
@@ -580,13 +653,6 @@
           "date": "16 Jun",
           "duration": "1810h to 1900h",
           "venues": []
-        },
-        {
-          "date": "9 Jun",
-          "duration": "1510h to 1550h",
-          "venues": [
-            "FairPrice Finest"
-          ]
         }
       ],
       "name": "Tiong Bahru Plaza",
@@ -611,6 +677,13 @@
     },
     {
       "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1640h to 1715h",
+          "venues": [
+            "Citri Mobile"
+          ]
+        },
         {
           "date": "17 Jun",
           "duration": "1640h to 1715h",
@@ -750,6 +823,23 @@
       "visits": [
         {
           "date": "18 Jun",
+          "duration": "1425h to 1505h",
+          "venues": [
+            "LITE Mobile"
+          ]
+        }
+      ],
+      "name": "Boon Lay Shopping Centre",
+      "address": "221 Boon Lay Place",
+      "isNew": true,
+      "lon": "103.712472819666",
+      "lat": "1.34637376407877",
+      "id": "640221"
+    },
+    {
+      "visits": [
+        {
+          "date": "18 Jun",
           "duration": "1545h to 1800h",
           "venues": []
         },
@@ -761,10 +851,24 @@
       ],
       "name": "Northpoint City",
       "address": "930 Yishun Avenue 2",
-      "isNew": true,
       "lon": "103.836107231373",
       "lat": "1.42924414326245",
       "id": "769098"
+    },
+    {
+      "visits": [
+        {
+          "date": "18 Jun",
+          "duration": "1745h to 1920h",
+          "venues": []
+        }
+      ],
+      "name": "Mulan (Kyawt Na Di) Beauty Salon",
+      "address": "175 Boon Lay Drive",
+      "isNew": true,
+      "lon": "103.709485323529",
+      "lat": "1.34668916681367",
+      "id": "640175"
     },
     {
       "visits": [
@@ -807,7 +911,6 @@
       ],
       "name": "VivoCity",
       "address": "1 HarbourFront Walk",
-      "isNew": true,
       "lon": "103.821589247996",
       "lat": "1.26389581240004",
       "id": "098585"
@@ -943,14 +1046,7 @@
           "venues": []
         },
         {
-          "date": "9 Jun",
-          "duration": "1230h to 2030h",
-          "venues": [
-            "Guardian"
-          ]
-        },
-        {
-          "date": "9 to 10 Jun",
+          "date": "10 Jun",
           "duration": "0600h to 1900h",
           "venues": []
         }
@@ -1065,13 +1161,6 @@
           "venues": [
             "Union United Employment Pte Ltd"
           ]
-        },
-        {
-          "date": "9 Jun",
-          "duration": "1000h to 2000h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
         }
       ],
       "name": "Katong Shopping Centre",
@@ -1079,6 +1168,21 @@
       "lon": "103.901040040135",
       "lat": "1.30382040183738",
       "id": "437844"
+    },
+    {
+      "visits": [
+        {
+          "date": "20 Jun",
+          "duration": "1820h to 1855h",
+          "venues": []
+        }
+      ],
+      "name": "Giant Supermarket",
+      "address": "316B Ang Mo Kio Street 31",
+      "isNew": true,
+      "lon": "103.847677034369",
+      "lat": "1.36462540270463",
+      "id": "563316"
     },
     {
       "visits": [
@@ -1123,7 +1227,7 @@
           "venues": []
         },
         {
-          "date": "9 to 10 Jun",
+          "date": "10 Jun",
           "duration": "0730h to 0815h",
           "venues": []
         }
@@ -1160,11 +1264,89 @@
       ],
       "name": "Grand Hyatt Singapore",
       "address": "10 Scotts Road",
-      "isNew": true,
       "lon": "103.833311286296",
       "lat": "1.30631272444849",
       "id": "228211"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 Jun",
+          "duration": "1835h to 1940h",
+          "venues": []
+        }
+      ],
+      "name": "Peperoni Pizzeria",
+      "address": "267 Upper Thomson Road",
+      "isNew": true,
+      "lon": "103.833307345741",
+      "lat": "1.35367333900596",
+      "id": "574394"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
+          "duration": "1905h to 1940h",
+          "venues": [
+            "Kopitiam"
+          ]
+        }
+      ],
+      "name": "Plaza Singapura",
+      "address": "68 Orchard Road",
+      "isNew": true,
+      "lon": "103.845067272666",
+      "lat": "1.30082071769235",
+      "id": "238839"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
+          "duration": "2010h to 2100h",
+          "venues": [
+            "J Star Mobile Electronic"
+          ]
+        }
+      ],
+      "name": "Lucky Plaza",
+      "address": "304 Orchard Road",
+      "isNew": true,
+      "lon": "103.834005158524",
+      "lat": "1.3044637897474",
+      "id": "238863"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
+          "duration": "2110h to 2145h",
+          "venues": []
+        }
+      ],
+      "name": "313@somerset",
+      "address": "313 Orchard Road",
+      "isNew": true,
+      "lon": "103.838350465208",
+      "lat": "1.30097808212209",
+      "id": "238895"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
+          "duration": "2145h to 2225h",
+          "venues": []
+        }
+      ],
+      "name": "Orchard Central",
+      "address": "181 Orchard Road",
+      "isNew": true,
+      "lon": "103.839692368177",
+      "lat": "1.30072350356705",
+      "id": "238896"
     }
   ],
-  "timestamp": 1624488238948
+  "timestamp": 1624572824860
 }
