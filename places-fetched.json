@@ -3,48 +3,6 @@
     {
       "visits": [
         {
-          "date": "10 Jun",
-          "duration": "1205h to 1310h",
-          "venues": []
-        }
-      ],
-      "name": "Renee Hair Salon",
-      "address": "756 Upper Serangoon Road",
-      "lon": "103.878828409594",
-      "lat": "1.35348088326123",
-      "id": "534626"
-    },
-    {
-      "visits": [
-        {
-          "date": "10 Jun",
-          "duration": "1345h to 1545h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "18/20 Kim Tian Road",
-      "lon": "103.829324523902",
-      "lat": "1.28474840501031",
-      "id": "169253"
-    },
-    {
-      "visits": [
-        {
-          "date": "10 Jun",
-          "duration": "1455h to 1730h",
-          "venues": []
-        }
-      ],
-      "name": "Fu Lu Shou Complex",
-      "address": "149 Rochor Road",
-      "lon": "103.854568540158",
-      "lat": "1.30148706909734",
-      "id": "188425"
-    },
-    {
-      "visits": [
-        {
           "date": "11 Jun",
           "duration": "1105h to 1140h",
           "venues": [
@@ -133,13 +91,6 @@
           "venues": [
             "Al-barakah Food Corner"
           ]
-        },
-        {
-          "date": "10 Jun",
-          "duration": "1000h to 1930h",
-          "venues": [
-            "Al-barakah Food Corner"
-          ]
         }
       ],
       "name": "Telok Blangah Food Centre",
@@ -174,7 +125,6 @@
       ],
       "name": "Junction 8",
       "address": "9 Bishan Place",
-      "isNew": true,
       "lon": "103.848515664081",
       "lat": "1.3501820033849",
       "id": "579837"
@@ -247,7 +197,6 @@
       ],
       "name": "Thomson Plaza",
       "address": "301 Upper Thomson Road",
-      "isNew": true,
       "lon": "103.830944960934",
       "lat": "1.35465019298909",
       "id": "574408"
@@ -293,20 +242,6 @@
       "visits": [
         {
           "date": "13 Jun",
-          "duration": "1415h to 1505h",
-          "venues": []
-        }
-      ],
-      "name": "Joo Chiat Complex",
-      "address": "1 Joo Chiat Road",
-      "lon": "103.898397565472",
-      "lat": "1.31593802099833",
-      "id": "420001"
-    },
-    {
-      "visits": [
-        {
-          "date": "13 Jun",
           "duration": "1500h to 1530h",
           "venues": []
         },
@@ -341,37 +276,22 @@
           "venues": []
         },
         {
-          "date": "10 Jun",
-          "duration": "1700h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "10 Jun",
-          "duration": "1100h to 1130h",
-          "venues": []
-        },
-        {
-          "date": "10 Jun",
-          "duration": "0930h to 1430h",
-          "venues": []
-        },
-        {
-          "date": "10 to 11 Jun",
-          "duration": "0800h to 1400h",
-          "venues": []
-        },
-        {
-          "date": "10 to 12 Jun",
+          "date": "11 to 12 Jun",
           "duration": "0830h to 1430h",
           "venues": []
         },
         {
-          "date": "10 to 11 Jun",
+          "date": "11 Jun",
+          "duration": "0800h to 1400h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
           "duration": "0600h to 1500h",
           "venues": []
         },
         {
-          "date": "10 to 11 Jun",
+          "date": "11 Jun",
           "duration": "0500h to 1800h",
           "venues": []
         }
@@ -401,13 +321,6 @@
         {
           "date": "11 Jun",
           "duration": "1730h to 1930h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        },
-        {
-          "date": "10 Jun",
-          "duration": "1735h to 1930h",
           "venues": [
             "FairPrice Finest"
           ]
@@ -506,7 +419,6 @@
       ],
       "name": "City Square Mall",
       "address": "180 Kitchener Road",
-      "isNew": true,
       "lon": "103.856780762986",
       "lat": "1.31147744952233",
       "id": "208539"
@@ -535,10 +447,26 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "108 McNair Road",
-      "isNew": true,
       "lon": "103.859382719506",
       "lat": "1.3216190383169",
       "id": "321108"
+    },
+    {
+      "visits": [
+        {
+          "date": "15 Jun",
+          "duration": "1555h to 1630h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "Dawson Place",
+      "address": "57 Dawson Road",
+      "isNew": true,
+      "lon": "103.810971835374",
+      "lat": "1.29270252655148",
+      "id": "142057"
     },
     {
       "visits": [
@@ -585,6 +513,27 @@
     {
       "visits": [
         {
+          "date": "15 Jun",
+          "duration": "2000h to 2035h",
+          "venues": [
+            "Al Barakah"
+          ]
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1415h to 1505h",
+          "venues": []
+        }
+      ],
+      "name": "Joo Chiat Complex",
+      "address": "1 Joo Chiat Road",
+      "lon": "103.898397565472",
+      "lat": "1.31593802099833",
+      "id": "420001"
+    },
+    {
+      "visits": [
+        {
           "date": "16 Jun",
           "duration": "0940h to 1010h",
           "venues": []
@@ -592,7 +541,6 @@
       ],
       "name": "Geylang Bahru Market and Food Centre",
       "address": "69 Geylang Bahru",
-      "isNew": true,
       "lon": "103.870046130327",
       "lat": "1.32139947024503",
       "id": "330069"
@@ -607,7 +555,6 @@
       ],
       "name": "NTUC FairPrice Finest",
       "address": "202 Hougang Street 21",
-      "isNew": true,
       "lon": "103.884028949439",
       "lat": "1.35752772836952",
       "id": "530202"
@@ -714,55 +661,6 @@
       "visits": [
         {
           "date": "17 Jun",
-          "duration": "1815h to 2020h",
-          "venues": []
-        },
-        {
-          "date": "17 Jun",
-          "duration": "1035h to 1240h",
-          "venues": []
-        },
-        {
-          "date": "14 Jun",
-          "duration": "1955h to 2030h",
-          "venues": []
-        },
-        {
-          "date": "13 Jun",
-          "duration": "1020h to 1115h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1005h to 1035h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1235h to 1335h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1230h to 1335h",
-          "venues": []
-        },
-        {
-          "date": "10 Jun",
-          "duration": "1500h to 1535h",
-          "venues": []
-        }
-      ],
-      "name": "NTUC FairPrice",
-      "address": "166 Bukit Merah Central",
-      "lon": "103.817663685706",
-      "lat": "1.28305664324915",
-      "id": "150166"
-    },
-    {
-      "visits": [
-        {
-          "date": "17 Jun",
           "duration": "2000h to 2100h",
           "venues": []
         }
@@ -831,7 +729,6 @@
       ],
       "name": "Boon Lay Shopping Centre",
       "address": "221 Boon Lay Place",
-      "isNew": true,
       "lon": "103.712472819666",
       "lat": "1.34637376407877",
       "id": "640221"
@@ -865,7 +762,6 @@
       ],
       "name": "Mulan (Kyawt Na Di) Beauty Salon",
       "address": "175 Boon Lay Drive",
-      "isNew": true,
       "lon": "103.709485323529",
       "lat": "1.34668916681367",
       "id": "640175"
@@ -930,6 +826,23 @@
       "lon": "103.849281764587",
       "lat": "1.28289702779315",
       "id": "048441"
+    },
+    {
+      "visits": [
+        {
+          "date": "19 Jun",
+          "duration": "0845h to 0930h",
+          "venues": [
+            "Public Service Centre"
+          ]
+        }
+      ],
+      "name": "Our Tampines Hub",
+      "address": "1 Tampines Walk",
+      "isNew": true,
+      "lon": "103.940148593378",
+      "lat": "1.35320985987658",
+      "id": "528523"
     },
     {
       "visits": [
@@ -1044,11 +957,6 @@
           "date": "11 Jun",
           "duration": "0600h to 0900h",
           "venues": []
-        },
-        {
-          "date": "10 Jun",
-          "duration": "0600h to 1900h",
-          "venues": []
         }
       ],
       "name": "ION Orchard",
@@ -1147,20 +1055,6 @@
           "venues": [
             "Union United Employment Pte Ltd"
           ]
-        },
-        {
-          "date": "10 Jun",
-          "duration": "1930h to 2000h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
-        },
-        {
-          "date": "10 Jun",
-          "duration": "1000h to 1740h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
         }
       ],
       "name": "Katong Shopping Centre",
@@ -1173,13 +1067,27 @@
       "visits": [
         {
           "date": "20 Jun",
+          "duration": "1755h to 1930h",
+          "venues": []
+        }
+      ],
+      "name": "Great World City",
+      "address": "1 Kim Seng Promenade",
+      "isNew": true,
+      "lon": "103.831928020443",
+      "lat": "1.2931549290701",
+      "id": "237994"
+    },
+    {
+      "visits": [
+        {
+          "date": "20 Jun",
           "duration": "1820h to 1855h",
           "venues": []
         }
       ],
       "name": "Giant Supermarket",
       "address": "316B Ang Mo Kio Street 31",
-      "isNew": true,
       "lon": "103.847677034369",
       "lat": "1.36462540270463",
       "id": "563316"
@@ -1225,11 +1133,6 @@
           "date": "14 Jun",
           "duration": "1430h to 1500h",
           "venues": []
-        },
-        {
-          "date": "10 Jun",
-          "duration": "0730h to 0815h",
-          "venues": []
         }
       ],
       "name": "Redhill Market",
@@ -1237,6 +1140,37 @@
       "lon": "103.818349792057",
       "lat": "1.28784702822268",
       "id": "150079"
+    },
+    {
+      "visits": [
+        {
+          "date": "21 Jun",
+          "duration": "0800h to 0955h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "20 Jun",
+          "duration": "0810h to 0900h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        },
+        {
+          "date": "14 Jun",
+          "duration": "0745h to 0820h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "Eastpoint Mall",
+      "address": "3 Simei Street 6",
+      "isNew": true,
+      "lon": "103.953050756306",
+      "lat": "1.34269199750599",
+      "id": "528833"
     },
     {
       "visits": [
@@ -1278,10 +1212,71 @@
       ],
       "name": "Peperoni Pizzeria",
       "address": "267 Upper Thomson Road",
-      "isNew": true,
       "lon": "103.833307345741",
       "lat": "1.35367333900596",
       "id": "574394"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
+          "duration": "1345h to 1510h",
+          "venues": []
+        },
+        {
+          "date": "20 Jun",
+          "duration": "1820h to 1855h",
+          "venues": []
+        }
+      ],
+      "name": "Hotel 81 Selegie",
+      "address": "161 Selegie Road",
+      "isNew": true,
+      "lon": "103.849884117894",
+      "lat": "1.30328440610427",
+      "id": "188318"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
+          "duration": "1750h to 2020h",
+          "venues": []
+        },
+        {
+          "date": "17 Jun",
+          "duration": "1605h to 1810h",
+          "venues": []
+        },
+        {
+          "date": "14 Jun",
+          "duration": "1655h to 1830h",
+          "venues": []
+        }
+      ],
+      "name": "IKEA Tampines",
+      "address": "60 Tampines North Drive 2",
+      "isNew": true,
+      "lon": "103.932494130634",
+      "lat": "1.37402657794126",
+      "id": "528764"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
+          "duration": "1820h to 1850h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "Tiong Bahru Plaza",
+      "address": "302 Tiong Bahru Road",
+      "isNew": true,
+      "lon": "103.827158267789",
+      "lat": "1.28647119992724",
+      "id": "168732"
     },
     {
       "visits": [
@@ -1295,7 +1290,6 @@
       ],
       "name": "Plaza Singapura",
       "address": "68 Orchard Road",
-      "isNew": true,
       "lon": "103.845067272666",
       "lat": "1.30082071769235",
       "id": "238839"
@@ -1308,14 +1302,38 @@
           "venues": [
             "J Star Mobile Electronic"
           ]
+        },
+        {
+          "date": "18 Jun",
+          "duration": "1225h to 1300h",
+          "venues": []
         }
       ],
       "name": "Lucky Plaza",
       "address": "304 Orchard Road",
-      "isNew": true,
       "lon": "103.834005158524",
       "lat": "1.3044637897474",
       "id": "238863"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
+          "duration": "2015h to 2200h",
+          "venues": []
+        },
+        {
+          "date": "14 Jun",
+          "duration": "1600h to 1700h",
+          "venues": []
+        }
+      ],
+      "name": "COURTS Megastore",
+      "address": "50 Tampines North Drive 2",
+      "isNew": true,
+      "lon": "103.933847009972",
+      "lat": "1.37352976407683",
+      "id": "528766"
     },
     {
       "visits": [
@@ -1327,7 +1345,6 @@
       ],
       "name": "313@somerset",
       "address": "313 Orchard Road",
-      "isNew": true,
       "lon": "103.838350465208",
       "lat": "1.30097808212209",
       "id": "238895"
@@ -1342,11 +1359,91 @@
       ],
       "name": "Orchard Central",
       "address": "181 Orchard Road",
-      "isNew": true,
       "lon": "103.839692368177",
       "lat": "1.30072350356705",
       "id": "238896"
+    },
+    {
+      "visits": [
+        {
+          "date": "23 Jun",
+          "duration": "1200h to 1230h",
+          "venues": [
+            "Yue Hua Food Court"
+          ]
+        }
+      ],
+      "name": "Depot Heights Shopping Centre",
+      "address": "108 Depot Road",
+      "isNew": true,
+      "lon": "103.810298189643",
+      "lat": "1.28096680702383",
+      "id": "100108"
+    },
+    {
+      "visits": [
+        {
+          "date": "23 Jun",
+          "duration": "1425h to 1540h",
+          "venues": []
+        }
+      ],
+      "name": "Sheng Siong Supermarket",
+      "address": "19 Serangoon North Avenue 5",
+      "isNew": true,
+      "lon": "103.872012103115",
+      "lat": "1.37565367290165",
+      "id": "554913"
+    },
+    {
+      "visits": [
+        {
+          "date": "24 Jun",
+          "duration": "1400h to 1430h",
+          "venues": []
+        },
+        {
+          "date": "17 Jun",
+          "duration": "1815h to 2020h",
+          "venues": []
+        },
+        {
+          "date": "17 Jun",
+          "duration": "1035h to 1240h",
+          "venues": []
+        },
+        {
+          "date": "14 Jun",
+          "duration": "1955h to 2030h",
+          "venues": []
+        },
+        {
+          "date": "13 Jun",
+          "duration": "1020h to 1115h",
+          "venues": []
+        },
+        {
+          "date": "12 Jun",
+          "duration": "1005h to 1035h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1235h to 1335h",
+          "venues": []
+        },
+        {
+          "date": "11 Jun",
+          "duration": "1230h to 1335h",
+          "venues": []
+        }
+      ],
+      "name": "NTUC FairPrice",
+      "address": "166 Bukit Merah Central",
+      "lon": "103.817663685706",
+      "lat": "1.28305664324915",
+      "id": "150166"
     }
   ],
-  "timestamp": 1624572824860
+  "timestamp": 1624663820538
 }
