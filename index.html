@@ -363,7 +363,7 @@ $.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
                                                      popupHtml,
                                                      null,
                                                      false)
-      $(popup.contentDiv).click(() => {
+      $(popup.contentDiv).parent().click(() => {
         closePopups()
         showAd()
       })
