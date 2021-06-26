@@ -3,68 +3,6 @@
     {
       "visits": [
         {
-          "date": "11 Jun",
-          "duration": "1105h to 1140h",
-          "venues": [
-            "Wet market"
-          ]
-        }
-      ],
-      "name": "Chinatown Complex",
-      "address": "335 Smith Street",
-      "lon": "103.843177640795",
-      "lat": "1.28223521144331",
-      "id": "050335"
-    },
-    {
-      "visits": [
-        {
-          "date": "11 Jun",
-          "duration": "1110h to 1145h",
-          "venues": [
-            "FairPrice Finest"
-          ]
-        }
-      ],
-      "name": "ARTRA",
-      "address": "12 Alexandra View",
-      "lon": "103.816552347869",
-      "lat": "1.29012765494819",
-      "id": "158736"
-    },
-    {
-      "visits": [
-        {
-          "date": "11 Jun",
-          "duration": "1140h to 1215h",
-          "venues": [
-            "myCK – Chinatown"
-          ]
-        }
-      ],
-      "name": "Chinatown Complex",
-      "address": "336 Smith Street",
-      "lon": "103.84270303814",
-      "lat": "1.28276238827844",
-      "id": "050336"
-    },
-    {
-      "visits": [
-        {
-          "date": "11 Jun",
-          "duration": "1325h to 1520h",
-          "venues": []
-        }
-      ],
-      "name": "Hing Show Nails",
-      "address": "82 Marine Parade Central",
-      "lon": "103.906791337078",
-      "lat": "1.30248110033246",
-      "id": "440082"
-    },
-    {
-      "visits": [
-        {
           "date": "12 Jun",
           "duration": "0915h to 0945h",
           "venues": []
@@ -80,13 +18,6 @@
       "visits": [
         {
           "date": "12 Jun",
-          "duration": "1000h to 1930h",
-          "venues": [
-            "Al-barakah Food Corner"
-          ]
-        },
-        {
-          "date": "11 Jun",
           "duration": "1000h to 1930h",
           "venues": [
             "Al-barakah Food Corner"
@@ -225,11 +156,6 @@
           "venues": [
             "Clementi Public Library"
           ]
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1610h to 1645h",
-          "venues": []
         }
       ],
       "name": "The Clementi Mall",
@@ -257,42 +183,12 @@
         },
         {
           "date": "12 Jun",
-          "duration": "0500h to 0530h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1700h to 2100h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1100h to 1130h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "0930h to 1430h",
-          "venues": []
-        },
-        {
-          "date": "11 to 12 Jun",
           "duration": "0830h to 1430h",
           "venues": []
         },
         {
-          "date": "11 Jun",
-          "duration": "0800h to 1400h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "0600h to 1500h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "0500h to 1800h",
+          "date": "12 Jun",
+          "duration": "0500h to 0530h",
           "venues": []
         }
       ],
@@ -316,13 +212,6 @@
           "duration": "1530h to 1630h",
           "venues": [
             "NTUC FairPrice"
-          ]
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1730h to 1930h",
-          "venues": [
-            "FairPrice Finest"
           ]
         }
       ],
@@ -367,11 +256,6 @@
         {
           "date": "12 Jun",
           "duration": "0600h to 1700h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "0630h to 1230h",
           "venues": []
         }
       ],
@@ -463,7 +347,6 @@
       ],
       "name": "Dawson Place",
       "address": "57 Dawson Road",
-      "isNew": true,
       "lon": "103.810971835374",
       "lat": "1.29270252655148",
       "id": "142057"
@@ -574,6 +457,21 @@
       "lon": "103.932384005117",
       "lat": "1.32480102552267",
       "id": "467351"
+    },
+    {
+      "visits": [
+        {
+          "date": "17 Jun",
+          "duration": "1250h to 1320h",
+          "venues": []
+        }
+      ],
+      "name": "Healthy Path Spa",
+      "address": "84 Bedok North Street 4",
+      "isNew": true,
+      "lon": "103.939208398976",
+      "lat": "1.33178245077455",
+      "id": "460084"
     },
     {
       "visits": [
@@ -739,11 +637,6 @@
           "date": "18 Jun",
           "duration": "1545h to 1800h",
           "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1450h to 1700h",
-          "venues": []
         }
       ],
       "name": "Northpoint City",
@@ -839,7 +732,6 @@
       ],
       "name": "Our Tampines Hub",
       "address": "1 Tampines Walk",
-      "isNew": true,
       "lon": "103.940148593378",
       "lat": "1.35320985987658",
       "id": "528523"
@@ -947,16 +839,6 @@
           "venues": [
             "Monster Curry"
           ]
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1030h to 1900h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "0600h to 0900h",
-          "venues": []
         }
       ],
       "name": "ION Orchard",
@@ -1041,20 +923,6 @@
           "venues": [
             "Union United Employment Pte Ltd"
           ]
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1930h to 2000h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1000h to 1735h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
         }
       ],
       "name": "Katong Shopping Centre",
@@ -1073,7 +941,6 @@
       ],
       "name": "Great World City",
       "address": "1 Kim Seng Promenade",
-      "isNew": true,
       "lon": "103.831928020443",
       "lat": "1.2931549290701",
       "id": "237994"
@@ -1167,7 +1034,6 @@
       ],
       "name": "Eastpoint Mall",
       "address": "3 Simei Street 6",
-      "isNew": true,
       "lon": "103.953050756306",
       "lat": "1.34269199750599",
       "id": "528833"
@@ -1231,7 +1097,6 @@
       ],
       "name": "Hotel 81 Selegie",
       "address": "161 Selegie Road",
-      "isNew": true,
       "lon": "103.849884117894",
       "lat": "1.30328440610427",
       "id": "188318"
@@ -1256,7 +1121,6 @@
       ],
       "name": "IKEA Tampines",
       "address": "60 Tampines North Drive 2",
-      "isNew": true,
       "lon": "103.932494130634",
       "lat": "1.37402657794126",
       "id": "528764"
@@ -1273,7 +1137,6 @@
       ],
       "name": "Tiong Bahru Plaza",
       "address": "302 Tiong Bahru Road",
-      "isNew": true,
       "lon": "103.827158267789",
       "lat": "1.28647119992724",
       "id": "168732"
@@ -1330,7 +1193,6 @@
       ],
       "name": "COURTS Megastore",
       "address": "50 Tampines North Drive 2",
-      "isNew": true,
       "lon": "103.933847009972",
       "lat": "1.37352976407683",
       "id": "528766"
@@ -1375,7 +1237,6 @@
       ],
       "name": "Depot Heights Shopping Centre",
       "address": "108 Depot Road",
-      "isNew": true,
       "lon": "103.810298189643",
       "lat": "1.28096680702383",
       "id": "100108"
@@ -1390,7 +1251,6 @@
       ],
       "name": "Sheng Siong Supermarket",
       "address": "19 Serangoon North Avenue 5",
-      "isNew": true,
       "lon": "103.872012103115",
       "lat": "1.37565367290165",
       "id": "554913"
@@ -1426,16 +1286,6 @@
           "date": "12 Jun",
           "duration": "1005h to 1035h",
           "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1235h to 1335h",
-          "venues": []
-        },
-        {
-          "date": "11 Jun",
-          "duration": "1230h to 1335h",
-          "venues": []
         }
       ],
       "name": "NTUC FairPrice",
@@ -1445,5 +1295,5 @@
       "id": "150166"
     }
   ],
-  "timestamp": 1624663820538
+  "timestamp": 1624726543527
 }
