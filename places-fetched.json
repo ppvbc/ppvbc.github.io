@@ -3,108 +3,6 @@
     {
       "visits": [
         {
-          "date": "12 Jun",
-          "duration": "0915h to 0945h",
-          "venues": []
-        }
-      ],
-      "name": "Kim San Leng Coffee Shop",
-      "address": "116 Bukit Merah View",
-      "lon": "103.821606935412",
-      "lat": "1.28512215258239",
-      "id": "151116"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "1000h to 1930h",
-          "venues": [
-            "Al-barakah Food Corner"
-          ]
-        }
-      ],
-      "name": "Telok Blangah Food Centre",
-      "address": "79 Telok Blangah Drive",
-      "lon": "103.807621587927",
-      "lat": "1.27336490550026",
-      "id": "100079"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "1010h to 1215h",
-          "venues": [
-            "Harvester Community Church"
-          ]
-        }
-      ],
-      "name": "Harvest Care Centre",
-      "address": "165 Sims Avenue",
-      "lon": "103.879155033273",
-      "lat": "1.31478785277218",
-      "id": "387606"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "1105h to 1205h",
-          "venues": []
-        }
-      ],
-      "name": "Junction 8",
-      "address": "9 Bishan Place",
-      "lon": "103.848515664081",
-      "lat": "1.3501820033849",
-      "id": "579837"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "1535h to 1610h",
-          "venues": []
-        }
-      ],
-      "name": "Sheng Siong Supermarket",
-      "address": "88 Tanglin Halt Road",
-      "lon": "103.798021743473",
-      "lat": "1.30203802175036",
-      "id": "141088"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "1535h to 1630h",
-          "venues": []
-        }
-      ],
-      "name": "Greet Effect Aquarium",
-      "address": "801 French Road",
-      "lon": "103.860472435164",
-      "lat": "1.30736241836644",
-      "id": "200801"
-    },
-    {
-      "visits": [
-        {
-          "date": "12 Jun",
-          "duration": "2040h to 2230h",
-          "venues": []
-        }
-      ],
-      "name": "Night Safari",
-      "address": "80 Mandai Lake Road",
-      "lon": "103.788541352688",
-      "lat": "1.40354764653419",
-      "id": "729826"
-    },
-    {
-      "visits": [
-        {
           "date": "13 Jun",
           "duration": "0800h to 0835h",
           "venues": []
@@ -170,26 +68,6 @@
           "date": "13 Jun",
           "duration": "1500h to 1530h",
           "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1100h to 1130h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "0930h to 1430h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "0830h to 1430h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "0500h to 0530h",
-          "venues": []
         }
       ],
       "name": "115 Bukit Merah View Market & Hawker Centre",
@@ -241,21 +119,6 @@
         {
           "date": "13 Jun",
           "duration": "0630h to 1150h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "0630h to 1700h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "0630h to 1115h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "0600h to 1700h",
           "venues": []
         }
       ],
@@ -468,7 +331,6 @@
       ],
       "name": "Healthy Path Spa",
       "address": "84 Bedok North Street 4",
-      "isNew": true,
       "lon": "103.939208398976",
       "lat": "1.33178245077455",
       "id": "460084"
@@ -683,18 +545,6 @@
           "duration": "1310h to 1520h",
           "venues": [
             "Toys “R” Us"
-          ]
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1900h to 1945h",
-          "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1900h to 1940h",
-          "venues": [
-            "Swarovski"
           ]
         }
       ],
@@ -916,13 +766,6 @@
           "venues": [
             "Union United Employment Pte Ltd"
           ]
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1000h to 2000h",
-          "venues": [
-            "Union United Employment Pte Ltd"
-          ]
         }
       ],
       "name": "Katong Shopping Centre",
@@ -1086,6 +929,23 @@
       "visits": [
         {
           "date": "22 Jun",
+          "duration": "1230h to 1335h",
+          "venues": [
+            "NTUC FairPrice"
+          ]
+        }
+      ],
+      "name": "Tampines Central Community Complex",
+      "address": "866A Tampines Street 83",
+      "isNew": true,
+      "lon": "103.934592110069",
+      "lat": "1.35528926974977",
+      "id": "521866"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
           "duration": "1345h to 1510h",
           "venues": []
         },
@@ -1161,6 +1021,21 @@
       "visits": [
         {
           "date": "22 Jun",
+          "duration": "1945h to 2045h",
+          "venues": []
+        }
+      ],
+      "name": "Ancient Dynasty Massage & Spa",
+      "address": "5 Thong Soon Avenue",
+      "isNew": true,
+      "lon": "103.818772707641",
+      "lat": "1.39720348402018",
+      "id": "787433"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
           "duration": "2010h to 2100h",
           "venues": [
             "J Star Mobile Electronic"
@@ -1201,6 +1076,21 @@
       "visits": [
         {
           "date": "22 Jun",
+          "duration": "2055h to 2130h",
+          "venues": []
+        }
+      ],
+      "name": "Han’s @ Springleaf Garden",
+      "address": "906 Upper Thomson Road",
+      "isNew": true,
+      "lon": "103.81863214159",
+      "lat": "1.39758401219136",
+      "id": "787110"
+    },
+    {
+      "visits": [
+        {
+          "date": "22 Jun",
           "duration": "2110h to 2145h",
           "venues": []
         }
@@ -1224,6 +1114,46 @@
       "lon": "103.839692368177",
       "lat": "1.30072350356705",
       "id": "238896"
+    },
+    {
+      "visits": [
+        {
+          "date": "23 Jun",
+          "duration": "0710h to 0740h",
+          "venues": []
+        },
+        {
+          "date": "19 Jun",
+          "duration": "0710h to 0740h",
+          "venues": []
+        },
+        {
+          "date": "15 Jun",
+          "duration": "0710h to 0740h",
+          "venues": []
+        }
+      ],
+      "name": "112 Jalan Bukit Merah Market and Food Centre",
+      "address": "112 Jalan Bukit Merah",
+      "isNew": true,
+      "lon": "103.826013281251",
+      "lat": "1.28000482954569",
+      "id": "160112"
+    },
+    {
+      "visits": [
+        {
+          "date": "23 Jun",
+          "duration": "0850h to 1000h",
+          "venues": []
+        }
+      ],
+      "name": "Afghanistan Family Restaurant",
+      "address": "201E Tampines Street 23",
+      "isNew": true,
+      "lon": "103.953858335355",
+      "lat": "1.35292162536007",
+      "id": "527201"
     },
     {
       "visits": [
@@ -1258,6 +1188,53 @@
     {
       "visits": [
         {
+          "date": "23 Jun",
+          "duration": "1535h to 1745h",
+          "venues": []
+        }
+      ],
+      "name": "Tampines 1",
+      "address": "10 Tampines Central 1",
+      "isNew": true,
+      "lon": "103.945141172369",
+      "lat": "1.35432321225804",
+      "id": "529536"
+    },
+    {
+      "visits": [
+        {
+          "date": "24 Jun",
+          "duration": "0950h to 1035h",
+          "venues": []
+        }
+      ],
+      "name": "Mukmin Restaurant Bedok",
+      "address": "129 Bedok North Street 2",
+      "isNew": true,
+      "lon": "103.938030484223",
+      "lat": "1.32755443192195",
+      "id": "460129"
+    },
+    {
+      "visits": [
+        {
+          "date": "24 Jun",
+          "duration": "1230h to 1300h",
+          "venues": [
+            "Golden Rooster Clementi"
+          ]
+        }
+      ],
+      "name": "Varinice Eating House",
+      "address": "450 Clementi Avenue 3",
+      "isNew": true,
+      "lon": "103.765476305204",
+      "lat": "1.31353886128",
+      "id": "120450"
+    },
+    {
+      "visits": [
+        {
           "date": "24 Jun",
           "duration": "1400h to 1430h",
           "venues": []
@@ -1281,11 +1258,6 @@
           "date": "13 Jun",
           "duration": "1020h to 1115h",
           "venues": []
-        },
-        {
-          "date": "12 Jun",
-          "duration": "1005h to 1035h",
-          "venues": []
         }
       ],
       "name": "NTUC FairPrice",
@@ -1293,7 +1265,108 @@
       "lon": "103.817663685706",
       "lat": "1.28305664324915",
       "id": "150166"
+    },
+    {
+      "visits": [
+        {
+          "date": "24 Jun",
+          "duration": "1645h to 1715h",
+          "venues": [
+            "Kopitiam"
+          ]
+        },
+        {
+          "date": "23 Jun",
+          "duration": "1645h to 1715h",
+          "venues": [
+            "Kopitiam"
+          ]
+        }
+      ],
+      "name": "National University Hospital Medical Centre",
+      "address": "1 Lower Kent Ridge Road",
+      "isNew": true,
+      "lon": "103.784084011452",
+      "lat": "1.29277431990535",
+      "id": "119082"
+    },
+    {
+      "visits": [
+        {
+          "date": "24 Jun",
+          "duration": "1710h to 2210h",
+          "venues": []
+        }
+      ],
+      "name": "NKF Dialysis Centre",
+      "address": "935 Tampines Street 91",
+      "isNew": true,
+      "lon": "103.9410773896",
+      "lat": "1.34563428737776",
+      "id": "520935"
+    },
+    {
+      "visits": [
+        {
+          "date": "25 Jun",
+          "duration": "1045h to 1115h",
+          "venues": []
+        }
+      ],
+      "name": "Albert Centre",
+      "address": "270 Queen Street",
+      "isNew": true,
+      "lon": "103.854121893196",
+      "lat": "1.30109180489625",
+      "id": "180270"
+    },
+    {
+      "visits": [
+        {
+          "date": "25 Jun",
+          "duration": "1400h to 1430h",
+          "venues": []
+        }
+      ],
+      "name": "Clementi 448 Market & Food Centre",
+      "address": "448 Clementi Avenue 3",
+      "isNew": true,
+      "lon": "103.764521290707",
+      "lat": "1.31306036053187",
+      "id": "120448"
+    },
+    {
+      "visits": [
+        {
+          "date": "25 Jun",
+          "duration": "1525h to 2320h",
+          "venues": [
+            "Oakwood Premier AMTD Singapore"
+          ]
+        }
+      ],
+      "name": "OUE Downtown 1",
+      "address": "6 Shenton Way",
+      "isNew": true,
+      "lon": "103.848408630831",
+      "lat": "1.27698070739425",
+      "id": "068809"
+    },
+    {
+      "visits": [
+        {
+          "date": "25 Jun",
+          "duration": "1935h to 2115h",
+          "venues": []
+        }
+      ],
+      "name": "Lau Pa Sat",
+      "address": "18 Raffles Quay",
+      "isNew": true,
+      "lon": "103.850360262069",
+      "lat": "1.28059313261496",
+      "id": "048582"
     }
   ],
-  "timestamp": 1624726543527
+  "timestamp": 1624831685698
 }
