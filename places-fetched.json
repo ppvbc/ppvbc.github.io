@@ -1084,7 +1084,6 @@
       ],
       "name": "Toh Guan Centre",
       "address": "21 Toh Guan Road East",
-      "isNew": true,
       "lon": "103.754671532572",
       "lat": "1.33765798645516",
       "id": "608609"
@@ -1214,5 +1213,5 @@
       "id": "048582"
     }
   ],
-  "timestamp": 1624916324211
+  "timestamp": 1625008105574
 }
