@@ -16,24 +16,33 @@ html, body, .main {
   overflow-x: hidden;
 }
 
-#count,  #subzone {
+#count, #subzone {
   font-size: 50;
 }
     </style>
   </head>
   <body>
-    <div class="main container d-flex flex-column justify-content-around">
+    <div class="main container-fluid d-flex flex-column justify-content-around">
       <div id="alert" class="alert alert-primary" role="alert">
         <button class="btn btn-primary" id="enable-geolocation">Allow Geo location</button> to see number of covid cases near your location
       </div>
-      <div id="info" class="row d-flex flex-row justify-content-center">
+      <div id="info" class="jumbotron row d-flex flex-row justify-content-center">
         You are in
         <p class="d-flex flex-row justify-content-center" id="subzone">...</p>
         Covid Cases in the area within the past 3 days
         <p class="d-flex flex-row justify-content-center" id="count">...</p>
       </div>
+      <div id="features" class="row d-flex mb-3" style="height:30%">
+        <hr/>
+      </div>
     </div>
   </body>
+  <template id="feature-template">
+    <div class="d-flex justify-content-between">
+      <div class="subzone p-2 m-2">Woodlands</div>
+      <div class="count p-2 m-2">Helloe</div>
+    </div>
+  </template>
   <script>
 const Flatten = globalThis["@flatten-js/core"];
 const { point, polygon } = Flatten;
@@ -68,8 +77,19 @@ const addPoly = (feature) => {
 }
 const features = R.compose(
   R.map(addPoly),
+  R.sort((a, b) => b.properties.COUNT - a.properties.COUNT),
   R.path(['sz', 'geojsonObj', 'features']),
 )(calcAggOutput)
+
+R.map((feature) => {
+  var template = $('#feature-template').clone().prop('content')
+  var countDiv = $(template).find('div.count')
+  countDiv.html(feature.properties.COUNT)
+  var subzoneDiv = $(template).find('div.subzone')
+  subzoneDiv.html(feature.properties.SUBZONE_N)
+  var featureHtml = $('<div>').append(template).html()
+  $('#features').append(featureHtml)
+}, features)
 
 function success(pos) {
   var crd = pos.coords;
