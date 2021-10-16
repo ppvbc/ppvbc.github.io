@@ -1,393 +1,122 @@
 <html>
   <head>
-    <title>COVID-19: Public places visited by cases in the community</title>
-    <link rel="manifest" href="manifest.webmanifest">
- 		<link href="/css/all.css" rel="stylesheet">
+    <title>COVID-19: Count of covid cases near your current location</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
-    <meta property="og:image" content="https://ppvbc.github.io/img/ogImage.jpg" />
-    <meta property="og:description" content="Public Places Visited by Cases in the Community during Infectious Period in Singapore. Excludes residence, workplaces, healthcare facilities and public transport. There is no need to avoid places where confirmed cases of COVID-19 have been. The National Environment Agency will engage the management of affected premises to provide guidance on cleaning and disinfection." />
-  </head>
-  <body>
-    <div id="title">
-      <h4>COVID-19</h4>
-      <h5>Public places visited by cases in the community</h5>
-      <button class="add-button">Install App</button>
-    </div>
-    <div id="mapdiv"></div>
-    <div id="bottom-left">
-    <div id="legend">
-      <div id="legend-collapsed">
-				<i class="fas fa-list"></i>
-      </div>
-      <div id="legend-expanded">
-				<div class="legend-item"><img class="iconNew" src="img/icon.png"/>Newly added</div>
-				<div class="legend-item"><img class="iconHot" src="img/icon.png"/>Hot spot</div>
-				<div class="legend-item"><img src="img/icon.png"/>Recent</div>
-				<div class="legend-item"><img src="img/icon.png" style="opacity: 0.5" />Older</div>
-				<div id="lastUpdated"></div>
-			</div>
-    </div>
-    <div id="position">
-			<i class="fas fa-street-view"></i>
-			<i class="fas fa-dot-circle"></i>
-		</div>
-	  </div>
-    <div id="footer">
-      <div id="ads">
-        <div id="ad-laz-1" class="ad">
-          <span>Use a better mask.</span>
-          <a id="alink-laz-1" class="alink" href="https://c.lazada.sg/t/c.bIzGau?url=https%3A%2F%2Fwww.lazada.sg%2Fproducts%2Fready-local-stocks-black-wistech-3-ply-surgical-face-uv-mask-50-pieces-hsa-registered-medical-device-fda-ce-approved-medical-fast-delivery-delivery-from-singapore-manufacturer-black-surgical-mask-i996578925-s3623502200.html&" target="_blank">Buy surgical masks</a>
-        </div>
-        <div id="ad-laz-2" class="ad">
-          <span>Use a better mask.</span>
-          <a id="alink-laz-2" class="alink" href="https://c.lazada.sg/t/c.bIzesk?url=https%3A%2F%2Fwww.lazada.sg%2Fproducts%2Fmade-in-koreaclean-guard-prevent-kf94-mask-50pcs-individual-i1420586464-s6461394410.html&" target="_blank">Try KF94 Mask</a>
-        </div>
-        <div id="ad-laz-3" class="ad">
-          <span>Work from home.</span>
-          <a id="alink-laz-3" class="alink" href="https://www.lazada.sg/products/logitech-h340-usb-headset-i107618077-s110578173.html?laz_trackid=2:mm_159490905_51902457_2010952381:clkgg5v0o1f66h122pjbq5&mkttid=clkgg5v0o1f66h122pjbq5" target="_blank">Get a headset</a>
-        </div>
-        <div id="ad-laz-4" class="ad">
-          <span>Shop from home.</span>
-          <a id="alink-laz-4" class="alink" href="https://c.lazada.sg/t/c.bsaNU9" target="_blank">Great SG Sale</a>
-        </div>
-        <div id="ad-laz-5" class="ad">
-          <span>Stay home. Stay cool.</span>
-          <a id="alink-laz-5" class="alink" href="https://c.lazada.sg/t/c.bsbyK0?url=https%3A%2F%2Fwww.lazada.sg%2Fproducts%2Fxiaomi-mi-smart-wired-standing-fan-2-lite-i974800337-s3494624266.html&" target="_blank">Buy a Smart Fan</a>
-        </div>
-      </div>
-    </div>
-    </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://d209m3w127yzkd.cloudfront.net/data/calcAggOutput.js"></script>
     <script src="//cdn.jsdelivr.net/npm/ramda@0.25.0/dist/ramda.min.js"></script>
-    <script src="https://openlayers.org/api/OpenLayers.js"></script>
-    <template id="popup">
-      <div class="place">
-        <div class="content"></div>
-      </div>
-      <div class="share-place-buttons">
-        <i>Tell a friend&nbsp;&nbsp;</i>
-        <a class="whatsapp" href="https://api.whatsapp.com/send?text=https://ppvbc.github.io/?id=<id>" target="_blank"><img id="whatsapp" class="share-place-button" src="img/whatsapp-button.png"/></a>
-        <a class="telegram" href="https://t.me/share/url?url=https://ppvbc.github.io/?id=<id>&text=" target="_blank"><img id="telegram" class="share-place-button" src="img/telegram-button.png"/></a>
-      </div>
-    </template>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://unpkg.com/@flatten-js/core"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
     <style>
-html, body {
-  font-family: monospace !important;
+html, body, .main {
   width: 100%;
+  height: 100%;
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
 }
-#title {
-  text-align: center;
-  position: absolute;
-  z-index: 1000;
-  width: 100%;
-  background: rgba(0,0,0,.1);
+.feature:nth-child(odd){
+  background-color: #eeeeee;
 }
-.iconNew {
-  top: -1px;
-  left: -1px;
-  background: #FFA300;
-  border-radius: 13px;
-}
-.iconHot {
-  border: 2px solid #A300FF;
-  border-radius: 13px;
-  margin: -2px;
-}
-.olFramedCloudPopupContent {
-  font-size: 14px
-}
-.olFramedCloudPopupContent .new {
-  font-size: 8px;
-  position: absolute;
-  right: 4px;
-  top: 0px;
-  background: #FFA300;
-  padding: 3px 5px;
-  color: white;
-  border-radius: 2px;
-}
-.olFramedCloudPopupContent ul {
-  font-size: 12px;
-  list-style: none;
-  margin: 0;
-  padding: 10px 0 0 0;
-}
-.ad {
-  display: none;
-}
-.alink {
-  width: 100%;
-  padding: 3px 8px;
-  background: #FFA300;
-  border-radius: 3px;
-  text-decoration: none;
-  color: white;
-  box-shadow: 1px 1px grey;
-}
-#lastUpdated {
-  font-size: 10px;
-}
-#ads {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.legend-item {
-  display: flex;
-  align-items: center;
-}
-#bottom-left {
-  position: absolute;
-  z-index: 1000;
-  bottom: 38px;
-  left: 0;
-}
-#legend {
-  border-radius: 5px;
-  padding: 10px;
-  margin: 10px;
-  display: flex;
-  flex-direction: column;
-  background: rgba(255,255,255,.8);
-  justify-content: space-evenly;
-}
-#position {
-  border-radius: 5px;
-  padding: 10px;
-  margin: 10px;
-  background: rgba(255,255,255,.8);
-	width: 16px;
-}
-#legend-collapsed {
- 	display: none;
-}
-#legend img {
-  width: 25px;
-  margin-right: 10px;
-}
-#footer {
-  z-index: 1000;
-  background: rgba(0,0,0,.1);
-  display: flex;
-  flex-direction: column;
-  position: absolute;
-  bottom: 0;
-  margin: 0;
-  padding: 10px 0;
-  width: 100%;
-}
-.share-place-buttons {
-  margin-top: 5px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-}
-.share-place-button {
-  width: 25px;
-  margin: 4px;
-}
-.add-button {
-  color: white;
-  border-radius: 3px;
-  padding: 5px;
-  background: #FFA300;
-  position: absolute;
-  right: 10px; 
-  border: 0;
-  top: 10px;
+
+#count, #subzone {
+  font-size: 50;
 }
     </style>
-    <script>
-let deferredPrompt;
-const addBtn = document.querySelector('.add-button');
-addBtn.style.display = 'none';
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', function() {
-    navigator.serviceWorker.register('/service-worker.js');
-  });
-}
-window.addEventListener('beforeinstallprompt', (e) => {
-  e.preventDefault();
-  deferredPrompt = e;
-  addBtn.style.display = 'block';
-  addBtn.addEventListener('click', (e) => {
-    addBtn.style.display = 'none';
-    deferredPrompt.prompt();
-    deferredPrompt.userChoice.then((choiceResult) => {
-        if (choiceResult.outcome === 'accepted') {
-          console.log('User accepted the A2HS prompt');
-        } else {
-          console.log('User dismissed the A2HS prompt');
-        }
-        deferredPrompt = null;
-      });
-  });
-});
-
-const map = new OpenLayers.Map("mapdiv")
-const osm = new OpenLayers.Layer.OSM('ppvbc', [ '//a.tile.openstreetmap.org/${z}/${x}/${y}.png', '//b.tile.openstreetmap.org/${z}/${x}/${y}.png', '//c.tile.openstreetmap.org/${z}/${x}/${y}.png' ], { tileOptions: { crossOriginKeyword: null } })
-const showAd = () => {
-  const adIdx = Math.floor(Math.random() * $('.ad').length)
-  $('.ad').hide()
-  $($('.ad')[adIdx]).show()
-}
-showAd()
-function closePopups(e) {
-  $(map.popups).each((idx, popup) => popup.destroy())
-}
-map.addLayer(osm)
-var zoom = 12
-var markers = new OpenLayers.Layer.Markers( "Markers" )
-map.addLayer(markers);
-map.zoomToExtent()
-const formatVenues = R.compose(
-  R.map(R.compose(
-    R.join(' '),
-    R.values,
-    R.pick(['date', 'duration', 'venues'])
-  )),
-  R.prop('visits')
-)
-const formatPlace = R.converge(
-  R.concat,
-  [ R.compose(R.values, R.pick(['name', 'address'])), formatVenues ]
-)
-function formatPlaceHtml (place) {
-  var html = '<strong>' + place.name + '</strong><br/>'
-  html += '<span>' + place.address + '</span>'
-  html += '<ul>'
-  $(place.visits).each((idx, visit) => {
-    const venues = visit.venues && visit.venues.length
-      ? '\u2022 ' + visit.venues.join(', ')
-      : ''
-    html += '<li>' + [visit.date, visit.duration, venues].join('&nbsp;') + '</li>'
-  })
-  html += '</ul>'
-  return html
-}
-const queryString = window.location.search
-const urlParams = new URLSearchParams(queryString)
-const urlId = urlParams.get('id')
-
-const expandLegend = () => {
-  $('#legend-collapsed').hide()
-  $('#legend-expanded').show()
-}
-
-const collapseLegend = () => {
-  $('#legend-expanded').hide()
-  $('#legend-collapsed').show()
-}
-
-$('#legend-collapsed').click(expandLegend)
-map.events.register('movestart', map, collapseLegend)
-var positionMarker = null;
-const showPosition = (position) => {
-  if (positionMarker) markers.removeMarker(positionMarker)
-	const lonLat = new OpenLayers.LonLat(position.coords.longitude, position.coords.latitude)
-		.transform(
-			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
-			map.getProjectionObject() // to Spherical Mercator Projection
-		)
-  const size = new OpenLayers.Size(25, 25)
-  const offset = new OpenLayers.Pixel(-(size.w/2), -size.h)
-  const icon = new OpenLayers.Icon('img/position.png', size, offset)
-  positionMarker = new OpenLayers.Marker(lonLat, icon)
-  markers.addMarker(positionMarker)
-  map.setCenter(lonLat, 15)
-  $('#position .fa-street-view').show() 
-	$('#position .fa-dot-circle').hide()
-}
-const handlePositionError = (error) => {
-  $('#position .fa-street-view').show() 
-	$('#position .fa-dot-circle').hide()
-}
-$('#position .fa-dot-circle').hide()
-$('#position .fa-street-view').click(() => {
-	if (navigator.geolocation) {
-    $('#position .fa-street-view').hide() 
-		$('#position .fa-dot-circle').show()
-    navigator.geolocation.getCurrentPosition(showPosition, handlePositionError);
-  }
-})
-
-$.getJSON('places-fetched.json', {_: new Date().getTime()}, (data) => {
-  const places = data.places
-  const timestamp = data.timestamp
-  $('#lastUpdated').html('Last updated: ' + new Date(timestamp).toLocaleDateString())
-  $(places).each((idx, place) => {
-    const placeId = place.id
-    const lonLat = new OpenLayers.LonLat(place.lon, place.lat)
-      .transform(
-        new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
-        map.getProjectionObject() // to Spherical Mercator Projection
-      )
-    const size = new OpenLayers.Size(25, 25)
-    const offset = new OpenLayers.Pixel(-(size.w/2), -(size.h/2))
-    const icon = new OpenLayers.Icon('img/icon.png', size, offset)
-    icon.imageDiv.style.opacity = .5 + (idx / places.length) * .5
-    if (place.isNew) {
-      icon.imageDiv.style.borderRadius = '13px' 
-      icon.imageDiv.style.background = '#FFA300'
-    }
-    if ((place.visits && place.visits.length) >= 5) {
-      icon.imageDiv.style.borderRadius = '13px' 
-      icon.imageDiv.style.border = '2px solid #A300FF' 
-      icon.imageDiv.style.margin= '-2px' 
-    } 
-    const marker = new OpenLayers.Marker(lonLat, icon)
-    markers.addMarker(marker)
-    const showPopup = () => {
-      closePopups()
-      const popupContent = $("#popup").clone().prop('content')
-      const contentDiv = $(popupContent).find('div.content')
-      const lines = formatPlace(place)
-      const placeHtml = formatPlaceHtml(place)
-      contentDiv.html((place.isNew ? '<span class="new">New</span>': '') + placeHtml)
-
-      const whatsappLink = $(popupContent).find('a.whatsapp')
-      const whatsappUrl = whatsappLink.attr('href').replace('<id>', placeId) + encodeURIComponent('\n\n' + lines.join('\n'))
-      whatsappLink.attr('href', whatsappUrl)
-
-      const telegramLink = $(popupContent).find('a.telegram')
-      const telegramUrl = telegramLink.attr('href').replace('<id>', placeId) + encodeURIComponent(lines.join('\n'))
-      telegramLink.attr('href', telegramUrl)
-
-      const popupHtml = $('<div>').append(popupContent).html()
-      const popup = new OpenLayers.Popup.FramedCloud(placeId,
-                                                     lonLat,
-                                                     new OpenLayers.Size(600, 600),
-                                                     popupHtml,
-                                                     null,
-                                                     false)
-      $(popup.contentDiv).parent().click(() => {
-        closePopups()
-        showAd()
-      })
-      map.addPopup(popup)
-    }
-    if (urlId === placeId) showPopup()
-    marker.events.register('click', marker, showPopup)
-    marker.events.register('touchstart', marker, showPopup)
-  })
-})
-const centerLonLat = new OpenLayers.LonLat(103.8198, 1.3521)
-  .transform(
-    new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
-    map.getProjectionObject() // to Spherical Mercator Projection
-  )
-map.setCenter(centerLonLat, zoom)
-    </script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DX3978HE37"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-DX3978HE37');
-</script>
+  </head>
+  <body>
+    <div class="main container-fluid d-flex flex-column justify-content-around">
+      <div id="alert" class="alert alert-primary" role="alert">
+        <button class="btn btn-primary" id="enable-geolocation">Allow Geo location</button> to see number of covid cases near your location
+      </div>
+      <div id="info" class="jumbotron row d-flex flex-row justify-content-center">
+        You are in
+        <p class="d-flex flex-row justify-content-center" id="subzone">...</p>
+        Covid Cases in the area within the past 3 days
+        <p class="d-flex flex-row justify-content-center" id="count">...</p>
+      </div>
+      <div id="features" class="row d-flex mb-3" style="height:30%">
+        <hr/>
+      </div>
+    </div>
   </body>
+  <template id="feature-template">
+    <div class="feature d-flex justify-content-between">
+      <div class="subzone p-2 m-2">Woodlands</div>
+      <div class="count p-2 m-2">Helloe</div>
+    </div>
+  </template>
+  <script>
+const Flatten = globalThis["@flatten-js/core"];
+const { point, polygon } = Flatten;
+
+var options = {
+  enableHighAccuracy: true,
+  timeout: 5000,
+  maximumAge: 0
+};
+
+var loc;
+
+function getArrayDepth (value) {
+  return Array.isArray(value) ?  1 + Math.max(...value.map(getArrayDepth)) : 0
+}
+
+const makePolys = (arr) => {
+  const depth = getArrayDepth(arr)
+  if (depth > 2)
+    return R.map(makePolys, arr)
+  else
+    return polygon(arr)
+}
+
+const addPoly = (feature) => {
+  if (feature.geometry.type == 'Polygon') {
+    feature.polys = [ polygon(feature.geometry.coordinates) ]
+  } else if (feature.geometry.type == 'MultiPolygon') {
+    feature.polys = R.flatten(makePolys(feature.geometry.coordinates))
+  }
+  return feature
+}
+const features = R.compose(
+  R.map(addPoly),
+  R.sort((a, b) => b.properties.COUNT - a.properties.COUNT),
+  R.path(['sz', 'geojsonObj', 'features']),
+)(calcAggOutput)
+
+R.map((feature) => {
+  var template = $('#feature-template').clone().prop('content')
+  var countDiv = $(template).find('div.count')
+  countDiv.html(feature.properties.COUNT)
+  var subzoneDiv = $(template).find('div.subzone')
+  subzoneDiv.html(feature.properties.SUBZONE_N)
+  var featureHtml = $('<div>').append(template).html()
+  $('#features').append(featureHtml)
+}, features)
+
+function success(pos) {
+  var crd = pos.coords;
+  var loc = point([crd.longitude, crd.latitude])
+  R.map((feature) => {
+    R.map((poly) => {
+      if (poly.contains(loc)) {
+        $('#count').text(feature.properties.COUNT)
+        $('#subzone').text(feature.properties.SUBZONE_N)
+      }
+    }, feature.polys)
+  }, features)
+
+}
+
+function error(err) {
+  $('#error').text('Enable geolocation to get cases counts near your current location.')
+}
+$('#info').hide()
+$('#enable-geolocation').click(() => {
+  $('#alert').hide()
+  $('#info').show()
+  navigator.geolocation.getCurrentPosition(success, error, options);
+})
+  </script>
+
 </html>
