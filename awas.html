@@ -15,6 +15,9 @@ html, body, .main {
   padding: 0px;
   overflow-x: hidden;
 }
+.feature:nth-child(odd){
+  background-color: #eeeeee;
+}
 
 #count, #subzone {
   font-size: 50;
@@ -38,7 +41,7 @@ html, body, .main {
     </div>
   </body>
   <template id="feature-template">
-    <div class="d-flex justify-content-between">
+    <div class="feature d-flex justify-content-between">
       <div class="subzone p-2 m-2">Woodlands</div>
       <div class="count p-2 m-2">Helloe</div>
     </div>
