@@ -7,6 +7,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://unpkg.com/@flatten-js/core"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
 html, body, .main {
   width: 100%;
@@ -34,6 +35,14 @@ html, body, .main {
         <p class="d-flex flex-row justify-content-center" id="subzone">...</p>
         Covid Cases in the area within the past 3 days
         <p class="d-flex flex-row justify-content-center" id="count">...</p>
+      </div>
+      <div class="flex-row d-flex justify-content-center input-group">
+        <div class="form-outline">
+          <input type="search" id="search" class="form-control" />
+        </div>
+        <button type="button" class="btn btn-primary">
+          <i class="fas fa-search"></i>
+        </button>
       </div>
       <div id="features" class="row d-flex mb-3" style="height:30%">
         <hr/>
@@ -84,15 +93,18 @@ const features = R.compose(
   R.path(['sz', 'geojsonObj', 'features']),
 )(calcAggOutput)
 
-R.map((feature) => {
-  var template = $('#feature-template').clone().prop('content')
-  var countDiv = $(template).find('div.count')
-  countDiv.html(feature.properties.COUNT)
-  var subzoneDiv = $(template).find('div.subzone')
-  subzoneDiv.html(feature.properties.SUBZONE_N)
-  var featureHtml = $('<div>').append(template).html()
-  $('#features').append(featureHtml)
-}, features)
+const appendFeatures = (features) => {
+  $('#features').html('<hr/>')
+  R.map((feature) => {
+    var template = $('#feature-template').clone().prop('content')
+    var countDiv = $(template).find('div.count')
+    countDiv.html(feature.properties.COUNT)
+    var subzoneDiv = $(template).find('div.subzone')
+    subzoneDiv.html(feature.properties.SUBZONE_N)
+    var featureHtml = $('<div>').append(template).html()
+    $('#features').append(featureHtml)
+  }, features)
+}
 
 function success(pos) {
   var crd = pos.coords;
@@ -105,7 +117,6 @@ function success(pos) {
       }
     }, feature.polys)
   }, features)
-
 }
 
 function error(err) {
@@ -117,6 +128,18 @@ $('#enable-geolocation').click(() => {
   $('#info').show()
   navigator.geolocation.getCurrentPosition(success, error, options);
 })
+$('#search').on('input', () => {
+  var s = $('#search').val().trim().toLowerCase()
+  var filteredFeatures = s.length > 0
+    ? R.filter((feature) => {
+      var name = feature.properties.SUBZONE_N.toLowerCase()
+      return name.indexOf(s) != -1
+    }, features)
+    : features
+  appendFeatures(filteredFeatures)
+})
+
+  appendFeatures(features)
   </script>
 
 </html>
